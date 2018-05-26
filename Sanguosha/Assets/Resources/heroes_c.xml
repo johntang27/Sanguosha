@@ -2,10 +2,70 @@
 <CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CardData>
     <Card>
+      <cardName>Zhang Jiao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Heaven's General
+      
+Health/Gender: 3M
+
+Ability:
+
+Lightning Strike:
+Whenever you play or use a "Dodge", you may choose another target hero and perform a judgement:
+1. If the result is Spade, you deal 2 Lightning damage to that hero.
+2. If the result is Club, you deal 1 Lightning damage to that hero and gain 1 health.
+
+Dark Magic:
+Whenever a hero performs a judgement, you may swap the judgement card with a black card in your hand or equipment zone.
+
+Amber Sky:
+(Emperor Ability) Once per main phase of a Kingdomless hero's turn, the Kingdomless hero may give you a "Dodge" or "Lightning" card.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yuan Shao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Noble Warlord
+
+Health/Gender: 4M
+
+Ability:
+
+Random Strike:
+During your main phase, you may play 2 cards of the same suit in your hand as "Hail of Arrows"
+
+Bloodline:
+You maximum hand size is increase by X, where X is 2 times of other surviving kingdomless heroes.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Dong Zhuo</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Archenemy
+
+Health/Gender: 8M
+
+Ability:
+
+Drown in Wine:
+You may use a Spade card in your hand as "Wine".
+
+Garden of Lust:
+(Passive) When Female hero play an "Attack" on you, it can only be cancelled by 2 "Dodge" and vice versa.
+
+Collapse:
+(Passive): At the end of your turn, if you are not the hero with lowest health, you must either lose 1 life or lose 1 unit of max health.
+
+Tyrant:
+(Emperor Ability) Whenever another Kingdomless hero deals damage, you may have them perform a judgement, if the result is black, you gain 1 health.</cardDescription>
+    </Card>
+    <Card>
       <cardName>Hua Tuo</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Miracle Physician
+      
 Health/Gender: 3M
       
 Ability:
@@ -21,6 +81,7 @@ Once per main phase, you may discard a card in your hand and choose target hero,
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Embodiment of Force
+      
 Health/Gender: 4M
 
 Ability:
@@ -34,7 +95,8 @@ If you are involved in a duel, the other player needs to discard 2 "Attack" in r
       <cardName>Diao Chan</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Unrivalled dancing princess 
+      <cardDescription>Title: Unrivalled Dancing Princess 
+      
 Health/Gender: 3M
 
 Ability:
@@ -50,6 +112,7 @@ At the end of your turn, you may draw a card.</cardDescription>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Devil General
+      
 Health/Gender: 6M
 
 Ability: 
@@ -62,6 +125,7 @@ Swagger:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ever Increasing Ambition
+      
 Health/Gender:4M
 
 Ability:
@@ -77,6 +141,7 @@ All in same boat:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title:Priest of Tai Ping
+      
 Health/Gender:3M
 
 Ability:
@@ -95,30 +160,11 @@ If the set card name is the same as the announced card, heroes who doubted this 
 (Haunted: (Passive) You cannot doubt a card played by "Bewilder", You lose all your ability except "Haunted" if your health is equal to 1)</cardDescription>
     </Card>
     <Card>
-      <cardName>Zhang Jiao</cardName>
-      <cardType>Heroes</cardType>
-      <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Heaven's General
-Health/Gender: 3M
-
-Ability:
-
-Lightning Strike:
-Whenever you play or use a "Dodge", you may choose another target hero and perform a judgement:
-1. If the result is Spade, you deal 2 Lightning damage to that hero.
-2. If the result is Club, you deal 1 Lightning damage to that hero and gain 1 health.
-
-Dark Magic:
-Whenever a hero performs a judgement, you may swap the judgement card with a black card in your hand or equipment zone.
-
-Amber Sky:
-(Emperor Ability) Once per main phase of a Kingdomless hero's turn, the Kingdomless hero may give you a "Dodge" or "Lightning" card.</cardDescription>
-    </Card>
-    <Card>
       <cardName>Pang De</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title:Rider and ride as one
+      <cardDescription>Title:Rider and Ride As One
+      
 Health/Gender:4M
 
 Ability:
@@ -134,6 +180,7 @@ Whenever you play an "Attack" targeting a hero, you may discard a card from that
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Tiger and Wolf brothers
+      
 Health/Gender: 4M
 
 Ability:
@@ -144,46 +191,30 @@ During your draw phase, you may skip your draw and perform a judgment, reveal th
 Until the end of your turn, you may playcards in your hand with opposite colour to the revealed card as "Duel"</cardDescription>
     </Card>
     <Card>
-      <cardName>Yuan Shao</cardName>
+      <cardName>Jia Xu</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Noble Warlord
-Health/Gender: 4M
+      <cardDescription>Title: Cold-Blooded Advisor
+
+Health/Gender: 3M
 
 Ability:
 
-Random Strike:
-During your main phase, you may play 2 cards of the same suit in your hand as "Hail of Arrows"
+Perfect Murder:
+(Passive) During your turn, if a hero is on the blink of death, only you and that hero can use "Peach".
 
-Bloodline:
-You maximum hand size is increase by X, where X is 2 times of other surviving kingdomless heroes</cardDescription>
-    </Card>
-    <Card>
-      <cardName>Dong Zhuo</cardName>
-      <cardType>Heroes</cardType>
-      <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Archenemy
-Health/Gender: 8M
+Upheaval:
+(Limited Ability) During your main phase, each hero other than you must play an "Attack" another hero closest to him or lose 1 health.
 
-Ability:
-
-Drown in Wine:
-You may use a Spade card in your hand as "Wine".
-
-Garden of Lust:
-(Passive) When Female hero play an "Attack" on you, it can only be cancelled by 2 "Dodge" and vice versa.
-
-Collapse:
-(Passive): At the end of your turn, if you are not the hero with lowest health, you must either lose 1 life or lose 1 unit of max health.
-
-Tyrant:
-(Emperor ability) Whenever another Kingdomless hero deals damage, you may have them perform a judgement, if the result is black, you gain 1 health.</cardDescription>
+Shroud:
+You cannot be the target of black tactics card.</cardDescription>
     </Card>
     <Card>
       <cardName>Zou Ci</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Mysterious Transcendent
+      
 Health/Gender: 3M
 
 Ability:
@@ -200,7 +231,8 @@ Whenever you are dealt damage, for each damage, gain 1 "Incarnation" card from t
       <cardName>Cai Wen Ji</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Lonely Dame in Foreign lands
+      <cardDescription>Title: Lonely Dame in Foreign Lands
+      
 Health/Gender: 3F
 
 Ability:
@@ -222,6 +254,7 @@ Sorrow:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ever-Victorious Warrior
+      
 Health/Gender: 4M
 
 Ability:
@@ -239,6 +272,7 @@ Prohibition:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Upright and Heroic
+      
 Health/Gender: 3M
 
 Ability:
@@ -256,6 +290,7 @@ Late Response:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ruler of Jiang Nan
+      
 Health/Gender: 3M
 
 Ability:
@@ -270,7 +305,8 @@ House of Royalty:
       <cardName>Empress Fu</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Stand aloof from affairs
+      <cardDescription>Title: Stand Aloof From Affairs
+      
 Health/Gender: 3F
 
 Ability:
@@ -288,6 +324,7 @@ When you become the target of an "Attack", you may select a target hero other th
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Demonic Advisor
+      
 Health/Gender: 3M
 
 Ability:
@@ -308,6 +345,7 @@ Burn the City:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Military Schemer
+      
 Health/Gender: 3M
 
 Ability:
@@ -323,6 +361,7 @@ Aiming the North:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Queen of Jin Zhou
+      
 Health/Gender: 3F
 
 Ability:
@@ -342,6 +381,7 @@ Cession:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Shady Warlord
+      
 Health/Gender: 4M
 
 Ability:
@@ -354,6 +394,7 @@ Once per main phase, you may reveal all cards in your hand. If they are not the 
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Ferocious Dual
+      
 Health/Gender: 3M
 
 Ability:
@@ -371,6 +412,7 @@ Whenever you need to play or use a "Dodge", you may choose to let the current tu
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Benevolent Ruler
+      
 Health/Gender: 4M
 
 Ability:
@@ -386,6 +428,7 @@ Ancestral Blessing:
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Powerful Eunuch
+      
 Health/Gender: 3M
 
 Ability:
@@ -399,7 +442,8 @@ You may announce a basic cardor non-delay tactics cardname then playa card in yo
       <cardName>Zhang Lu</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Spreading aid throughout the nation
+      <cardDescription>Title: Spreading Aid Throughout the Nation
+      
 Health/Gender: 3M
 
 Ability:
@@ -418,6 +462,7 @@ When a player performs a judgement, you may replace the revealed card with a "Ri
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Great Graceful Scholar
+      
 Health/Gender: 3M
 
 Ability:
@@ -434,6 +479,7 @@ At the end of your draw phase, you can swap any number of "Books" with any of yo
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Devoted Empress
+      
 Health/Gender: 3F
 
 Ability:
@@ -446,24 +492,6 @@ Benifit the Nation:
 At the end of your turn, you may draw X cards.
 (X is the number of players who has lesson-hand cards than their current health) 
 Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.</cardDescription>
-    </Card>
-    <Card>
-      <cardName>Jia Xu</cardName>
-      <cardType>Heroes</cardType>
-      <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Cold-blooded Advisor
-Health/Gender: 3M
-
-Ability:
-
-Perfect Murder:
-(Passive) During your turn, if a hero is on the blink of death, only you and that hero can use "Peach".
-
-Upheaval:
-(Limited Ability) During your main phase, each hero other than you must play an "Attack" another hero closest to him or lose 1 health.
-
-Shroud:
-You cannot be the target of black tactics card.</cardDescription>
-    </Card>
+    </Card>    
   </CardData>
 </CardDataCollection>

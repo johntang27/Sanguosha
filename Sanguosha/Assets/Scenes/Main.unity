@@ -345,7 +345,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Tactics
+          m_StringArgument: Heroes_Blue
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1898516412}
@@ -789,7 +789,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Tactics
+          m_StringArgument: Heroes_Green
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1898516412}
@@ -1500,8 +1500,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -75.7}
-  m_SizeDelta: {x: 800, y: 503.9}
+  m_AnchoredPosition: {x: 0, y: -53.9}
+  m_SizeDelta: {x: 800, y: 547.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &961456566
 GameObject:
@@ -1612,6 +1612,9 @@ MonoBehaviour:
   weaponCards: []
   armorCards: []
   mountCards: []
+  heroes_redCards: []
+  heroes_greenCards: []
+  heroes_blueCards: []
   heroes_ColorlessCards: []
 --- !u!4 &1089124412
 Transform:
@@ -2869,7 +2872,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Tactics
+          m_StringArgument: Heroes_Red
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1898516412}
@@ -3387,7 +3390,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 284.7}
+  m_AnchoredPosition: {x: 0, y: 298}
   m_SizeDelta: {x: 800, y: 92.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1828687334

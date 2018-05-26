@@ -21,6 +21,9 @@ public class UIManager : Singleton<UIManager> {
     public CardData[] weaponCards;
     public CardData[] armorCards;
     public CardData[] mountCards;
+    public CardData[] heroes_redCards;
+    public CardData[] heroes_greenCards;
+    public CardData[] heroes_blueCards;
     public CardData[] heroes_ColorlessCards;
 
     private void Start()
@@ -42,6 +45,15 @@ public class UIManager : Singleton<UIManager> {
 
         CardDataCollection mData = CardDataCollection.LoadFromResources("Mounts");
         mountCards = mData.data;
+
+        CardDataCollection hrData = CardDataCollection.LoadFromResources("heroes_red");
+        heroes_redCards = hrData.data;
+
+        CardDataCollection hgData = CardDataCollection.LoadFromResources("heroes_green");
+        heroes_greenCards = hgData.data;
+
+        CardDataCollection hbData = CardDataCollection.LoadFromResources("heroes_blue");
+        heroes_blueCards = hbData.data;
 
         CardDataCollection hcData = CardDataCollection.LoadFromResources("heroes_c");
         heroes_ColorlessCards = hcData.data;
@@ -71,6 +83,18 @@ public class UIManager : Singleton<UIManager> {
                 break;
             case "Mounts":
                 currentData = mountCards;
+                break;
+            case "Heroes_Red":
+                currentData = heroes_redCards;
+                pathOverride = "Red";
+                break;
+            case "Heroes_Green":
+                currentData = heroes_greenCards;
+                pathOverride = "Green";
+                break;
+            case "Heroes_Blue":
+                currentData = heroes_blueCards;
+                pathOverride = "Blue";
                 break;
             case "Heroes_Colorless":
                 currentData = heroes_ColorlessCards;
