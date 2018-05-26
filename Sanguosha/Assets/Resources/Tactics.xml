@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Barbarian Assault</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>All heroes except you may use an "Attack"</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Hail of Arrows</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>All heroes except you may use a "Dodge". If a hero does not, you deal 1 damage to him</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Oath of Peach Garden</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>All heroes gain 1 Health</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Harvest</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Reveal X cards from the top of the Library, where X equals to the number of surviving heroes. Starting from you, each hero picks a revealed card and put it into his hand</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Sleight of Hand</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Draw two cards</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Impeccable Plan</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Cancel target tactics card effect to a hero or target "Impeccable Plan"</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Burn Bridges</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Discard target equipment or target delay tactics card, or discard a card from target hero's hand</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Duress</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Target a hero (except you) equipped with a weapon. He may play an "Attack" on another target hero. If he does not, put that weapon card into your hand.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Duel</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Target a hero to start a Duel. Target hero may discard an attack card, if he does, you may discard an attack card and repeat the process. The hero who did not discard an attack card is the loser of the duel and the winner deals 1 damage to the loser</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Plifer</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Target a hero within your range (not attack range). You take one card from his hand, equipment zone or judgment zone and put it into your hand</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Blaze</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Target a hero with at least one card in hand. That hero reveal a card from his hand. You may discard a card with the same suit, if you do, you deal 1 damage to him</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Iron Chains</cardName>
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Choose up to 2 target heroes, you may tap or untap their hero cards. Recast: You may discard this card during your turn to draw a card</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

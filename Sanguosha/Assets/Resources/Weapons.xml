@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Zhuge Crossbow</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 1
+Effect: During your main phase, you may playany number of "Attack"</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Sword of Blue Steel</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 2
+Effect: (Passive) Whenever you play an "Attack" on a hero, ignore the effect of armor equipped on that hero</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Frost Blade</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 2
+Effect: Whenever your "Attack" deals damage to a hero, you may prevent that damage. If you do, choose 2 cards in that hero's hand or equipment zone and discard them.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Twin Swords</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 2
+Effect: Whenever you target a hero of the opposite gender with an "Attack", that hero choose one of the following:
+1.Discard a card from his hand
+2.You draw a card</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Azure Dragon Crescent Blade</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 3
+Effect: Whenever your "Attack" is canceled by a "Dodge" by target hero, you may play another "Attack" targeting the same hero.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Serpent Spear</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 3
+Effect: Whenever you need to play or discard an "Attack", you may discard 2 cards from your hand instead</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Rock Cleaving Axe</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 3
+Effect: When your "Attack" is cancelled by a "Dodge" play by target hero, you may discard two cards from your hand or equipment zone. If you do, ignore that "Dodge" and deals damage to that hero</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Heaven Halberd</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 4
+Effect: Whenever you play an "Attack" targeting a hero, if you have no cards in your hand, you may target up to 2 additional heroes.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Kirin Bow</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 5
+Effect: Whenever your "Attack" deals damage to a target hero, you may discard one of his equipped mounts</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ancient Scimitar</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 2
+Effect: (Passive) Whenever your "Attack" deals damage to a target hero, if he has no cards in hand, that "Attack" damage is increased by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Vermilion Fan</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 4
+Effect: You may play your "Attack" as "Fire Attack"</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Attack</cardName>
+      <cardType>Basics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Once per main phase, you may play this card to attack any hero within your attack range, that hero may play a "Dodge", if he does not play a "Dodge", you deal 1 damage to him</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Dodge</cardName>
+      <cardType>Basics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Whenever a hero plays an "Attack" on you, you may play this card to cancel the "Attack" </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Peach</cardName>
+      <cardType>Basics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>If this card is played during your main phase, gain 1 health (You cannot gain health exceeding your maximum health) If any hero is on the brink of death, you may use this card and that hero gain 1 health</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Wine</cardName>
+      <cardType>Basics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Your next "Attack" damage is +1 If you are on the brink of death, you may play this card and gain 1 Life </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Fire Attack</cardName>
+      <cardType>Basics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Once per main phase, you may play this card to attack any hero within your attack range, that hero may play a "Dodge" , if he does not play a "Dodge", you deal 1 Fire damage to him</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lightning Attack</cardName>
+      <cardType>Basics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Once per main phase, you may play this card to attack any hero within your attack range, that hero may play a "Dodge", if he does not play a "Dodge", you deal 1 Thunder damage to him</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

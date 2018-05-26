@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Acedia</cardName>
+      <cardType>DelayTactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Put this card into your judgment zone when you play it
+At the beginning of a hero's turn, if this card is in that hero's judgment zone, he performs a judgment.
+If the judgment card is not heart, that hero skips his next main phase.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lightning Bolt</cardName>
+      <cardType>DelayTactics</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Put this card into your judgment zone when you play it.
+At the beginning of a hero's turn, if this card is in that hero's judgment zone, he performs a judgment.
+If the result of the judgment is 2 Spade to 9 Spade, Lightning Bolt deals 3 thunder damage to him, otherwise move this card to the judgment zone of the next hero on the right hand side.
+If this card's effect is cancelled, move it to the next hero's judgment zone instead. 
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Rations Depleted</cardName>
+      <cardType>DelayTactics</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Put this card into the judgment zone of target hero within your range.
+At the beginning of a hero's draw phase, if this card is in that player's judgment zone, he performs a judgment.
+If the result of the judgment is not Club, he skips his draw phase.
+</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

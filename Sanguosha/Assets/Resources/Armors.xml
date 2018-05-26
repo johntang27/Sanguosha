@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Eight Trigrams</cardName>
+      <cardType>Armors</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Whenever you need to play or discard a "Dodge", you may perform a judgment. If the result is red, you are considered to have playedor discardeda "Dodge"</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Shield of Ren Wang</cardName>
+      <cardType>Armors</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: (Passive) Ignore the effects of all black "Attack" targeting you</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Rattan Armor</cardName>
+      <cardType>Armors</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: 
+(Passive): Ignore the effect of "Babarian Assault", "Hail of Arrows" and normal "Attack" targeting you. 
+Whenever a source deals fire damage on you, that damage is increased by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Platinum Lion</cardName>
+      <cardType>Armors</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect:
+(Passive) The maximum damage that can dealt to you is 1
+When this card leaves your equipment zone, gain 1 health</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Red Hare</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Your range with other heroes is reduced by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Da Yuan</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Your range with other heroes is reduced by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zi Xing</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Your range with other heroes is reduced by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Di Lu</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Your range with other heroes is increased by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Hua Liu</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Your range with other heroes is increased by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>The Shadow</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Your range with other heroes is increased by 1</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhua Huang Fei Dian</cardName>
+      <cardType>Mounts</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect: Yourrange with other heroes is increased by 1</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

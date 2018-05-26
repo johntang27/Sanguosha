@@ -1,0 +1,641 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1004804011232066}
+  m_IsPrefabParent: 1
+--- !u!1 &1004804011232066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4698642844494912}
+  - component: {fileID: 114503868942373660}
+  m_Layer: 0
+  m_Name: CardDataMaker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4698642844494912
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1004804011232066}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114503868942373660
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1004804011232066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ed5efff4fc1c040a315ca805d3a32c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fileName: heroes_c
+  cardData:
+  - cardName: Hua Tuo
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: Miracle Physician\nHealth/Gender: 3M\n      \nAbility:\n\nFirst
+      Aid:\nIf it is not your turn, you may use red cards in your hand and equipment
+      zone as \"Peach\".\n\nThe Book of Green Vesicle:\nOnce per main phase, you may
+      discard a card in your hand and choose target hero, that hero gain 1 Health."
+  - cardName: Lu Bu
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Embodiment of Force
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Matchless:
+
+      (Passive) If you are the source of an "Attack", the defending player need to
+      respond with 2 "Dodge" instead of one to cancel.
+
+
+      If you are involved in a duel, the other player needs to discard 2 "Attack"
+      in respone to your discarded "Attack".'
+  - cardName: Diao Chan
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: Unrivalled dancing princess \nHealth/Gender: 3M\n\nAbility:\n\nWedge
+      Driving:\nOnce per main phase, you may choose 2 target male heroes and discard
+      a card. If you do, this is treat as one of them play a \"Duel\" on the other.\n\nEclipse:\nAt
+      the end of your turn, you may draw a card."
+  - cardName: Hua Xiong
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: Devil General\nHealth/Gender: 6M\n\nAbility: \n\nSwagger:\n(Passive)
+      Whenever a hero use a red \"Attack\" and deals damage to you, he may gain 1
+      Health or draw a card."
+  - cardName: Yuan Shu
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Ever Increasing Ambition
+
+      Health/Gender:4M
+
+
+      Ability:
+
+
+      Arrogant:
+
+      At the beginning of the Emperor''s turn, you may draw 1 card. If you do, Emperor''s
+      hand limit is reduced by 1 this turn.
+
+
+      All in same boat:
+
+      (Passive): Whenever another hero that can attack you playsan "Attack", if the
+      number of cards in your hand is greater than your current health, he can only
+      choose you as the target.'
+  - cardName: Yu Ji
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title:Priest of Tai Ping
+
+      Health/Gender:3M
+
+
+      Ability:
+
+
+      Bewilder:
+
+      You may use this ability during other heroes main phase.
+
+
+      Once per main phase, you may set a card face down aside and announce a basic
+      card or non-delay tactics card''s name. This card is treated as the announced
+      card.
+
+
+      Any hero may doubt the names of the announced card and the set card are different,
+      if a hero does, reveal the set card.
+
+
+      If the set card name is different to the announced card, negate the card''s
+      effect.
+
+
+      If the set card name is the same as the announced card, heroes who doubted this
+      card gains "Haunted"
+
+
+      (Haunted: (Passive) You cannot doubt a card played by "Bewilder", You lose all
+      your ability except "Haunted" if your health is equal to 1)'
+  - cardName: Zhang Jiao
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Heaven''s General
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Lightning Strike:
+
+      Whenever you play or use a "Dodge", you may choose another target hero and perform
+      a judgement:
+
+      1. If the result is Spade, you deal 2 Lightning damage to that hero.
+
+      2. If the result is Club, you deal 1 Lightning damage to that hero and gain
+      1 health.
+
+
+      Dark Magic:
+
+      Whenever a hero performs a judgement, you may swap the judgement card with a
+      black card in your hand or equipment zone.
+
+
+      Amber Sky:
+
+      (Emperor Ability) Once per main phase of a Kingdomless hero''s turn, the Kingdomless
+      hero may give you a "Dodge" or "Lightning" card.'
+  - cardName: Pang De
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title:Rider and ride as one
+
+      Health/Gender:4M
+
+
+      Ability:
+
+
+      Horsemanship:
+
+      Your range with other players is always reduced by 1
+
+
+      Fierce Attack:
+
+      Whenever you play an "Attack" targeting a hero, you may discard a card from
+      that hero''s hand or equipment zone. If the discarded card is an equipment,
+      this "Attack" cannot be cancelled by "Dodge". Otherwise, that hero put this
+      "Attack" card into their hand.'
+  - cardName: Yan Liang & Wen Chou
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: Tiger and Wolf brothers\nHealth/Gender: 4M\n\nAbility:\n\nDual
+      Heroes:\nDuring your draw phase, you may skip your draw and perform a judgment,
+      reveal the judgment card and put it into your hand. \n\nUntil the end of your
+      turn, you may playcards in your hand with opposite colour to the revealed card
+      as \"Duel\""
+  - cardName: Yuan Shao
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Noble Warlord
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Random Strike:
+
+      During your main phase, you may play 2 cards of the same suit in your hand as
+      "Hail of Arrows"
+
+
+      Bloodline:
+
+      You maximum hand size is increase by X, where X is 2 times of other surviving
+      kingdomless heroes'
+  - cardName: Dong Zhuo
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Archenemy
+
+      Health/Gender: 8M
+
+
+      Ability:
+
+
+      Drown in Wine:
+
+      You may use a Spade card in your hand as "Wine".
+
+
+      Garden of Lust:
+
+      (Passive) When Female hero play an "Attack" on you, it can only be cancelled
+      by 2 "Dodge" and vice versa.
+
+
+      Collapse:
+
+      (Passive): At the end of your turn, if you are not the hero with lowest health,
+      you must either lose 1 life or lose 1 unit of max health.
+
+
+      Tyrant:
+
+      (Emperor ability) Whenever another Kingdomless hero deals damage, you may have
+      them perform a judgement, if the result is black, you gain 1 health.'
+  - cardName: Zou Ci
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: The Mysterious Transcendent
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Incarnation:
+
+      At the beginning of the game, you randomly take 2 unused hero cards as "Incarnations",
+      reveal them and declare one to be active. You only gain 1 ability from the active
+      "incarnation". Your gender and faction become the gender and faction of the
+      "Incarnation".
+
+
+      At the beginning and end of your turn, you may swap your active "Incarnation".
+
+
+      Rebirth:
+
+      Whenever you are dealt damage, for each damage, gain 1 "Incarnation" card from
+      the unused hero cards.'
+  - cardName: Cai Wen Ji
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Lonely Dame in Foreign lands
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Song of Lament:
+
+      Whenever a hero is dealt damage by an "Attack", you may discard a card from
+      your hand or equipment zone then perform a judgment
+
+
+      If the result is:
+
+      Heart: The defender gains 1 Life
+
+      Diamond: The defender draws 2 cards
+
+      Club: The source of damage discard 2 cards
+
+      Spade: The source of damage flip his hero card
+
+
+      Sorrow:
+
+      (Passive) The hero who killed you lost all abilities for the rest of the game'
+  - cardName: Gao Shun
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Ever-Victorious Warrior
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Fearless Charge:
+
+      Once per main phase, you may clash with another hero, if you win, until end
+      of your turn, you ignore the effect of his armor, ignore range for your cards
+      played on that hero and you may play any number of "Attack" cards on him.
+
+
+      If you did not win, you cannot play "Attack" cards until the end of your turn.
+
+
+      Prohibition:
+
+      (Passive) Your "Wine" is considered as "Attack" instead.'
+  - cardName: Chen Gong
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Upright and Heroic
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Brilliant Scheme:
+
+      Once per main phase, you may give 1 equipment card or "Attack" card to a target
+      hero, the target hero then chooses one of the following:
+
+      1. Target hero is considered have used an "Attack" on another target hero of
+      their choice within their attack range.
+
+      2. Draw a card.
+
+
+      Late Response:
+
+      (Passive) Whenever you are dealt damage outside your turn, you are immune to
+      "Attack" and non-delay tactics card this turn.'
+  - cardName: Liu Biao
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Ruler of Jiang Nan
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Self-Preservation:
+
+      During your draw phase, you may draw X additional cards. If you do, cards you
+      play this turn cannot target other heroes. (X is the number of factions in play)
+
+
+      House of Royalty:
+
+      (Passive) Your hand size is increased by X. (X is the number of action in play)'
+  - cardName: Empress Fu
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Stand aloof from affairs
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Anxious Fear:
+
+      At the beginning of another hero''s turn, if you are damaged, you may clash
+      with the current turn hero.
+
+      If you win, that hero may only play cards that target themself until the end
+      of turn.
+
+      If you lose, the distance between the both of you is considered 1 until end
+      of turn.
+
+
+      Plead for Help:
+
+      When you become the target of an "Attack", you may select a target hero other
+      than the attacker. That target hero may give you a "Dodge". If the hero does
+      not, they will also be the target of the "Attack".'
+  - cardName: Li Ru
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: Demonic Advisor\nHealth/Gender: 3M\n\nAbility:\n\nAnnihilate:
+      \nAt the end of your turn, you may deal 1 damage to target hero (Other than
+      you)with no cards in hand\n\nExterminate: \nOnce per main phase, you may put
+      one black tactics card on top of the deck and target a hero with cards in hand,
+      he either discard a tactics card, or discard 2 cards from his hand or equipment
+      zone\n\nBurn the City:\n(Limited ability) During yourmain phase, you may target
+      every other hero. They must choose one according to turn order.\n1. Discard
+      at less X cards from hand or equipment zone (X is the number of cards that last
+      player discarded + 1)\n2.You deal 2 fire damage to him"
+  - cardName: Ju Shou
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Military Schemer
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Progressive Strategy:
+
+      Whenever you play a card during your main phase, if the card you play has the
+      same rank or suit as the previous card you have played this turn, you may draw
+      a card.
+
+
+      Aiming the North:
+
+      (Passive) When you receive damage from a card being played, if it was a card
+      that has damaged you previously during this turn, you gain 1 health before resolving
+      the card effect.'
+  - cardName: Lady Cai
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Queen of Jin Zhou
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Eavesdrop:
+
+      At the end of other heroes'' turn, if they have not played a card that target
+      heroes other than themselves this turn, you may choose one of the following:
+
+      1. Put a card in his equipment zone into your equipment zone.
+
+      2. Draw a card
+
+
+      Cession:
+
+      (Limited Ability) During your main phase, you may give all cards in your equipment
+      zone to another hero, then he choose 1 of the following:
+
+      1. You gain X health
+
+      2. Deal 1 damage to X target heroes within his attack range (X is the number
+      of cards you give to him)'
+  - cardName: Gong Sun Yuan
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: The Shady Warlord\nHealth/Gender: 4M\n\nAbility:\n\nDisloyalty:
+      \nOnce per main phase, you may reveal all cards in your hand. If they are not
+      the same color, you discard all cards of one color, then choose X target heroes
+      and put a card from their hand or equipment zone into your hand. (X is the number
+      of cards you discarded.) If you put 2 or more cards into your hand, you lose
+      1 health."
+  - cardName: Guo Tu & Feng Ji
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: The Ferocious Dual
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Reckless Assault:
+
+      At the beginning of main phase, you may draw 2 cards. If you do, your hand size
+      becomes X this turn. (X is the amount of damage you deal this turn.)
+
+
+      Cover Up:
+
+      Whenever you need to play or use a "Dodge", you may choose to let the current
+      turn hero draw a card, then if he is not among the heroes with the highest number
+      of on-hand cards, you discard a card from a target hero''s hand. The target
+      hero must be among the heroes with the largest number of on-hand cards.
+
+
+      (If there is a draw among heroes with the largest number of on-hand cards, you
+      may pick one of them on discard from.)'
+  - cardName: Liu Yu
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: The Benevolent Ruler
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Peacekeeping:
+
+      Once per main phase, if the number of cards in your hand is greater than your
+      current health, you may target a hero who can attack you. Unless he plays an
+      "Attack" on you, He gives a card in his equipment zone to you.
+
+
+      Ancestral Blessing:
+
+      (Passive) At the beginning of the game, you increase your max health and health
+      by X (X is the number of factions in game). If all heroes of a faction are removed
+      from the game, you reduce your max health by 1'
+  - cardName: Zhang Rang
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: The Powerful Eunuch
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Creating Chaos:
+
+      You may announce a basic cardor non-delay tactics cardname then playa card in
+      your hand as that card. Then you cannot announce the same name for "Creating
+      Chaos" for the rest of the game. After the card''s effect is resolved, you target
+      another hero and he choose one of the following:
+
+      1. Give you a card from his hand or equipment zone which is not the same type
+      as the announced card.
+
+      2. You lose 1 health and cannot use "Creating Chaos" for the rest of the turn.'
+  - cardName: Zhang Lu
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: Spreading aid throughout the nation\nHealth/Gender: 3M\n\nAbility:\n\nRighteousness:
+      \nAt the end of your turn, if you don't have any \"Rice\", you may draw 2 cards
+      and place 2 cards from your hand or equipment zone onto your character face-up
+      as \"Rice\". When you remove the last \"Rice\" you gain 1 health.\n\nMake Known:
+      \nWhen you deal or are dealt damage, the hero who was dealt damage may put a
+      \"Rice\" card into their hand per damage taken.\n\nRice Road:\nWhen a player
+      performs a judgement, you may replace the revealed card with a \"Rice\". It
+      becomes the judgement result."
+  - cardName: Cai Yong
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: The Great Graceful Scholar
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Discourse in Praise:
+
+      Whenever you use or become the target of another player''s used Spade, you may
+      place a card from the top of the deck on top of your character as a "Book".
+      (max. 4)
+
+      Each "Book" increases your hand size limit by +1.
+
+
+      Extensive Communication:
+
+      At the end of your draw phase, you can swap any number of "Books" with any of
+      your cards. If your "Books" are one each suit, you must give all your "Books"
+      to another target hero.'
+  - cardName: Cao Jie
+    cardType: 5
+    heroFaction: 4
+    cardDescription: "Title: The Devoted Empress\nHealth/Gender: 3F\n\nAbility:\n\nGuard
+      the Empress Seal:\nWhen you become the target of \"Attack\", you may declare
+      the name of a basic or tactics card. Unless the user discards the card you declared
+      and takes 1 card from you, the \"Attack\" is cancelled.\n(You may only each
+      card once per game.)\n\nBenifit the Nation:\nAt the end of your turn, you may
+      draw X cards.\n(X is the number of players who has lesson-hand cards than their
+      current health) \nThen you reveal X cards from your hand and select a target
+      hero. Starting from that hero, each other hero in sequence takes 1 of the revealed
+      cards."
+  - cardName: Jia Xu
+    cardType: 5
+    heroFaction: 4
+    cardDescription: 'Title: Cold-blooded Advisor
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Perfect Murder:
+
+      (Passive) During your turn, if a hero is on the blink of death, only you and
+      that hero can use "Peach".
+
+
+      Upheaval:
+
+      (Limited Ability) During your main phase, each hero other than you must play
+      an "Attack" another hero closest to him or lose 1 health.
+
+
+      Shroud:
+
+      You cannot be the target of black tactics card.'
