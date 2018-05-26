@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Cao Cao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Martial Emperor of Wei
+
+Health/Gender: 4M
+
+Ability:
+
+Villainous Hero:
+Whenever an effect of a card cause damage dealt on you, you may put that card into your hand.
+
+Escort:
+(Emperor Ability) Whenever you need ot play or use a "Dodge", you may ask other Wei heroes to play or discard a "Dodge" for you.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Pi</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Great Empire Successor
+
+Health/Gender: 3M
+
+Ability:
+
+Unnatural Death:
+You may put all cards own by another dead hero into your hand. (This happens before revealing the role)
+
+Exile:
+Whenever you are dealt damage, you may have target hero flip their hero card. If you do, that player draw X cards. (X is your lost health)
+
+Exaltation:
+(Emperor Ability) Whenever another Wei hero's judgement is resolved, if that judgement card is black, he may let you draw a card.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Rui</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Talented Emperor
+
+Health/Gender: 3M
+
+Ability:
+
+Restoration:
+Whenever you are dealt damage, you may have target hero perform a judgement, if the result is red he gains 1 health; if the result is black, he draws X cards. (X is the amount of damage dealt).
+
+Eagle Eye:
+Once per main phase, you may give all cards in your hand to another hero. If you do, his hand size is increased by 1 and can use an additional "Attack" until the end of his next turn.
+
+Boom and Bust:
+(Emperor Ability, Limited Ability) When you are on brink of death, you may ask every other Wei hero in sequence to allow you to gain 1 health until every hero has respond. If they chose to have you gain health, they receive 1 damage after resolving this effect.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Si Ma Yi</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Ever Watchful Wolf
+
+Health/Gender: 3M
+
+Ability:
+
+Retaliation:
+Whenever a hero deals damage to you, you may take 1 card from his hand or equipment zone.
+
+Demonic Talent:
+Whenever a judgement card is revealed, you may replace that card with a card with your hand.
+The judgement is resolved with the new card.
+(You do not swap the initial card into you hand)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xiahou Dun</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: One-Eyed Warrior
+
+Health/Gender: 4M
+
+Ability:
+
+Staunch:
+Whenever you are dealt damage, you may perform a judgement. If the result is not Heart, the source of damage chooses one:
+1. Source of damage discards 2 cards from his hand
+2. Deal one damage back to the source of damage</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhang Liao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: General of the Vanguard
+
+Health/Gender: 4M
+
+Ability:
+
+Ambush:
+During your draw phase, you may skip your draw. If you do, choose up to 2 target players and take 1 card from each of their hand.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xu Zhu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Crazy Tiger
+
+Health/Gender: 4M
+
+Ability:
+
+Bare-chested: 
+You can choose to draw 1 card less during your draw phase, if you do, during the next main phase your "Attack" and "Duel" deals 1 additional damage.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Guo Jia</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Prophet with An Early End
+
+Health/Gender: 3M
+
+Ability:
+
+Heaven's Envy:
+Whenever your judgment is resolved, put that judgment card into your hand
+
+Bestowed Rouse:
+Whenever you are dealt damage, for each damage you receive, draw 2 cards and set it aside. You give 1 card to a target player, and the other card to another target player. (Can be the same target player for both cards)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhen Ji</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Unfortunate Beauty
+
+Health/Gender: 3F
+
+Ability:
+
+Gorgeous Beauty:
+You may play or use any black cards in your hand as "Dodge".
+
+Goddess of Luo:
+At the beginning of your turn, you may perform a judgement, if the result is black, put that card into your hand and repeat this process.
+(This ability occurs before judgement phase)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xia Hou Yuan</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Lightning Panther
+
+Health/Gender: 4M
+
+Ability:
+
+Extremespeed:
+You may choose up to 3 of the following options:
+1. Skip your judgment and draw phase
+2. Skip your main phase and discard an equipment card from your hand or equipment zone
+3. Skip your discard phase and flip your hero card
+
+For each option you have chosen, treat that as playing an "Attack" targeting a hero, ignore range for these "Attack"</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Ren</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Great General
+
+Health/Gender: 4M
+
+Ability:
+
+Entrench:
+At the end of your turn, you may flip your hero card. If you do, draw 4 cards then discard a card. If the discarded card is equipment, you play that card instead.
+
+Rescue from Siege:
+You may play cards in your equipment zone as "Impeccable Plan". When your hero card is flip to face up position, you may discard a card. If you do, you may move a card in target player equipment or judgment zone to another target player's equipment or judgment zone</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Dian Wei</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Ancient Berserker
+
+Health/Gender: 4M
+
+Ability:
+
+Assault:
+Once per main phase, you may lose 1 Life or discard an equipment, if you do, you deal 1 damage to target hero</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xun Yu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Genius Advisor
+
+Health/Gender: 3M
+
+Ability:
+
+Rouse the Tiger:
+Once per main phase, you may clash with a hero with more health than you. If you did not win, that hero deals 1 damage to you.
+If you win, choose another target hero within the attack range of the loser. The loser deals 1 damage to that hero.
+
+Eternal Loyalty:
+Whenever you are dealt damage, for each damage you receive, choose a target hero and he draw X cards (X is the difference between number of cards in hand and target hero maximum health, max 5)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xu Huang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Reminiscence of Zhou Ya Fu
+
+Health/Gender: 4M
+
+Ability:
+
+Blockade:
+During your main phase, you may play a black card in your hand or black equipment cards as "Rations Depleted".
+
+You can play "Ration Depleted" on heroes within a range of 2.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhang He</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Military Clairvoyant
+
+Health/Gender: 4M
+
+Ability:
+
+Flexibility: 
+During you turn, you may discard a card in your hand to skip one of your turn phases. (Except the start of turn and end of turn)
+
+If you skip:
+1. Draw Phase: Choose 2 target heroes and take 1 card from their hand into your hand.
+2. Main Phase: You may move an equipment card to another empty equipment zone, or move an judgment card to another empty judgment zone.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Deng Ai</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Staunch Warrior
+
+Health/Gender: 4M
+
+Ability:
+
+Strategic Farming:
+Whenever you play a card from your hand, or discard a card from your hand or equipment zone outside your turn, you perform a judgement.
+If the result is not Heart, you put the judgement card on your hero card. That card is considered as a "Field".
+
+Your range with other heroes are reduced by X, where X is number of "Field" you have.
+
+Dangerous Exploration:
+(Awakening Ability) At the beginning of your turn, if you have 3 or more "Field", reduce your maximum health by 1 and gain "Blitz".
+(Blitz: You may play a "Field" as a "Pilfer".) </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Zhi</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Virtuoso Poet
+
+Health/Gender: 3M
+
+Ability:
+
+Falling Bloom:
+Whenever other heroes discard a Club card or their Club judgement card is put into graveyard, you may place any number of them into your hand.
+
+Drunken Quatrain:
+Whenever you need to play a "Wine", if your hero card is facing up, you may flip it face down. If you do, you are considered to have used a "Wine".
+
+Whenever you are dealt damage, if you hero card is facing down, you may flip it face up.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yu Jin</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Mainstay of Wei Military
+
+Health/Gender: 4M
+
+Ability:
+
+Commander:
+At the beginning of your turn, you may target a hero with a number of cards in hand greater than their current health and discard X cards from their hand or equipment zone (X is the difference between the cards in their hand and their current health), then you choose one of the following:
+1. For each non-equipment card discarded card, you must discard a card from your hand or equipment zone.
+2. The target hero draws X cards.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhang Chun Hua</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Cold-blooded Empress
+
+Health/Gender: 3F
+
+Ability:
+
+Heartless:
+All damage dealt by you are consider as loss of health. 
+
+Bereavement:
+Whenever you have less than X cards in your hand, draw until you have X cards. (X is your lost health)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Zhang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Yellow Bearded General
+
+Health/Gender: 4M
+
+Ability:
+
+Versatile Fighter:
+During your draw phase, you may skip your draw and choose 1 of the following:
+1. Draw 3 card, until the end of your turn you cannot play an "Attack" or discard an "Attack" in response to a card's effect.
+2. Draw 1 card, until end of your turn, you may use an additional "Attack" and ignore range requirement for your "Attack".</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xun You</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Advisor of Wei
+
+Health/Gender: 3M
+
+Ability:
+
+Contrivance:
+Once per main phase, you may use any cards in your hand as any non-delay tactics card.
+
+Playing Dumb:
+Whenever you are dealt damage, you may draw a card and reveal your hand, if all cards in your hand are of the same color, the source of damage discard a card from his hand.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhong Hui</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Audacious Schemer
+
+Health/Gender: 4M
+
+Ability:
+
+Ambition:
+Whenever you are dealt damage, for each damage you receive, you draw a card, then select a card from you hand and attach it face up to your hero as a "Power".
+You hand size is increased by X. (X is the number of "Power" attached to you)
+
+Insurrection:
+(Awakening Ability) At the beginning of your turn, if you have 3 or more "Power", you gain 1 health or draw 2 cards, then reduce your max health by 1 and gain "Eradicate".
+
+Eradicate:
+Once per main phase, you may discard a "Power" and target a hero, that hero draws 2 cards. If the number of cards in the hero's hand is greater than yours, you deal 1 damage to him.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Wang Yi</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Elated Heroine
+
+Health/Gender: 3F
+
+Ability:
+
+Chastity:
+Whenever you become the target of "Attack" or non-delay tactics card played by a hero, you may lose 1 health. If you do, ignore the effect of that card on you and you discard a card from that hero's hand or equipment zone.
+
+Secret Plan:
+At the end of your turn, you may draw X cards, then may give X cards in your hand to another hero. (X is the amount of life you have lost)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Chong</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Benevolent Child Prodigy
+
+Health/Gender: 3M
+
+Ability:
+
+Weight the Elephant:
+Whenever you are dealt damage, for each damage taken, reveal the top 4 cards of the deck. You place any number of revealed cards with rank total less than or equal to 13 into your hand.
+
+Benevolence:
+Whenever another heor is dealt damage, if his current halth is a 1, you can flip your hero card and discard an equipment card to prevent all damage from the source.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Guo Huai</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Governor of West
+
+Health/Gender: 4M
+
+Ability:
+
+Refined Strategy:
+At the end of main phase, if the number of cards you have used is greater than your health, you may draw 2 cards.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Man Chong</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Political and Military Strategist
+
+Health/Gender: 3M
+
+Ability:
+
+Torture:
+Once per main phase, you may discard any number of cards in hand and target another hero, he must choose one:
+1. Discard a card from their hand or equipment zone that has a different type than the cards you've discard.
+2. Flip his hero card and draw that many cards that you have discarded.
+
+Defensive Strategy:
+Whenever you are dealt damage, you may reveal a card from you hand. The source of damage must discard a card from their hand or equipment zone with a different type than your revealed card. If he does not, you gain 1 health.
+
+(The card types are: basic, equipment, tool)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Zhen</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Pillar of Wei
+
+Health/Gender: 4M
+
+Ability:
+
+Defense Minister:
+At the beginning of other heroes main phase, you may discard a card from your hand with same color as one of your equipment. If you do, that hero cannot play or use any card with the same color. At the end of the main phase, if he has not play an "Attack", this treated as you play an "Attack" on him.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Han Hao &amp; Shi Huan</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Commander of Central Army
+
+Health/Gender: 4M
+
+Ability:
+
+Careful Decision:
+When a black basic card is discarded and placed into the graveyard from you, you may play it as "Rations Depleted" and ignore the range requirements.
+
+Courageous Plan:
+At the beginning of another hero's judgement phase, you may discard a card in his judgement zone. If you do, treat this as you playing an "Attack" towards that hero. If the "Attack" does not deal damage, you draw a card.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Chen Qun</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Role Model of All Courtiers
+
+Health/Gender: 3M
+
+Ability:
+
+Rank Determination:
+Once per main phase, you may discard a card from hand and target a damaged hero. He perform a judgement. (You cannot discard cards which have the same type to other cards you have played or discarded this turn)
+If the result is black, he draw X cards (X is his lost heath) and you cannot use "Rank Determination" on him again.
+If the result is red, you filp your hero card.
+
+Justice and Mercy:
+Whenever a hero flip or tap his hero card, you may let him draw a card</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Xiu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Talented Cavalry
+
+Health/Gender: 4M
+
+Ability:
+
+Swift Horse:
+(Passive) Your range with other heroes are reduced by X. (X is your lost health)
+
+Flanking:
+Whenever your "Attack" deals damage to target hero, if you equipped a weapon, you may ask target hero to choose one:
+1. Discard X cards from hand (X is the attack range of the weapon), then discard the weapon card.
+2. Increase the damage of this "Attack" by 1.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhong Yao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Creator of Block Calligraphy
+
+Health/Gender: 3M
+
+Ability:
+
+Calligraphy Master:
+Whenever you need to play as basic card, you may put a black non-basic card on top of the library, you may name a basic card and this is treated as you playing the named card. (You cannot use this ability to play a card you've already played previously this turn)
+
+Formulate:
+Whenever a hero play a black card targeting at least one hero during their main phase, you my let one of the targets draw a card.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Empress Guo</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Undefiled Queen 
+
+Health/Gender: 3F
+
+Ability:
+
+Forging Edict:
+Once per main phase, you may reveal a card in your hand, and then target a hero closest to you. He announces a basic card name and until the end of your turn, you may treat the revealed card as the announced card. (You cannot be the target of the announced card)
+
+Brain racking:
+Whenever you are dealt damage, you may draw a card or upgrade "Forging Edict" (Max 2 times)
+Upgrade 1: The target player can announce a basic card or non-delay Tactics card name
+Upgrade 2: Once per main phase, you may treat a card in your hand as any basic or non-delay tactics card. (You cannot be the target of the announced card)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Sun Zi &amp; Liu Fang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Dual Who Speaks with Forked Tongue
+
+Health/Gender: 3M
+
+Ability:
+
+Bluffing:
+During discard phase, if you discarded at least 2 cards of different suits, you may gain 1 health or draw a card.
+
+Flattery:
+Once per hero per main phase, if you have a card that you can play in your hand, you may target a hero and he discard a card from his hand, then you cannot play a card with the same suit as the discarded card this turn. If the discarded card is Spade, you flip your hero card and lose 1 health.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xin Xian Ying</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Prestigiously Wise Noblewoman
+
+Health/Gender: 3F
+
+Ability:
+
+Loyalty:
+Once per main phase, you may reveal 1 hand card, then choose target hero to reveal X hand cards (X is the difference between hand cards and current HP). Compare the revealed cards and apply the following:
+1. If at least 1 of his cards has the same color as your card, you draw 1 card or discard 1 card from him.
+2. If at least 1 of his cards has the same rank as your card, change this ability to "Twice per main phase".
+3. If there is no color or numbers matching, your hand size limit is reduced by -1 until the end of turn.
+
+Ability and Insight:
+At the beginning of your draw phase,you may choose one:
+1. Your hand size limit is increased by +1 and you can't use cards on other players until the end of turn.
+2. Heal 1 HP and you can't use cards on yourself until the end of turn.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ji Kang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Lonely and Peaceful in the High Peaks
+
+Health/Gender: 3M
+
+Ability:
+
+Clear Strings:
+Whenever you are dealt damage or gain health you may choose target player to:
+1. Lose 1 health and equip a random equipment from the deck. (Draw until an equipment is reveal, then return the rest of the cards back and shuffle the deck) 
+2. Gain 1 health and discard 1 equipment. If the card used or discarded was Spade, you draw a card. 
+
+Soundless:
+When you are dead, you may choose target hero to inherit a skill from "Clear Strings Composition". Until the beginning of his next turn, he can't be the target of    cards.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Clear Strings Composition</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Harmonious Chord:
+Whenever you gain health, you may choose another target hero to gain 1 health anddiscard an equipment.
+
+Gentle Chord:
+Whenever you are dealt damage, you may have the source of damage gain 1 health and discard an equipment.
+
+Intense Chord:
+Whenever you gain health, you may choose another target hero to lose 1 HP and use a random equipment.
+
+Violent Chord:
+Whenever you are dealt damage, you may have the source of damage lose 1 health and use a random equipment. (Draw until an equipment is reveal, then return the rest of the cards back and shuffle the deck)</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>
