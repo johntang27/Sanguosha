@@ -33,8 +33,8 @@ Whenever you become the target of an "Attack", ignore the effects of that "Attac
 Devolution:
 You may skip your main phase, then at the end of your turn, you may discard a card and target a hero. That hero immediately gains an extra turn.
 
-Eiron:
-(Awakening Ability, Emperor Ability) At the beginning of your turn, if you have the least amount of health among all heroes, you increase your max health by 1 unit, gain 1 health, and gain "Rouse".
+Eiron: (Awakening Ability, Emperor Ability)
+At the beginning of your turn, if you have the least amount of health among all heroes, you increase your max health by 1 unit, gain 1 health, and gain "Rouse".
 
 (Rouse: Whenever you need to play or discard an "Attack", any other Shu hero may play or discard one for you.)</cardDescription>
     </Card>
@@ -51,8 +51,8 @@ Ability:
 Do or Die:
 During your main phase, you may discard all cards in your hand and treat this as playing "Duel", after resolving the duel, you and the loser of the duel draw a card. If you drew 2 or more cards via this effect during this phase, you lost "Do or Die" until the end of turn.
 
-Save the Emperor:
-(Emperor ability) You may discard a card to use "Rouse". the hero who used an "Attack" to respond to your "Rouse" draws a card.
+Save the Emperor: (Emperor ability)
+You may discard a card to use "Rouse". the hero who used an "Attack" to respond to your "Rouse" draws a card.
 
 (Rouse: Whenever you need to play or discard an "Attack", any other Shu heroes can play or discard for you.)</cardDescription>
     </Card>
@@ -94,8 +94,8 @@ Ability:
 Stargazing:
 At the beginning of the turn, you may look at thetop X cards of your library, where X is equal to the number of surviving heroes (Max 5), you may choose to put any  number of these cards on top of the library and bottom of the library in any order
 
-Empty Fort:
-(Passive) When you have no cards in your hand, you cannot be the target of "Attack" or "Duel"</cardDescription>
+Empty Fort: (Passive)
+When you have no cards in your hand, you cannot be the target of "Attack" or "Duel"</cardDescription>
     </Card>
     <Card>
       <cardName>Zhao Yun</cardName>
@@ -538,8 +538,8 @@ Ability:
 Shackles:
 During you main phase, you may use a Club card in your hand as "Iron Chains" or recast that card.
 
-Nirvana:
-(Limited Ability) When you are on blink of death, you may discard all cards in your hand, equipment zone and judgement zone, if you do, flip your hero card face up, draw 3 cards and gain 3 life.
+Nirvana: (Limited Ability)
+When you are on blink of death, you may discard all cards in your hand, equipment zone and judgement zone, if you do, flip your hero card face up, draw 3 cards and gain 3 life.
       </cardDescription>
     </Card>
   </CardData>

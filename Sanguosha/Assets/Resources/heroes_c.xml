@@ -19,8 +19,8 @@ Whenever you play or use a "Dodge", you may choose another target hero and perfo
 Dark Magic:
 Whenever a hero performs a judgement, you may swap the judgement card with a black card in your hand or equipment zone.
 
-Amber Sky:
-(Emperor Ability) Once per main phase of a Kingdomless hero's turn, the Kingdomless hero may give you a "Dodge" or "Lightning" card.</cardDescription>
+Amber Sky: (Emperor Ability)
+Once per main phase of a Kingdomless hero's turn, the Kingdomless hero may give you a "Dodge" or "Lightning" card.</cardDescription>
     </Card>
     <Card>
       <cardName>Yuan Shao</cardName>
@@ -51,14 +51,14 @@ Ability:
 Drown in Wine:
 You may use a Spade card in your hand as "Wine".
 
-Garden of Lust:
-(Passive) When Female hero play an "Attack" on you, it can only be cancelled by 2 "Dodge" and vice versa.
+Garden of Lust: (Passive)
+When Female hero play an "Attack" on you, it can only be cancelled by 2 "Dodge" and vice versa.
 
-Collapse:
-(Passive): At the end of your turn, if you are not the hero with lowest health, you must either lose 1 life or lose 1 unit of max health.
+Collapse: (Passive)
+At the end of your turn, if you are not the hero with lowest health, you must either lose 1 life or lose 1 unit of max health.
 
-Tyrant:
-(Emperor Ability) Whenever another Kingdomless hero deals damage, you may have them perform a judgement, if the result is black, you gain 1 health.</cardDescription>
+Tyrant: (Emperor Ability)
+Whenever another Kingdomless hero deals damage, you may have them perform a judgement, if the result is black, you gain 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Hua Tuo</cardName>
@@ -86,8 +86,8 @@ Health/Gender: 4M
 
 Ability:
 
-Matchless:
-(Passive) If you are the source of an "Attack", the defending player need to respond with 2 "Dodge" instead of one to cancel.
+Matchless: (Passive)
+If you are the source of an "Attack", the defending player need to respond with 2 "Dodge" instead of one to cancel.
 
 If you are involved in a duel, the other player needs to discard 2 "Attack" in respone to your discarded "Attack".</cardDescription>
     </Card>
@@ -117,8 +117,8 @@ Health/Gender: 6M
 
 Ability: 
 
-Swagger:
-(Passive) Whenever a hero use a red "Attack" and deals damage to you, he may gain 1 Health or draw a card.</cardDescription>
+Swagger: (Passive)
+Whenever a hero use a red "Attack" and deals damage to you, he may gain 1 Health or draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Yuan Shu</cardName>
@@ -133,8 +133,8 @@ Ability:
 Arrogant:
 At the beginning of the Emperor's turn, you may draw 1 card. If you do, Emperor's hand limit is reduced by 1 this turn.
 
-All in same boat:
-(Passive): Whenever another hero that can attack you playsan "Attack", if the number of cards in your hand is greater than your current health, he can only choose you as the target.</cardDescription>
+All in same boat: (Passive)
+Whenever another hero that can attack you playsan "Attack", if the number of cards in your hand is greater than your current health, he can only choose you as the target.</cardDescription>
     </Card>
     <Card>
       <cardName>Yu Ji</cardName>
@@ -200,11 +200,11 @@ Health/Gender: 3M
 
 Ability:
 
-Perfect Murder:
-(Passive) During your turn, if a hero is on the blink of death, only you and that hero can use "Peach".
+Perfect Murder: (Passive)
+During your turn, if a hero is on the blink of death, only you and that hero can use "Peach".
 
-Upheaval:
-(Limited Ability) During your main phase, each hero other than you must play an "Attack" another hero closest to him or lose 1 health.
+Upheaval: (Limited Ability)
+During your main phase, each hero other than you must play an "Attack" another hero closest to him or lose 1 health.
 
 Shroud:
 You cannot be the target of black tactics card.</cardDescription>
@@ -246,8 +246,8 @@ Diamond: The defender draws 2 cards
 Club: The source of damage discard 2 cards
 Spade: The source of damage flip his hero card
 
-Sorrow:
-(Passive) The hero who killed you lost all abilities for the rest of the game</cardDescription>
+Sorrow: (Passive)
+The hero who killed you lost all abilities for the rest of the game</cardDescription>
     </Card>
     <Card>
       <cardName>Gao Shun</cardName>
@@ -264,8 +264,8 @@ Once per main phase, you may clash with another hero, if you win, until end of y
 
 If you did not win, you cannot play "Attack" cards until the end of your turn.
 
-Prohibition:
-(Passive) Your "Wine" is considered as "Attack" instead.</cardDescription>
+Prohibition: (Passive)
+Your "Wine" is considered as "Attack" instead.</cardDescription>
     </Card>
     <Card>
       <cardName>Chen Gong</cardName>
@@ -282,8 +282,8 @@ Once per main phase, you may give 1 equipment card or "Attack" card to a target 
 1. Target hero is considered have used an "Attack" on another target hero of their choice within their attack range.
 2. Draw a card.
 
-Late Response:
-(Passive) Whenever you are dealt damage outside your turn, you are immune to "Attack" and non-delay tactics card this turn.</cardDescription>
+Late Response: (Passive)
+Whenever you are dealt damage outside your turn, you are immune to "Attack" and non-delay tactics card this turn.</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Biao</cardName>
@@ -298,8 +298,8 @@ Ability:
 Self-Preservation:
 During your draw phase, you may draw X additional cards. If you do, cards you play this turn cannot target other heroes. (X is the number of factions in play)
 
-House of Royalty:
-(Passive) Your hand size is increased by X. (X is the number of action in play)</cardDescription>
+House of Royalty: (Passive)
+Your hand size is increased by X. (X is the number of action in play)</cardDescription>
     </Card>
     <Card>
       <cardName>Empress Fu</cardName>
@@ -335,8 +335,8 @@ At the end of your turn, you may deal 1 damage to target hero (Other than you)wi
 Exterminate: 
 Once per main phase, you may put one black tactics card on top of the deck and target a hero with cards in hand, he either discard a tactics card, or discard 2 cards from his hand or equipment zone
 
-Burn the City:
-(Limited ability) During yourmain phase, you may target every other hero. They must choose one according to turn order.
+Burn the City: (Limited ability)
+During yourmain phase, you may target every other hero. They must choose one according to turn order.
 1. Discard at less X cards from hand or equipment zone (X is the number of cards that last player discarded + 1)
 2.You deal 2 fire damage to him</cardDescription>
     </Card>
@@ -353,8 +353,8 @@ Ability:
 Progressive Strategy:
 Whenever you play a card during your main phase, if the card you play has the same rank or suit as the previous card you have played this turn, you may draw a card.
 
-Aiming the North:
-(Passive) When you receive damage from a card being played, if it was a card that has damaged you previously during this turn, you gain 1 health before resolving the card effect.</cardDescription>
+Aiming the North: (Passive)
+When you receive damage from a card being played, if it was a card that has damaged you previously during this turn, you gain 1 health before resolving the card effect.</cardDescription>
     </Card>
     <Card>
       <cardName>Lady Cai</cardName>
@@ -371,8 +371,8 @@ At the end of other heroes' turn, if they have not played a card that target her
 1. Put a card in his equipment zone into your equipment zone.
 2. Draw a card
 
-Cession:
-(Limited Ability) During your main phase, you may give all cards in your equipment zone to another hero, then he choose 1 of the following:
+Cession: (Limited Ability)
+During your main phase, you may give all cards in your equipment zone to another hero, then he choose 1 of the following:
 1. You gain X health
 2. Deal 1 damage to X target heroes within his attack range (X is the number of cards you give to him)</cardDescription>
     </Card>
@@ -387,7 +387,8 @@ Health/Gender: 4M
 Ability:
 
 Disloyalty: 
-Once per main phase, you may reveal all cards in your hand. If they are not the same color, you discard all cards of one color, then choose X target heroes and put a card from their hand or equipment zone into your hand. (X is the number of cards you discarded.) If you put 2 or more cards into your hand, you lose 1 health.</cardDescription>
+Once per main phase, you may reveal all cards in your hand. If they are not the same color, you discard all cards of one color, then choose X target heroes and put a card from their hand or equipment zone into your hand.
+(X is the number of cards you discarded.) If you put 2 or more cards into your hand, you lose 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Guo Tu &amp; Feng Ji</cardName>
@@ -400,7 +401,8 @@ Health/Gender: 3M
 Ability:
 
 Reckless Assault:
-At the beginning of main phase, you may draw 2 cards. If you do, your hand size becomes X this turn. (X is the amount of damage you deal this turn.)
+At the beginning of main phase, you may draw 2 cards. If you do, your hand size becomes X this turn.
+(X is the amount of damage you deal this turn.)
 
 Cover Up:
 Whenever you need to play or use a "Dodge", you may choose to let the current turn hero draw a card, then if he is not among the heroes with the highest number of on-hand cards, you discard a card from a target hero's hand. The target hero must be among the heroes with the largest number of on-hand cards.
@@ -420,8 +422,8 @@ Ability:
 Peacekeeping:
 Once per main phase, if the number of cards in your hand is greater than your current health, you may target a hero who can attack you. Unless he plays an "Attack" on you, He gives a card in his equipment zone to you.
 
-Ancestral Blessing:
-(Passive) At the beginning of the game, you increase your max health and health by X (X is the number of factions in game). If all heroes of a faction are removed from the game, you reduce your max health by 1</cardDescription>
+Ancestral Blessing: (Passive)
+At the beginning of the game, you increase your max health and health by X (X is the number of factions in game). If all heroes of a faction are removed from the game, you reduce your max health by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Rang</cardName>

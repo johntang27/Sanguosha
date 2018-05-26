@@ -14,8 +14,8 @@ Ability:
 Villainous Hero:
 Whenever an effect of a card cause damage dealt on you, you may put that card into your hand.
 
-Escort:
-(Emperor Ability) Whenever you need ot play or use a "Dodge", you may ask other Wei heroes to play or discard a "Dodge" for you.</cardDescription>
+Escort: (Emperor Ability)
+Whenever you need ot play or use a "Dodge", you may ask other Wei heroes to play or discard a "Dodge" for you.</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Pi</cardName>
@@ -33,8 +33,8 @@ You may put all cards own by another dead hero into your hand. (This happens bef
 Exile:
 Whenever you are dealt damage, you may have target hero flip their hero card. If you do, that player draw X cards. (X is your lost health)
 
-Exaltation:
-(Emperor Ability) Whenever another Wei hero's judgement is resolved, if that judgement card is black, he may let you draw a card.</cardDescription>
+Exaltation: (Emperor Ability)
+Whenever another Wei hero's judgement is resolved, if that judgement card is black, he may let you draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Rui</cardName>
@@ -52,8 +52,8 @@ Whenever you are dealt damage, you may have target hero perform a judgement, if 
 Eagle Eye:
 Once per main phase, you may give all cards in your hand to another hero. If you do, his hand size is increased by 1 and can use an additional "Attack" until the end of his next turn.
 
-Boom and Bust:
-(Emperor Ability, Limited Ability) When you are on brink of death, you may ask every other Wei hero in sequence to allow you to gain 1 health until every hero has respond. If they chose to have you gain health, they receive 1 damage after resolving this effect.</cardDescription>
+Boom and Bust: (Emperor Ability, Limited Ability)
+When you are on brink of death, you may ask every other Wei hero in sequence to allow you to gain 1 health until every hero has respond. If they chose to have you gain health, they receive 1 damage after resolving this effect.</cardDescription>
     </Card>
     <Card>
       <cardName>Si Ma Yi</cardName>
@@ -259,8 +259,8 @@ If the result is not Heart, you put the judgement card on your hero card. That c
 
 Your range with other heroes are reduced by X, where X is number of "Field" you have.
 
-Dangerous Exploration:
-(Awakening Ability) At the beginning of your turn, if you have 3 or more "Field", reduce your maximum health by 1 and gain "Blitz".
+Dangerous Exploration: (Awakening Ability)
+At the beginning of your turn, if you have 3 or more "Field", reduce your maximum health by 1 and gain "Blitz".
 (Blitz: You may play a "Field" as a "Pilfer".) </cardDescription>
     </Card>
     <Card>
@@ -357,8 +357,8 @@ Ambition:
 Whenever you are dealt damage, for each damage you receive, you draw a card, then select a card from you hand and attach it face up to your hero as a "Power".
 You hand size is increased by X. (X is the number of "Power" attached to you)
 
-Insurrection:
-(Awakening Ability) At the beginning of your turn, if you have 3 or more "Power", you gain 1 health or draw 2 cards, then reduce your max health by 1 and gain "Eradicate".
+Insurrection: (Awakening Ability)
+At the beginning of your turn, if you have 3 or more "Power", you gain 1 health or draw 2 cards, then reduce your max health by 1 and gain "Eradicate".
 
 Eradicate:
 Once per main phase, you may discard a "Power" and target a hero, that hero draws 2 cards. If the number of cards in the hero's hand is greater than yours, you deal 1 damage to him.</cardDescription>
@@ -485,8 +485,8 @@ Health/Gender: 4M
 
 Ability:
 
-Swift Horse:
-(Passive) Your range with other heroes are reduced by X. (X is your lost health)
+Swift Horse: (Passive)
+Your range with other heroes are reduced by X. (X is your lost health)
 
 Flanking:
 Whenever your "Attack" deals damage to target hero, if you equipped a weapon, you may ask target hero to choose one:
