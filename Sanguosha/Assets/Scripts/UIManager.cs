@@ -102,7 +102,9 @@ public class UIManager : Singleton<UIManager> {
                 break;
         }
 
-        for(int i = 0; i < currentData.Length; i++)
+        content.GetComponent<RectTransform>().anchoredPosition = new Vector2(0, 1.25f);
+
+        for (int i = 0; i < currentData.Length; i++)
         {
             CardButton btn = Instantiate(cardBtnPrefab) as CardButton;
             btn.Init(currentData[i], pathOverride);
@@ -112,7 +114,7 @@ public class UIManager : Singleton<UIManager> {
 
     public void ClearScrollList()
     {
-        for(int i = 0; i < content.childCount; i++)
+        for (int i = 0; i < content.childCount; i++)
         {
             Destroy(content.GetChild(i).gameObject);
         }
