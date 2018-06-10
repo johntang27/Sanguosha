@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Wooden Cow Transport</cardName>
+      <cardType>Treasures</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Effect:
+
+Once a turn during your main phase, you may place one card from your hand face down onto this card. If you do so, you may move this equipment, along with the cards placed onto it, to another character's empty equipment zone.
+
+You may use or play any of the face down cards attached to this equipment as if it was from your hand.(They do not count towards your hand, but count as being played from you hand.)
+
+Only the Only the owner of this equipment may look at the face down cards attached to this equipment.</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

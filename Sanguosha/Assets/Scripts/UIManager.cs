@@ -14,6 +14,7 @@ public class UIManager : Singleton<UIManager> {
     public Image cardImage;
     public Text cardNameText;
     public Text descriptionText;
+    public RectTransform viewerContent;
     [Header("Card Data")]
     public CardData[] basicCards;
     public CardData[] tacticCards;
@@ -21,6 +22,7 @@ public class UIManager : Singleton<UIManager> {
     public CardData[] weaponCards;
     public CardData[] armorCards;
     public CardData[] mountCards;
+    public CardData[] treasureCards;
     public CardData[] heroes_redCards;
     public CardData[] heroes_greenCards;
     public CardData[] heroes_blueCards;
@@ -46,6 +48,9 @@ public class UIManager : Singleton<UIManager> {
         CardDataCollection mData = CardDataCollection.LoadFromResources("Mounts");
         mountCards = mData.data;
 
+        CardDataCollection tData = CardDataCollection.LoadFromResources("Treasures");
+        treasureCards = tData.data;
+
         CardDataCollection hrData = CardDataCollection.LoadFromResources("heroes_red");
         heroes_redCards = hrData.data;
 
@@ -55,7 +60,7 @@ public class UIManager : Singleton<UIManager> {
         CardDataCollection hbData = CardDataCollection.LoadFromResources("heroes_blue");
         heroes_blueCards = hbData.data;
 
-        CardDataCollection hcData = CardDataCollection.LoadFromResources("heroes_c");
+        CardDataCollection hcData = CardDataCollection.LoadFromResources("heroes_colorless");
         heroes_ColorlessCards = hcData.data;
     }
 
@@ -84,6 +89,9 @@ public class UIManager : Singleton<UIManager> {
             case "Mounts":
                 currentData = mountCards;
                 break;
+            case "Treasures":
+                currentData = treasureCards;
+                break;
             case "Heroes_Red":
                 currentData = heroes_redCards;
                 pathOverride = "Red";
@@ -108,7 +116,7 @@ public class UIManager : Singleton<UIManager> {
         {
             CardButton btn = Instantiate(cardBtnPrefab) as CardButton;
             btn.Init(currentData[i], pathOverride);
-            btn.transform.SetParent(content);
+            btn.transform.SetParent(content,false);
         }
     }
 
@@ -122,6 +130,7 @@ public class UIManager : Singleton<UIManager> {
 
     public void UpdateCardView(CardData data, string spritePath)
     {
+        viewerContent.anchoredPosition = Vector2.zero;
         cardSelection.SetActive(false);
         cardViewer.SetActive(true);
         cardImage.sprite = Resources.Load(spritePath, typeof(Sprite)) as Sprite;

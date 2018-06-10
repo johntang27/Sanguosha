@@ -14,7 +14,8 @@ public enum CardType
     Weapons = 3,
     Mounts = 4,
     Heroes = 5,
-    Armors = 6
+    Armors = 6,
+    Treasures = 7
 }
 
 public enum HeroFaction

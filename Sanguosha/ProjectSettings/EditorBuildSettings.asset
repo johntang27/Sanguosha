@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/CardMaker.unity
     guid: adcd6b4226d05b1409be55b463103bde
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 1b4c3f05bb7e71241a3b0b6fed089397
