@@ -6,15 +6,22 @@ using UnityEngine.UI;
 public class UIManager : Singleton<UIManager> {
 
     [Header("Card Selection")]
+    public int currentSelection = 0; //0-normal selection; 1-round selection
     public GameObject cardSelection;
     public CardButton cardBtnPrefab;
     public Transform content;
+    public GameObject clearRoundButton;
     [Header("Card Viewer")]
     public GameObject cardViewer;
     public Image cardImage;
     public Text cardNameText;
     public Text descriptionText;
     public RectTransform viewerContent;
+    public Button addCardButton;
+    public Button removeCardButton;
+    public CardData currentCard;
+    [Header("Round Viewer")]
+    public List<CardData> currentRoundHeroes;
     [Header("Card Data")]
     public CardData[] basicCards;
     public CardData[] tacticCards;
@@ -66,6 +73,8 @@ public class UIManager : Singleton<UIManager> {
 
     public void CreateCardScrollList(string type)
     {
+        currentSelection = 0;
+
         CardData[] currentData = new CardData[] { };
         string pathOverride = "";
 
@@ -120,6 +129,29 @@ public class UIManager : Singleton<UIManager> {
         }
     }
 
+    public void LoadCurrentRoundHeroes()
+    {
+        currentSelection = 1;
+
+        clearRoundButton.SetActive(true);
+
+        content.GetComponent<RectTransform>().anchoredPosition = new Vector2(0, 1.25f);
+
+        for (int i = 0; i < currentRoundHeroes.Count; i++)
+        {
+            string pathFolder = currentRoundHeroes[i].heroFaction.ToString(); 
+            CardButton btn = Instantiate(cardBtnPrefab) as CardButton;
+            btn.Init(currentRoundHeroes[i], pathFolder);
+            btn.transform.SetParent(content, false);
+        }
+    }
+
+    public void ClearCurrentRound()
+    {
+        currentRoundHeroes.Clear();
+        ClearScrollList();
+    }
+
     public void ClearScrollList()
     {
         for (int i = 0; i < content.childCount; i++)
@@ -130,11 +162,53 @@ public class UIManager : Singleton<UIManager> {
 
     public void UpdateCardView(CardData data, string spritePath)
     {
+        currentCard = data;
+        if (currentRoundHeroes.Contains(currentCard))
+        {
+            addCardButton.interactable = false;
+            removeCardButton.interactable = true;
+        }
+        else
+        {
+            addCardButton.interactable = true;
+            removeCardButton.interactable = false;
+        }
+
         viewerContent.anchoredPosition = Vector2.zero;
         cardSelection.SetActive(false);
         cardViewer.SetActive(true);
         cardImage.sprite = Resources.Load(spritePath, typeof(Sprite)) as Sprite;
         cardNameText.text = data.cardName;
         descriptionText.text = data.cardDescription;
+    }
+
+    public void AddCardToCurrentRound()
+    {
+        if(currentCard != null)
+        {            
+            currentRoundHeroes.Add(currentCard);
+            addCardButton.interactable = false;
+            removeCardButton.interactable = true;
+
+            if(currentSelection == 1)
+            {
+                string pathFolder = currentCard.heroFaction.ToString();
+                CardButton btn = Instantiate(cardBtnPrefab) as CardButton;
+                btn.Init(currentCard, pathFolder);
+                btn.transform.SetParent(content, false);
+            }
+        }
+    }
+
+    public void RemoveCardFromRound()
+    {
+        if(currentCard != null)
+        {
+            int index = currentRoundHeroes.IndexOf(currentCard);
+            currentRoundHeroes.Remove(currentCard);
+            addCardButton.interactable = true;
+            removeCardButton.interactable = false;
+            Destroy(content.GetChild(index).gameObject);
+        }
     }
 }

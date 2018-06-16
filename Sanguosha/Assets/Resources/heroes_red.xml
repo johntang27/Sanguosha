@@ -12,10 +12,11 @@ Health/Gender: 4M
 Ability:
 
 Kindness:
-During your main phase, you may give any number of cards in your hand to any number of heroes, the first time you give out 2 or more cards to a hero, you gain 1 Health.
+During your main phase, you may give any number of cards from your hand to any number of heroes.
+Once during a game, the first time you give out 2 or more cards to a target hero, you gain 1 health.
 
 Rouse: (Emperor Ability)
-Whenever you need to play or discard an ATTACK, any other Shu heroes can play or discard for you.</cardDescription>
+Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Shan</cardName>
@@ -27,17 +28,17 @@ Health/Gender: 3M
 
 Ability:
 
-Relish: (Passive)
+Relish:
 Whenever you become the target of an ATTACK, ignore the effects of that ATTACK unless the attacker discards a basic card from their hand.
 
 Devolution:
-You may skip your main phase, then at the end of your turn, you may discard a card and target a hero. That hero immediately gains an extra turn.
+You may skip your main phase, then at the end of your turn, you may discard a card and target a hero. That hero immediately gains an extra turn after you end your turn.
 
 Eiron: (Awakening Ability, Emperor Ability)
 At the beginning of your turn, if you have the least amount of health among all heroes, you increase your max health by 1 unit, gain 1 health, and gain [ROUSE].
 
-[ROUSE]:
-Whenever you need to play or discard an ATTACK, any other Shu hero may play or discard one for you.</cardDescription>
+[Rouse]:
+Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Zhang</cardName>
@@ -50,13 +51,13 @@ Health/Gender: 4M
 Ability:
 
 Do or Die:
-During your main phase, you may discard all cards in your hand and treat this as playing DUEL, after resolving the duel, you and the loser of the duel draw a card. If you drew 2 or more cards via this effect during this phase, you loose [DO OR DIE] until the end of turn.
+During your main phase, you may discard all cards in your hand and treat this as playing a DUEL; after resolving the duel, you and the loser of the duel draw a card. If you draw 2 or more cards via this effect during this phase, you lose the [DO OR DIE] ability until the end of turn.
 
 Save the Emperor: (Emperor ability)
-You may discard a card to use [ROUSE]. the hero who used an ATTACK to respond to your [ROUSE] draws a card.
+You may discard a card to use [ROUSE]. The target hero who used an ATTACK to respond to your [ROUSE] draws a card.
 
-[ROUSE]:
-Whenever you need to play or discard an ATTACK, any other Shu heroes can play or discard for you.</cardDescription>
+[Rouse]:
+Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Guan Yu</cardName>
@@ -69,7 +70,7 @@ Health/Gender:4M
 Ability:
 
 Saint Warrior:
-You may play or use any RED cards from your hand or equipment zone as ATTACK.</cardDescription>
+You may play or discard any RED cards from your hand or equipment zone as an ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Fei</cardName>
@@ -95,10 +96,10 @@ Health/Gender: 3M
 Ability:
 
 Stargazing:
-At the beginning of the turn, you may look at the top X cards of your library, where X is equal to the number of surviving heroes (Max 5), you may choose to put any number of these cards on top of the library and bottom of the library in any order.
+At the beginning of your turn, you may look at the top X cards of the library, where X is equal to the number of surviving heroes (Max 5); you may choose to put any number of these cards on top and bottom of the library in any order.
 
-Empty Fort: (Passive)
-When you have no cards in your hand, you cannot be the target of ATTACK or DUEL.</cardDescription>
+Empty Fort:
+Whenever you have no cards in your hand, you cannot be the target of any ATTACK or DUEL</cardDescription>
     </Card>
     <Card>
       <cardName>Zhao Yun</cardName>
@@ -111,7 +112,7 @@ Health/Gender: 4M
 Ability:
 
 Dragon Courage:
-You may play or use ATTACK cards as DODGE or vice versa.</cardDescription>
+You may play or discard ATTACK cards as DODGE or vice versa.</cardDescription>
     </Card>
     <Card>
       <cardName>Ma Chao</cardName>
@@ -124,10 +125,10 @@ Health/Gender: 4M
 Ability:
 
 Horsemanship:
-Your range with other heroes is always reduced by 1.
+The physical range you see other heroes is reduced by 1.
 
 Iron Calvary:
-Whenever you play an ATTACK on a hero, you may perform a judgment. If the result is RED, the ATTACK cannot be responded by DODGE.</cardDescription>
+Whenever you play an ATTACK targeting a hero, you may perform a judgment. If the result is RED, the ATTACK cannot be cancelled by a DODGE.</cardDescription>
     </Card>
     <Card>
       <cardName>Huang Yue Ying</cardName>
@@ -143,7 +144,7 @@ Gathering Wisdom:
 Whenever you play an non-delay tactics card, draw a card.
 
 Wondrous Talent:
-Ignore range requirements when you play a tactics card.</cardDescription>
+All tactics card you play may ignore any range requirements.</cardDescription>
     </Card>
     <Card>
       <cardName>Huang Zhong</cardName>
@@ -156,11 +157,11 @@ Health/Gender: 4M
 Ability:
 
 Fearsome Archer:
-When you use an ATTACK, you may target a hero whose range between you and him is less than the rank of that ATTACK.
+Whenever you play an ATTACK, you may target a hero whose range between you and that hero is less than the rank of that ATTACK.
 
 Whenever you target a hero with an ATTACK:
-1. If the number of cards in his hand is less than or equal to yours, this ATTACK cannot be cancelled by DODGE.
-2. If his current health is greater than or equal to your health, this ATTACK damage is +1.</cardDescription>
+1. If the number of cards in that hero's hand is less than or equal to your's, this ATTACK cannot be cancelled by DODGE.
+2. If the target hero's current health is greater than or equal to your health, this ATTACK deal 1 additional damage.</cardDescription>
     </Card>
     <Card>
       <cardName>Wei Yan</cardName>
@@ -173,12 +174,12 @@ Health/Gender: 4M
 Ability:
 
 Violent Spirit:
-Whenever you have dealt damage to a player within your range, for each damage you have dealt, you choose one:
-1. Gain 1 Health.
-2. Draw 1 card.
+Whenever you deal damage to a player within your range, for each damage you have dealt, you may choose one:
+1. You gain 1 Health.
+2. You draw 1 card.
 
 Surprise Tactics: (Limited Ability)
-During your main phase, you may lose X life, then until the end of your turn, you may use additional X ATTACK cards and your range with other heroes are reduced by X.</cardDescription>
+During your main phase, you may lose X life; then until the end of your turn, you may use additional X ATTACK cards and the physical range you  other heroes is reduced by X.</cardDescription>
     </Card>
     <Card>
       <cardName>Young Zhuge Liang</cardName>
@@ -188,14 +189,14 @@ During your main phase, you may lose X life, then until the end of your turn, yo
 
 Health/Gender: 3M
 
-Eight Trigrams: (Passive)
-If you have no armor card in your equipment zone, you are considered to have [EIGHT TRIGRAMS] equipped.
+Eight Trigrams:
+If you have no armor cards in your equipment zone, you are considered to have EIGHT TRIGRAMS equipped.
 
 Arson:
 During your main phase, you may play RED cards in your hand as BLAZE.
 
 See Through:
-You may play BLACK cards in your hand as IMPECCABLE PLAN.</cardDescription>
+You may play BLACK cards from your hand as IMPECCABLE PLAN.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhu Rong</cardName>
@@ -207,11 +208,11 @@ Health/Gender: 4F
 
 Ability:
 
-Elephant Army: (Passive)
-You are immune to BARBARIAN ASSAULT. Whenever a BARBARIAN ASSAULT is played by another hero, after it is resolved and put into graveyard, take the card into your hand.
+Elephant Army:
+You ignore the effects of BARBARIAN ASSAULT. Whenever a BARBARIAN ASSAULT is played by another hero, after it is resolved and put into graveyard, you may take the BARBARIAN ASSAULT card into your hand.
 
 Fierce Edge:
-Whenever you have dealt damage to a target hero, you may clash with him. If you win, you may take 1 card from his hand or equipment zone into your hand.</cardDescription>
+Whenever you deal damage to a target hero, you may clash with that hero. If you win, you may take 1 card from that hero's hand or equipment zone into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Meng Huo</cardName>
@@ -223,14 +224,12 @@ Health/Gender: 4M
 
 Ability:
 
-Culprit: (Passive)
-You are immune to BARBARIAN ASSAULT. You are the source of any BARBARIAN ASSAULT.
+Culprit:
+You ignore the effects of BARBARIAN ASSAULT. You are considered as the source of damage from any BARBARIAN ASSAULT being played.
 
 Resurgence:
-During your draw phase, if you are damaged, you may skip your draw phase and reveal X card from the deck. 
-(X is equal to the amount of health you lost)
-
-For each HEART card revealed, discard it and you gain 1 health then put the remaining revealed cards into your hand.</cardDescription>
+During your draw phase, if you are damaged, you may skip your draw and reveal X cards from the top of the library. (X is your missing health.)
+Discard each HEART card revealed and you gain 1 health; then take the remaining revealed cards into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Jiang Wei</cardName>
@@ -243,13 +242,13 @@ Health/Gender: 4M
 Ability:
 
 Provoke:
-Once per main phase, you may target a hero who can attack you, he must play an ATTACK on you. If he does not, you choose and discard 1 card from his hand, equipment zone, or judgment zone.
+Once during your main phase, you may target a hero who has you within their attack range, that hero must play an ATTACK on you. If he does not, you choose and discard 1 card from that hero's hand, equipment zone, or judgment zone.
 
 Recommence the Legacy: (Awakening Ability)
-At the beginning of your turn, if you have no cards in your hand, gain 1 health or draw 2 cards, then reduce your max health by 1 and gain [STARGAZING].
+At the beginning of your turn, if you have no cards in your hand, gain 1 health or draw 2 cards, then reduce your max health by 1 and gain the [STARGAZING] ability.
 
-[STARGAZING]:
-At the beginning of the turn, you may look at the top X cards of your library, where X is equal to the number of surviving heroes (Max 5), you may choose to put any number of these cards on top and bottom of the library in any order.</cardDescription>
+[Stargazing]:
+At the beginning of your turn, you may look at the top X cards of the library, where X is equal to the number of surviving heroes (Max 5); you may choose to put any number of these cards on top and bottom of the library in any order.</cardDescription>
     </Card>
     <Card>
       <cardName>Ma Su</cardName>
@@ -262,11 +261,11 @@ Health/Gender: 3M
 Ability:
 
 Talebearer:
-Once per main phase, you may discard a card and choose a target hero with the highest health, then you deal 1 damage to them.
-(If there several heroes with the highest health, you may choose one of them)
+Once during your main phase, you may discard a card and choose a target hero with the highest health, then you deal 1 damage to them.
+(If there are several heroes with the highest health, you may choose one of them.)
 
 Subdue the Barbarians:
-Whenever you have dealt damage to another hero, you may prevent that damage. If you do, take 1 card from that hero's equipment or judgment zone into your hand.</cardDescription>
+Whenever you deal damage to another hero, you may prevent that damage. If you do, take 1 card from that hero's equipment or judgment zone into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Fa Zheng</cardName>
@@ -284,7 +283,7 @@ Whenever you gain 2 cards from another hero, you may have that hero draw a card.
 2. Lose 1 health.
 
 Dazzle:
-During your drawing phase, you may skip your draw and target another hero to draw 2 cards, then that hero must play an ATTACK on another hero of your choice within their attack range. If that hero does not, take 2 cards from their hand.</cardDescription>
+During your drawing phase, you may skip your draw and target another hero to draw 2 cards; then that hero must play an ATTACK on another hero of your choice within their attack range. If that hero does not, you take 2 cards from their hand inot your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Xu Shu</cardName>
@@ -297,15 +296,15 @@ Health/Gender:3M
 Ability:
 
 Silence:
-All damage from you deal or is dealt to you from tactics cards are prevented.
+All damage you deal or is dealt to you from tactics cards are prevented.
 
 Recommendation:
-At the end of your turn, you may discard a non-basic card from your hand or equipment zone to target another hero, that hero choose one of the following:
-1. Draw 2 cards.
-2. Gain 1 health.
-3. Flip his hero card face up and untap it.
+At the end of your turn, you may discard a non-basic card from your hand or equipment zone to target another hero, that hero chooses one of the following:
+1. Target hero draws 2 cards.
+2. Target hero gain 1 health.
+3. Target hero flips their hero face up and becomes unchained.
 
-Note: Xu Shu is a Shu Hero, his card shares the Wei color because in history he was forced to join Cao Cao due to having his mother held hostage, but he did not give any advice to Cao Cao after he joined him as he was still loyal to Liu Bei.</cardDescription>
+Note: Xu Shu is a Shu faction hero, his card shares the Wei color because in history he was forced to join Cao Cao due to having his mother held hostage, but he did not give any advice to Cao Cao after he joined him as he was still loyal to Liu Bei.</cardDescription>
     </Card>
     <Card>
       <cardName>Liao Hua</cardName>
@@ -317,14 +316,11 @@ Health/Gender: 4M
 
 Ability:
 
-Vanguard: (Passive)
+Vanguard:
 At the beginning of your turn, you gain an extra main phase.
 
 Aspirations: (Limited Ability)
-When you are on the brink of death, you may gain X health.
-(X is the number of factions in play)
-
-If you do, flip your hero card.</cardDescription>
+Whenever you are on the brink of death, you may gain X health. (X is the number of factions in play). If you do, flip your hero card.</cardDescription>
     </Card>
     <Card>
       <cardName>Guan Xing &amp; Zhang Bao</cardName>
@@ -337,12 +333,12 @@ Health/Gender: 4M
 Ability:
 
 Paternal Souls:
-During your main phase, you may use 2 cards in your hand as ATTACK. If this ATTACK deals damage, you gain [SAINT WARRIOR] and [ROAR] until the end of turn.
+During your main phase, you may play 2 cards from your hand and treate this as playing an ATTACK. If this ATTACK deals damage, you gain the [SAINT WARRIOR] and [ROAR] abilities until the end of turn.
 
-[SAINT WARRIOR]:
-You may play or use any RED cards from your hand or equipment zone as ATTACK.
+[Saint Warrior]:
+You may play or discard any RED cards from your hand or equipment zone as an ATTACK.
 
-[ROAR]:
+[Roar]:
 You may play any number of ATTACK during your turn.</cardDescription>
     </Card>
     <Card>
@@ -355,8 +351,8 @@ Health/Gender: 4M
 
 Ability:
 
-Horsemanship: (Passive)
-Your range with other heroes is always reduced by 1.
+Horsemanship:
+The physical range you see other heroes is reduced by 1.
 
 Sneak Attack:
 At the beggining of your turn, you may draw a card, then discard a card. If you do, you may target a hero within your range, the target hero cannot play or discard cards with the same color as your discarded card until the end of your turn.</cardDescription>
@@ -372,7 +368,7 @@ Health/Gender: 4M
 Ability:
 
 Dragon Roar:
-Whenever a hero play an ATTACK during their main phase, you may discard a card from hand or equipment zone. If you do, that ATTACK does not count towards the turn limit of ATTACK. If that ATTACK is RED, you draw a card.</cardDescription>
+Whenever a hero plays an ATTACK during their main phase, you may discard a card from your hand or equipment zone. If you do, that ATTACK does not count towards the ATTACK resctriction limit. If that ATTACK is red, you draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Jian Yong</cardName>
@@ -388,7 +384,7 @@ Fine Words:
 At the beginning of your main phase, you may clash with another hero. If you win, the next basic or non-delay tactics card you use may target 1 additional or 1 less target. If you did not win, you cannot use tactics cards until the end of the turn.
 
 Indulgence:
-Whenever you win a clash, you may put the card with larger rank back to your hand, whenever you did not win a clash, you may put your clash card back to your hand.</cardDescription>
+Whenever you win a clash, you may take the card the loser revealed into your hand. Whenever you do not win a clash, you may take your revealed card back to your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Feng</cardName>
@@ -401,8 +397,8 @@ Health/Gender: 4M
 Ability:
 
 Framed:
-At the beginning of your turn, you may choose up to 2 target heroes. Put one card from each hero's hand or equipment zone onto your hero card as BETRAYAL. Whenever a player chooses to play an ATTACK on you, they may instead discard 2 BETRAYAL cards and this is treated as they playing an ATTACK towards you.
-(This ATTACK counts towards the limited ATTACK rule.)</cardDescription>
+At the beginning of your turn, you may choose up to 2 target heroes. Take one card from each hero's hand or equipment zone and attach them onto your hero card as [BETRAYAL] cards. Whenever a player wants to play an ATTACK on you, they may instead discard 2 [BETRAYAL] cards attached to your hero and treat it as playing an ATTACK on you.
+(This ATTACK counts towards the ATTACK restriction limited.)</cardDescription>
     </Card>
     <Card>
       <cardName>Wu Yi</cardName>
@@ -414,8 +410,8 @@ Health/Gender: 4M
 
 Ability:
 
-Rapid Assault: (Passive)
-Whenever you play a card during your turn, decrease your range with other heroes by 1. If your range with all other players is 1, you ignore another hero's armor and your ATTACK can target an additional hero.</cardDescription>
+Rapid Assault:
+Whenever you play a card during your turn, decrease your range with all other heroes by 1. If your range with all other heros is 1, you ignore the effects of armor cards other heroes have equipped and your ATTACK can target an additional hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhou Cang</cardName>
@@ -428,7 +424,7 @@ Health/Gender: 4M
 Ability:
 
 Loyalty and Bravery:
-After your ATTACK is resolved, you may give this ATTACK card or DODGE played by defending hero to another target hero. A hero who received a RED card through this may play an ATTACK to target hero within your attack range.</cardDescription>
+After your ATTACK is resolved, you may give your ATTACK card or the DODGE card played by the defender to another target hero. If the card you have given to another target hero is RED, the hero who received the RED card may play an ATTACK targeting a hero within your attack range until the end of their turn.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Song</cardName>
@@ -444,7 +440,7 @@ Good memory:
 At the start of your main phase, you may reveal a card from another hero's hand. Until the end of your turn, whenever you play a card with the same type as the revealed card, you draw a card.
 
 Map offering:
-At the start of other hero's main phases, you may draw 2 cards then give that hero 2 cards in your hand. At the end of the turn, if he did not kill any hero, you lose 1 health.</cardDescription>
+At the start of each other hero's main phases, you may draw 2 cards then give that hero 2 cards from your hand. At the end of the turn, if he did not kill any hero, you lose 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Xiahou Shi</cardName>
@@ -460,7 +456,7 @@ Gather Firewood:
 At the end of each other hero's turn, if you and that hero have the same number of cards in hand, you may choose to let both of you draw a card.
 
 Words of Swallow:
-During your main phase, you may recast ATTACK cards. At the end of your main phase, if you've recasted 2 or more ATTACK cards, you may have target male hero draw 2 cards.</cardDescription>
+During your main phase, you may recast ATTACK cards. At the end of your main phase, if you have recasted 2 or more ATTACK cards, you may have target male hero draw 2 cards.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Ni</cardName>
@@ -473,9 +469,9 @@ Health/Gender: 4M
 Ability:
 
 Pacifying Barbarians:
-Once per main phase, you may choose a target hero. You and the target hero reveal a on-hand card at the same time. If you reveal an ATTACK and the target hero did not reveal a DODGE; you discard your ATTACK and deal 1 damage to the target hero. If you did not reveal an ATTACK and the target hero reveals a DODGE; you discard your revealed card and put a card from his hand or equipment zone into your hand.
+Once during your main phase, you may choose a target hero. You and the target hero reveals a card from the hand at the same time. If you reveal an ATTACK and the target hero did not reveal a DODGE, you discard your ATTACK and deal 1 damage to the target hero. If you did not reveal an ATTACK and the target hero reveals a DODGE, you discard your revealed card and take a card from his hand or equipment zone into your hand.
 
-Resolution: (Passive)
+Resolution:
 If your current health is 1, your DODGE are treated as ATTACK.</cardDescription>
     </Card>
     <Card>
@@ -489,12 +485,12 @@ Health/Gender:3M
 Ability:
 
 Rations Management:
-Once per main phase, you may put a card in another hero's hand into your hand, then you choose one of the following:
-1. He look at the top 2 cards of the library, then reveal all basic cards and put them into his hand.
-2. During his next draw phase, he draws an additional card.
+Once during your main phase, you may take a card from another target hero's hand into your hand, then you choose one of the following:
+1. That hero reveals the top 2 cards on top of the library, then takes all basic cards into their hand.
+2. During that hero's next draw phase, that hero draws an additional card.
 
-Insidious: (Passive)
-During your discard phase, cards you put into your hand this turn.</cardDescription>
+Insidious:
+During your discard phase, cards that were put into your hand this turn do not count towards your max hand size limit.</cardDescription>
     </Card>
     <Card>
       <cardName>Huang Hao</cardName>
@@ -507,32 +503,33 @@ Health/Gender:3M
 Ability:
 
 Emperor's Crony:
-At the end of your turn, you may target a hero who has the Emperor within their attack range. You discard a card from that hero's hand or equipment zone, and then that hero draws a card. If that hero has more cards in their hand than the Emperor, you draw a card.
+At the end of your turn, you may target a hero who has the EMPEROR within their attack range; you discard a card from that hero's hand or equipment zone and then that hero draws a card. If he has more cards in their hand than the EMPEROR, you draw a card.
 
 Bribery:
-Once per a hero's turn, whenever you are dealt damage by another hero, you may reveal X cards in your hand and that hero chooses one of the following:
-1. Target hero takes a revealed card and prevent the damage.
+Once during each hero's turn, whenever you are dealt damage by another hero, you may reveal X cards in your hand and have that hero chooses one of the following:
+1. Targer hero takes a revealed card and prevent the damage.
 2. Target hero discards X cards from their hand or equipment zone.</cardDescription>
     </Card>
     <Card>
       <cardName>Qin Zai</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
-      <cardDescription>Title: Tongue that Pierces the Heavens
+      <cardDescription>Title: Words that Pierces the Heavens
 	  
 Health/Gender: 3M
 
 Ability:
 
 Admonish Attack:
-When another hero uses an ATTACK on a target hero other than you, if you are within the attacker's attack range, you may place 1 hand card on top of the deck and cancel all the targets. If the ATTACK is not BLACK, you become the target instead.
+Whenever another hero uses an ATTACK on a target hero other than you, if you are within the attacker's attack range, you may place 1 card from your hand on top of the library and cancel all the targets. If the ATTACK is not black, you become the target of teh ATTACK instead.
 
 Expert Opponent:
-Whenever you play an ATTACK on target a hero, you may clash with the target hero. If you win, your ATTACK can't be cancelled by DODGE.
-Whenever you become the target of an ATTACK you can clash with the attacker. If you win, the effects of the ATTACK is cancelled.
+Whenever you play an ATTACK on a target hero, you may clash with the that hero. If you win, your ATTACK cannot be cancelled by a DODGE.
+Whenever you are the target of an ATTACK you can clash with the attacker. If you win, the effects of the ATTACK is cancelled.
 
 Heavenly Defense:
-When you clash, you may use the top card of the library. The rank of your HEART suited cards are treated as a K rank.</cardDescription>
+Whenever you clash, you may use the top of the library.
+HEART cards you reveal during a clash are treated as a K rank.</cardDescription>
     </Card>
     <Card>
       <cardName>Pang Tong</cardName>
@@ -545,13 +542,13 @@ Health/Gender: 3M
 Ability:
 
 Shackles:
-During you main phase, you may use a CLUB suited card in your hand as IRON CHAIN or recast that card.
+During you main phase, you may use a CLUB suited card from your hand as IRON CHAINS; or recast that card.
 
 Nirvana: (Limited Ability)
-When you are on bRink of death, you may discard all cards in your hand, equipment zone and judgment zone, if you do, flip your hero card face up, draw 3 cards and gain 3 health.
+Whenever you are on the brink of death, you may discard all cards from your hand, equipment zone and judgement zone; if you do, flip your hero card face up, draw 3 cards and return to 3 health.
       </cardDescription>
     </Card>
-    <Card>
+	<Card>
       <cardName>Wu Xian</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
