@@ -5,29 +5,29 @@
       <cardName>Eight Trigrams</cardName>
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Effect: Whenever you need to play or discard a "Dodge", you may perform a judgment. If the result is red, you are considered to have playedor discardeda "Dodge"</cardDescription>
+      <cardDescription>Effect:
+	  Whenever you need to play or discard a DODGE, you may perform a judgment. If the result is RED, you are considered to have played or discarded a DODGE.</cardDescription>
     </Card>
     <Card>
       <cardName>Shield of Ren Wang</cardName>
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Effect: (Passive) Ignore the effects of all black "Attack" targeting you</cardDescription>
+      <cardDescription>Effect:
+	  Ignore the effects of all BLACK ATTACKs targeting you.</cardDescription>
     </Card>
     <Card>
       <cardName>Rattan Armor</cardName>
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Effect: 
-(Passive): Ignore the effect of "Babarian Assault", "Hail of Arrows" and normal "Attack" targeting you. 
-Whenever a source deals fire damage on you, that damage is increased by 1</cardDescription>
+      <cardDescription>Effect:
+	  Ignore the effects of all BARBARIAN ASSAULT, HAIL OF ARROWS, and normal ATTACKs targeting you. Whenever a source deals FIRE damage to you, that damage is increased by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Platinum Lion</cardName>
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
-(Passive) The maximum damage that can dealt to you is 1
-When this card leaves your equipment zone, gain 1 health</cardDescription>
+	  The max damage that can be dealt to you by each source is 1 damage. When this card is removed from your equipment zone, gain 1 health.</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

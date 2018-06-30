@@ -5,73 +5,75 @@
       <cardName>Barbarian Assault</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>All heroes except you may use an "Attack"</cardDescription>
+      <cardDescription>You target all other heroes, each target hero must play an ATTACK. If a target hero does not play an ATTACK, deal 1 damage to that target hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Hail of Arrows</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>All heroes except you may use a "Dodge". If a hero does not, you deal 1 damage to him</cardDescription>
+      <cardDescription>You target all other heroes, each target hero must play a DODGE. If a target hero does not play a DODGE, deal 1 damage to that target hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Oath of Peach Garden</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>All heroes gain 1 Health</cardDescription>
+      <cardDescription>You target all heros, each target hero gains 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Harvest</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Reveal X cards from the top of the Library, where X equals to the number of surviving heroes. Starting from you, each hero picks a revealed card and put it into his hand</cardDescription>
+      <cardDescription>Reveal X cards from the top of the library, where X is number of surviving heroes. Starting from you in turn sequence, each hero picks a revealed card and takes it into their hand. Any remaining cards are move into the discard pile.</cardDescription>
     </Card>
     <Card>
       <cardName>Sleight of Hand</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Draw two cards</cardDescription>
+      <cardDescription>You draw two cards from the library.</cardDescription>
     </Card>
     <Card>
       <cardName>Impeccable Plan</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Cancel target tactics card effect to a hero or target "Impeccable Plan"</cardDescription>
+      <cardDescription>Cancel target tactics card effect targeting a hero or another target card.</cardDescription>
     </Card>
     <Card>
       <cardName>Burn Bridges</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Discard target equipment or target delay tactics card, or discard a card from target hero's hand</cardDescription>
+      <cardDescription>Choose a target hero and discard a discard a card from that hero's hand, equipment zone, or judgement zone.</cardDescription>
     </Card>
     <Card>
       <cardName>Duress</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Target a hero (except you) equipped with a weapon. He may play an "Attack" on another target hero. If he does not, put that weapon card into your hand.</cardDescription>
+      <cardDescription>Choose a target hero (other than youself) with a weapon in their equipment zone. That hero must play an ATTACK on another target hero of your choice who is within their attack range. If that hero does not, take that hero's weapon card into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Duel</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Target a hero to start a Duel. Target hero may discard an attack card, if he does, you may discard an attack card and repeat the process. The hero who did not discard an attack card is the loser of the duel and the winner deals 1 damage to the loser</cardDescription>
+      <cardDescription>Choose a target a hero, that hero must discard an ATTACK card; if that hero discards an ATTACK, you must now discard an ATTACK card; repeat the process until a hero can no longer discard an ATTACK. The hero that can no longer discard an ATTACK is declared the loser and is dealt 1 damage by the winner.</cardDescription>
     </Card>
     <Card>
-      <cardName>Plifer</cardName>
+      <cardName>Pilfer</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Target a hero within your range (not attack range). You take one card from his hand, equipment zone or judgment zone and put it into your hand</cardDescription>
+      <cardDescription>Choose a target a hero within your physical range; you take one card from his hand, equipment zone or judgment zone it into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Blaze</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Target a hero with at least one card in hand. That hero reveal a card from his hand. You may discard a card with the same suit, if you do, you deal 1 damage to him</cardDescription>
+      <cardDescription>Choose a target hero with at least one card in their hand; that hero reveals a card from their hand. You may discard a card with the same suit as the revealed card; if you do, you deal 1 Fire damage to that hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Iron Chains</cardName>
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose up to 2 target heroes, you may tap or untap their hero cards. Recast: You may discard this card during your turn to draw a card</cardDescription>
+      <cardDescription>Choose up to 2 target heroes, you may chain or unchain their hero cards.
+	  
+	  Recast: You may discard this card during the main phase of your turn to draw a card from the library.</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

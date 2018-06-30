@@ -5,37 +5,37 @@
       <cardName>Attack</cardName>
       <cardType>Basics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Once per main phase, you may play this card to attack any hero within your attack range, that hero may play a "Dodge", if he does not play a "Dodge", you deal 1 damage to him</cardDescription>
+      <cardDescription>Once per during your main phase, you may play this card to ATTACK any target hero within your attack/physical range; that hero may play a DODGE, if he does not play a DODGE, you deal 1 damage to that target hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Dodge</cardName>
       <cardType>Basics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Whenever a hero plays an "Attack" on you, you may play this card to cancel the "Attack" </cardDescription>
+      <cardDescription>Whenever a hero plays an ATTACK on you, you may play this card to cancel the ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Peach</cardName>
       <cardType>Basics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>If this card is played during your main phase, gain 1 health (You cannot gain health exceeding your maximum health) If any hero is on the brink of death, you may use this card and that hero gain 1 health</cardDescription>
+      <cardDescription>If this card is played during your main phase, gain 1 health. (You cannot gain health exceeding your maximum health) If any hero is on the brink of death, you may play this card to have that hero gain 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Wine</cardName>
       <cardType>Basics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Your next "Attack" damage is +1 If you are on the brink of death, you may play this card and gain 1 Life </cardDescription>
+      <cardDescription>The next ATTACK you play deals 1 additional damage. If you are on the brink of death, you may play this card and gain 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Fire Attack</cardName>
       <cardType>Basics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Once per main phase, you may play this card to attack any hero within your attack range, that hero may play a "Dodge" , if he does not play a "Dodge", you deal 1 Fire damage to him</cardDescription>
+      <cardDescription>Once per during your main phase, you may play this card to ATTACK any target hero within your attack/physical range; that hero may play a DODGE, if he does not play a DODGE, you deal 1 Fire damage to that target hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Lightning Attack</cardName>
       <cardType>Basics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Once per main phase, you may play this card to attack any hero within your attack range, that hero may play a "Dodge", if he does not play a "Dodge", you deal 1 Thunder damage to him</cardDescription>
+      <cardDescription>nce per during your main phase, you may play this card to ATTACK any target hero within your attack/physical range; that hero may play a DODGE, if he does not play a DODGE, you deal 1 Lightning damage to that target hero.</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

@@ -5,28 +5,21 @@
       <cardName>Acedia</cardName>
       <cardType>DelayTactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Put this card into your judgment zone when you play it
-At the beginning of a hero's turn, if this card is in that hero's judgment zone, he performs a judgment.
-If the judgment card is not heart, that hero skips his next main phase.
+      <cardDescription>Place this card into the judgment zone of a target hero when you play it. At the beginning of that hero's turn, if this card is in that hero's judgment zone, that hero performs a judgment. If the result of the judgment card is not a HEARTS suit, that hero skips his next main phase.
 </cardDescription>
     </Card>
     <Card>
       <cardName>Lightning Bolt</cardName>
       <cardType>DelayTactics</cardType>
       <heroFaction>Red</heroFaction>
-      <cardDescription>Put this card into your judgment zone when you play it.
-At the beginning of a hero's turn, if this card is in that hero's judgment zone, he performs a judgment.
-If the result of the judgment is 2 Spade to 9 Spade, Lightning Bolt deals 3 thunder damage to him, otherwise move this card to the judgment zone of the next hero on the right hand side.
-If this card's effect is cancelled, move it to the next hero's judgment zone instead. 
+      <cardDescription>Place this card into your judgment zone when you play it. At the beginning of each hero's turn, if this card is in that hero's judgment zone, that hero performs a judgment. If the result of the judgment card is a 2 SPADES to 9 SPADES, LIGHTNING BOLT deals 3 LIGHTNING damage to that hero; otherwise move this card to the judgment zone of the next hero in sequence. Whenever this card's effect is cancelled or ignored, move it to the judgment zone of the next hero. 
 </cardDescription>
     </Card>
     <Card>
       <cardName>Rations Depleted</cardName>
       <cardType>DelayTactics</cardType>
       <heroFaction>Red</heroFaction>
-      <cardDescription>Put this card into the judgment zone of target hero within your range.
-At the beginning of a hero's draw phase, if this card is in that player's judgment zone, he performs a judgment.
-If the result of the judgment is not Club, he skips his draw phase.
+      <cardDescription>Place this card into the judgment zone of a target hero when you play it. At the beginning of that hero's turn, if this card is in that hero's judgment zone, that hero performs a judgment. If the result of the judgment card is not a CLUBS suit, that hero skips their draw phase.
 </cardDescription>
     </Card>
   </CardData>

@@ -133,7 +133,7 @@ Health/Gender:3F
 Ability:
 
 National Beauty:
-During your main phase, you may use your DIAMOND suited cards as ACEDIA.
+During your main phase, you may use your DIAMONDS suited cards as ACEDIA.
 
 Displace:
 Whenever you are the target of an ATTACK, you may discard a card from your hand or equipment zone; then choose another target hero other the attacker within your attack range, that hero becomes the new target of the ATTACK.</cardDescription>
@@ -181,10 +181,10 @@ Health/Gender:3F
 Ability:
 
 Heavenly Scent:
-Whenever you are dealt damage, you may discard a HEART suited card from your hand; then choose another target hero, that hero receives the amount of damage instead and draws a card for each damage recieved.
+Whenever you are dealt damage, you may discard a HEARTS suited card from your hand; then choose another target hero, that hero receives the amount of damage instead and draws a card for each damage recieved.
 
-Youthful Beauty: (Passive)
-Your Spade cards in your hand and equipment zone and judgement result cards are considered as Heart cards instead.</cardDescription>
+Youthful Beauty:
+Your SPADES suited cards in your hand and equipment zone; and judgement card result cards are considered to be HEARTS suited cards instead.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhou Tai</cardName>
@@ -320,7 +320,7 @@ Health/Gender:3F
 Ability:
 
 Pacify:
-Once during your main phase, you may choose 2 target heroes with a different number of cards in their hand, the hero with the least amount cards in their hand takes a card from the hero with the higher amount of cards in their hand and reveals it. If the suit of the revealed card is not a SPADE suit, you draw a card.
+Once during your main phase, you may choose 2 target heroes with a different number of cards in their hand, the hero with the least amount cards in their hand takes a card from the hero with the higher amount of cards in their hand and reveals it. If the suit of the revealed card is not a SPADES suit, you draw a card.
 
 Reminiscence:
 When you are dead, you may choose a target hero other than the killer, that hero draws 3 cards and gains 1 health.</cardDescription>
@@ -336,11 +336,11 @@ Health/Gender: 4M
 Ability:
 
 Plague Fire:
-Whenever you use a NORMAL ATTACK, you may treat it as a fire ATTACK. If this ATTACK deals damage, you lose 1 health.
-Your fire ATTACKs may target an additional hero.
+Whenever you play an ATTACK, you may treat it as a FIRE ATTACK. If this FIRE ATTACK deals damage, you lose 1 health.
+This FIRE ATTACK may target an additional hero.
 
 Superior Vintage:
-At the end of your turn, if you have no [VINTAGE] attached to your hero card, you may attach any number of ATTACK cards onto your hero as [VINTAGE]. Whenever a hero is on the brink of death, you may discard a [VINTAGE]; this is treated as that hero playing a WINE.</cardDescription>
+At the end of your turn, if you have no [VINTAGE] cards attached to your hero card, you may attach any number of ATTACK cards onto your hero as [VINTAGE]. Whenever a hero is on the brink of death, you may discard a [VINTAGE]; this is treated as that hero playing a WINE.</cardDescription>
     </Card>
     <Card>
       <cardName>Han Dang</cardName>
@@ -353,7 +353,7 @@ Health/Gender: 4M
 Ability:
 
 Mounted Archer:
-Once during your main phase, you may discard a card from your hand or equipment zone; if you do, you ignore attack range requirements end of turn. If the discarded card is an equipment card, you may discard a card from another target hero's hand or equipment zone.
+Once during your main phase, you may discard a card from your hand or equipment zone; if you do, you ignore attack range requirements until the end of your turn. If the discarded card is an equipment card, you may discard a card from another target hero's hand or equipment zone.
 
 Problem Solve: (Limited Ability)
 During your main phase, you may choose a target hero. All heroes that that have the target hero within attack range must choose to:
@@ -373,7 +373,7 @@ Ability:
 Seize Weapon:
 Whenever you are dealt damage by an ATTACK, you may discard a card from your hand or equipment zone. If you do, take the weapon from the equipment zone of the source of damage into your hand.
 
-Backstab: (Passive)
+Backstab:
 Whenever you have dealt damage to a target hero with an ATTACK, if you are not within his attack range, this ATTACK deals an 1 additional damage.</cardDescription>
     </Card>
     <Card>
@@ -516,7 +516,7 @@ During your main phase, if your hand limit is greater than 0, you may draw a car
 (X is your current health)
 
 Chain of Disasters:
-Whenever you are dealt fire damage, if your hero card is chained and you are the first hero among the chained heroes to receive the damage, this damage is increased by 1</cardDescription>
+Whenever you are dealt FIRE damage, if your hero card is chained and you are the first hero among the chained heroes to receive the damage, this damage is increased by 1</cardDescription>
     </Card>
     <Card>
       <cardName>Xu Shi</cardName>
@@ -553,7 +553,7 @@ When another target hero plays a card in response to a card you have played, you
 When another target hero plays a card in response to a card you have played, you may take the card that hero played into your hand.
 
 Training:
-At the end of your turn, you may have target hero draw as many cards as there are DIAMOND suited cards on the field. Then that hero discards X cards. If they have discarded all their cards, you can upgrade [RECOVERY] and lose the [TRAINING] ability for the rest of the game.</cardDescription>
+At the end of your turn, you may have target hero draw as many cards as there are DIAMONDS suited cards on the field. Then that hero discards X cards. If they have discarded all their cards, you can upgrade [RECOVERY] and lose the [TRAINING] ability for the rest of the game.</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

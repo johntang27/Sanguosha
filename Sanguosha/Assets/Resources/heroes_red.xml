@@ -13,7 +13,7 @@ Ability:
 
 Kindness:
 During your main phase, you may give any number of cards from your hand to any number of heroes.
-Once during a game, the first time you give out 2 or more cards to a target hero, you gain 1 health.
+Once during your main phase, the first time you give out 2 or more cards to a target hero, you gain 1 health.
 
 Rouse: (Emperor Ability)
 Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.</cardDescription>
@@ -161,7 +161,7 @@ Whenever you play an ATTACK, you may target a hero whose range between you and t
 
 Whenever you target a hero with an ATTACK:
 1. If the number of cards in that hero's hand is less than or equal to your's, this ATTACK cannot be cancelled by DODGE.
-2. If the target hero's current health is greater than or equal to your health, this ATTACK deal 1 additional damage.</cardDescription>
+2. If the target hero's current health is greater than or equal to your health, this ATTACK deals 1 additional damage.</cardDescription>
     </Card>
     <Card>
       <cardName>Wei Yan</cardName>
@@ -229,7 +229,7 @@ You ignore the effects of BARBARIAN ASSAULT. You are considered as the source of
 
 Resurgence:
 During your draw phase, if you are damaged, you may skip your draw and reveal X cards from the top of the library. (X is your missing health.)
-Discard each HEART card revealed and you gain 1 health; then take the remaining revealed cards into your hand.</cardDescription>
+Discard each HEARTS card revealed and you gain 1 health; then take the remaining revealed cards into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Jiang Wei</cardName>
@@ -249,6 +249,23 @@ At the beginning of your turn, if you have no cards in your hand, gain 1 health 
 
 [Stargazing]:
 At the beginning of your turn, you may look at the top X cards of the library, where X is equal to the number of surviving heroes (Max 5); you may choose to put any number of these cards on top and bottom of the library in any order.</cardDescription>
+    </Card>
+	<Card>
+      <cardName>Pang Tong</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Title: Young Phoenix
+      
+Health/Gender: 3M
+
+Ability:
+
+Shackles:
+During you main phase, you may use a CLUBS suited card from your hand as IRON CHAINS; or recast that card.
+
+Nirvana: (Limited Ability)
+Whenever you are on the brink of death, you may discard all cards from your hand, equipment zone and judgement zone; if you do, flip your hero card face up, draw 3 cards and return to 3 health.
+      </cardDescription>
     </Card>
     <Card>
       <cardName>Ma Su</cardName>
@@ -278,9 +295,9 @@ Health/Gender: 3M
 Ability:
 
 Reciprocation:
-Whenever you gain 2 cards from another hero, you may have that hero draw a card. Whenever you are dealt damage, for each damage, the damage source chooses one of the following:
-1. Give you a card from their hand.
-2. Lose 1 health.
+Whenever you gain 2 cards from another hero, you may have that hero draw a card. Whenever you are dealt damage, for each damage, the source of damage chooses one of the following:
+1. Gives you a card from their hand.
+2. Source of damage loses 1 health.
 
 Dazzle:
 During your drawing phase, you may skip your draw and target another hero to draw 2 cards; then that hero must play an ATTACK on another hero of your choice within their attack range. If that hero does not, you take 2 cards from their hand inot your hand.</cardDescription>
@@ -529,24 +546,7 @@ Whenever you are the target of an ATTACK you can clash with the attacker. If you
 
 Heavenly Defense:
 Whenever you clash, you may use the top of the library.
-HEART cards you reveal during a clash are treated as a K rank.</cardDescription>
-    </Card>
-    <Card>
-      <cardName>Pang Tong</cardName>
-      <cardType>Heroes</cardType>
-      <heroFaction>Red</heroFaction>
-      <cardDescription>Title: Young Phoenix
-      
-Health/Gender: 3M
-
-Ability:
-
-Shackles:
-During you main phase, you may use a CLUB suited card from your hand as IRON CHAINS; or recast that card.
-
-Nirvana: (Limited Ability)
-Whenever you are on the brink of death, you may discard all cards from your hand, equipment zone and judgement zone; if you do, flip your hero card face up, draw 3 cards and return to 3 health.
-      </cardDescription>
+HEARTS cards you reveal during a clash are treated as a K rank.</cardDescription>
     </Card>
 	<Card>
       <cardName>Wu Xian</cardName>
@@ -566,7 +566,7 @@ At the beginning of your turn, you may choose one:
 If you have chosen a different option than your previous turn, add +1 to your chosen option's value for this turn, and then reset the values on this skill at the end of turn.
 
 Careless
-At the end of your turn you may have another target hero take 1 random HEART suited basic card from the deck. Then if that hero was the target of this skill in the previous turn, that hero loses 1 health.
+At the end of your turn you may have another target hero take 1 random HEARTS suited basic card from the deck. Then if that hero was the target of this skill in the previous turn, that hero loses 1 health.
 </cardDescription>
     </Card>
   </CardData>

@@ -83,9 +83,9 @@ Health/Gender: 4M
 Ability:
 
 Staunch:
-Whenever you are dealt damage, you may perform a judgement. If the result is not a Heart suit, the source of damage chooses one:
-1. Source of damage discards 2 cards from their hand
-2. Source of damage takes 1 damage</cardDescription>
+Whenever you are dealt damage, you may perform a judgement. If the result is not a HEARTS suit, the source of damage chooses one:
+1. Source of damage discards 2 cards from their hand.
+2. Source of damage takes 1 damage.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Liao</cardName>
@@ -148,7 +148,7 @@ At the beginning of your turn, you may perform a judgement; if the result is BLA
 (If the result is RED, the revealed card is discarded and the process ends.)</cardDescription>
     </Card>
     <Card>
-      <cardName>Xia Hou Yuan</cardName>
+      <cardName>Xiahou Yuan</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Lightning Panther
@@ -255,7 +255,7 @@ Ability:
 
 Strategic Farming:
 Whenever you play a card from your hand, or discard a card from your hand or equipment zone outside your turn, you perform a judgement.
-If the result is not a HEART suit, you attach the judgement card on your hero card. That card is now considered as a [FIELD].
+If the result is not a HEARTS suit, you attach the judgement card on your hero card. That card is now considered as a [FIELD].
 
 The physical range you see other heroes is reduced by X, where X is number of [FIELD] cards attached to you.
 
@@ -276,7 +276,7 @@ Health/Gender: 3M
 Ability:
 
 Falling Bloom:
-Whenever another hero discards a CLUB suited card or their CLUB suited judgement card is put into the graveyard, you may place any number of them into your hand.
+Whenever another hero discards a CLUBS suited card or their CLUBS suited judgement card is put into the graveyard, you may place any number of them into your hand.
 
 Drunken Quatrain:
 Whenever you want to play a WINE, if your hero card is facing up, you may flip it face down. If you do, it is considered that you have played a WINE.
@@ -543,7 +543,7 @@ Bluffing:
 During your discard phase, if you have discarded at least 2 cards with different suits, you may gain 1 health or draw a card.
 
 Flattery:
-Once during each hero's main phase, if you have a card that you can play in your hand, you may target a hero and that hero discards a card from their hand, then you cannot play a card with the same suit as the discarded card for the rest of this turn. If the discarded card is a SPADE suit, you flip your hero card and lose 1 health.</cardDescription>
+Once during each hero's main phase, if you have a card that you can play in your hand, you may target a hero and that hero discards a card from their hand, then you cannot play a card with the same suit as the discarded card for the rest of this turn. If the discarded card is a SPADES suit, you flip your hero card and lose 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Xin Xian Ying</cardName>
@@ -558,7 +558,7 @@ Ability:
 Loyalty:
 Once during your main phase, you may reveal 1 card from your hand, then choose a target hero with a hand size that is greater than their current health to reveal X cards from their hand. (X is the difference between hand cards and current HP) Compare the revealed cards and apply the following:
 1. If at least 1 of that hero's revealed cards has the same color as your card, you draw 1 card from the deck or discard 1 card from that hero.
-2. If at least 1 of that hero's revealed cards has the same rank as your card, change this ability to TWICE DURING YOUR TURN.
+2. If at least 1 of that hero's revealed cards has the same rank as your card, change this ability to "TWICE DURING YOUR TURN".
 3. If there are no color or ranks matching, your hand size limit is reduced by 1 for the rest of the game.
 
 Ability and Insight:
@@ -570,13 +570,13 @@ At the beginning of your draw phase, you may choose one:
       <cardName>Ji Kang</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
-      <cardDescription>Title: Lonely and Peaceful in the High Peaks
+      <cardDescription>Title: Isolated Serenity in the High Peaks
 
 Health/Gender: 3M
 
 Ability:
 
-Gentle Chords:
+Harmonizing Chords:
 Whenever you are dealt damage, you may choose to have the source of damage:
 1. Lose 1 health and equip a random equipment from the deck. (Draw until an equipment is reveal, then return the rest of the cards back and shuffle the deck)
 2. Gain 1 health and discard 1 equipment.
@@ -587,27 +587,31 @@ Whenever you gain health, you may choose another target hero to:
 
 If the equipment card played or discarded was CLUBS suited, you draw a card.
 
-Soundless:
-When you are dead, you may choose a target hero to randomly gain a ability from [GENTLE CHORD MANUSCRIPT]. Until the beginning of his next turn, that hero cannot be the target of CLUBS suited cards.
-(Assign a suit to each ability on [GENTLE CHORD MANUSCRIPT], then reveal a card from the deck to determine the ability being gained.) </cardDescription>
+Silence:
+When you are dead, you may choose a target hero to randomly gain a ability from [HARMONIZING CHORD MANUSCRIPT]. Until the beginning of that hero's next turn, that hero cannot be the target of CLUBS suited cards.
+(Assign a suit to each ability on [HARMONIZING CHORD MANUSCRIPT], then reveal a card from the deck to determine the ability being gained.) </cardDescription>
     </Card>
     <Card>
-      <cardName>Gentle Chords Manuscript</cardName>
+      <cardName>Harmonizing Chords Manuscript</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Ability:
-	  
-Harmonious Chord:
-Whenever you gain health, you may choose another target hero to gain 1 health and discard an equipment.
 
-Gentle Chord:
-Whenever you are dealt damage, you may have the source of damage gain 1 health and discard an equipment.
+(Whenever you gain an abiltity from this card, you cannot be targeted by CLUBS suited cards until the beginning of your turn.)
+
+Violent Chord:
+Whenever you are dealt damage, you may have the source of damage lose 1 health and equip a random equipment from the deck.
 
 Intense Chord:
 Whenever you gain health, you may choose another target hero to lose 1 health and equip a random equipment from the deck.
 
-Violent Chord:
-Whenever you are dealt damage, you may have the source of damage lose 1 health and equip a random equipment from the deck. (Draw until an equipment is reveal, then return the rest of the cards back and shuffle the deck)</cardDescription>
+Gentle Chord:
+Whenever you are dealt damage, you may have the source of damage gain 1 health and discard an equipment.
+
+Harmonious Chord:
+Whenever you gain health, you may choose another target hero to gain 1 health and discard an equipment.
+
+(Draw until an equipment is reveal, then return the rest of the cards back and shuffle the deck)</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

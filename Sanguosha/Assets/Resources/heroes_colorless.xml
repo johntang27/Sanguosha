@@ -13,14 +13,14 @@ Ability:
 
 Lightning Strike:
 Whenever you play or use a DODGE, you may choose another target hero and perform a judgment:
-1. If the result is a SPADE suit, you deal 2 Lightning damage to that hero.
-2. If the result is a CLUB suit, you deal 1 Lightning damage to that hero and gain 1 health.
+1. If the result is a SPADES suit, you deal 2 LIGHTNING damage to that hero.
+2. If the result is a CLUBS suit, you deal 1 LIGHTNING damage to that hero and gain 1 health.
 
 Dark Magic:
 Whenever a hero performs a judgement, you may take the judgement card and replace it with a BLACK card from your hand or equipment zone. The judgement is resolved with the new card.
 
 Amber Sky: (Emperor Ability)
-Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS faction hero may give you a DODGE or LIGHTNING card.</cardDescription>
+Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS faction hero may give you a DODGE or LIGHTNING BOLT card.</cardDescription>
     </Card>
     <Card>
       <cardName>Yuan Shao</cardName>
@@ -49,7 +49,7 @@ Health/Gender: 8M
 Ability:
 
 Drown in Wine:
-You may use a SPADE suited card from your hand as WINE.
+You may use a SPADES suited card from your hand as WINE.
 
 Garden of Lust:
 When a FEMALE hero plays an ATTACK on you, it can only be cancelled by 2 DODGE and vice versa.
@@ -182,7 +182,7 @@ Health/Gender: 4M
 Ability:
 
 Dual Heroes:
-At the beginning og your draw phase, you may choose to skip your draw and perform a judgment; reveal the judgment card and take it into your hand. 
+At the beginning of your draw phase, you may choose to skip your draw and perform a judgment; reveal the judgment card and take it into your hand. 
 Until the end of your turn, you may play cards in your hand with opposite color to the revealed card as a DUEL.</cardDescription>
     </Card>
     <Card>
@@ -236,10 +236,10 @@ Song of Lament:
 Whenever a hero is dealt damage by an ATTACK, you may discard a card from your hand or equipment zone and perform a judgment.
 
 If the result is:
-HEART: The defender gains 1 life.
-DIAMOND: The defender draws 2 cards.
-CLUB: The source of damage discards 2 cards.
-SPADE: The source of damage flip their hero card.
+HEARTS: The defender gains 1 life.
+DIAMONDS: The defender draws 2 cards.
+CLUBS: The source of damage discards 2 cards.
+SPADES: The source of damage flip their hero card.
 
 Sorrow:
 The hero who killed you loses all abilities for the rest of the game.</cardDescription>
@@ -332,7 +332,7 @@ Once during your main phase, you may put one BLACK tactics card on top of the de
 Burn the City: (Limited ability)
 During your main phase, you may target each other hero. Each targeted hero in sequence must choose one of the following:
 1. Discard 1 + X cards from hand or equipment zone. (X is the number of cards the previous player has discarded.)
-2. You deal 2 fire damage to that target hero.</cardDescription>
+2. You deal 2 FIRE damage to that target hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Ju Shou</cardName>
@@ -470,7 +470,7 @@ Health/Gender: 3M
 Ability:
 
 Discourse in Praise:
-Whenever you play or become the target of another hero's SPADE card, you may take a card from the top of the deck and attach it to you hero as a [BOOK]. (max. 4)
+Whenever you play or become the target of another hero's SPADES card, you may take a card from the top of the deck and attach it to you hero as a [BOOK]. (max. 4)
 Each [BOOK] card increases your hand size limit by 1.
 
 Extensive Communication:
