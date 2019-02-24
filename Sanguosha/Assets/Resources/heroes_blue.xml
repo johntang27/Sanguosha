@@ -47,10 +47,11 @@ Health/Gender: 3M
 Ability:
 
 Restoration:
-Whenever you are dealt damage, you may have target hero perform a judgement, if the result is  that hero gains 1 health; if the result is BLACK, that hero draws X cards. (X is the amount of damage that was dealt to you).
+Whenever you are dealt damage, you may have a target hero perform a judgement, if the result is RED that hero gains 1 health; if the result is BLACK, that hero draws X cards.
+(X is the amount of damage that was dealt to you).
 
 Eagle Eye:
-Once per hero's main phase, you may give all cards in your hand to another hero. If you do, that hero's hand size is increased by 1 and can use an additional ATTACK until the end of his next turn.
+Once per a hero's main phase, you may give all cards in your hand to another hero. If you do, that hero's hand size is increased by 1 and can use an additional ATTACK until the end of his next turn.
 
 Boom and Bust: (Emperor Ability, Limited Ability)
 When you are on brink of death, you may ask every other WEI faction hero in sequence to allow you to gain 1 health until every hero has respond. If they chose to have you gain health, they receive 1 damage after resolving this effect.</cardDescription>
@@ -98,8 +99,8 @@ Health/Gender: 4M
 Ability:
 
 Ambush:
-At the beginning of your draw phase, you may skip your draw. If you do, you may take 1 card from the hand of up to 2 target heroes.
-(You may target the same hero twice.)</cardDescription>
+At the beginning of your draw phase, you may skip your draw. If you do, you may take a total of 2 cards from the hands of up to 2 target heroes.
+(You may choose to take the 2 cards from a single targeted hero.)</cardDescription>
     </Card>
     <Card>
       <cardName>Xu Zhu</cardName>
@@ -125,10 +126,10 @@ Health/Gender: 3M
 Ability:
 
 Heaven's Envy:
-Whenever your judgment is resolved, put that judgment card into your hand
+Whenever your judgment is resolved, take the judgment card into your hand.
 
 Bestowed Rouse:
-Whenever you are dealt damage, for each damage you receive, look at 2 cards on top of the library and then give each card to any number of target heroes. (Can be the same target hero)</cardDescription>
+Whenever you are dealt damage, for each damage you receive, look at 2 cards from the top of the library and then give each card to any number of target heroes. (Can be the same target hero)</cardDescription>
     </Card>
     <Card>
       <cardName>Zhen Ji</cardName>
@@ -163,7 +164,7 @@ You may choose up to 3 of the following options:
 2. Skip your main phase and discard an equipment card from your hand or equipment zone.
 3. Skip your discard phase and flip your hero card.
 
-For each option you have chosen, treat that as playing an ATTACK on any target hero, ignore any  requirements for these ATTACK.</cardDescription>
+For each option you have chosen, treat that as playing an ATTACK on any target hero, ignore any requirements for these ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Ren</cardName>
@@ -223,8 +224,8 @@ Health/Gender: 4M
 Ability:
 
 Blockade:
-During your main phase, you may play a BLACK card from your hand or BLACK equipment cards as RATIONS DEPLETED.
-You may play RATIONS DEPLETED on heroes within a physical  of 2.</cardDescription>
+During your main phase, you may play BLACK basic or equipment cards as RATIONS DEPLETED.
+You may play RATIONS DEPLETED on heroes within a physical range of 2 from you.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang He</cardName>
@@ -237,10 +238,11 @@ Health/Gender: 4M
 Ability:
 
 Flexibility: 
-During you turn, you may discard a card from your hand to skip one of your turn phases. (Except the start of turn and end of turn)
+During you turn, you may discard a card from your hand to skip one of your turn phases.
+(Except the start of turn and end of turn)
 
 If you skip:
-1. Draw Phase: Choose 2 target heroes and take 1 card from each of their hands into your hand.
+1. Draw Phase: Choose 2 target heroes and take 1 card from each of their hands.
 2. Main Phase: You may move an equipment card to another empty equipment zone, or move an judgment card to another empty judgment zone.</cardDescription>
     </Card>
     <Card>
@@ -254,7 +256,7 @@ Health/Gender: 4M
 Ability:
 
 Strategic Farming:
-Whenever you play a card from your hand, or discard a card from your hand or equipment zone outside your turn, you perform a judgement.
+Whenever you play a card from your hand, or discard a card from your hand or equipment zone outside of your turn, you perform a judgement.
 If the result is not a HEARTS suit, you attach the judgement card on your hero card. That card is now considered as a [FIELD].
 
 The physical range you see other heroes is reduced by X, where X is number of [FIELD] cards attached to you.
@@ -276,10 +278,10 @@ Health/Gender: 3M
 Ability:
 
 Falling Bloom:
-Whenever another hero discards a CLUBS suited card or their CLUBS suited judgement card is put into the graveyard, you may place any number of them into your hand.
+Whenever another hero discards a CLUBS suited card or their CLUBS suited judgement card is put into the graveyard, you may take any number of them into your hand.
 
 Drunken Quatrain:
-Whenever you want to play a WINE, if your hero card is facing up, you may flip it face down. If you do, it is considered that you have played a WINE.
+Whenever you want to play a WINE, if your hero card is facing up, you may flip it face down. If you do, it is treated as if you have played a WINE.
 
 Whenever you are dealt damage, if you hero card is facing down, you may flip it face up.</cardDescription>
     </Card>
@@ -294,9 +296,9 @@ Health/Gender: 4M
 Ability:
 
 Commander:
-At the beginning of your turn, you may target a hero with a number of cards in their hand greater than their current health and discard X cards from their hand or equipment zone (X is the difference between the cards in their hand and their current health), then you choose one of the following:
-1. For each non-equipment card discarded card, you must discard a card from your hand or equipment zone.
-2. The target hero draws X cards.</cardDescription>
+At the beginning of your turn, you may target a hero with an amount of cards in their hand greater than their current health and discard X cards from their hand or equipment zone (X is the difference between the cards in their hand and their current health), then you choose one of the following:
+1. For each non-equipment card discarded, you must discard a card from your hand or equipment zone.
+2. The targeted hero draws X cards.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Chun Hua</cardName>
@@ -309,7 +311,8 @@ Health/Gender: 3F
 Ability:
 
 Heartless:
-All damage dealt by you is considered as loss of health. 
+All damage dealt by you is considered as loss of health.
+(Loss of health is different than dealing damage, you are not considered to have dealt damage when a hero has loss health.)
 
 Bereavement:
 Whenever you have less than X cards in your hand, draw until you have X cards. (X is your missing health)</cardDescription>
@@ -392,7 +395,7 @@ Health/Gender: 3M
 Ability:
 
 Weight the Elephant:
-Whenever you are dealt damage, for each damage taken, reveal the top 4 cards of the deck. You place any number of revealed cards with rank total less than or equal to 13 into your hand.
+Whenever you are dealt damage, for each damage taken from a source, reveal the top 4 cards of the deck. You place any number of revealed cards with rank total less than or equal to 13 into your hand.
 
 Benevolence:
 Whenever another hero wtih 1 health is dealt damage, you can flip your hero card and discard an equipment card to prevent all damage from the source.</cardDescription>
@@ -441,7 +444,7 @@ Health/Gender: 4M
 Ability:
 
 Defense Minister:
-At the beginning of each other hero's main phase, you may discard a card from your hand with same color as one of your equipments. If you do, that hero cannot play or use any cards with the same color. At the end of the main phase, if he has not played an ATTACK, this is treated as you playing an ATTACK on him.</cardDescription>
+At the beginning of each other hero's main phase, you may discard a card from your hand with same color as one of your equipments. If you do, that hero cannot play or use any cards with the same color. At the end of their main phase, if the targeted hero has not played an ATTACK, this is treated as you playing an ATTACK on him.</cardDescription>
     </Card>
     <Card>
       <cardName>Han Hao &amp; Shi Huan</cardName>
@@ -522,7 +525,7 @@ Health/Gender: 3F
 Ability:
 
 Forging Edict:
-Once per main phase, you may reveal a card from your hand, and then target a hero with the closest physical range to you. That hero announces a basic card name. Until the end of your turn you may treat your revealed card as the announced card. (You cannot be the target of the announced card.)
+Once per main phase, you may reveal a card from your hand, and then target a hero with the closest physical range to you. That hero announces a basic card name. Until the end of your turn you may treat your revealed card as the announced card. (You cannot and will not be the target of the announced card.)
 Upgrade 1: Once per main phase, you may reveal a card from your hand, and then target a hero with the closest physical range to you. That hero announces a basic or non-delay tactics card name. Until the end of your turn you may treat your revealed card as the announced card. (You cannot be the target of the announced card.)
 Upgrade 2: Once per main phase, you may treat a card in your hand as any basic or non-delay tactics card. (You cannot be the target of the announced card)
 
@@ -556,10 +559,12 @@ Health/Gender: 3F
 Ability:
 
 Loyalty:
-Once during your main phase, you may reveal 1 card from your hand, then choose a target hero with a hand size that is greater than their current health to reveal X cards from their hand. (X is the difference between hand cards and current HP) Compare the revealed cards and apply the following:
-1. If at least 1 of that hero's revealed cards has the same color as your card, you draw 1 card from the deck or discard 1 card from that hero.
-2. If at least 1 of that hero's revealed cards has the same rank as your card, change this ability to "TWICE DURING YOUR TURN".
+Once during your main phase, you may reveal 1 card from your hand, then choose a target hero with a hand size that is greater than their current health to reveal X cards from their hand, where X is the difference between hand cards and current HP. Then compare the revealed cards and apply the following:
+1. If at least 1 of the targeted hero's revealed cards has the same color as your card, you draw 1 card from the deck or discard 1 card from that hero.
+2. If at least 1 of the targeted hero's revealed cards has the same rank as your card, change this ability to "TWICE DURING YOUR TURN".
 3. If there are no color or ranks matching, your hand size limit is reduced by 1 for the rest of the game.
+
+(You choose and reveal the cards from the targeted hero's hand.)
 
 Ability and Insight:
 At the beginning of your draw phase, you may choose one:

@@ -5,6 +5,10 @@ using UnityEngine.UI;
 
 public class UIManager : Singleton<UIManager> {
 
+    [Header("Main Selection")]
+    public GameObject debugConsole;
+    bool isConsoleOn = true;
+
     [Header("Card Selection")]
     public int currentSelection = 0; //0-normal selection; 1-round selection
     public GameObject cardSelection;
@@ -210,5 +214,11 @@ public class UIManager : Singleton<UIManager> {
             removeCardButton.interactable = false;
             Destroy(content.GetChild(index).gameObject);
         }
+    }
+
+    public void ToggleDebugConsole()
+    {
+        isConsoleOn = !isConsoleOn;
+        debugConsole.SetActive(isConsoleOn);
     }
 }

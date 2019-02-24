@@ -5,17 +5,17 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{CBF9992D-FC5A-E5BC-B2D6-49C10FB14808}</ProjectGuid>
+    <ProjectGuid>{A909E001-EEAE-10D8-BED1-0FB97AA654B0}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectGenerator>VSTU</UnityProjectGenerator>
-    <UnityProjectType>Editor:5</UnityProjectType>
+    <UnityProjectType>GamePlugins:3</UnityProjectType>
     <UnityBuildTarget>Android:13</UnityBuildTarget>
     <UnityVersion>2017.3.1f1</UnityVersion>
     <RootNamespace></RootNamespace>
@@ -295,17 +295,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Sanguosha.Plugins.csproj">
-      <Project>{A909E001-EEAE-10D8-BED1-0FB97AA654B0}</Project>
-      <Name>Sanguosha.Plugins</Name>
-    </ProjectReference>
-    <ProjectReference Include="Sanguosha.csproj">
-      <Project>{2DA9201D-DA9A-D9D6-0CEC-5351DAF551AD}</Project>
-      <Name>Sanguosha</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Assets\Editor\CardDataEditor.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\ConsoleMethodAttribute.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogConsole.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogEntry.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogIndexList.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogItem.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogLogcatListener.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogManager.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogPopup.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugLogRecycledListView.cs" />
+    <Compile Include="Assets\Plugins\IngameDebugConsole\Scripts\DebugsOnScrollListener.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\IngameDebugConsole\README.txt" />

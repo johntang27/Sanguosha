@@ -58,8 +58,8 @@ Ability:
 
 Hostile Banquet:
 Once during your main phase, you may choose another target hero to choose one of the following:
-1. Target hero discards a card.
-2. Target hero gives you all their equipment cards from their equipment zone, and then you lose [HOSTILE BANQUET] ability for the rest of the game.
+1. The targeted hero discards a card.
+2. The targeted hero gives you all their equipment cards from their equipment zone, and then you lose [HOSTILE BANQUET] ability for the rest of the game.
 
 Vitalizing Education:
 At the end of your turn, you may target X heroes. Each target hero in sequence draws a card and then puts a card on top of the library from their hand or equipment zone. (X is your current health. If you have lost [HOSTILE BANQUET], X is your max health.)
@@ -181,10 +181,11 @@ Health/Gender:3F
 Ability:
 
 Heavenly Scent:
-Whenever you are dealt damage, you may discard a HEARTS suited card from your hand; then choose another target hero, that hero receives the amount of damage instead and draws a card for each damage recieved.
+Whenever you are dealt, you may discard a HEARTS suited card from your hand; then choose another target hero, the damage is dealt to the target hero instead, then the target hero draws cards equal to the amount of their missing health.
+(You do not become the new source fo this damage, the original source of damage does not change.)
 
 Youthful Beauty:
-Your SPADES suited cards in your hand and equipment zone; and judgement card result cards are considered to be HEARTS suited cards instead.</cardDescription>
+Your SPADES suited cards in your hand, equipment zone, and any judgement card results are considered to be HEARTS suited cards instead.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhou Tai</cardName>
@@ -197,8 +198,8 @@ Health/Gender: 4M
 Ability:
 
 Undying:
-Whenever you are on the brink of death, reveal a card from the top of the library; then if there are no [WOUND] cards with same rank attached to you, you gain 1 health and attach the revealed card as a [WOUND] onto your hero card as [WOUND]. If there is a [WOUND] card with the same rank as your revealed card, discard the revealed card into the graveyard and return to resolving your brink of death phase.
-If you have any [WOUND] cards attached to your hero, your hand size limit is equal to the number of [WOUND] cards attached to your hero.
+Whenever you are on the brink of death, reveal a card from the top of the library; then if there are no [WOUND] cards with same rank attached to you, you gain 1 health and attach the revealed card as a [WOUND] card onto your hero. If there is a [WOUND] card with the same rank as your revealed card, discard the revealed card into the graveyard and return to resolving your brink of death phase.
+If you have any [WOUND] cards attached to your hero, your hand size limit becomes equal to the number of [WOUND] cards attached to your hero.
 
 Inspire:
 Whenever a hero discards a card or has a card taken by another hero, you may lose 1 life. If you do, the hero that discarded cards draws 2 cards.</cardDescription>
@@ -229,8 +230,8 @@ Ability:
 
 Brave Sprit:
 At the beginning of your turn, if you are damaged, you may have another target hero choose one of the following:
-1. Target hero draws X cards, then discards 1 card from their hand or equipment zone.
-2. Target hero raws 1 card, then discards X cards from their hand or equipment zone.
+1. The targeted hero draws X cards, then discards 1 card from their hand or equipment zone.
+2. The targeted hero draws 1 card, then discards X cards from their hand or equipment zone.
 (X is your missing health)</cardDescription>
     </Card>
     <Card>
@@ -261,10 +262,10 @@ Ability:
 
 Blunt Advice:
 During your main phase, you may play an equipment card onto another hero's equipment zone, then draw 1 card.
-(You cannot replace a equipment from an occupied slot)
+(You cannot replace a equipment from an occupied slot.)
 
 Solid Governance:
-At the end of each other hero's discard phase, you may put 1 card discarded by that hero during their discard phase back into their hand, then take the other discarded cards into your hand.</cardDescription>
+At the end of each other hero's discard phase, you may put 1 card discarded by that hero during their discard phase back into their hand, then take all other discarded cards into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Ling Tong</cardName>
@@ -320,7 +321,7 @@ Health/Gender:3F
 Ability:
 
 Pacify:
-Once during your main phase, you may choose 2 target heroes with a different number of cards in their hand, the hero with the least amount cards in their hand takes a card from the hero with the higher amount of cards in their hand and reveals it. If the suit of the revealed card is not a SPADES suit, you draw a card.
+Once during your main phase, you may choose 2 target heroes with different amounts of cards in their hand, the hero with the least amount cards in their hand takes a card from the hero with the higher amount of cards in their hand and then reveals it. If the suit of the revealed card is not a SPADES suit, you draw a card.
 
 Reminiscence:
 When you are dead, you may choose a target hero other than the killer, that hero draws 3 cards and gains 1 health.</cardDescription>
@@ -353,12 +354,12 @@ Health/Gender: 4M
 Ability:
 
 Mounted Archer:
-Once during your main phase, you may discard a card from your hand or equipment zone; if you do, you ignore attack range requirements until the end of your turn. If the discarded card is an equipment card, you may discard a card from another target hero's hand or equipment zone.
+Once during your main phase, you may discard a card from your hand or equipment zone; if you do, ignore attack range requirements until the end of your turn. If the discarded card is an equipment card, you may discard a card from another target hero's hand or equipment zone.
 
 Problem Solve: (Limited Ability)
-During your main phase, you may choose a target hero. All heroes that that have the target hero within attack range must choose to:
+During your main phase, you may choose a target hero. All heroes that that have the targeted hero within their attack range must choose to:
 1. Discard a weapon card.
-2. Allow target hero to draw a card.</cardDescription>
+2. Allow the targeted hero to draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Pan Zhang &amp; Ma Zhong</cardName>
@@ -553,7 +554,8 @@ When another target hero plays a card in response to a card you have played, you
 When another target hero plays a card in response to a card you have played, you may take the card that hero played into your hand.
 
 Training:
-At the end of your turn, you may have target hero draw as many cards as there are DIAMONDS suited cards on the field. Then that hero discards X cards. If they have discarded all their cards, you can upgrade [RECOVERY] and lose the [TRAINING] ability for the rest of the game.</cardDescription>
+At the end of your turn, you may have target hero draw as many cards as there are DIAMONDS suited cards on the field. Then that hero discards X cards. If they have discarded all their cards, you can upgrade [RECOVERY] and lose the [TRAINING] ability for the rest of the game.
+(X is the number of times you activated this skill during this game.)</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

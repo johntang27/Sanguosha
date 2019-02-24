@@ -31,9 +31,9 @@ Whenever your ATTACK deals damage to a target hero, you may prevent that damage;
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 2
 Effect:
-Whenever you target a hero of the opposite gender with an ATTACK, that hero choose one of the following:
-1. Target hero discards a card from their hand.
-2. You draw a card.</cardDescription>
+Whenever you target a hero of the opposite gender with an ATTACK, before resolving the ATTACK that hero chooses one of the following:
+1. The defending hero discards a card from their hand.
+2. The attacking hero draws a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Azure Dragon Crescent Blade</cardName>
@@ -50,7 +50,12 @@ Whenever your ATTACK is canceled by a DODGE, you may play another ATTACK targeti
       <cardDescription>Attack Range: 3
 	  
 Effect:
-Whenever you want to play or discard an ATTACK targeting her, you may discard 2 cards from your hand and have this be treated as you playing an ATTACK.</cardDescription>
+Whenever you want to play or discard an ATTACK targeting a hero, you may discard 2 cards from your hand and have this be treated as you playing an ATTACK.
+If the 2 cards are both BLACK, the ATTACK is considered BLACK colored.
+If the 2 cards are both RED, the ATTACK is considered RED colored.
+If the 2 cards are different colors, the ATTACK is considered colorless.
+
+</cardDescription>
     </Card>
     <Card>
       <cardName>Rock Cleaving Axe</cardName>
@@ -68,7 +73,7 @@ Whenever your ATTACK is cancelled by a DODGE, you may discard 2 cards from your 
       <cardDescription>Attack Range: 4
 	  
 Effect:
-Whenever you play an ATTACK targeting a hero, if you have no cards in your hand, you may target up to 2 additional heroes within your attack range.</cardDescription>
+Whenever you play an ATTACK targeting a hero, if you have no cards left in your hand, you may target up to 2 additional heroes within your attack range with the ATTACK played.</cardDescription>
     </Card>
     <Card>
       <cardName>Kirin Bow</cardName>

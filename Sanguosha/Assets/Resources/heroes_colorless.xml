@@ -12,7 +12,7 @@ Health/Gender: 3M
 Ability:
 
 Lightning Strike:
-Whenever you play or use a DODGE, you may choose another target hero and perform a judgment:
+Whenever you play or use a DODGE, you may choose another target hero to perform a judgment:
 1. If the result is a SPADES suit, you deal 2 LIGHTNING damage to that hero.
 2. If the result is a CLUBS suit, you deal 1 LIGHTNING damage to that hero and gain 1 health.
 
@@ -33,7 +33,7 @@ Health/Gender: 4M
 Ability:
 
 Random Strike:
-During your main phase, you may play 2 cards of the same suit from your hand and treat it as you playing HAIL OF ARROWS.
+During your main phase, you may discard 2 cards of the same suit from your hand and treat it as you playing HAIL OF ARROWS.
 
 Bloodline:
 Your maximum hand size is increase by X, where X is 2 times the number of other surviving KINGDOMLESS faction heroes.</cardDescription>
@@ -101,7 +101,7 @@ Health/Gender: 3M
 Ability:
 
 Wedge Driving:
-Once during your main phase, you may discard a card and choose 2 target MALE heroes. If you do, this is treated as one of them playing a DUEL on the other. (You pick the hero which initiates the DUEL.)
+Once during your main phase, you may discard a card and choose 2 target MALE heroes. If you do, this is treated as one of them playing a DUEL on the other. (You pick which hero initiates the DUEL.)
 
 Eclipse:
 At the end of your turn, you may draw a card.</cardDescription>
@@ -202,7 +202,8 @@ Upheaval: (Limited Ability)
 During your main phase, each hero other than you must choose to play an ATTACK targeting another hero closest in attack range to them or lose 1 health.
 
 Shroud:
-You cannot be the target of BLACK tactics cards.</cardDescription>
+You cannot be the target of BLACK tactics cards.
+(This includes cards that target all heroes and non-delay tactics cards.)</cardDescription>
     </Card>
     <Card>
       <cardName>Zou Ci</cardName>
@@ -215,7 +216,8 @@ Health/Gender: 3M
 Ability:
 
 Incarnation:
-At the beginning of the game, you randomly take 2 unused hero cards as [INCARNATION], reveal them and declare one to be active. You only gain 1 ability from the active [INCARNATION]. (Emperor, Awakening, and Limited Abilities are excluded.) Your gender and faction become the gender and faction of the [INCARNATION].
+At the beginning of the game, you randomly take 2 unused hero cards as [INCARNATION], reveal them and declare one to be active. You only gain 1 ability from the active [INCARNATION]. Your gender and faction become the gender and faction of the [INCARNATION].
+(Emperor, Awakening, and Limited Abilities are excluded.)
 
 At the beginning and end of your turn, you may replace your active [INCARNATION] with another one and gain 1 ability from the new active [INCARNATION].
 
@@ -311,7 +313,7 @@ If you win, that hero may only play cards that target themself until the end of 
 If you lose, the physical range between the both of you is considered 1 until end of turn.
 
 Plead for Help:
-When you become the target of an ATTACK, you may choose a target hero other than the attacker. The target hero may give you a DODGE card. If the target hero does not, they become the additional target of the ATTACK.</cardDescription>
+When you become the target of an ATTACK, you may choose a target hero other than the attacker. The targeted hero may give you a DODGE card. If the targeted hero does not, they become the additional target of the ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Li Ru</cardName>
@@ -332,7 +334,7 @@ Once during your main phase, you may put one BLACK tactics card on top of the de
 Burn the City: (Limited ability)
 During your main phase, you may target each other hero. Each targeted hero in sequence must choose one of the following:
 1. Discard 1 + X cards from hand or equipment zone. (X is the number of cards the previous player has discarded.)
-2. You deal 2 FIRE damage to that target hero.</cardDescription>
+2. You deal 2 FIRE damage to the targeted hero.</cardDescription>
     </Card>
     <Card>
       <cardName>Ju Shou</cardName>
@@ -348,7 +350,8 @@ Progressive Strategy:
 Whenever you play a card during your main phase, if the card you play has the same rank or suit as the previous card you have played this turn, you may draw a card.
 
 Aiming the North:
-Whenever you are dealt damage, if it was the first time you are dealt damage this turn, you gain 1 health; if it was not the first time you are dealt damage this turn, you lose 1 health.</cardDescription>
+Whenever you are dealt damage, if it was the first time you are dealt damage this turn, you gain 1 health; if it was not the first time you are dealt damage this turn, you lose 1 health.
+(This effect activates before you enter the brink of death state.)</cardDescription>
     </Card>
     <Card>
       <cardName>Lady Cai</cardName>
@@ -383,7 +386,7 @@ Health/Gender: 4M
 Ability:
 
 Disloyalty: 
-Once during your main phase, you may reveal all cards in your hand. If they are not the same color, you discard all cards of one color, then choose X target heroes and take a card from each of their hand or equipment zone into your hand.
+Once during your main phase, you may reveal all cards in your hand. If all your cards are not the same color, you discard all cards of one color, then choose X target heroes and take a card from each of their hand or equipment zone into your hand.
 (X is the number of cards you discarded.)
 
 If you put 2 or more cards into your hand, you lose 1 health.</cardDescription>
@@ -403,7 +406,7 @@ At the beginning of your main phase, you may draw 2 cards. If you do, your hand 
 (X is the amount of damage you deal this turn.)
 
 Cover Up:
-Whenever you need to play a DODGE, you may choose to let the current turn hero draw a card, if that hero is not among heroes with the highest amount of cards in hand, you discard a card from a target hero's hand. The target hero must be among the heroes with the highest amount of cards in hand.
+Whenever you need to play a DODGE, you may choose to let the current turn hero draw a card, if that hero is not among heroes with the highest amount of cards in hand, you discard a card from a target hero's hand. The targeted hero must be among the heroes with the highest amount of cards in their hand.
 
 (If there is a draw among heroes with the highest amount of cards in hand, you may choose one of them to discard from.)</cardDescription>
     </Card>
@@ -418,7 +421,7 @@ Health/Gender: 4M
 Ability:
 
 Peacekeeping:
-Once per main phase, if the number of cards in your hand is greater than your current health, you may target a hero with you in their attack range; unless that hero plays an ATTACK targeting you, that hero gives you an equipment card from their equipment zone to your hand.
+Once per each hero's main phase, if the number of cards in your hand is greater than your current health, you may target a hero with you in their attack range; unless that hero plays an ATTACK targeting you, that hero gives you an equipment card from their equipment zone to your hand.
 
 Ancestral Blessing:
 At the beginning of the game, you increase your max health by X. (X is the number of factions in game.)
@@ -436,8 +439,8 @@ Health/Gender: 3M
 Ability:
 
 Creating Chaos:
-You may announce a basic card or non-delay tactics card name, then play a card in your hand as that card. You cannot announce the same name for [CREATING CHAOS] for the rest of the game. After the card's effect is resolved, you target another hero and that hero chooses one of the following:
-1. That hero gives you a card from their hand or equipment zone which is not the same type as the announced card.
+You may announce a basic card or non-delay tactics card name, then play a card from your hand as the named card. You cannot announce a card name you have already used for [CREATING CHAOS] for the rest of the game. After the card's effect is resolved, you target another hero and that hero chooses one of the following:
+1. The targeted hero gives you a card from their hand or equipment zone which is not the same type as the announced card.
 2. You lose 1 health and cannot use [CREATING CHAOS] for the rest of the turn.</cardDescription>
     </Card>
     <Card>
@@ -450,13 +453,13 @@ Health/Gender: 3M
 
 Ability:
 
-Righteousness: 
-At the end of your turn, if you don't have any [RICE] cards attached to you, you may draw 2 cards and attach 2 cards from your hand or equipment zone onto your character face-up as [RICE] cards. When you remove the last [RICE] card you gain 1 health.
+Free Accomondation: 
+At the end of your turn, if you don't have any [RICE] cards attached to you, you may draw 2 cards and attach 2 cards from your hand or equipment zone onto your character face-up as [RICE] cards. When the last [RICE] card is removed from you, you gain 1 health.
 
-Make Known: 
+Doante: 
 When you deal or are dealt damage, the hero who was dealt damage may put a [RICE] card into their hand per damage received.
 
-Rice Road:
+Rice Religion:
 When a player performs a judgment, you may replace the revealed judgement card with a [RICE] card. The new card becomes the judgment result.</cardDescription>
     </Card>
     <Card>
@@ -470,7 +473,7 @@ Health/Gender: 3M
 Ability:
 
 Discourse in Praise:
-Whenever you play or become the target of another hero's SPADES card, you may take a card from the top of the deck and attach it to you hero as a [BOOK]. (max. 4)
+Whenever you play or become the target of another hero's SPADES suited card, you may take a card from the top of the deck and attach it to your hero as a [BOOK]. (max. 4)
 Each [BOOK] card increases your hand size limit by 1.
 
 Extensive Communication:
@@ -480,19 +483,19 @@ At the end of your draw phase, you may swap any number of [BOOK] cards with the 
       <cardName>Cao Jie</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: The Devoted Empress
+      <cardDescription>Title: Empress Xianmu of Han
       
 Health/Gender: 3F
 
 Ability:
 
-Guard the Empress Seal:
-When you become the target of an ATTACK, you may announce the name of a basic or tactics card. Unless the attacker discards the card you announced and takes 1 card from your hand or equipment zone, the ATTACK is cancelled.
+Protect the Seal:
+When you become the target of an ATTACK, you may announce the name of a card. Unless the attacker discards the card you announced and takes 1 card from your hand or equipment zone, the ATTACK is cancelled.
 (You may only announce each card name once per game.)
 
-Benifit the Nation:
+Benifiting Civilians:
 At the end of your turn, you may draw X cards.
-(X is the number of players who has less cards in hand than their current health) 
+(X is the number of players who has less cards in hand than their current health.)
 Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.</cardDescription>
     </Card>    
   </CardData>

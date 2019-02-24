@@ -27,7 +27,7 @@
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
-	  The max damage that can be dealt to you by each source is 1 damage. When this card is removed from your equipment zone, gain 1 health.</cardDescription>
+	  The max damage that can be dealt to you by a source is reduced to 1 damage. When this card is removed from your equipment zone, you gain 1 health.</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

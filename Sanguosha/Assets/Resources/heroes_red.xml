@@ -51,7 +51,8 @@ Health/Gender: 4M
 Ability:
 
 Do or Die:
-During your main phase, you may discard all cards in your hand and treat this as playing a DUEL; after resolving the duel, you and the loser of the duel draw a card. If you draw 2 or more cards via this effect during this phase, you lose the [DO OR DIE] ability until the end of turn.
+During your main phase, you may any card from your hand as a DUEL; after resolving the duel, both you and the loser of the duel draw a card. (You draw 2 cards if you were te loser of the duel.)
+If you draw 2 or more cards via this effect during this phase, you lose the [DO OR DIE] ability until the end of turn.
 
 Save the Emperor: (Emperor ability)
 You may discard a card to use [ROUSE]. The target hero who used an ATTACK to respond to your [ROUSE] draws a card.
@@ -350,13 +351,15 @@ Health/Gender: 4M
 Ability:
 
 Paternal Souls:
-During your main phase, you may play 2 cards from your hand and treate this as playing an ATTACK. If this ATTACK deals damage, you gain the [SAINT WARRIOR] and [ROAR] abilities until the end of turn.
+During your main phase, you may discard 2 cards from your hand and have this be treated as playing an ATTACK.
+(The color of the ATTACK has the same ruling as SERPENT HALBERD)
+If this ATTACK deals damage, you gain the [SAINT WARRIOR] and [ROAR] abilities until the end of turn.
 
 [Saint Warrior]:
 You may play or discard any RED cards from your hand or equipment zone as an ATTACK.
 
 [Roar]:
-You may play any number of ATTACK during your turn.</cardDescription>
+You may play any number of ATTACKs during your turn.</cardDescription>
     </Card>
     <Card>
       <cardName>Ma Dai</cardName>
@@ -372,7 +375,7 @@ Horsemanship:
 The physical range you see other heroes is reduced by 1.
 
 Sneak Attack:
-At the beggining of your turn, you may draw a card, then discard a card. If you do, you may target a hero within your range, the target hero cannot play or discard cards with the same color as your discarded card until the end of your turn.</cardDescription>
+At the beginning of your turn, you may draw a card, then discard a card. If you do, you may target a hero within your physical range, the target hero cannot play or discard cards with the same color as your discarded card until the end of your turn.</cardDescription>
     </Card>
     <Card>
       <cardName>Guan Ping</cardName>
@@ -401,7 +404,7 @@ Fine Words:
 At the beginning of your main phase, you may clash with another hero. If you win, the next basic or non-delay tactics card you use may target 1 additional or 1 less target. If you did not win, you cannot use tactics cards until the end of the turn.
 
 Indulgence:
-Whenever you win a clash, you may take the card the loser revealed into your hand. Whenever you do not win a clash, you may take your revealed card back to your hand.</cardDescription>
+Whenever you win a clash, you may take the revealed card of the loser into your hand. Whenever you do not win a clash, you may take your revealed card back to your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Feng</cardName>
@@ -441,7 +444,8 @@ Health/Gender: 4M
 Ability:
 
 Loyalty and Bravery:
-After your ATTACK is resolved, you may give your ATTACK card or the DODGE card played by the defender to another target hero. If the card you have given to another target hero is RED, the hero who received the RED card may play an ATTACK targeting a hero within your attack range until the end of their turn.</cardDescription>
+After your ATTACK is resolved, you may give the ATTACK you played or the DODGE played by the defender to another target hero. (Other than yourself and the defender.)
+If the card you give to the targeted hero is RED, the targeted hero who received the RED card may play an ATTACK targeting a hero within your attack range.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Song</cardName>
@@ -538,35 +542,35 @@ Health/Gender: 3M
 Ability:
 
 Admonish Attack:
-Whenever another hero uses an ATTACK on a target hero other than you, if you are within the attacker's attack range, you may place 1 card from your hand on top of the library and cancel all the targets. If the ATTACK is not black, you become the target of teh ATTACK instead.
+Whenever another hero uses an ATTACK on a target hero other than you, if you are within the attacker's attack range, you may place 1 card from your hand on top of the library and cancel all  targets from that ATTACK. If the ATTACK is not BLACK, you become the target of the ATTACK instead.
 
 Expert Opponent:
 Whenever you play an ATTACK on a target hero, you may clash with the that hero. If you win, your ATTACK cannot be cancelled by a DODGE.
 Whenever you are the target of an ATTACK you can clash with the attacker. If you win, the effects of the ATTACK is cancelled.
 
 Heavenly Defense:
-Whenever you clash, you may use the top of the library.
-HEARTS cards you reveal during a clash are treated as a K rank.</cardDescription>
+Whenever you clash, you may use the top card of the library instead.
+HEARTS suited cards you reveal during a clash are treated as a K rank.</cardDescription>
     </Card>
 	<Card>
       <cardName>Wu Xian</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
-      <cardDescription>Title: Empress of Shu
+      <cardDescription>Title: Empress of Mu Han
 	  
 Health/Gender: 3M
 
 Ability:
 
-Good Fortune:
+Endless Blessing:
 At the beginning of your turn, you may choose one:
 1. You draw 1 additional card during your draw phase.
 2. Once during this turn, your RED basic and non-delay tactics cards can target 1 additional player. (No range restrictions for the additional target)
 
 If you have chosen a different option than your previous turn, add +1 to your chosen option's value for this turn, and then reset the values on this skill at the end of turn.
 
-Careless
-At the end of your turn you may have another target hero take 1 random HEARTS suited basic card from the deck. Then if that hero was the target of this skill in the previous turn, that hero loses 1 health.
+Abandon the Banquet:
+At the end of your turn you may have another target hero takes 1 random HEARTS suited basic card from the deck. Then if that hero was the target of this skill in the previous turn, that hero loses 1 health.
 </cardDescription>
     </Card>
   </CardData>
