@@ -275,8 +275,8 @@ Ability:
 
 Brilliant Scheme:
 Once during yout main phase, you may give 1 equipment card or ATTACK card to a target hero, that hero then chooses one of the following:
-1. The target hero is considered to have used an ATTACK tageting another hero of their choice within their attack range.
-2. The target hero draws a card.
+1. The targeted hero choooses a hero within their attack range and is considered to have used an ATTACK.
+2. The targeted hero draws a card.
 
 Late Response:
 Whenever you are dealt damage outside of your turn, you ignore all effects from ATTACK and non-delay tactics card until the end of this turn.</cardDescription>
@@ -442,6 +442,23 @@ Creating Chaos:
 You may announce a basic card or non-delay tactics card name, then play a card from your hand as the named card. You cannot announce a card name you have already used for [CREATING CHAOS] for the rest of the game. After the card's effect is resolved, you target another hero and that hero chooses one of the following:
 1. The targeted hero gives you a card from their hand or equipment zone which is not the same type as the announced card.
 2. You lose 1 health and cannot use [CREATING CHAOS] for the rest of the turn.</cardDescription>
+    </Card>
+	    <Card>
+      <cardName>Gong Sun Zan</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: White Horse General
+      
+Health/Gender: 4M
+
+Ability:
+
+Fierce Mount:
+
+
+Follower of Virtue:
+Whenever you have 3 or more heatlth, the physical range you see other heroes is reduced by 1.
+Whenever you have 2 or less health, the physical range other heroes see you is increased by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Lu</cardName>

@@ -181,7 +181,7 @@ Health/Gender:3F
 Ability:
 
 Heavenly Scent:
-Whenever you are dealt, you may discard a HEARTS suited card from your hand; then choose another target hero, the damage is dealt to the target hero instead, then the target hero draws cards equal to the amount of their missing health.
+Whenever you are dealt damage, you may discard a HEARTS suited card from your hand; then choose another target hero, the damage is dealt to the target hero instead, then the target hero draws cards equal to the amount of their missing health.
 (You do not become the new source fo this damage, the original source of damage does not change.)
 
 Youthful Beauty:

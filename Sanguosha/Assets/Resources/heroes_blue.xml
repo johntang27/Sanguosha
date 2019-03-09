@@ -84,7 +84,7 @@ Health/Gender: 4M
 Ability:
 
 Staunch:
-Whenever you are dealt damage, you may perform a judgement. If the result is not a HEARTS suit, the source of damage chooses one:
+Whenever you are dealt damage by a hero, you may perform a judgement. If the result is not a HEARTS suit, the source of damage chooses one:
 1. Source of damage discards 2 cards from their hand.
 2. Source of damage takes 1 damage.</cardDescription>
     </Card>
@@ -547,6 +547,22 @@ During your discard phase, if you have discarded at least 2 cards with different
 
 Flattery:
 Once during each hero's main phase, if you have a card that you can play in your hand, you may target a hero and that hero discards a card from their hand, then you cannot play a card with the same suit as the discarded card for the rest of this turn. If the discarded card is a SPADES suit, you flip your hero card and lose 1 health.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Li Dian</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Understanding and Righteous
+
+Health/Gender: 3M
+
+Ability:
+
+Sincerity:
+At the beginning of your turn, you may look at the top 4 cards of the library; then choose 2 to be placed back on top of the library and 2 to be placed on the bottom of the library.
+
+Flattery:
+Whenever you deal damage to a hero or is dealt damage by a hero, you may both draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Xin Xian Ying</cardName>

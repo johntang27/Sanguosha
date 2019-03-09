@@ -51,7 +51,7 @@ Health/Gender: 4M
 Ability:
 
 Do or Die:
-During your main phase, you may any card from your hand as a DUEL; after resolving the duel, both you and the loser of the duel draw a card. (You draw 2 cards if you were te loser of the duel.)
+During your main phase, you may play any card from your hand as a DUEL; after resolving the duel, both you and the loser of the duel draw a card. (You draw both cards if you were the loser of the duel.)
 If you draw 2 or more cards via this effect during this phase, you lose the [DO OR DIE] ability until the end of turn.
 
 Save the Emperor: (Emperor ability)
@@ -528,7 +528,7 @@ At the end of your turn, you may target a hero who has the EMPEROR within their 
 
 Bribery:
 Once during each hero's turn, whenever you are dealt damage by another hero, you may reveal X cards in your hand and have that hero chooses one of the following:
-1. Targer hero takes a revealed card and prevent the damage.
+1. Target hero takes a revealed card and prevent the damage.
 2. Target hero discards X cards from their hand or equipment zone.</cardDescription>
     </Card>
     <Card>
