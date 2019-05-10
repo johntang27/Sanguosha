@@ -51,7 +51,7 @@ Whenever you are dealt damage, you may have a target hero perform a judgement, i
 (X is the amount of damage that was dealt to you).
 
 Eagle Eye:
-Once per a hero's main phase, you may give all cards in your hand to another hero. If you do, that hero's hand size is increased by 1 and can use an additional ATTACK until the end of his next turn.
+Once per a hero's main phase, you may give all cards in your hand to another hero. If you do, that hero's hand size is increased by 1 and can use an additional ATTACK until the end of their next turn.
 
 Boom and Bust: (Emperor Ability, Limited Ability)
 When you are on brink of death, you may ask every other WEI faction hero in sequence to allow you to gain 1 health until every hero has respond. If they chose to have you gain health, they receive 1 damage after resolving this effect.</cardDescription>
@@ -129,7 +129,7 @@ Heaven's Envy:
 Whenever your judgment is resolved, take the judgment card into your hand.
 
 Bestowed Rouse:
-Whenever you are dealt damage, for each damage you receive, look at 2 cards from the top of the library and then give each card to any number of target heroes. (Can be the same target hero)</cardDescription>
+Whenever you are dealt damage, for each point of damage you receive, look at 2 cards from the top of the library and then give each card to any number of target heroes. (Can be the same target hero)</cardDescription>
     </Card>
     <Card>
       <cardName>Zhen Ji</cardName>
@@ -211,7 +211,7 @@ Once during your main phase, you may clash with a hero with more health than you
 If you win, choose another target hero within the attack range of the loser. The loser deals 1 damage to that hero.
 
 Eternal Loyalty:
-Whenever you are dealt damage, for each damage you receive, choose a target hero to draw X cards (X is the difference between the number of cards from that hero's hand and maximum health, max 5)</cardDescription>
+Whenever you are dealt damage, for each point of damage you receive, choose a target hero to draw X cards (X is the difference between the number of cards from that hero's hand and maximum health, max 5)</cardDescription>
     </Card>
     <Card>
       <cardName>Xu Huang</cardName>
@@ -359,7 +359,7 @@ Health/Gender: 4M
 Ability:
 
 Ambition:
-Whenever you are dealt damage, for each damage you receive, you draw a card, then select a card from you hand and attach it face up to your hero as a [POWER].
+Whenever you are dealt damage, for each point of damage you receive, you draw a card, then choose a card from you hand and attach it face up to your hero as a [POWER].
 You hand size is increased by X. (X is the number of [POWER] attached to you)
 
 Insurrection: (Awakening Ability)
@@ -395,7 +395,7 @@ Health/Gender: 3M
 Ability:
 
 Weight the Elephant:
-Whenever you are dealt damage, for each damage taken from a source, reveal the top 4 cards of the deck. You place any number of revealed cards with rank total less than or equal to 13 into your hand.
+Whenever you are dealt damage, for each point of damage you receive, reveal the top 4 cards of the deck. You place any number of revealed cards with rank total less than or equal to 13 into your hand.
 
 Benevolence:
 Whenever another hero wtih 1 health is dealt damage, you can flip your hero card and discard an equipment card to prevent all damage from the source.</cardDescription>
@@ -562,7 +562,259 @@ Sincerity:
 At the beginning of your turn, you may look at the top 4 cards of the library; then choose 2 to be placed back on top of the library and 2 to be placed on the bottom of the library.
 
 Flattery:
-Whenever you deal damage to a hero or is dealt damage by a hero, you may both draw a card.</cardDescription>
+Whenever you deal damage to a hero or is dealt damage by a hero, you may both draw a card.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Si Ma Zhao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: A Man of Sinister Ambition
+
+Health/Gender: 3M
+
+Ability:
+
+Transparent:
+At the beginning of your main phase, you may reveal all the cards in your hand; then choose a target hero within your attack range, this is treated as you playing an ATTACK on the targeted hero.
+(The ATTACK you produce with this ability has no color or element. You may use weapon effects for the ATTACK you produce with this ability.)
+
+Careful Wolf:
+Whenever you are dealt damage, for each point of damage you receive, you may perform a judgement; you may discard a card from your hand to replace the judgement result with the discard card.
+Then veiw the cards from the hand of the source of damage, you may discard any number of cards that share the same suit as the judgment result.
+(You may choose just view the cards in their hand and not to discard any cards at all.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Wang Yuan Ji</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Civilized Queen
+
+Health/Gender: 3F
+
+Ability:
+
+Snuff Rebellion:
+Once during your main phase, you may discard 3 cards of the same suit and choose a target hero in your attack range to flip their hero card. You cannot play ATTACKs until the end of your turn.
+
+Virtue:
+At the end of your turn, you may draw cards until the number of cards in your hand is equal to your max health.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yang Xiu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Genius Unrestrained
+
+Health/Gender: 3M
+
+Ability:
+
+Have Your Cake:
+Whenever you become the target of a tactics card and you are not the only target, you may immediately draw a card; then ignore the effects of the tactics card.
+
+The Wishing Bone:
+Whenever you are dealt damage, you may announce a card type. The source of damage cannot play or discard cards that share the same typing as the announced card for the rest of the turn. </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Chen Lin</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: His Pen Can Cleave Bamboo
+
+Health/Gender: 3M
+
+Ability:
+
+Cutting Pen:
+At the end of your turn you may attach a card from your hand face down on another hero without a [PEN]. At the beginning of a hero's turn, if they have a [PEN] attached, they must look at the [PEN] card and choose one:
+1. Give you one card from their hand with the same type as the [PEN] card and then take the [PEN] card into their hand.
+2. Removed the [PEN] card attached to their hero, then lose 1 health.
+
+Eulogize:
+During your main phase, you may target a hero. If the amount of cards in the targeted hero's hand is greater than their current health, they discard 2 cards. If their current health is greather than the amount of cards in their hand, they draw 2 cards. You may only target each hero once per game. </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Ang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Pay the Price for Justice
+
+Health/Gender: 4M
+
+Ability:
+
+Generous Anger:
+Whenever a hero becomes the target of an ATTACK, if the physical distance between you and the targeted hero is 1, you may draw a card, then reveal a card from your hand and give it to that hero. If the revealed card is an equipement, the targeted hero may equip it immediately. </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yue Jin</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Determined to Overcome
+
+Health/Gender: 4M
+
+Ability:
+
+Brave and Resolute:
+At the end of another hero's turn, you may discard a basic card and have that hero choose one:
+1. The targeted hero discards a card and have you draw a card.
+2. You deal 1 damage to the targeted hero. </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cheng Yu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Generation's Eccentric
+
+Health/Gender: 3M
+
+Ability:
+
+Amush:
+At the end of your turn, you may attach a card from your hand face down onto your hero as an [AMBUSH], and assign a basic or tactics name to it.
+During another hero's turn, when a hero plays a card, you may remove an [AMBUSH] sharing the same name as the card being played to cancel the effects of the card.
+(You may only have one card of that named attached at a time. Card effects that target multiple heros are immdiately cancel and resolved, you must choose to use this ability before allowing the effects of any card to continue being resolved.)
+
+Fertility:
+Whenever you are dealt damage, you may choose one:
+1. Draw cards until you have X cards in hand. (X is the amount of cards the source of damage has in their hand. Max of 5.)
+2. Discard at least X+1 cards, then deal 1 damage to the source of damage. (X is the amount of cards the source of damage has in their hand.) </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Si Ma Lang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Selfless Governor
+
+Health/Gender: 3M
+
+Ability:
+
+Manage Army:
+At the end of a hero's turn, if the amount of cards in their hand is less than 2, that hero may draw a card and give you all the cards in their hand. Then you give the same number of cards back to that hero.
+
+Rid the Sickness:
+Once per a hero's main phase, you may discard X cards and target up to X heros to gain 1 health. If any of the discarded cards were BLACK, you lose 1 health.
+(X is the amount of your missing health.) </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Wen Ping</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Fortified City Veteran
+
+Health/Gender: 4M
+
+Ability:
+
+Town Guardian:
+Whenever another hero becomes the only target of an ATTACK or a BLACK tactics card, if their health is less than your health; you may discard a card and choose one:
+1. Draw a card, then become the target instead.
+2. Cancel the effects of the card. Then return the card back to the hand of the hero who has used it at the end of turn.
+(If for some reason you cannot correctly be the target, you must choose option 2. For example you don't have a weapon equip and want to be the attacker for a Duress.)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhuge Dan</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Expose and Weed the Rebellion
+
+Health/Gender: 4M
+
+Ability:
+
+Meritorious Service:
+After another hero dies, gain 1 unit of maximum health and gain 1 health.
+
+Revolt: (Awakening Ability)
+At the beginning of your turn, if you are missing health and your maximum health amount is greater than the number of surviving heroes, draw cards until the amount of cards in your hand is equal your maximum health and you gain the [HEAVY] and [COLLAPSE] abilities.
+
+[Heavy]:
+Whenever your maximum health amount changes, draw a card.
+
+[Collapse]:
+At the end of your turn, if you are not the hero with lowest current health, you must either lose 1 health or lose 1 unit of maximum health. </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Wang Ji</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Path to Unification
+
+Health/Gender: 3M
+
+Ability:
+
+Astonishing Control:
+During your main phase, whenever you target a hero with a basic or tactics card, you may discard a card from a hero who was not the target; then that hero draws a card.
+(Using self targeting cards such as Peach, Wine, or Sleight of Hand would allow you to target any other hero. This skill activates when you play delay tactics cards as well, but not when the delayed effects of performing judgement occur.)
+
+Hasten Advance:
+At the end of your turn, you may draw 2 cards; then discard cards from your hand until you have X.
+(X is the number of times you've activated ASTONISHING CONTROL this turn.) </cardDescription>
+    </Card>
+    <Card>
+      <cardName>Wang Lang</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Babbling Pheoniz
+
+Health/Gender: 3M
+
+Ability:
+
+Sharp Tongue:
+Once during your main phase, you may clash with up to 3 other target heroes simultaneously. Then the loser of the clash chooses one:
+1. The loser discards a card.
+2. You draw a card.
+		  
+If you are the loser of the clash, you gain 1 [RICH TONGUE] token.
+(If you are the loser, you choose one of the options and gain a [RICH TONGUE] token.)
+
+Intense Words:
+After you reveal your clash card, if your card rank is less than X, you may +X to the rank, if your rank is equal to X, this is treated as you not having activated [SHARP TONGUE] this turn.
+(X is the number of [RICH TONGUE] tokens you have.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Li Tong</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Moving Alone Among Ten Thousand
+
+Health/Gender: 4M
+
+Ability:
+
+Push the Front:
+Whenever you are dealt damage, for each point of damage you receive, you may attach a card onto your hero as an [EDGE].
+
+At the beginning of your turn, remove all [EDGE] cards attached on your hero and draw X cards twice.
+You may play +X additional ATTACKs until the end of turn.
+(X is the number of [EDGE] cards removed.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Hong</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Lucky General
+
+Health/Gender: 4M
+
+Ability:
+
+Intervene:
+At the end of your turn, you may play an equipment card onto another taget hero's equipment zone.
+If the equipment was a weapon, discard a card from a target hero within your physical range.
+If the equipment was a armor, the targeted hero draws a card.
+If the equipment was a mount, targeted hero gains 1 health
+(You cannot replace a equipment from an occupied slot.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Xin Xian Ying</cardName>
@@ -633,6 +885,30 @@ Harmonious Chord:
 Whenever you gain health, you may choose another target hero to gain 1 health and discard an equipment.
 
 (Draw until an equipment is reveal, then return the rest of the cards back and shuffle the deck)</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xi Zhi Cai</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Genius hat Defies the World
+
+Health/Gender: 3M
+
+Ability:
+
+Heaven's Envy:
+Whenever your judgment is resolved, take the judgment card into your hand.
+
+First Auxilary:
+At the beginning of the game, choose a target hero to be your "Protegee".
+Whenever your "Protegee" is dealt damage, you are also dealt the same amount of damage.
+Whenever your "Protegee" gains health, you also gain the same amount of health.
+
+Devise Plan:
+Whenever you are dealt damage, for each point of damage you receive, you may perform a judgement.
+If the judgement result is RED, choose a target hero to draw a card; if the target hero is your "Protegee", that hero draws 2 cards.
+If the judgement result is BLACK, you may take a card from another target hero.
+</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

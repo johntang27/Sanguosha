@@ -7,6 +7,8 @@ public class UIManager : Singleton<UIManager> {
 
     [Header("Main Selection")]
     public GameObject debugConsole;
+    public Text versionLabel;
+    public string version;
     bool isConsoleOn = true;
 
     [Header("Card Selection")]
@@ -73,6 +75,8 @@ public class UIManager : Singleton<UIManager> {
 
         CardDataCollection hcData = CardDataCollection.LoadFromResources("heroes_colorless");
         heroes_ColorlessCards = hcData.data;
+
+        versionLabel.text = "Version: " + version;
     }
 
     public void CreateCardScrollList(string type)
@@ -162,6 +166,7 @@ public class UIManager : Singleton<UIManager> {
         {
             Destroy(content.GetChild(i).gameObject);
         }
+        Resources.UnloadUnusedAssets();
     }
 
     public void UpdateCardView(CardData data, string spritePath)

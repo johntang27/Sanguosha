@@ -71,7 +71,7 @@ Health/Gender: 3M
 Ability:
 
 First Aid:
-Whenever it is not your turn, you may play RED cards from your hand and equipment zone as a PEACH.
+Outside of your turn, you may play RED cards from your hand and equipment zone as a PEACH.
 
 The Book of Green Vesicle:
 Once during your main phase, you may discard a card from your hand and choose a target hero, that hero gains 1 health.</cardDescription>
@@ -292,10 +292,12 @@ Health/Gender: 3M
 Ability:
 
 Self-Preservation:
-During your draw phase, you may draw X additional cards. If you do, cards you play this turn cannot target other heroes. (X is the number of factions in play)
+During your draw phase, you may draw X additional cards. If you do, cards you play this turn cannot target other heroes.
+(X is the number of factions in play.)
 
 House of Royalty:
-Your hand size is increased by X. (X is the number of factions in play)</cardDescription>
+Your hand size is increased by X. 
+X is the number of factions in play.)</cardDescription>
     </Card>
     <Card>
       <cardName>Empress Fu</cardName>
@@ -313,7 +315,7 @@ If you win, that hero may only play cards that target themself until the end of 
 If you lose, the physical range between the both of you is considered 1 until end of turn.
 
 Plead for Help:
-When you become the target of an ATTACK, you may choose a target hero other than the attacker. The targeted hero may give you a DODGE card. If the targeted hero does not, they become the additional target of the ATTACK.</cardDescription>
+Whenever you become the target of an ATTACK, you may choose a target hero other than the attacker. The targeted hero may give you a DODGE card. If the targeted hero does not, they become the additional target of the ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Li Ru</cardName>
@@ -507,7 +509,7 @@ Health/Gender: 3F
 Ability:
 
 Protect the Seal:
-When you become the target of an ATTACK, you may announce the name of a card. Unless the attacker discards the card you announced and takes 1 card from your hand or equipment zone, the ATTACK is cancelled.
+Whenever you become the target of an ATTACK, you may announce the name of a card. Unless the attacker discards the card you announced and takes 1 card from your hand or equipment zone, the ATTACK is cancelled.
 (You may only announce each card name once per game.)
 
 Benifiting Civilians:
@@ -515,5 +517,292 @@ At the end of your turn, you may draw X cards.
 (X is the number of players who has less cards in hand than their current health.)
 Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.</cardDescription>
     </Card>    
-  </CardData>
+    <Card>
+      <cardName>Ling Ju</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Love's Dying Dream
+      
+Health/Gender: 3F
+
+Ability:
+
+Deplete Karma:
+Whenever you deal damage to another hero, if their health is greater than your health, you may discard a BLACK card to increase the damage by +1.
+Whenever you are dealt damage by another hero, if their health is greater than your health, you may discard a RED card to reduce the damage by -1.
+(This effect takes priority before calculating armor effects.)
+
+Burning Heart:
+Whenever another hero dies and reveals their role:
+If their role was LOYALIST, you ignore the health requirement when using [DEPLETE KARMA] to reduce damage.
+If their role was REBEL, you ignore the health requirement when using [DEPLETE KARMA] to increase damage.
+If their role was SPY, you ignore the color requirement when using [DEPLETE KARMA] to reduce damage.
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Liu Xie</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Imprisoned Emperor
+      
+Health/Gender: 3M
+
+Ability:
+
+Mandate of Heaven:
+Whenever you become the target of an ATTACK, you may discard 2 cards; then draw 2 cards. A hero, other than you, with the highest amount of health may also perform this skill.
+(If you have less than 2 cards, you may discard your hand to activate this skill.)
+
+Secret Edict:
+Once per a hero's main phase, you may give all the cards in your hand to a target player; then choose another target hero, the targeted heroes must perform a clash. The winner of the clash is considered to have played an ATTACK on the loser.
+(If the seconds targeted hero is unable to perform a clash, the first targeted hero still receives the cards you give. If the clash ends in a draw, nothing happens.)
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Zhang Bao</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: General of the Land
+      
+Health/Gender: 3M
+
+Ability:
+
+Curse:
+Once per a hero's main phase, you may attach a card from your hand as a [CURSE] onto another target hero with no [CURSE] card attached.
+When a hero with a [CURSE] card attach performs a judgement, the [CURSE] card is used as the judgement result. At the end of a hero's turn, any hero who used a [CURSE] as their judgement result loses 1 health.
+(No card is flipped from the deck when performing a judgement for the hero with a [CURSE] attached, the [CURSE] card is immediately used as the judgement result. When you die, the attached [CURSE] card effects remain in play.
+
+Shadow Soldier:
+When a hero with a [CURSE] card attached plays a card with the same suit as the [CURSE], you draw a card. If you draw 2 cards due to the effect of the same [CURSE] card, the [CURSE] card is remove from that hero.
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Fu Wan</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Deep Resolve for the Country
+      
+Health/Gender: 4M
+
+Ability:
+
+Plan for Defeat:
+Whenever you play an ATTACK on a target hero, you may choose one:
+1. Draw a card.
+2. Discard 1 card from the targeted hero's hand.
+If the targeted hero plays a DODGE, the targeted hero discards a card from you.
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>He Tai Hou</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Vicious and Manipulate Power for Personal Gain
+      
+Health/Gender: 3F
+
+Ability:
+
+Poison Wine:
+At the beginning of another hero's main phase, you may discard a card from your hand. This is considered as the active hero playing a WINE; then you deal 1 damage to that hero.
+
+Confusing Sorrow:
+At the end of each hero's turn, you may draw 3 cards for each hero you have killed this turn.
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Yellow Turban Rebels</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Thunder Festival's Pretty Women
+      
+Health/Gender: 3F
+
+Ability:
+
+Mark of the Sea:
+Whenever you play an ATTACK, you may treat it as a LIGHTNING ATTACK.
+
+Sacrifice Offering:
+Whenever a hero is being dealt LIGHTNING damage, you may have that hero perform a judgement. If the result is BLACK, the LIGHTNING damage is increased by +1; if the result is RED, the targeted hero takes the judgement card.
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Pan Feng</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Coalition Admiral
+      
+Health/Gender: 4M
+
+Ability:
+
+Mad Axe:
+Whenever an ATTACK deals damage to a target hero, you may choose one:
+1. Move an equipment card from their equipment zone to you equipment zone.
+2. Discard a card from their equipment zone.
+(You cannot move an equipment into a occupied equipment zone.)
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Shi Xie</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Love's Dying Dream
+      
+Health/Gender: 3M
+
+Ability:
+
+Seek Refudge from War:
+At the beginning of your draw phase, if you are at 1 physical range with another hero, you may skip your draw phase. If you do, your physical range with other heroes is increased by +X.
+(X is the number of factions in play.)
+
+Under Ritual:
+At the end of another hero's turn, if you are not within the attack range of that hero, you may choose one:
+1. You draw a card.
+2. The target hero draws a card.
+Then decrease your physical range with other heroes by -1. 
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Wu Tugu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Love's Dying Dream
+      
+Health/Gender: 15M
+
+Ability:
+
+Burning in War:
+Whenever you are dealt FIRE damage, you gain a [BURN].
+At the end of your turn, you lose X health.
+(X is the number of [BURNS] you have.)
+
+Fierce and Valiant:
+Whenever you play HAIL OF ARROWS or BARBARIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
+</cardDescription>
+    </Card>    
+    <Card>
+      <cardName>Dong Bai</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Granddaughter of Dong Zhuo 
+      
+Health/Gender: 3F
+
+Ability:
+
+Punish:
+Once during each hero's main phase, you may reveal a card from your hand and give it to another target hero. If the card is BLACK, the target hero chooses one:
+1. Target hero discards 2 cards.
+2. You draw 2 cards.
+
+Crafty:
+Your black cards do not count towards you max hand size limit. BLACK cards you give to other heroes cannot be played or discarded unless their health decreases.
+(The hero must lose health or take damage before being able to use BLACK cards given or taken from you. Cards taken from you by any card effects or abilities are still under the effects of this ability.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ta Dun</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Northern Barbarian King
+      
+Health/Gender: 4M
+
+Ability:
+
+Armed Upheaval:
+Your ATTACKs and BLACK non-delay tactics cards can target +X additional heroes.
+Whenever your ATTACK or BLACK non-delay tactics card targets any heroes, if the number of targets is less than X; X is reduced to 0.
+(X is the number of times you've dealt damage.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yan Bai Hu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: White Tiger of Dong Wu
+      
+Health/Gender: 4M
+
+Ability:
+
+Robbery:
+During your action phase, the first time you deal damage to another hero, you take a card from each equipment zone and judgement zone of that target hero. You cannot target any other heroes until the end of the turn.
+(You are only able to target yourself after activating this ability. This ability does not activate if you kill the hero you are targetin or when targeting a hero with no equipment or judgement cards in play for you to take.)
+
+Lodge:
+Whenever another hero becomes the target of a RED basic or non-delay tactics card, if you are within 1 physical range of that hero and you are not the source of the card being played; you also become the target of the card.
+</cardDescription>
+    </Card>
+	    <Card>
+      <cardName>Qu Yi</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Righteous Charge Through Boundary Bridge
+      
+Health/Gender: 4M
+
+Ability:
+
+Calvary Charge:
+Heroes within a range of 1 to you cannot play cards in response to the cards you play.
+
+Conceited:
+If you are the hero with the highest number of cards in your hand, the damage you deal and the damage you receive is increased by +1.
+</cardDescription>
+    </Card>
+	    <Card>
+      <cardName>Wang Yun</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: A Loyal Soul Who Never Dies
+      
+Health/Gender: 4M
+
+Ability:
+
+Connecting Plans:
+Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the deck, then chooses one:
+1. Use the given card on another hero, then give the weapon to one of the heroes that were targeted by the used card.
+2. Treat this as you using the given card on the targeted hero, then the targeted hero give you the weapon.
+
+Successful Plan: (Awakening Ability)
+Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONNECTING PLANS], you lose the [CONNECTING PLANS] ability and gain the [BOAST] ability.
+
+[Boast]:
+Once during your main phase, you may play 1 equipment or ATTACK as a random tactics card. At the end of the turn, if you did not deal damage, you lose 1 health.
+(Reveal cards from the deck until you have revealed 3 tactics cards, then choose one to be used. Shuffle the deck after reavealing 3 tactics cards.)
+</cardDescription>
+    </Card>
+	    <Card>
+      <cardName>Bei Mi Kou Hu</cardName>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Queen of Wa Friendly to Wei
+      
+Health/Gender: 3F
+
+Ability:
+
+Release Puppet:
+At the beginning of each round, a hero other than you with the lowest current health gains a [PUPPET] attached to their hero unless they already have a [PUPPET] attached.
+At the beginning of you turn, you may choose a target hero that does not have a [PUPPET] attached, then attach a [PUPPET] onto the targeted hero.
+
+Bone Cut:
+Whenever a hero with a [PUPPET] is dealt damage, you draw a card.
+
+False Worship: (Awakening Ability)
+At the beginning of your turn, if you have gained 7 or more cards from your [BONE CUT] ability, increase your max health by 1 and gain 1 health. The attach a [PUPPET] onto each hero who does not already have a [PUPPET] attached. You lose the [BONE CUT] ability and gain the [PUPPET MASTER] ability.
+
+[Puppet Master]:
+Whenever you become the only target of a basic or non-delay tactics cards played by a hero with a [PUPPET] attached, you may remove the [PUPPET] from that hero and cancel the card effect.
+Whenever you play a basic or non-delay tactics card that only targets a hero, you may remove a [PUPPET] from another target hero and have that hero be an additional target.
+</cardDescription>
+    </Card>
+	</CardData>
 </CardDataCollection>

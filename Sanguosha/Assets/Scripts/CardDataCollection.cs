@@ -58,6 +58,7 @@ public class CardDataCollection{
 
     public static CardDataCollection LoadFromResources(string filename)
     {
+        Debug.Log("Reading file: " + filename);
         TextAsset text = Resources.Load(filename) as TextAsset;
         var serializer = new XmlSerializer(typeof(CardDataCollection));
 

@@ -100,7 +100,25 @@ Whenever your ATTACK deals damage to a target hero, if that hero has no cards in
       <cardDescription>Attack Range: 4
 	  
 Effect:
-WYou may treat any of your ATTACK as a FIRE ATTACK.</cardDescription>
+You may treat any of your ATTACK as a FIRE ATTACK.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ancient Scimitar</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 2
+	  
+Effect:
+Whenever your ATTACK deals damage to a target hero, if that hero has no cards in their hand, this ATTACK deals 1 additional damage.</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Silver Moon Spear</cardName>
+      <cardType>Weapons</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>Attack Range: 3
+	  
+Effect:
+During other heroes turns, whenever you play a BLACK card, you may target a hero within your attack range. The targeted hero must play a DODGE, if that hero does not play a DODGE, deal 1 damage to that target.</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>
