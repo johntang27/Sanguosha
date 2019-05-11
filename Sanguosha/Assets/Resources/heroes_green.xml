@@ -72,7 +72,7 @@ Heroes within your physical range are treated as within the attack range of othe
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Last Emperor of Wu
-	  
+
 Health/Gender: 5M
 
 Ability:
@@ -93,7 +93,7 @@ During your turn, other WU faction heroes are considered to have missing health,
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Pirate with Silk Sails
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -106,7 +106,7 @@ During your main phase, you may play any BLACK cards in your hand and equipment 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Crossing the River in White Robes
-	  
+
 Health/Gender:4M
 
 Ability:
@@ -119,7 +119,7 @@ If you did not play or discard any ATTACK during your main phase, you may skip y
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Sacrificing for the Country
-	  
+
 Health/Gender:4M
 
 Ability:
@@ -132,7 +132,7 @@ During your main phase, you may lose 1 life to draw 2 cards.</cardDescription>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Wu Viceroy
-	  
+
 Health/Gender:3M
 
 Ability:
@@ -148,7 +148,7 @@ Once during your main phase, you may target another hero. That hero announces a 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Reserved Beauty
-	  
+
 Health/Gender:3F
 
 Ability:
@@ -164,7 +164,7 @@ Whenever you are the target of an ATTACK, you may discard a card from your hand 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Meek Scholar with Valiant Talents
-	  
+
 Health/Gender:3M
 
 Ability:
@@ -180,7 +180,7 @@ Whenever you have no cards in your hand, you may draw a card.</cardDescription>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Archery Princess
-	  
+
 Health/Gender:3F
 
 Ability:
@@ -196,7 +196,7 @@ Whenever a card is removed from your equipment zone, draw 2 cards.</cardDescript
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Unconventional Beauty
-	  
+
 Health/Gender:3F
 
 Ability:
@@ -213,7 +213,7 @@ Your SPADES suited cards in your hand, equipment zone, and any judgement card re
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Battle Records in Scars
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -230,7 +230,7 @@ Whenever a hero discards a card or has a card taken by another hero, you may los
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Ardent and Loyal Warrior
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -244,7 +244,7 @@ If you did not win, you cannot play ATTACK cards until the end of turn.</cardDes
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Martial Emperor of Unyielding
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -260,7 +260,7 @@ At the beginning of your turn, if you are damaged, you may have another target h
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Maverick Diplomat
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -276,7 +276,7 @@ Once during your main phase, you may choose 2 target heroes and discard X cards 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Genius Prime Ministers
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -293,7 +293,7 @@ At the end of each other hero's discard phase, you may put 1 card discarded by t
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Forthright and Courageous
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -306,7 +306,7 @@ Whenever you discard at least 2 cards during your discard phase; or you lose a c
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Martial Empress of Unyielding
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -323,7 +323,7 @@ When a hero is on the brink of death, you may reveal a card from that hero's han
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Steel Barricade of Jiang Dong
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -336,7 +336,7 @@ Whenever you play an ATTACK targeting a hero, you may take X cards from his hand
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Uncrowned Queen
-	  
+
 Health/Gender:3F
 
 Ability:
@@ -352,7 +352,7 @@ When you are dead, you may choose a target hero other than the killer, that hero
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Loyalist of Three Generations
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -369,7 +369,7 @@ At the end of your turn, if you have no [VINTAGE] cards attached to your hero ca
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Marquis of the Stone City
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -387,7 +387,7 @@ During your main phase, you may choose a target hero. All heroes that that have 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Nightmare of Ace
-	  
+
 Health/Gender:4M
 
 Ability:
@@ -403,7 +403,7 @@ Whenever you have dealt damage to a target hero with an ATTACK, if you are not w
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Unrestrained and Honest Advisor
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -420,7 +420,7 @@ At the end of your turn, you may target a hero. That hero draws a card and revea
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Patient Commander
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -439,7 +439,7 @@ If X is:
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Henchwoman
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -458,7 +458,7 @@ Whenever you are dealt damage by a male hero, you may discard an equipment card 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Defender of Chung Chou
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -471,7 +471,7 @@ At the end of your turn, you may have target hero discard a card from your hand 
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Wu's Prime Minister
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -487,7 +487,7 @@ At the end of your turn, you may reveal your hand. If all the revealed cards are
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: General of National Stability
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -500,7 +500,7 @@ Once during your main phase, you may choose a target hero and put an equipment f
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Greedy Noble
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -515,7 +515,7 @@ Once during each hero's turn, whenever you have dealt or was dealt damage, you m
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Talented and Virtuous Crowned Prince
-	  
+
 Health/Gender:4M
 
 Ability:
@@ -528,7 +528,7 @@ Once during your main phase, you may target another hero. That hero may attach u
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Eunuch Who Ordered National Isolation
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -545,7 +545,7 @@ Whenever you are dealt FIRE damage, if your hero card is chained and you are the
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Beautiful Empress of Justice
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -563,7 +563,7 @@ At the end of a male hero's turn, if the remaining number of cards in the librar
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Elegantly Simple Minister
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -583,14 +583,14 @@ At the end of your turn, you may have target hero draw as many cards as there ar
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Chasing the Waves and Wind
-	  
+
 Health/Gender: 4M
 
 Ability:
 
 Torpedo:
 You draw 1+X aditional cards during your draw phase.
-(X is the half number of equipment cards in your equipment zone rounded down.)
+(X is half the number of equipment cards in your equipment zone rounded down.)
 </cardDescription>
     </Card>
     <Card>
@@ -598,7 +598,7 @@ You draw 1+X aditional cards during your draw phase.
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Ascending Green Lotus
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -616,7 +616,7 @@ Ignore the effects of all sources of FIRE damage.
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Flowers of Jiandong
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -641,7 +641,7 @@ Whenever you are being dealt damage, you may discard a HEARTS suited card from y
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Preserver of the Alliance
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -661,161 +661,156 @@ Whenever you play or discard RED cards outside of your turn, you may draw a card
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Thinking of Family Back Home
-	  
+
 Health/Gender: 3M
 
 Ability:
 
-Arroogance:
+Arrogance:
 Whenever you need to play a basic card outside of your turn, you may look at the top 2 cards of the deck. If the card you need to play is present, you may use it immediately.
 (Any cards you do not use are placed ontop of the deck in the same order once your ability has resolved.)
 
 Recklessness:
 During your main phase, you may choose to target a hero within your attack range and discard X cards; then you deal 1 damage to that hero. If you bring the targeted hero to the brink of death in this way, you lose 1 health and cannot use this ability for the rest of the turn.
+(X is the current health of the target hero.)
 </cardDescription>
     </Card>
     <Card>
       <cardName>Sun Lu Yu</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
-      <cardDescription>
-        Title: Small Tiger
+      <cardDescription>Title: Small Tiger
 
-        Health/Gender: 3F
+Health/Gender: 3F
 
-        Ability:
+Ability:
 
-        Charm:
-        At the beginning of another hero's main phase, you may have target hero gain the [CEASE] ability until the end of your turn. If you do, you are considered to be within the targeted hero's attack range.
+Charm:
+At the beginning of another hero's main phase, you may have target hero gain the [CEASE] ability until the end of your turn. If you do, you are considered to be within the targeted hero's attack range.
 
-        (Upgrade)
-        At the beginning of another hero's main phase, you may have target hero gain the [CEASE] ability until the end of your turn.
+(Upgrade)
+At the beginning of another hero's main phase, you may have target hero gain the [CEASE] ability until the end of your turn.
 
-        Solemn:
-        Once during a hero's main phase, you may discard a card and choose one:
-        1. Discard a equipment from a targeted hero's equipment zone; then draw a card.
-        2. Take an armor from a targeted hero's equipment zone.
-        If the card you discarded to activate [SOLEMN] was an ATTACK or a BLACK tactics card, [CHARM] is upgraded until the beginning of your next turn.
+Solemn:
+Once during a hero's main phase, you may discard a card and choose one:
+1. Discard a equipment from a targeted hero's equipment zone; then draw a card.
+2. Take an armor from a targeted hero's equipment zone.
+If the card you discarded to activate [SOLEMN] was an ATTACK or a BLACK tactics card, [CHARM] is upgraded until the beginning of your next turn.
 
-        [Cease]:
-        After you play a tactics card, your tactics cards are treated as ATTACKs.
-      </cardDescription>
+[Cease]:
+After you play a tactics card, your tactics cards are treated as ATTACKs.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Ding Feng</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
-      <cardDescription>
-        Title: Essential Minister who Purged the King's Court
+      <cardDescription>Title: Essential Minister who Purged the King's Court
 
-        Health/Gender: 4M
+Health/Gender: 4M
 
-        Ability:
+Ability:
 
-        Short Soldiers:
-        Your ATTACKs may target an additional hero within your physical range of you.
+Short Soldiers:
+Your ATTACKs may target an additional hero within your physical range.
 
-        Swift and Deadly:
-        Once during each hero's main phase, you may discard a card and target another hero, the physical range between you and the targeted hero is 1 until the end of turn.
-      </cardDescription>
+Swift and Deadly:
+Once during each hero's main phase, you may discard a card and target another hero, the physical range between you and the targeted hero is 1 until the end of turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zu Mao</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
-      <cardDescription>
-        Title: Scarlet Bloodstained Conical Cap
+      <cardDescription>Title: Scarlet Bloodstained Conical Cap
 
-        Health/Gender: 4M
+Health/Gender: 4M
 
-        Ability:
+Ability:
 
-        Leading the Troops:
-        At the end of your turn, you may attach any number of non-basic cards face up onto your hero as a [VANGUARD]. Whenever you are dealt damage by an ATTACK or DUEL, remove a [VANGUARD].
-        (You may choose which [VANGUARD] card to be removed from you.)
+Leading the Troops:
+At the end of your turn, you may attach any number of non-basic cards face up onto your hero as a [VANGUARD]. Whenever you are dealt damage by an ATTACK or DUEL, remove a [VANGUARD].
+(You may choose which [VANGUARD] card to be removed from you.)
 
-        Danger Spot:
-        At the beginning of your turn, you choose one:
-        1. Remove all [VANGUARD] cards and draw cards until you have X cards in your hand. (X is your max health.)
-        2. Give all [VANGUARD] cards to another target hero whose health is not greater than your current health; then the target hero gains 1 health and you draw X cards. (X is the number of [VANGUARD] cards given to the targeted hero.)
-      </cardDescription>
+Danger Zone:
+At the beginning of your turn, you choose one:
+1. Remove all [VANGUARD] cards and draw cards until you have X cards in your hand. (X is your max health.)
+2. Give all [VANGUARD] cards to another target hero whose health is not greater than your current health; then the target hero gains 1 health and you draw X cards. (X is the number of [VANGUARD] cards given to the targeted hero.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Bu Zhi</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
-      <cardDescription>
-        Title: Integrating Solutions in Jiangbian
+      <cardDescription>Title: Integrating Solutions in Jiangbian
 
-        Health/Gender: 3M
+Health/Gender: 3M
 
-        Ability:
+Ability:
 
-        Kindness:
-        Whenever you gain or lose 2 or more cards from a source, you may have a another target hero draw a card.
+Kindness:
+Whenever you gain or lose 2 or more cards from a source, you may have a another target hero draw a card.
 
-        Settle Rebellion:
-        During your main phase, you may activate [SETTLE REBELLION] X times; you may have a target hero with an equipment in their equipment zone draw a card, then the targeted hero chooses one:
-        1. You discard an equipment from the targeted hero.
-        2. The targeted hero takes all equipment cards in their equipment zones back into their hand and deal 1 damage to you.
-        (X is the number of surviving rebels in the game.)
-      </cardDescription>
+Settle Rebellion:
+During your main phase, you may activate [SETTLE REBELLION] X times; you may have a target hero with an equipment in their equipment zone draw a card, then the targeted hero chooses one:
+1. You discard an equipment from the targeted hero.
+2. The targeted hero takes all equipment cards in their equipment zones back into their hand and deal 1 damage to you.
+(X is the number of surviving rebels in the game.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Han Ze</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
-      <cardDescription>
-        Title: Truly Insightful Adviser
+      <cardDescription>Title: Truly Insightful Adviser
 
-        Health/Gender: 3M
+Health/Gender: 3M
 
-        Ability:
+Ability:
 
-        Alight the Letter:
-        At the beginning of your main phase, you may give all the cards in your hand to another hero, then that hero reveals any number of cards from their hand and you choose one:
-        1. Take the cards that were revealed.
-        2. Take the cards that were not revealed.
+Alight the Letter:
+At the beginning of your main phase, you may give all the cards in your hand to another hero, then that hero reveals any number of cards from their hand and you choose one:
+1. Take the cards that were revealed.
+2. Take the cards that were not revealed.
 
-        Wide Release:
-        At the end of your turn, you may choose a target hero in secret. Until the beginning of your next turn, whenever the targeted hero is dealt more than 1 damage by a source; prevent that damage, then skip your draw phase on your next turn.
-        (The hero that you choose to be the target of [WIDE RELEASE[ is only known to you. The additional FIRE damage effect from RATTAN ARMOR is calculated after this ability activates, so the targeted hero will still take 1 FIRE damage.)
-      </cardDescription>
+Wide Release:
+At the end of your turn, you may choose a target hero in secret. Until the beginning of your next turn, whenever the targeted hero is dealt more than 1 damage by a source; prevent that damage, then skip your draw phase on your next turn.
+(The hero that you choose to be the target of [WIDE RELEASE[ is only known to you. The additional FIRE damage effect from RATTAN ARMOR is calculated after this ability activates, so the targeted hero will still take 1 FIRE damage.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>He Qi</cardName>
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
-      <cardDescription>
-        Title: Leading Calvalry through the Mountains
+      <cardDescription>Title: Leading Calvalry through the Mountains
 
-        Health/Gender: 4M
+Health/Gender: 4M
 
-        Ability:
+Ability:
 
-        Damask Helmet:
-        You gain the following abilities based on the number of different suits in your equipment zone:
-        1: Horsemanship
-        2: Dashing Hero
-        3: Short Soldier
-        4+: Prestige
+Damask Helmet:
+You gain the following abilities based on the number of different suits in your equipment zone:
+1: Horsemanship
+2: Dashing Hero
+3: Short Soldier
+4: Prestige
 
-        Quick Raid:
-        Once during your main phase, you may discard a RED basic card to discard a card from a target hero within your attack range. If the discarded card is a DODGE, you look at the cards in the targeted hero's hand. If the discarded card is not a DODGE, the targeted hero looks at the card in your hand.
+Quick Raid:
+Once during your main phase, you may discard a RED basic card to discard a card from a target hero within your attack range. If the discarded card is a DODGE, you look at the cards in the targeted hero's hand. If the discarded card is not a DODGE, the targeted hero looks at the card in your hand.
 
-        [Horsemanship]:
-        The physical range you see other heroes is reduced by 1.
+[Horsemanship]:
+The physical range you see other heroes is reduced by 1.
 
-        [Dashing Hero]:
-        During your drawing phase, draw an additional card.
+[Dashing Hero]:
+During your drawing phase, draw an additional card.
 
-        [Short Soldiers]:
-        Your ATTACKs may target an additional hero within your physical range of you.
+[Short Soldiers]:
+Your ATTACKs may target an additional hero within your physical range of you.
 
-        [Prestige]:
-        Once per game, whenever a tactics card targets 2 or more heroes, you may have any number of targeted heroes ignore the effects of the card.
-        (The card being played still counts as targeting the heroes. When resolving HARVEST, the cards are revealed before you choose to remove any targeted heroes.)
-      </cardDescription>
+[Prestige]:
+Once per game, whenever a tactics card targets 2 or more heroes, you may have any number of targeted heroes ignore the effects of the card.
+(The card being played still counts as targeting the heroes. When resolving HARVEST, the cards are revealed before you choose to remove any targeted heroes.)
+</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

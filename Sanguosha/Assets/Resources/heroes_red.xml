@@ -372,7 +372,7 @@ You may play any number of ATTACKs during your turn.</cardDescription>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Entrusted During Crisis
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -388,7 +388,7 @@ At the beginning of your turn, you may draw a card, then discard a card. If you 
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Son of the Saint Warrior
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -402,7 +402,7 @@ Whenever a hero plays an ATTACK during their main phase, you may discard a card 
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: The Uninhibited Advisor
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -418,7 +418,7 @@ Whenever you win a clash, you may take the revealed card of the loser into your 
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: The Tragic Foster Son
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -432,7 +432,7 @@ At the beginning of your turn, you may choose up to 2 target heroes. Take one ca
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Cavalry of Shu
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -445,7 +445,7 @@ Whenever you play a card during your turn, decrease your physical range with all
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Shu Loyalist
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -459,7 +459,7 @@ If the card you give to the targeted hero is RED, the targeted hero who received
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Waiting for a Worthy Emperor
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -475,7 +475,7 @@ At the start of each other hero's main phases, you may draw 2 cards then give th
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: The Whispering Beauty
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -491,7 +491,7 @@ During your main phase, you may recast ATTACK cards. At the end of your main pha
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Minority Soldier of Shu
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -507,7 +507,7 @@ If your current health is 1, your DODGE are treated as ATTACK.</cardDescription>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Shu Rations Officer
-	  
+
 Health/Gender:3M
 
 Ability:
@@ -525,7 +525,7 @@ During your discard phase, cards that were put into your hand this turn do not c
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: The Trickery Eunuch
-	  
+
 Health/Gender:3M
 
 Ability:
@@ -543,15 +543,15 @@ Once during each hero's turn, whenever you are dealt damage by another hero, you
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Backbone of Aspiration
-	  
+
 Health/Gender: 4M
 
 Ability:
 
 Metamorphosing Panther:
 If your current health is below 4, you gain the [PROVOKE] skill.
-If your current health is below 4, you gain the [ROAR] skill.
-If your current health is below 4, you gain the [GODLY SPEED] skill.
+If your current health is below 3, you gain the [ROAR] skill.
+If your current health is below 2, you gain the [GODLY SPEED] skill.
 
 [Provoke]:
 Once during your main phase, you may target a hero who has you within their attack range, that hero must play an ATTACK on you. If he does not, you choose and discard 1 card from that hero's hand, equipment zone, or judgment zone.
@@ -573,13 +573,13 @@ For each option you have chosen, treat that as playing an ATTACK on any target h
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: The Empress of Shining Accomplishment
-	  
+
 Health/Gender: 3F
 
 Ability:
 
 Prudence:
-Whenever you gain 1 health, you man target another hero to gain 1 health or draw a card.
+Whenever you gain 1 health, you may target another hero to gain 1 health or draw a card.
 
 Theosophy:
 At the beginning of your turn, you may discard all cards in your hand. If the number of discarded cards was greater than your current health, you gain 1 health.
@@ -590,7 +590,7 @@ At the beginning of your turn, you may discard all cards in your hand. If the nu
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Clever White Eyebrow Scholar
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -598,7 +598,7 @@ Ability:
 Autobiography:
 During other hero's turns, if you gain any cards this turn, you must discard those cards at the end of the turn.
 During your turn, whevener you gain cards, draw an additional card.
-(Gaining cards from this skill does not trigger it.)
+(Gaining cards from this skill does not trigger it. This ability triggers whenever you gain a card in your card.)
 
 Promised Aid:
 During your turn, if a card you play is resovled and is put into the discard pile, you may give that card to another hero. 
@@ -609,13 +609,13 @@ During your turn, if a card you play is resovled and is put into the discard pil
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Respectful and Lamentable Empress
-	  
+
 Health/Gender: 3F
 
 Ability:
 
-Virtuos and Able:
-Once during each hero's turn. whenever another hero discards a basic card, you may draw a card.
+Virtuous and Able:
+Once during each hero's turn, whenever another hero discards a basic card, you may draw a card.
 
 Dance with the Spear:
 Once per main phase, you may perform a judgement, then until the end of the turn:
@@ -629,7 +629,7 @@ Once per main phase, you may perform a judgement, then until the end of the turn
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Courageous and Mischievous
-	  
+
 Health/Gender: 4F
 
 Ability:
@@ -638,9 +638,9 @@ Horsemanship:
 The physical range you see other heroes is reduced by 1.
 
 Phoenix Soul:
-During your main phase, after targeting a single hero with your first ATTACK or DUEL this turn, you man choose to:
+During your main phase, after targeting a single hero with your first ATTACK or DUEL this turn, you may choose to:
 1. Draw X cards.
-2. Increase tje damage being dealt by X.
+2. Increase the damage being dealt by X.
 (X is number of DIAMOND suited cards in the targeted hero's hand.)
 </cardDescription>
     </Card>
@@ -649,13 +649,13 @@ During your main phase, after targeting a single hero with your first ATTACK or 
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Trading Gold for Allies
-	  
+
 Health/Gender: 3M
 
 Ability:
 
 Funding Assistance:
-Once during your main phase, you may give any number of cards with rank total 13 to another target hero; then that hero gains 1 health.
+Once during your main phase, you may give any number of cards with rank totaling 13 to another target hero; then that hero gains 1 health.
 
 Businessmen:
 Your hand size limit is increased by +X.
@@ -668,14 +668,14 @@ At the beginning of the game, you draw X cards.
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Blissful Exalted Hero
-	  
+
 Health/Gender: 4M
 
 Ability:
 
 Journey to Nanman:
 When another hero dies, you may draw 3 cards; then choose to gain one ability:
-1. [WARRIOR SAINT]
+1. [SAINT WARRIOR]
 2. [VANGUARD]
 3. [SUBDUE THE BARBARIANS]
 
@@ -690,7 +690,7 @@ You may play or discard any RED cards from your hand or equipment zone as an ATT
 At the beginning of your turn, you gain an extra main phase.
 
 [Subdue the Barbarians]:
-Whenever you deal damage to another hero, you may prevent that damage. If you do, take 1 card from that hero's equipment or judgment zone into your hand.
+Whenever you deal damage to another target hero, you may prevent that damage. If you do, take 1 card from that hero's equipment or judgment zone into your hand.
 </cardDescription>
     </Card>
 	<Card>
@@ -698,7 +698,7 @@ Whenever you deal damage to another hero, you may prevent that damage. If you do
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Battle Maiden
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -708,7 +708,7 @@ Once during your main phase, you may discard a RED card and target up to X heroe
 (X is your missing health. If you are at full health, you may discard 1 card instead of X. You are not able to unchain heroes with this ability.)
 
 Tiger Roar:
-Whenever you deal FIRE damage, each hero who was dealt FIRE damage draws a card. You have no limit on the number of cards that can be used on these heroes until the end of turn.
+Whenever you deal FIRE damage, each hero who was dealt FIRE damage draws a card. You have no limit on the number of ATTACKs that can be played on those heroes until the end of turn.
 
 Follow Heritage: (Awakening Ability)
 At the end of your turn, if you have caused 3 or more damage this turn, you gain 1 max health and then gain 1 health. You lose the [TIGER ROAR] ability and take the "Azure Dragon Crescent Blade" equipment card from any surviving hero, the deck, or the discard pile into your hand.
@@ -720,7 +720,7 @@ At the end of your turn, if you have caused 3 or more damage this turn, you gain
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Words that Pierces the Heavens
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -742,7 +742,7 @@ HEARTS suited cards you reveal during a clash are treated as a K rank.
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Empress of Mu Han
-	  
+
 Health/Gender: 3F
 
 Ability:
@@ -763,7 +763,7 @@ At the end of your turn you may have another target hero takes 1 random HEARTS s
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Defeating Enemies Through Diplomacy
-	  
+
 Health/Gender: 3M
 
 Ability:
@@ -783,14 +783,14 @@ If you lose, the targeted hero is considered to have played BURN BRIDGE targetin
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Candid Speaking Minister
-	  
+
 Health/Gender: 3M
 
 Ability:
 
 Righteousness:
 At the end of your main phase, you may target a hero with cards in their hand not equal to their current health to draw a card or discard a card from their hand. If the number of cards in that hero's hand is now equal to their current health, you draw a card, and then give that hero a card.
-(The targeted hero cbooses which card to discard.)
+(The targeted hero chooses which card to discard.)
 
 Feast:
 Whenever you become the target of a non-delay tactics card, you may choose one:
@@ -804,13 +804,13 @@ Whenever you become the target of a non-delay tactics card, you may choose one:
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Basking in the Pagoda
-	  
+
 Health/Gender: 3F
 
 Ability:
 
 Avert Prayers:
-Whenever you play an equipment card, you may take a random tool card from the deck.
+Whenever you play an equipment card, you may take a random tactics card from the deck.
 
 Feathering:
 Equipment and tactics cards do not count towards your max hand size limit.
@@ -821,7 +821,7 @@ Equipment and tactics cards do not count towards your max hand size limit.
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Rejoining the South with Laughs
-	  
+
 Health/Gender: 4M
 
 Ability:
@@ -835,7 +835,7 @@ During your main phase, you may give an ATTACK card to a player that you haven't
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Following the Dragon's Shadow
-	  
+
 Health/Gender: 4F
 
 Ability:
@@ -845,7 +845,7 @@ Whenever you deal damage with an ATTACK, you gain a [REFELCTION].
 You may remove a [REFLECTION] to activate [DRAGON COURAGE] and draw a card.
 
 Support the Han Dynasty: (Limited Ability)
-At the beginning of your turn, you may remove all [REFLECTIONS] and draw 5 random SHU hero cards. Choose one of the 5 random SHU hero cards to replace your current hero, your max health is now equal to the number of [REFLECTIONS] you have removed during the game. If you are the hero with the lowest amount of current health, you gain 1 health.
+At the beginning of your turn, you may remove all [REFLECTIONS] and draw 5 random SHU faction hero cards. Choose one of the 5 random SHU hero cards to replace your current hero, your max health is now equal to the number of [REFLECTIONS] you have removed during the game. If you are the hero with the lowest amount of current health, you gain 1 health.
 
 [Dragon Courage]:
 You may play or discard ATTACK cards as DODGE or vice versa.
