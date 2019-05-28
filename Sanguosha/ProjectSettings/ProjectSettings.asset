@@ -126,7 +126,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.0.10
+  bundleVersion: 1.0.11
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -161,8 +161,8 @@ PlayerSettings:
     Android: com.sirtofugames.sanguoshaet
     iOS: com.sirtofugames.sanguoshaet
   buildNumber:
-    iOS: 10
-  AndroidBundleVersionCode: 10
+    iOS: 11
+  AndroidBundleVersionCode: 11
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
