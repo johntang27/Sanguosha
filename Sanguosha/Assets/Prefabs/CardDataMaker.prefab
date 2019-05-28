@@ -51,12 +51,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9ed5efff4fc1c040a315ca805d3a32c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fileName: Treasures
+  fileName: heroes_green
   cardData:
-  - cardName: Wooden Cow Transport
-    cardType: 7
-    heroFaction: 0
-    cardDescription: 'Title: Young and Worthy Lord
+  - cardName: Sun Quan
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Young and Worthy Lord
 
 
       Health/Gender:4M
@@ -67,11 +68,1279 @@ MonoBehaviour:
 
       Balance of Power:
 
-      Once per main phase, you may discard any number of cards in your hand and equipment
-      zone and draw that many cards.
+      Once during your main phase, you may discard any number of cards from your hand
+      and equipment zone; then draw that same amount of cards.
 
 
-      Rescue:
+      Rescue: (Emperor Ability)
 
-      (Emperor Ability, Passive) Whenever you are on the brink of death and a Wu hero
-      use a "Peach" on you, you gain 2 Health instead of 1.'
+      Whenever you are on the brink of death and a WU faction hero uses a PEACH on
+      you, you gain 2 health instead of 1.'
+  - cardName: Sun Ce
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Young Conqueror of Jiangdong
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Ardor:
+
+      Whenever you target a hero with a DUEL or RED ATTACK (vice versa), you may draw
+      a card.
+
+
+      Soul Aura: (Awakening Ability)
+
+      At the beginning of your turtn, if you have exactly 1 health, reduce your maximum
+      health by 1 unit, then gain the [DASHING HERO] and [BRAVE SPIRIT] abilities.
+      Your hand size limit is now equal to the amount of your maxium health.
+
+
+      Hegemony: (Emperor Ability)
+
+      Once during each other WU faction hero''s main phase, that hero may choose to
+      clash with you. If that hero did not win, you can take the 2 cards reveal for
+      the clash into your hand.
+
+      If you have triggered [SOUL AURA], you may refuse these clashes.
+
+
+      [Dashing Hero]:
+
+      During your drawing phase, draw an additional card.
+
+
+      [Brave Sprit]:
+
+      At the beginning of your turn, if you are damaged, you may have another target
+      hero choose one of the following:
+
+      1. Target hero draws X cards, then discards 1 card from their hand or equipment
+      zone.
+
+      2. Target hero raws 1 card, then discards X cards from their hand or equipment
+      zone.
+
+      (X is your amount of missing health)'
+  - cardName: Sun Xiu
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Emperor Who Tries to Save the Country
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Hostile Banquet:
+
+      Once during your main phase, you may choose another target hero to choose one
+      of the following:
+
+      1. The targeted hero discards a card.
+
+      2. The targeted hero gives you all their equipment cards from their equipment
+      zone, and then you lose [HOSTILE BANQUET] ability for the rest of the game.
+
+
+      Vitalizing Education:
+
+      At the end of your turn, you may target X heroes. Each target hero in sequence
+      draws a card and then puts a card on top of the library from their hand or equipment
+      zone. (X is your current health. If you have lost [HOSTILE BANQUET], X is your
+      max health.)
+
+
+      Bound by orders: (Emperor Ability)
+
+      Heroes within your physical range are treated as within the attack range of
+      other WU faction heroes.'
+  - cardName: Sun Hao
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Last Emperor of Wu
+
+
+      Health/Gender: 5M
+
+
+      Ability:
+
+
+      Ruin:
+
+      You may skip your draw phase and draw X cards. Until the end of your turn, whenever
+      you play a basic or tactics card, you must discard a card.
+
+      (X is the number of heroes with missing health.)
+
+
+      Hatred:
+
+      Whenever you are dealt damage, if you do not have any cards in your hand, the
+      dealt damage is increased by +1.
+
+
+      Return to Life: (Emperor Ability)
+
+      During your turn, other WU faction heroes are considered to have missing health,
+      regardless of the amount of their current health.
+
+'
+  - cardName: Gan Ning
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Pirate with Silk Sails
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Surprise Raid:
+
+      During your main phase, you may play any BLACK cards in your hand and equipment
+      zone as a BURN BRIDGES.'
+  - cardName: Lu Meng
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Crossing the River in White Robes
+
+
+      Health/Gender:4M
+
+
+      Ability:
+
+
+      Self-Restraint:
+
+      If you did not play or discard any ATTACK during your main phase, you may skip
+      your discard phase.'
+  - cardName: Huang Gai
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Sacrificing for the Country
+
+
+      Health/Gender:4M
+
+
+      Ability:
+
+
+      Sacrificial Injury:
+
+      During your main phase, you may lose 1 life to draw 2 cards.'
+  - cardName: Zhou Yu
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Wu Viceroy
+
+
+      Health/Gender:3M
+
+
+      Ability:
+
+
+      Dashing Hero:
+
+      During your drawing phase, draw an additional card.
+
+
+      Sow Discord:
+
+      Once during your main phase, you may target another hero. That hero announces
+      a suit, then takes one card from your hand and reveals it. If the revealed card
+      is different from the anounced suit, you deal one damage to that hero.  Then
+      that hero takes the revealed card into their hand.'
+  - cardName: Da Qiao
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Reserved Beauty
+
+
+      Health/Gender:3F
+
+
+      Ability:
+
+
+      National Beauty:
+
+      During your main phase, you may use your DIAMONDS suited cards as ACEDIA.
+
+
+      Displacement:
+
+      Whenever you are the target of an ATTACK, you may discard a card from your hand
+      or equipment zone; then choose another target hero other the attacker within
+      your attack range, that hero becomes the new target of the ATTACK.'
+  - cardName: Lu Xun
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Meek Scholar with Valiant Talents
+
+
+      Health/Gender:3M
+
+
+      Ability:
+
+
+      Humility:
+
+      You cannot be the target of PILFER and ACEDIA cards.
+
+
+      One after another:
+
+      Whenever you have no cards in your hand, you may draw a card.'
+  - cardName: Sun Shang Xiang
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Archery Princess
+
+
+      Health/Gender:3F
+
+
+      Ability:
+
+
+      Marriage:
+
+      Once During your main phase, you may discard 2 cards and choose a target male
+      hero; if you do, you and that hero gain 1 health.
+
+
+      Warrior Princess:
+
+      Whenever a card is removed from your equipment zone, draw 2 cards.'
+  - cardName: Xiao Qiao
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Unconventional Beauty
+
+
+      Health/Gender:3F
+
+
+      Ability:
+
+
+      Heavenly Scent:
+
+      Whenever you are being dealt damage, you may discard a HEARTS suited card from
+      your hand; then choose another target hero, the damage is dealt to the target
+      hero instead, then the target hero draws cards equal to the amount of their
+      missing health.
+
+      (You are not suppose to suffer any damage when performing this ability. You
+      do not become the new source fo this damage, the original source of damage does
+      not change. The hero must be saved from the brink of death in order to be able
+      to draw cards. When you you transfer incomming damage from a chained source,
+      you do not become unchained after doing so.)
+
+
+      Youthful Beauty:
+
+      Your SPADES suited cards in your hand, equipment zone, and any judgement card
+      results are considered to be HEARTS suited cards instead.'
+  - cardName: Zhou Tai
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Battle Records in Scars
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Undying:
+
+      Whenever you are on the brink of death, reveal a card from the top of the library;
+      then if there are no [WOUND] cards with same rank attached to you, you gain
+      1 health and attach the revealed card as a [WOUND] card onto your hero. If there
+      is a [WOUND] card with the same rank as your revealed card, discard the revealed
+      card into the graveyard and return to resolving your brink of death phase.
+
+      If you have any [WOUND] cards attached to your hero, your hand size limit becomes
+      equal to the number of [WOUND] cards attached to your hero.
+
+
+      Inspire:
+
+      Whenever a hero discards a card or has a card taken by another hero, you may
+      lose 1 life. If you do, the hero that discarded cards draws 2 cards.'
+  - cardName: Tai Shi Ci
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Ardent and Loyal Warrior
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Righteousness:
+
+      Once during your main phase, you may clash with another target hero. If you
+      win, you may use an additional ATTACK; until the end of your turn, your ATTACK
+      cards may target an additional hero and ignore all range requirements.
+
+      If you did not win, you cannot play ATTACK cards until the end of turn.'
+  - cardName: Sun Jiang
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Martial Emperor of Unyielding
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Brave Sprit:
+
+      At the beginning of your turn, if you are damaged, you may have another target
+      hero choose one of the following:
+
+      1. The targeted hero draws X cards, then discards 1 card from their hand or
+      equipment zone.
+
+      2. The targeted hero draws 1 card, then discards X cards from their hand or
+      equipment zone.
+
+      (X is your missing health)'
+  - cardName: Lu Su
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Maverick Diplomat
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Altruism:
+
+      During your drawing phase, you may draw 2 additional cards; then if the number
+      of cards in your hand is greater than 5, give half of the cards (rounded down)
+      to another target hero with the least number of cards in their hand.
+
+
+      Alliance:
+
+      Once during your main phase, you may choose 2 target heroes and discard X cards
+      from you hand or equipment zone (X is the difference between the number of cards
+      in both targeted hero''s hand). If you do, those heros exchange the cards in
+      their hand.'
+  - cardName: Zhang Zhao & Zhang Hong
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Genius Prime Ministers
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Blunt Advice:
+
+      During your main phase, you may play an equipment card onto another hero''s
+      equipment zone, then draw 1 card.
+
+      (You cannot replace a equipment from an occupied slot.)
+
+
+      Solid Governance:
+
+      At the end of each other hero''s discard phase, you may put 1 card discarded
+      by that hero during their discard phase back into their hand, then take all
+      other discarded cards into your hand.'
+  - cardName: Ling Tong
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Forthright and Courageous
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Whirlwind:
+
+      Whenever you discard at least 2 cards during your discard phase; or you lose
+      a card in your equipment zone, you may choose up to 2 target heroes and discard
+      up to 2 cards from their hand or equipment zone.'
+  - cardName: Wu Guo Tai
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Martial Empress of Unyielding
+
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Amrita:
+
+      Once during your main phase, you may choose 2 target heroes with equipment in
+      their equipment zone, if the difference between the number of equipments is
+      less than or equal to X, exchange their equipment.
+
+      (X is your missing health)
+
+
+      Ameliorate:
+
+      When a hero is on the brink of death, you may reveal a card from that hero''s
+      hand, if the revealed card is a non-basic card, discard it and that hero gains
+      1 health.'
+  - cardName: Xu Shen
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Steel Barricade of Jiang Dong
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Breakthrough:
+
+      Whenever you play an ATTACK targeting a hero, you may take X cards from his
+      hand or equipment zone and set them aside facing down. (X is his current health)
+      Return those cards to that hero''s hand at the end of your turn.'
+  - cardName: Bu Lianshi
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Uncrowned Queen
+
+
+      Health/Gender:3F
+
+
+      Ability:
+
+
+      Pacify:
+
+      Once during your main phase, you may choose 2 target heroes with different amounts
+      of cards in their hand, the hero with the least amount cards in their hand takes
+      a card from the hero with the higher amount of cards in their hand and then
+      reveals it. If the suit of the revealed card is not a SPADES suit, you draw
+      a card.
+
+
+      Reminiscence:
+
+      When you are dead, you may choose a target hero other than the killer, that
+      hero draws 3 cards and gains 1 health.'
+  - cardName: Cheng Pu
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Loyalist of Three Generations
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Plague Fire:
+
+      Whenever you play an ATTACK, you may treat it as a FIRE ATTACK. If this FIRE
+      ATTACK deals damage, you lose 1 health.
+
+      This FIRE ATTACK may target an additional hero.
+
+
+      Superior Vintage:
+
+      At the end of your turn, if you have no [VINTAGE] cards attached to your hero
+      card, you may attach any number of ATTACK cards onto your hero as [VINTAGE].
+      Whenever a hero is on the brink of death, you may discard a [VINTAGE]; this
+      is treated as that hero playing a WINE.'
+  - cardName: Han Dang
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Marquis of the Stone City
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Mounted Archer:
+
+      Once during your main phase, you may discard a card from your hand or equipment
+      zone; if you do, ignore attack range requirements until the end of your turn.
+      If the discarded card is an equipment card, you may discard a card from another
+      target hero''s hand or equipment zone.
+
+
+      Problem Solve: (Limited Ability)
+
+      During your main phase, you may choose a target hero. All heroes that that have
+      the targeted hero within their attack range must choose to:
+
+      1. Discard a weapon card.
+
+      2. Allow the targeted hero to draw a card.'
+  - cardName: Pan Zhang & Ma Zhong
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Nightmare of Ace
+
+
+      Health/Gender:4M
+
+
+      Ability:
+
+
+      Seize Weapon:
+
+      Whenever you are dealt damage by an ATTACK, you may discard a card from your
+      hand or equipment zone. If you do, take the weapon from the equipment zone of
+      the source of damage into your hand.
+
+
+      Backstab:
+
+      Whenever you have dealt damage to a target hero with an ATTACK, if you are not
+      within his attack range, this ATTACK deals an 1 additional damage.'
+  - cardName: Yu Fan
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Unrestrained and Honest Advisor
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Seek Knowledge:
+
+      Whenever you discard your cards, you may put any number of them on top of the
+      deck.
+
+
+      Blunt words:
+
+      At the end of your turn, you may target a hero. That hero draws a card and reveals
+      it. If that card is an equipment card, that hero must play that equipment card
+      and then gain 1 health.
+
+      (The equipment card replaces any previous equipment that shared the same slot.)'
+  - cardName: Zhu Ran
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Patient Commander
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Courage:
+
+      During your main phase, you may discard X cards and choose another target hero
+      within your attack range.
+
+      (X is the number of times you activate [COURAGE] during this turn, the first
+      time you activate [COURAGE] is treated as 1.)
+
+      If X is:
+
+      1:  You discard a card from target hero''s hand, equipment or judgment zone.
+
+      2:  Target hero gives you a card from their hand, equipment or judgment zone.
+
+      3:  You deal 1 damage to target hero.
+
+      4+: You and target hero draw 2 cards.'
+  - cardName: Sun Lu Ban
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Henchwoman
+
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Slander:
+
+      Once during your main phase, whenever you play an ATTACK or BLACK non-delay
+      tactics card targeting a single hero, you may choose a second hero who can also
+      be targeted by your card. The second targeted hero chooses one of the following:
+
+      1. Second target hero gives you a card and becomes the source for the card you
+      have played.
+
+      2. Second target also becomes the additional target to the card you have played.
+
+      (If the source of the ATTACK changes for you, you are considered to not yet
+      have played an ATTACK this turn.)
+
+
+      Arrogant:
+
+      Whenever you are dealt damage by a male hero, you may discard an equipment card
+      and reduce that damage by 1.'
+  - cardName: Zhu Huan
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Defender of Chung Chou
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Feint:
+
+      At the end of your turn, you may have target hero discard a card from your hand
+      or equipment zone, if the discarded card is not an ATTACK card, you may take
+      a card from his hand, equipment or judgment zone into your hand.'
+  - cardName: Gu Yong
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Wu''s Prime Minister
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Prudent:
+
+      During your main phase, you may discard 2 cards from your hand or equipment
+      zone. If you do, draw a card.
+
+
+      In the same spirit:
+
+      At the end of your turn, you may reveal your hand. If all the revealed cards
+      are the same color, you may choose X heroes to draw a card. (X is the number
+      of cards in your hand.)'
+  - cardName: Zhu Zhi
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: General of National Stability
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Stabilize the country:
+
+      Once during your main phase, you may choose a target hero and put an equipment
+      from their equipment zone back into their hand. If that hero''s attack range
+      was reduced because of this effect, you draw a card.'
+  - cardName: Quan Cong
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Greedy Noble
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Seeking Fame:
+
+      Once during each hero''s turn, whenever you have dealt or was dealt damage,
+      you may choose one of the following:
+
+      1. Discard a card from target hero''s hand. That hero must have more cards in
+      their hand than you.
+
+      2. Target hero draws a card. That hero must have less cards in hand than you.'
+  - cardName: Sun Deng
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Talented and Virtuous Crowned Prince
+
+
+      Health/Gender:4M
+
+
+      Ability:
+
+
+      Rectify:
+
+      Once during your main phase, you may target another hero. That hero may attach
+      up to 3 cards (At least 1.) from his hand or equipment zone onto your hero face
+      down as [RECTIFICATION]. If he does, at the beginning of your next turn, you
+      take all [RECTIFICATION] cards attached to you into your hand and the target
+      hero draws the amount of [RECTIFICATON] cards you have recieved.'
+  - cardName: Cen Hun
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Eunuch Who Ordered National Isolation
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Extravagant:
+
+      During your main phase, if your hand limit is greater than 0, you may draw a
+      card then reduce your hand limit by 1 until the end of your turn. At the end
+      of your turn, if you have no cards in your hand, you may choose up to X target
+      heros to be chained.
+
+      (X is your current health)
+
+
+      Chain of Disasters:
+
+      Whenever you are dealt FIRE damage, if your hero card is chained and you are
+      the first hero among the chained heroes to receive the damage, this damage is
+      increased by 1'
+  - cardName: Xu Shi
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Beautiful Empress of Justice
+
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Ask for Divinatory Diagram:
+
+      Once during each hero''s main phase, the active hero may give you a card and
+      you decide to place it on top or bottom of the library. If you do, both you
+      and the active hero draws a card from the opposite side of the library.
+
+      (If the active hero is you, you don''t have to reveal the card and you are only
+      allowed to draw 1 card.)
+
+
+      Execution:
+
+      At the end of a male hero''s turn, if the remaining number of cards in the library
+      is less than or equal to X (X is your current health x 10), then you can play
+      all ATTACK cards from the library on that male hero ignoring any range requirements,
+      then shuffle the deck.
+
+      (The number of ATTACK cards that can be played cannot exceed the number of surviving
+      heroes)'
+  - cardName: Zong Xue
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: The Elegantly Simple Minister
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Recovery:
+
+      When another target hero plays a card in response to a card you have played,
+      you may give the card you played to that hero and take the card that hero played
+      into your hand. (That hero cannot play the given card this turn.)
+
+
+      (Upgrade)
+
+      When another target hero plays a card in response to a card you have played,
+      you may take the card that hero played into your hand.
+
+
+      Training:
+
+      At the end of your turn, you may have target hero draw as many cards as there
+      are DIAMONDS suited cards on the field. Then that hero discards X cards. If
+      they have discarded all their cards, you can upgrade [RECOVERY] and lose the
+      [TRAINING] ability for the rest of the game.
+
+      (X is the number of times you activated this skill during this game.)'
+  - cardName: Sun Yang
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Chasing the Waves and Wind
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Torpedo:
+
+      You draw 1+X aditional cards during your draw phase.
+
+      (X is half the number of equipment cards in your equipment zone rounded down.)
+
+'
+  - cardName: Ye Shi Wen
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Ascending Green Lotus
+
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Sprint:
+
+      At the beginning of your turn, you may skip your judgement and draw phase to
+      target another hero, treat this as playing an ATTACK on the targeted hero, ignore
+      any requirements for these ATTACK.
+
+
+      Swim:
+
+      Ignore the effects of all sources of FIRE damage.
+
+      (You are immune to all sources of FIRE damage, including incomming FIRE damage
+      from being in the chained state and redirected damage from Xiao Qiao.)
+
+'
+  - cardName: Da Qiao & Xiao Qiao
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Flowers of Jiandong
+
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Star Dance:
+
+      At the beginning of your discard phase, you may attach a card from your hand
+      face up onto your characeter as a [STEP]. The card you attach must be a different
+      color than the cards you have used this turn. Whenever you have 3 [STEPS] attached,
+      remove them all and choose a target male hero, you deal 2 damage to the target
+      hero and discard all equiped epuipment cards.
+
+      (If you used both RED and BLACK cards this turn, you cannot attach any [STEPS]
+      onto yourself. If you did not play any cards on your turn, you will not be allowed
+      to attach any [STEP] cards. If you reach 3 [STEPS] and there are no male heroes,
+      you must still remove all the [STEPS] while  not being able to deal damage or
+      discarding equipment cards.)
+
+
+      River Swans:
+
+      Whenever you have [STEP] cards attached, you may use the [DISPLACEMENT] and
+      [HEAVENLY SCENT] abilities.
+
+
+      Displacement:
+
+      Whenever you are the target of an ATTACK, you may discard a card from your hand
+      or equipment zone; then choose another target hero other the attacker within
+      your attack range, that hero becomes the new target of the ATTACK.
+
+
+      Heavenly Scent:
+
+      Whenever you are being dealt damage, you may discard a HEARTS suited card from
+      your hand; then choose another target hero, the damage is dealt to the target
+      hero instead, then the target hero draws cards equal to the amount of their
+      missing health.
+
+      (You are not suppose to suffer any damage when performing this ability. You
+      do not become the new source fo this damage, the original source of damage does
+      not change. The hero must be saved from the brink of death in order to be able
+      to draw cards. When you you transfer incomming damage from a chained source,
+      you do not become unchained after doing so.)
+
+'
+  - cardName: Zhuge Jin
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Preserver of the Alliance
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Aid:
+
+      During your draw phase, you may draw 1 less card; then choose up to 2 other
+      target heroes to draw a card.
+
+
+      Delayed Release:
+
+      Whenever a hero performs a judgment, before revealing the result, you may have
+      that hero look at the cards in your hand and choose one to be the judgement
+      result.
+
+
+      Shrewdness:
+
+      Whenever you play or discard RED cards outside of your turn, you may draw a
+      card.
+
+'
+  - cardName: Zhuge Ke
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Thinking of Family Back Home
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Arrogance:
+
+      Whenever you need to play a basic card outside of your turn, you may look at
+      the top 2 cards of the deck. If the card you need to play is present, you may
+      use it immediately.
+
+      (Any cards you do not use are placed ontop of the deck in the same order once
+      your ability has resolved.)
+
+
+      Recklessness:
+
+      During your main phase, you may choose to target a hero within your attack range
+      and discard X cards; then you deal 1 damage to that hero. If you bring the targeted
+      hero to the brink of death in this way, you lose 1 health and cannot use this
+      ability for the rest of the turn.
+
+      (X is the current health of the target hero.)
+
+'
+  - cardName: Sun Lu Yu
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Small Tiger
+
+
+      Health/Gender: 3F
+
+
+      Ability:
+
+
+      Charm:
+
+      At the beginning of another hero''s main phase, you may have target hero gain
+      the [CEASE] ability until the end of your turn. If you do, you are considered
+      to be within the targeted hero''s attack range.
+
+
+      (Upgrade)
+
+      At the beginning of another hero''s main phase, you may have target hero gain
+      the [CEASE] ability until the end of your turn.
+
+
+      Solemn:
+
+      Once during a hero''s main phase, you may discard a card and choose one:
+
+      1. Discard a equipment from a targeted hero''s equipment zone; then draw a card.
+
+      2. Take an armor from a targeted hero''s equipment zone.
+
+      If the card you discarded to activate [SOLEMN] was an ATTACK or a BLACK tactics
+      card, [CHARM] is upgraded until the beginning of your next turn.
+
+
+      [Cease]:
+
+      After you play a tactics card, your tactics cards are treated as ATTACKs.
+
+'
+  - cardName: Ding Feng
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Essential Minister who Purged the King''s Court
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Short Soldiers:
+
+      Your ATTACKs may target an additional hero within your physical range.
+
+
+      Swift and Deadly:
+
+      Once during each hero''s main phase, you may discard a card and target another
+      hero, the physical range between you and the targeted hero is 1 until the end
+      of turn.
+
+'
+  - cardName: Zu Mao
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Scarlet Bloodstained Conical Cap
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Leading the Troops:
+
+      At the end of your turn, you may attach any number of non-basic cards face up
+      onto your hero as a [VANGUARD]. Whenever you are dealt damage by an ATTACK or
+      DUEL, remove a [VANGUARD].
+
+      (You may choose which [VANGUARD] card to be removed from you.)
+
+
+      Danger Zone:
+
+      At the beginning of your turn, you choose one:
+
+      1. Remove all [VANGUARD] cards and draw cards until you have X cards in your
+      hand. (X is your max health.)
+
+      2. Give all [VANGUARD] cards to another target hero whose health is not greater
+      than your current health; then the target hero gains 1 health and you draw X
+      cards. (X is the number of [VANGUARD] cards given to the targeted hero.)
+
+'
+  - cardName: Bu Zhi
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Integrating Solutions in Jiangbian
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Kindness:
+
+      Whenever you gain or lose 2 or more cards from a source, you may have a another
+      target hero draw a card.
+
+
+      Settle Rebellion:
+
+      During your main phase, you may activate [SETTLE REBELLION] X times; you may
+      have a target hero with an equipment in their equipment zone draw a card, then
+      the targeted hero chooses one:
+
+      1. You discard an equipment from the targeted hero.
+
+      2. The targeted hero takes all equipment cards in their equipment zones back
+      into their hand and deal 1 damage to you.
+
+      (X is the number of surviving rebels in the game.)
+
+'
+  - cardName: Han Ze
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Truly Insightful Adviser
+
+
+      Health/Gender: 3M
+
+
+      Ability:
+
+
+      Alight the Letter:
+
+      At the beginning of your main phase, you may give all the cards in your hand
+      to another hero, then that hero reveals any number of cards from their hand
+      and you choose one:
+
+      1. Take the cards that were revealed.
+
+      2. Take the cards that were not revealed.
+
+
+      Wide Release:
+
+      At the end of your turn, you may choose a target hero in secret. Until the beginning
+      of your next turn, whenever the targeted hero is dealt more than 1 damage by
+      a source; prevent that damage, then skip your draw phase on your next turn.
+
+      (The hero that you choose to be the target of [WIDE RELEASE[ is only known to
+      you. The additional FIRE damage effect from RATTAN ARMOR is calculated after
+      this ability activates, so the targeted hero will still take 1 FIRE damage.)
+
+'
+  - cardName: He Qi
+    portraitOverride: 
+    cardType: 5
+    heroFaction: 2
+    cardDescription: 'Title: Leading Calvalry through the Mountains
+
+
+      Health/Gender: 4M
+
+
+      Ability:
+
+
+      Damask Helmet:
+
+      You gain the following abilities based on the number of different suits in your
+      equipment zone:
+
+      1: Horsemanship
+
+      2: Dashing Hero
+
+      3: Short Soldier
+
+      4: Prestige
+
+
+      Quick Raid:
+
+      Once during your main phase, you may discard a RED basic card to discard a card
+      from a target hero within your attack range. If the discarded card is a DODGE,
+      you look at the cards in the targeted hero''s hand. If the discarded card is
+      not a DODGE, the targeted hero looks at the card in your hand.
+
+
+      [Horsemanship]:
+
+      The physical range you see other heroes is reduced by 1.
+
+
+      [Dashing Hero]:
+
+      During your drawing phase, draw an additional card.
+
+
+      [Short Soldiers]:
+
+      Your ATTACKs may target an additional hero within your physical range of you.
+
+
+      [Prestige]:
+
+      Once per game, whenever a tactics card targets 2 or more heroes, you may have
+      any number of targeted heroes ignore the effects of the card.
+
+      (The card being played still counts as targeting the heroes. When resolving
+      HARVEST, the cards are revealed before you choose to remove any targeted heroes.)
+
+'

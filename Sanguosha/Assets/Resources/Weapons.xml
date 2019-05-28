@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Zhuge Crossbow</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 1
@@ -11,6 +12,7 @@ During your main phase, you may play any number of ATTACKs.</cardDescription>
     </Card>
     <Card>
       <cardName>Sword of Blue Steel</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 2
@@ -19,6 +21,7 @@ Whenever you play an ATTACK on a target hero, ignore the effects of any armor ca
     </Card>
     <Card>
       <cardName>Frost Blade</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 2
@@ -27,6 +30,7 @@ Whenever your ATTACK deals damage to a target hero, you may prevent that damage;
     </Card>
     <Card>
       <cardName>Twin Swords</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 2
@@ -37,6 +41,7 @@ Whenever you target a hero of the opposite gender with an ATTACK, before resolvi
     </Card>
     <Card>
       <cardName>Azure Dragon Crescent Blade</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 3
@@ -45,6 +50,7 @@ Whenever your ATTACK is canceled by a DODGE, you may play another ATTACK targeti
     </Card>
     <Card>
       <cardName>Serpent Spear</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 3
@@ -59,6 +65,7 @@ If the 2 cards are different colors, the ATTACK is considered colorless.
     </Card>
     <Card>
       <cardName>Rock Cleaving Axe</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 3
@@ -68,6 +75,7 @@ Whenever your ATTACK is cancelled by a DODGE, you may discard 2 cards from your 
     </Card>
     <Card>
       <cardName>Heaven Halberd</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 4
@@ -77,6 +85,7 @@ Whenever you play an ATTACK targeting a hero, if you have no cards left in your 
     </Card>
     <Card>
       <cardName>Kirin Bow</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 5
@@ -86,6 +95,7 @@ Whenever your ATTACK deals damage to a target hero, you may discard an equipped 
     </Card>
     <Card>
       <cardName>Ancient Scimitar</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 2
@@ -95,6 +105,7 @@ Whenever your ATTACK deals damage to a target hero, if that hero has no cards in
     </Card>
     <Card>
       <cardName>Vermilion Fan</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 4
@@ -104,6 +115,7 @@ You may treat any of your ATTACK as a FIRE ATTACK.</cardDescription>
     </Card>
     <Card>
       <cardName>Ancient Scimitar</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 2
@@ -113,6 +125,7 @@ Whenever your ATTACK deals damage to a target hero, if that hero has no cards in
     </Card>
     <Card>
       <cardName>Silver Moon Spear</cardName>
+      <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Attack Range: 3

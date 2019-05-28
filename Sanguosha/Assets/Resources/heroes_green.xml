@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Sun Quan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Young and Worthy Lord
@@ -19,6 +20,7 @@ Whenever you are on the brink of death and a WU faction hero uses a PEACH on you
     </Card>
     <Card>
       <cardName>Sun Ce</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Young Conqueror of Jiangdong
@@ -48,6 +50,7 @@ At the beginning of your turn, if you are damaged, you may have another target h
     </Card>
     <Card>
       <cardName>Sun Xiu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Emperor Who Tries to Save the Country
@@ -69,6 +72,7 @@ Heroes within your physical range are treated as within the attack range of othe
     </Card>
     <Card>
       <cardName>Sun Hao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Last Emperor of Wu
@@ -90,6 +94,7 @@ During your turn, other WU faction heroes are considered to have missing health,
     </Card>
     <Card>
       <cardName>Gan Ning</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Pirate with Silk Sails
@@ -103,6 +108,7 @@ During your main phase, you may play any BLACK cards in your hand and equipment 
     </Card>
     <Card>
       <cardName>Lu Meng</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Crossing the River in White Robes
@@ -116,6 +122,7 @@ If you did not play or discard any ATTACK during your main phase, you may skip y
     </Card>
     <Card>
       <cardName>Huang Gai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Sacrificing for the Country
@@ -129,6 +136,7 @@ During your main phase, you may lose 1 life to draw 2 cards.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhou Yu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Wu Viceroy
@@ -145,6 +153,7 @@ Once during your main phase, you may target another hero. That hero announces a 
     </Card>
     <Card>
       <cardName>Da Qiao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Reserved Beauty
@@ -161,6 +170,7 @@ Whenever you are the target of an ATTACK, you may discard a card from your hand 
     </Card>
     <Card>
       <cardName>Lu Xun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Meek Scholar with Valiant Talents
@@ -177,6 +187,7 @@ Whenever you have no cards in your hand, you may draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Sun Shang Xiang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Archery Princess
@@ -193,6 +204,7 @@ Whenever a card is removed from your equipment zone, draw 2 cards.</cardDescript
     </Card>
     <Card>
       <cardName>Xiao Qiao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Unconventional Beauty
@@ -210,6 +222,7 @@ Your SPADES suited cards in your hand, equipment zone, and any judgement card re
     </Card>
     <Card>
       <cardName>Zhou Tai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Battle Records in Scars
@@ -227,6 +240,7 @@ Whenever a hero discards a card or has a card taken by another hero, you may los
     </Card>
     <Card>
       <cardName>Tai Shi Ci</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Ardent and Loyal Warrior
@@ -241,6 +255,7 @@ If you did not win, you cannot play ATTACK cards until the end of turn.</cardDes
     </Card>
     <Card>
       <cardName>Sun Jiang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Martial Emperor of Unyielding
@@ -257,6 +272,7 @@ At the beginning of your turn, if you are damaged, you may have another target h
     </Card>
     <Card>
       <cardName>Lu Su</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Maverick Diplomat
@@ -273,6 +289,7 @@ Once during your main phase, you may choose 2 target heroes and discard X cards 
     </Card>
     <Card>
       <cardName>Zhang Zhao &amp; Zhang Hong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Genius Prime Ministers
@@ -290,6 +307,7 @@ At the end of each other hero's discard phase, you may put 1 card discarded by t
     </Card>
     <Card>
       <cardName>Ling Tong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Forthright and Courageous
@@ -303,6 +321,7 @@ Whenever you discard at least 2 cards during your discard phase; or you lose a c
     </Card>
     <Card>
       <cardName>Wu Guo Tai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Martial Empress of Unyielding
@@ -320,6 +339,7 @@ When a hero is on the brink of death, you may reveal a card from that hero's han
     </Card>
     <Card>
       <cardName>Xu Shen</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Steel Barricade of Jiang Dong
@@ -333,6 +353,7 @@ Whenever you play an ATTACK targeting a hero, you may take X cards from his hand
     </Card>
     <Card>
       <cardName>Bu Lianshi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Uncrowned Queen
@@ -349,6 +370,7 @@ When you are dead, you may choose a target hero other than the killer, that hero
     </Card>
     <Card>
       <cardName>Cheng Pu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Loyalist of Three Generations
@@ -366,6 +388,7 @@ At the end of your turn, if you have no [VINTAGE] cards attached to your hero ca
     </Card>
     <Card>
       <cardName>Han Dang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Marquis of the Stone City
@@ -384,6 +407,7 @@ During your main phase, you may choose a target hero. All heroes that that have 
     </Card>
     <Card>
       <cardName>Pan Zhang &amp; Ma Zhong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Nightmare of Ace
@@ -400,6 +424,7 @@ Whenever you have dealt damage to a target hero with an ATTACK, if you are not w
     </Card>
     <Card>
       <cardName>Yu Fan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Unrestrained and Honest Advisor
@@ -417,6 +442,7 @@ At the end of your turn, you may target a hero. That hero draws a card and revea
     </Card>
     <Card>
       <cardName>Zhu Ran</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Patient Commander
@@ -436,6 +462,7 @@ If X is:
     </Card>
     <Card>
       <cardName>Sun Lu Ban</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Henchwoman
@@ -455,6 +482,7 @@ Whenever you are dealt damage by a male hero, you may discard an equipment card 
     </Card>
     <Card>
       <cardName>Zhu Huan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Defender of Chung Chou
@@ -468,6 +496,7 @@ At the end of your turn, you may have target hero discard a card from your hand 
     </Card>
     <Card>
       <cardName>Gu Yong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Wu's Prime Minister
@@ -484,6 +513,7 @@ At the end of your turn, you may reveal your hand. If all the revealed cards are
     </Card>
     <Card>
       <cardName>Zhu Zhi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: General of National Stability
@@ -497,6 +527,7 @@ Once during your main phase, you may choose a target hero and put an equipment f
     </Card>
     <Card>
       <cardName>Quan Cong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Greedy Noble
@@ -512,6 +543,7 @@ Once during each hero's turn, whenever you have dealt or was dealt damage, you m
     </Card>
     <Card>
       <cardName>Sun Deng</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Talented and Virtuous Crowned Prince
@@ -525,6 +557,7 @@ Once during your main phase, you may target another hero. That hero may attach u
     </Card>
     <Card>
       <cardName>Cen Hun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Eunuch Who Ordered National Isolation
@@ -542,6 +575,7 @@ Whenever you are dealt FIRE damage, if your hero card is chained and you are the
     </Card>
     <Card>
       <cardName>Xu Shi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Beautiful Empress of Justice
@@ -560,6 +594,7 @@ At the end of a male hero's turn, if the remaining number of cards in the librar
     </Card>
     <Card>
       <cardName>Zong Xue</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Elegantly Simple Minister
@@ -580,6 +615,7 @@ At the end of your turn, you may have target hero draw as many cards as there ar
     </Card>
     <Card>
       <cardName>Sun Yang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Chasing the Waves and Wind
@@ -595,6 +631,7 @@ You draw 1+X aditional cards during your draw phase.
     </Card>
     <Card>
       <cardName>Ye Shi Wen</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Ascending Green Lotus
@@ -613,6 +650,7 @@ Ignore the effects of all sources of FIRE damage.
     </Card>
     <Card>
       <cardName>Da Qiao &amp; Xiao Qiao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Flowers of Jiandong
@@ -638,6 +676,7 @@ Whenever you are being dealt damage, you may discard a HEARTS suited card from y
     </Card>
     <Card>
       <cardName>Zhuge Jin</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Preserver of the Alliance
@@ -658,6 +697,7 @@ Whenever you play or discard RED cards outside of your turn, you may draw a card
     </Card>
     <Card>
       <cardName>Zhuge Ke</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Thinking of Family Back Home
@@ -677,6 +717,7 @@ During your main phase, you may choose to target a hero within your attack range
     </Card>
     <Card>
       <cardName>Sun Lu Yu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Small Tiger
@@ -703,6 +744,7 @@ After you play a tactics card, your tactics cards are treated as ATTACKs.
     </Card>
     <Card>
       <cardName>Ding Feng</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Essential Minister who Purged the King's Court
@@ -720,6 +762,7 @@ Once during each hero's main phase, you may discard a card and target another he
     </Card>
     <Card>
       <cardName>Zu Mao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Scarlet Bloodstained Conical Cap
@@ -740,6 +783,7 @@ At the beginning of your turn, you choose one:
     </Card>
     <Card>
       <cardName>Bu Zhi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Integrating Solutions in Jiangbian
@@ -760,6 +804,7 @@ During your main phase, you may activate [SETTLE REBELLION] X times; you may hav
     </Card>
     <Card>
       <cardName>Han Ze</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Truly Insightful Adviser
@@ -780,6 +825,7 @@ At the end of your turn, you may choose a target hero in secret. Until the begin
     </Card>
     <Card>
       <cardName>He Qi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Leading Calvalry through the Mountains

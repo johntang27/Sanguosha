@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Wooden Ox Transport</cardName>
+      <portraitOverride />
       <cardType>Treasures</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:

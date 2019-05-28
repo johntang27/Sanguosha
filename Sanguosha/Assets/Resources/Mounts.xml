@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Red Hare</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -10,6 +11,7 @@ The physical range you see other heroes is reduced by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Da Yuan</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -17,6 +19,7 @@ The physical range you see other heroes is reduced by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Zi Xing</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -24,6 +27,7 @@ The physical range you see other heroes is reduced by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Di Lu</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -31,6 +35,7 @@ The physical range other heroes see you is increased by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Hua Liu</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -38,6 +43,7 @@ The physical range other heroes see you is increased by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>The Shadow</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -45,6 +51,7 @@ The physical range other heroes see you is increased by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhua Huang Fei Dian</cardName>
+      <portraitOverride />
       <cardType>Mounts</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:

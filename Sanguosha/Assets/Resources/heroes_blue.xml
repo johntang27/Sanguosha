@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Cao Cao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Martial Emperor of Wei
@@ -19,6 +20,7 @@ Whenever you need to play or discard a DODGE, you may ask each other WEI faction
     </Card>
     <Card>
       <cardName>Cao Pi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Great Empire Successor
@@ -38,6 +40,7 @@ Whenever another WEI faction hero's judgement is resolved, if that judgement car
     </Card>
     <Card>
       <cardName>Cao Rui</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Talented Emperor
@@ -58,6 +61,7 @@ When you are on brink of death, you may ask every other WEI faction hero in sequ
     </Card>
     <Card>
       <cardName>Si Ma Yi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Ever Watchful Wolf
@@ -75,6 +79,7 @@ Whenever a hero performs a judgement, you may replace the judgement card with a 
     </Card>
     <Card>
       <cardName>Xiahou Dun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: One-Eyed Warrior
@@ -90,6 +95,7 @@ Whenever you are dealt damage by a hero, you may perform a judgement. If the res
     </Card>
     <Card>
       <cardName>Zhang Liao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: General of the Vanguard
@@ -104,6 +110,7 @@ At the beginning of your draw phase, you may skip your draw. If you do, you may 
     </Card>
     <Card>
       <cardName>Xu Zhu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Crazy Tiger
@@ -117,6 +124,7 @@ You can choose to draw 1 card less during your draw phase. If you do, during you
     </Card>
     <Card>
       <cardName>Guo Jia</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Prophet with An Early End
@@ -133,6 +141,7 @@ Whenever you are dealt damage, for each point of damage you receive, look at 2 c
     </Card>
     <Card>
       <cardName>Zhen Ji</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Unfortunate Beauty
@@ -150,6 +159,7 @@ At the beginning of your turn, you may perform a judgement; if the result is BLA
     </Card>
     <Card>
       <cardName>Xiahou Yuan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Lightning Panther
@@ -168,6 +178,7 @@ For each option you have chosen, treat that as playing an ATTACK on any target h
     </Card>
     <Card>
       <cardName>Cao Ren</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Great General
@@ -185,6 +196,7 @@ When your hero card is flipped to the face up position, you may discard a card. 
     </Card>
     <Card>
       <cardName>Dian Wei</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Ancient Berserker
@@ -198,6 +210,7 @@ Once during your main phase, you may lose 1 health or discard an equipment card;
     </Card>
     <Card>
       <cardName>Xun Yu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Genius Advisor
@@ -215,6 +228,7 @@ Whenever you are dealt damage, for each point of damage you receive, choose a ta
     </Card>
     <Card>
       <cardName>Xu Huang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Reminiscence of Zhou Ya Fu
@@ -229,6 +243,7 @@ You may play RATIONS DEPLETED on heroes within a physical range of 2 from you.</
     </Card>
     <Card>
       <cardName>Zhang He</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Military Clairvoyant
@@ -247,6 +262,7 @@ If you skip:
     </Card>
     <Card>
       <cardName>Deng Ai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Staunch Warrior
@@ -269,6 +285,7 @@ You may play a [FIELD] as a PILFER.</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Zhi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Virtuoso Poet
@@ -287,6 +304,7 @@ Whenever you are dealt damage, if you hero card is facing down, you may flip it 
     </Card>
     <Card>
       <cardName>Yu Jin</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Mainstay of Wei Military
@@ -302,6 +320,7 @@ At the beginning of your turn, you may target a hero with an amount of cards in 
     </Card>
     <Card>
       <cardName>Zhang Chun Hua</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Cold-blooded Empress
@@ -319,6 +338,7 @@ Whenever you have less than X cards in your hand, draw until you have X cards. (
     </Card>
     <Card>
       <cardName>Cao Zhang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Yellow Bearded General
@@ -334,6 +354,7 @@ During your draw phase, you may skip your draw and choose 1 of the following:
     </Card>
     <Card>
       <cardName>Xun You</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Advisor of Wei
@@ -350,6 +371,7 @@ Whenever you are dealt damage, you may draw a card and reveal your hand; if all 
     </Card>
     <Card>
       <cardName>Zhong Hui</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Audacious Schemer
@@ -370,6 +392,7 @@ Once during your main phase, you may discard a [POWER] and target a hero, that h
     </Card>
     <Card>
       <cardName>Wang Yi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Elated Heroine
@@ -386,6 +409,7 @@ At the end of your turn, you may draw X cards, then may give X cards in your han
     </Card>
     <Card>
       <cardName>Cao Chong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Benevolent Child Prodigy
@@ -402,6 +426,7 @@ Whenever another hero wtih 1 health is dealt damage, you can flip your hero card
     </Card>
     <Card>
       <cardName>Guo Huai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Governor of West
@@ -415,6 +440,7 @@ At the end of your main phase, if the number of cards you have used is greater t
     </Card>
     <Card>
       <cardName>Man Chong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Political and Military Strategist
@@ -435,6 +461,7 @@ Whenever you are dealt damage, you may reveal a card from you hand. The source o
     </Card>
     <Card>
       <cardName>Cao Zhen</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Pillar of Wei
@@ -448,6 +475,7 @@ At the beginning of each other hero's main phase, you may discard a card from yo
     </Card>
     <Card>
       <cardName>Han Hao &amp; Shi Huan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Commander of Central Army
@@ -464,6 +492,7 @@ At the beginning of each other hero's judgement phase, you may discard a card fr
     </Card>
     <Card>
       <cardName>Chen Qun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Role Model of All Courtiers
@@ -482,6 +511,7 @@ Whenever a hero is flipped or chained, you may let that hero draw a card.</cardD
     </Card>
     <Card>
       <cardName>Cao Xiu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Talented Cavalry
@@ -500,6 +530,7 @@ Whenever your ATTACK deals damage to a target hero, if you have a weapon equippe
     </Card>
     <Card>
       <cardName>Zhong Yao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Creator of Block Calligraphy
@@ -516,6 +547,7 @@ Whenever a hero plays a BLACK card targeting at least one hero during their main
     </Card>
     <Card>
       <cardName>Empress Guo</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Undefiled Queen 
@@ -534,6 +566,7 @@ Whenever you are dealt damage, you may draw a card or upgrade [FORGING EDICT]. (
     </Card>
     <Card>
       <cardName>Sun Zi &amp; Liu Fang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Dual Who Speaks with Forked Tongue
@@ -550,6 +583,7 @@ Once during each hero's main phase, if you have a card that you can play in your
     </Card>
     <Card>
       <cardName>Li Dian</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Understanding and Righteous
@@ -567,6 +601,7 @@ Whenever you deal damage to a hero or is dealt damage by a hero, you may both dr
     </Card>
     <Card>
       <cardName>Si Ma Zhao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: A Man of Sinister Ambition
@@ -587,6 +622,7 @@ Then veiw the cards from the hand of the source of damage, you may discard any n
     </Card>
     <Card>
       <cardName>Wang Yuan Ji</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Civilized Queen
@@ -604,6 +640,7 @@ At the end of your turn, you may draw cards until the number of cards in your ha
     </Card>
     <Card>
       <cardName>Yang Xiu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Genius Unrestrained
@@ -620,6 +657,7 @@ Whenever you are dealt damage, you may announce a card type. The source of damag
     </Card>
     <Card>
       <cardName>Chen Lin</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: His Pen Can Cleave Bamboo
@@ -638,6 +676,7 @@ During your main phase, you may target a hero. If the amount of cards in the tar
     </Card>
     <Card>
       <cardName>Cao Ang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Pay the Price for Justice
@@ -651,6 +690,7 @@ Whenever a hero becomes the target of an ATTACK, if the physical distance betwee
     </Card>
     <Card>
       <cardName>Yue Jin</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Determined to Overcome
@@ -666,6 +706,7 @@ At the end of another hero's turn, you may discard a basic card and have that he
     </Card>
     <Card>
       <cardName>Cheng Yu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Generation's Eccentric
@@ -686,6 +727,7 @@ Whenever you are dealt damage, you may choose one:
     </Card>
     <Card>
       <cardName>Si Ma Lang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Selfless Governor
@@ -703,6 +745,7 @@ Once per a hero's main phase, you may discard X cards and target up to X heros t
     </Card>
     <Card>
       <cardName>Wen Ping</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Fortified City Veteran
@@ -719,6 +762,7 @@ Whenever another hero becomes the only target of an ATTACK or a BLACK tactics ca
     </Card>
     <Card>
       <cardName>Zhuge Dan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Expose and Weed the Rebellion
@@ -741,6 +785,7 @@ At the end of your turn, if you are not the hero with lowest current health, you
     </Card>
     <Card>
       <cardName>Wang Ji</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Path to Unification
@@ -759,6 +804,7 @@ At the end of your turn, you may draw 2 cards; then discard cards from your hand
     </Card>
     <Card>
       <cardName>Wang Lang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Babbling Pheoniz
@@ -782,6 +828,7 @@ After you reveal your clash card, if your card rank is less than X, you may +X t
     </Card>
     <Card>
       <cardName>Li Tong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Moving Alone Among Ten Thousand
@@ -800,6 +847,7 @@ You may play +X additional ATTACKs until the end of turn.
     </Card>
     <Card>
       <cardName>Cao Hong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Lucky General
@@ -818,6 +866,7 @@ If the equipment was a mount, targeted hero gains 1 health
     </Card>
     <Card>
       <cardName>Xin Xian Ying</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Prestigiously Wise Noblewoman
@@ -841,6 +890,7 @@ At the beginning of your draw phase, you may choose one:
     </Card>
     <Card>
       <cardName>Ji Kang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: Isolated Serenity in the High Peaks
@@ -866,6 +916,7 @@ When you are dead, you may choose a target hero to randomly gain a ability from 
     </Card>
     <Card>
       <cardName>Harmonizing Chords Manuscript</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Ability:
@@ -888,6 +939,7 @@ Whenever you gain health, you may choose another target hero to gain 1 health an
     </Card>
     <Card>
       <cardName>Xi Zhi Cai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
       <cardDescription>Title: The Genius hat Defies the World

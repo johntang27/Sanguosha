@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Zhang Jiao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Heaven's General
@@ -24,6 +25,7 @@ Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS
     </Card>
     <Card>
       <cardName>Yuan Shao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Noble Warlord
@@ -40,6 +42,7 @@ Your maximum hand size is increase by X, where X is 2 times the number of other 
     </Card>
     <Card>
       <cardName>Dong Zhuo</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Archenemy
@@ -62,6 +65,7 @@ Whenever another KINGDOMLESS faction hero deals damage, you may have that hero p
     </Card>
     <Card>
       <cardName>Hua Tuo</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Miracle Physician
@@ -78,6 +82,7 @@ Once during your main phase, you may discard a card from your hand and choose a 
     </Card>
     <Card>
       <cardName>Lu Bu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Embodiment of Force
@@ -92,6 +97,7 @@ Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK ca
     </Card>
     <Card>
       <cardName>Diao Chan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Unrivalled Dancing Princess 
@@ -108,6 +114,7 @@ At the end of your turn, you may draw a card.</cardDescription>
     </Card>
     <Card>
       <cardName>Hua Xiong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Devil General
@@ -121,6 +128,7 @@ Whenever a hero plays a RED ATTACK and deals damage to you, that hero may gain 1
     </Card>
     <Card>
       <cardName>Yuan Shu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ever Increasing Ambition
@@ -137,6 +145,7 @@ Whenever another hero plays an ATTACK and you are within that hero's attack rang
     </Card>
     <Card>
       <cardName>Yu Ji</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Priest of Tai Ping
@@ -157,6 +166,7 @@ If your health is equal to 1, all your abilities except [HAUNTED] cannot be trig
     </Card>
     <Card>
       <cardName>Pang De</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Rider and Ride As One
@@ -173,6 +183,7 @@ Whenever you play an ATTACK targeting a hero, you may discard a card from that h
     </Card>
     <Card>
       <cardName>Yan Liang &amp; Wen Chou</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Tiger and Wolf brothers
@@ -187,6 +198,7 @@ Until the end of your turn, you may play cards in your hand with opposite color 
     </Card>
     <Card>
       <cardName>Jia Xu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Cold-Blooded Advisor
@@ -207,6 +219,7 @@ You cannot be the target of BLACK tactics cards.
     </Card>
     <Card>
       <cardName>Zou Ci</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Mysterious Transcendent
@@ -226,6 +239,7 @@ Whenever you are dealt damage, for each damage, gain 1 random [INCARNATION] from
     </Card>
     <Card>
       <cardName>Cai Wen Ji</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Lonely Dame in Foreign Lands
@@ -248,6 +262,7 @@ The hero who killed you loses all abilities for the rest of the game.</cardDescr
     </Card>
     <Card>
       <cardName>Gao Shun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ever-Victorious Warrior
@@ -265,6 +280,7 @@ Your WINE cards are considered as ATTACK instead.</cardDescription>
     </Card>
     <Card>
       <cardName>Chen Gong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Upright and Heroic
@@ -283,6 +299,7 @@ Whenever you are dealt damage outside of your turn, you ignore all effects from 
     </Card>
     <Card>
       <cardName>Liu Biao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ruler of Jiang Nan
@@ -301,6 +318,7 @@ X is the number of factions in play.)</cardDescription>
     </Card>
     <Card>
       <cardName>Empress Fu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Stand Aloof From Affairs
@@ -319,6 +337,7 @@ Whenever you become the target of an ATTACK, you may choose a target hero other 
     </Card>
     <Card>
       <cardName>Li Ru</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Demonic Advisor
@@ -340,6 +359,7 @@ During your main phase, you may target each other hero. Each targeted hero in se
     </Card>
     <Card>
       <cardName>Ju Shou</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Military Schemer
@@ -357,6 +377,7 @@ Whenever you are dealt damage, if it was the first time you are dealt damage thi
     </Card>
     <Card>
       <cardName>Lady Cai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Queen of Jin Zhou
@@ -379,6 +400,7 @@ During your main phase, you may give all cards in your equipment zone to another
     </Card>
     <Card>
       <cardName>Gong Sun Yuan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Shady Warlord
@@ -395,6 +417,7 @@ If you put 2 or more cards into your hand, you lose 1 health.</cardDescription>
     </Card>
     <Card>
       <cardName>Guo Tu &amp; Feng Ji</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Ferocious Dual
@@ -414,6 +437,7 @@ Whenever you need to play a DODGE, you may choose to let the current turn hero d
     </Card>
     <Card>
       <cardName>Liu Yu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Benevolent Ruler
@@ -432,6 +456,7 @@ If all heroes of a faction are removed from the game, you reduce your max health
     </Card>
     <Card>
       <cardName>Zhang Rang</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Powerful Eunuch
@@ -445,8 +470,9 @@ You may announce a basic card or non-delay tactics card name, then play a card f
 1. The targeted hero gives you a card from their hand or equipment zone which is not the same type as the announced card.
 2. You lose 1 health and cannot use [CREATING CHAOS] for the rest of the turn.</cardDescription>
     </Card>
-	    <Card>
+    <Card>
       <cardName>Gong Sun Zan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: White Horse General
@@ -464,6 +490,7 @@ Whenever you have 2 or less health, the physical range other heroes see you is i
     </Card>
     <Card>
       <cardName>Zhang Lu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Spreading Aid Throughout the Nation
@@ -483,6 +510,7 @@ When a player performs a judgment, you may replace the revealed judgement card w
     </Card>
     <Card>
       <cardName>Cai Yong</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Great Graceful Scholar
@@ -500,6 +528,7 @@ At the end of your draw phase, you may swap any number of [BOOK] cards with the 
     </Card>
     <Card>
       <cardName>Cao Jie</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Empress Xianmu of Han
@@ -516,9 +545,10 @@ Benifiting Civilians:
 At the end of your turn, you may draw X cards.
 (X is the number of players who has less cards in hand than their current health.)
 Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.</cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Ling Ju</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Love's Dying Dream
@@ -538,9 +568,10 @@ If their role was LOYALIST, you ignore the health requirement when using [DEPLET
 If their role was REBEL, you ignore the health requirement when using [DEPLETE KARMA] to increase damage.
 If their role was SPY, you ignore the color requirement when using [DEPLETE KARMA] to reduce damage.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Liu Xie</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Imprisoned Emperor
@@ -557,9 +588,10 @@ Secret Edict:
 Once per a hero's main phase, you may give all the cards in your hand to a target player; then choose another target hero, the targeted heroes must perform a clash. The winner of the clash is considered to have played an ATTACK on the loser.
 (If the seconds targeted hero is unable to perform a clash, the first targeted hero still receives the cards you give. If the clash ends in a draw, nothing happens.)
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Zhang Bao</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: General of the Land
@@ -576,9 +608,10 @@ When a hero with a [CURSE] card attach performs a judgement, the [CURSE] card is
 Shadow Soldier:
 When a hero with a [CURSE] card attached plays a card with the same suit as the [CURSE], you draw a card. If you draw 2 cards due to the effect of the same [CURSE] card, the [CURSE] card is remove from that hero.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Fu Wan</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Deep Resolve for the Country
@@ -593,9 +626,10 @@ Whenever you play an ATTACK on a target hero, you may choose one:
 2. Discard 1 card from the targeted hero's hand.
 If the targeted hero plays a DODGE, the targeted hero discards a card from you.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>He Tai Hou</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Vicious and Manipulate Power for Personal Gain
@@ -610,9 +644,10 @@ At the beginning of another hero's main phase, you may discard a card from your 
 Confusing Sorrow:
 At the end of each hero's turn, you may draw 3 cards for each hero you have killed this turn.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Yellow Turban Rebels</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Thunder Festival's Pretty Women
@@ -627,9 +662,10 @@ Whenever you play an ATTACK, you may treat it as a LIGHTNING ATTACK.
 Sacrifice Offering:
 Whenever a hero is being dealt LIGHTNING damage, you may have that hero perform a judgement. If the result is BLACK, the LIGHTNING damage is increased by +1; if the result is RED, the targeted hero takes the judgement card.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Pan Feng</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Coalition Admiral
@@ -644,9 +680,10 @@ Whenever an ATTACK deals damage to a target hero, you may choose one:
 2. Discard a card from their equipment zone.
 (You cannot move an equipment into a occupied equipment zone.)
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Shi Xie</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Love's Dying Dream
@@ -665,9 +702,10 @@ At the end of another hero's turn, if you are not within the attack range of tha
 2. The target hero draws a card.
 Then decrease your physical range with other heroes by -1. 
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Wu Tugu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Love's Dying Dream
@@ -684,9 +722,10 @@ At the end of your turn, you lose X health.
 Fierce and Valiant:
 Whenever you play HAIL OF ARROWS or BARBARIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Dong Bai</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Granddaughter of Dong Zhuo 
@@ -707,6 +746,7 @@ Your black cards do not count towards you max hand size limit. BLACK cards you g
     </Card>
     <Card>
       <cardName>Ta Dun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Northern Barbarian King
@@ -723,6 +763,7 @@ Whenever your ATTACK or BLACK non-delay tactics card targets any heroes, if the 
     </Card>
     <Card>
       <cardName>Yan Bai Hu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: White Tiger of Dong Wu
@@ -739,8 +780,9 @@ Lodge:
 Whenever another hero becomes the target of a RED basic or non-delay tactics card, if you are within 1 physical range of that hero and you are not the source of the card being played; you also become the target of the card.
 </cardDescription>
     </Card>
-	    <Card>
+    <Card>
       <cardName>Qu Yi</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Righteous Charge Through Boundary Bridge
@@ -756,8 +798,9 @@ Conceited:
 If you are the hero with the highest number of cards in your hand, the damage you deal and the damage you receive is increased by +1.
 </cardDescription>
     </Card>
-	    <Card>
+    <Card>
       <cardName>Wang Yun</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: A Loyal Soul Who Never Dies
@@ -779,8 +822,9 @@ Once during your main phase, you may play 1 equipment or ATTACK as a random tact
 (Reveal cards from the deck until you have revealed 3 tactics cards, then choose one to be used. Shuffle the deck after reavealing 3 tactics cards.)
 </cardDescription>
     </Card>
-	    <Card>
+    <Card>
       <cardName>Bei Mi Kou Hu</cardName>
+      <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Queen of Wa Friendly to Wei
@@ -804,5 +848,5 @@ Whenever you become the only target of a basic or non-delay tactics cards played
 Whenever you play a basic or non-delay tactics card that only targets a hero, you may remove a [PUPPET] from another target hero and have that hero be an additional target.
 </cardDescription>
     </Card>
-	</CardData>
+  </CardData>
 </CardDataCollection>

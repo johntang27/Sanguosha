@@ -3,6 +3,7 @@
   <CardData>
     <Card>
       <cardName>Eight Trigrams</cardName>
+      <portraitOverride />
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -10,6 +11,7 @@
     </Card>
     <Card>
       <cardName>Shield of Ren Wang</cardName>
+      <portraitOverride />
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -17,6 +19,7 @@
     </Card>
     <Card>
       <cardName>Rattan Armor</cardName>
+      <portraitOverride />
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
@@ -24,6 +27,7 @@
     </Card>
     <Card>
       <cardName>Platinum Lion</cardName>
+      <portraitOverride />
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
