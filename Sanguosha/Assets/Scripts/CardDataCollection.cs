@@ -31,6 +31,7 @@ public enum HeroFaction
 public class CardData
 {
     public string cardName;
+    public string portraitOverride;
     public CardType cardType;
     public HeroFaction heroFaction;
     public string cardDescription;

@@ -13,6 +13,7 @@ public class CardButton : MonoBehaviour {
     {
         cardData = data;
         string spriteName = cardData.cardName;
+        if (cardData.portraitOverride != "") spriteName = cardData.portraitOverride;
         spriteName = spriteName.Replace(" ", "_");
 
         if(folderName != "")
