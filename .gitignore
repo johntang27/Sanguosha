@@ -3,5 +3,5 @@ Sanguosha/Temp/
 Sanguosha/.vs/
 Sanguosha/Sanguosha.csproj
 Sanguosha/Sanguosha.sln
-Sanguosha/Builds/
+Sanguosha/AndroidBuilds/
 # remember to check for *.meta files arent ignored in gitignore_global in Docs folder
