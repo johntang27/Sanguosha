@@ -416,7 +416,7 @@ Your hand size is increased by X.
     </Card>
     <Card>
       <cardName>Pang Tong</cardName>
-	  <portraitOverride>Pang Tong02</portraitOverride>
+	    <portraitOverride>Pang Tong02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Lofty Man of Jiang Chu
