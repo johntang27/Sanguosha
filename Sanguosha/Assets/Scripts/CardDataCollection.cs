@@ -24,7 +24,8 @@ public enum HeroFaction
     Red = 1,
     Green = 2,
     Blue = 3,
-    Colorless = 4
+    Colorless = 4,
+    God = 5
 }
 
 [Serializable]

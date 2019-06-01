@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardDataCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Card>
+      <cardName>Lu Meng</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: The Minister with Divine Enlightment
+
+Health/Gender:4M
+
+Ability:
+
+Look Through:
+At the beginning of your draw phase, you may skip your draw phase to reveal 5 cards from teh top of the deck, then take 1 card of each suit.
+
+Strike at the Heart:
+Once during your main phase, you may choose another target hero and look at the cards in their hand, then reveal a HEARTS suited card and choose one:
+1. Discard the HEARTS suited card.
+2. Place the card on top of the deck.
+(When resolving this ability with Xiao Qiao, any SPADES suited cards can be selected as HEARTS suited card due to her [YOUTHFUL BEAUTY] ability.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Guan Yu</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: The Return of the Divine Spirit
+
+Health/Gender: 5M
+
+Ability:
+
+God of War:
+Your HEARTS suited cards are always treated as ATTACKs that ignore any range requirements. 
+
+Warrior Spirit:
+Whenever you are dealt damage, the source of damage gains a [NIGHTMARE] token.
+When you die, all heroes must perform a judgement. If the judgement result is not a PEACH or OATH OF PEACH GARDEN, that hero dies immediately.
+(Any hero who dies by this ability does not go into the brink of death state and is not able to use any card effects to gain health or revive.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhao Yun</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: Aura of the Dragon
+
+Health/Gender: 2M
+
+Ability:
+
+Adversity:
+During your draw phase, you draw 2+X additional cards.
+(X is your missing health.)
+
+Your hand size limit is increased by 2.
+
+Soul of the Dragon:
+You may use X cards with the specific suit as the following:
+HEARTS can be used as PEACH.
+DIAMONDS can be used as FIRE ATTACK.
+CLUBS can be used as DODGE.
+SPADES can be used as IMPECCABLE PLAN.
+(X is your current health.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Si Ma Yi</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: The Founder of the Jin Empire
+
+Health/Gender: 4M
+
+Ability:
+
+Restraint:
+Whenever you are dealt 1 damage or discard a card in your discard phase, you gain 1 [RESTRAINT] token.
+
+Promotion: (Awakening Ability)
+At the beginning of your turn, if you have 4 or more [RESTRAINT] tokens, decrease your max health by -1 and gain the [EXTREME TACTICS] ability.
+
+[Extreme Tactics]:
+You may discard a [RESTRAINT] token to gain a following ability:
+1. [DEMONIC TALENT]
+2. [BALANCE OF POWER]
+3. [GATHERING WISDONM]
+4. [BANISH TO EXILE]
+5. [PERFECT MURDER]
+
+Breaking Links:
+Whenever you kill 1 or more heroes, you take an extra turn immediately at the end of your turn.
+(You only gain an extra turn even if you killed more than 1 hero during your turn. If you kill another hero during your extra turn, you would trigger this ability again.)
+
+[Demonic Talent]:
+Whenever a hero performs a judgement, you may replace the judgement card with a card from your hand. The judgement is resolved with the new card.
+(You do not take the initial judgement card into you hand.)
+
+[Balance of Power]:
+Once during your main phase, you may discard any number of cards from your hand and equipment zone; then draw that same amount of cards.
+
+[Gathering Wisdom]:
+Whenever you play a tactics card, you may reveal the top card of the library. If it is not a basic card, you take the revealed card. If it is a basic, you may discard a card from your hand and then take the revealed card.
+
+[Banish to Exile]:
+Whenever you are dealt damage, you may have target hero flip their hero card. If you do, that hero draw X cards.
+(X is your missing health)
+
+[Perfect Murder]:
+During your turn, if a hero is on the brink of death; only you and that hero may use PEACH cards.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhuge Liang</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: The Sorcerer at the Red Cliffs
+
+Health/Gender: 3M
+
+Ability:
+
+The Seven Stars:
+At the beginning of the game, you draw 11 cards. Then you pick 4 of them to be your starting hand and attach the remaining 7 onto your hero, face-down as [STARS].
+At the end of your draw phases, you can swap any number of cards from your hand with the attached [STARS].
+
+Strong Gale:
+At the end of your turn, you may discard a [STAR] and choose a target hero. Until the beginning of your next turn, all FIRE damage dealt to that hero is increased by +1.
+
+Heavy Shroud:
+At the end of your turn, you may discard any number of [STARS] and choose X target heroes. Until the beginning of your next turn, all damage except LIHGNTING damage is prevented for the targeted heroes .
+(X is the number of discarded [STARS].)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhou Yu</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: The God of Fire at the Red Cliffs
+
+Health/Gender: 4M
+
+Ability:
+
+The Sound of Music:
+During your discard phase, if you discard 2 or more cards, you may have each hero gain or lose 1 health.
+(This ability targets yourself as well.)
+
+Searing Heat: (Limited Ability)
+During your main Phase, you may choose up to 3 target heroes and deal 3 FIRE damage among them. If you deal more than 1 damage to a targeted hero, you discard 1 card of each suit and lose 3 health.
+(You must discard as many different suits as you are able to.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Cao Cao</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: A Hero that Transcends the World
+
+Health/Gender: 4M
+
+Ability:
+
+Homage:
+Whenever you are dealt damage, for each damage recieved, you may randomly take a card from each hero. Then flip your hero.
+(You are allowed to take cards from the hand, judgement zone, or equipment zone of a hero. You name the area you want to take a card from and a card is randomly selected from that area.)
+
+Flying Shadow:
+The physical range other heroes see you is increased by +1.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Bu</cardName>
+      <portraitOverride>Lu Bu01</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: The Way of the Asura
+
+Health/Gender: 5M
+
+Ability:
+
+Violent Rage:
+At the beginning of the game, you gain 2 [RAGE].
+Whenever you deal or is dealt damage, you gain 1 [RAGE]. 
+
+Simpleton:
+Whenever you play a non-delay tactics card, choose one:
+1. Remove 1 [RAGE].
+2. Lose 1 health.
+
+Unprecedented:
+During your main phase, you may removed 2 [RAGE] and choose a target hero, you ignore the effects of any armor equipped by the targeted hero and gain [MATCHLESS] until the end of turn.
+
+Asura's Fury:
+Once during your main phase, you may removed 6 [RAGE], then all other heroes are dealt 1 damage, discard all equipments, and discard 4 cards from their hand.
+Then flip your hero card.
+
+[Matchless]:
+Whenever you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards in order to cancel the ATTACK.
+Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Bu</cardName>
+      <portraitOverride>Lu Bu02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: Myth of the Formidable
+
+Health/Gender: 8M
+
+Ability:
+
+Horsemanship:
+The physical range you see other heroes is reduced by 1.
+
+Matchless:
+Whenever you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards in order to cancel the ATTACK.
+Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
+
+Special Notes:
+
+Turn Priority:
+Lu Bu, Myth of the Formidable does not follow the normal turn order, the turn order still is taken in counter-clockwise direction, but whenever another hero ends their turn, Lu Bu, Myth of the Formidable then takes a turn.
+
+Form Transition: 
+Whenever the deck is depleted or your health reaches 4 units or lower, the current hero taking their turn immediately ends.
+Then you choose to transform into one of these forms:
+1.Lu Bu, Rage of the God of War
+2.Lu Bu, War Spirit without Precedent
+
+If the transformation was due to the deck depleteing, your max health is set to your current health amount.
+If the transformation was due to your health decreasing, you max health becomes 4 units and you are at full health.
+
+Then remove all cards from judgement and equipment zone; and begin your turn immediately.
+(If this was triggered durring turn, your current turn ends immediately after meeting the conditions; then continue resolving the rest of the effect.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Bu</cardName>
+      <portraitOverride>Lu Bu03</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: Rage of the God of War
+
+Health/Gender: 4M
+
+Ability:
+
+Horsemanship:
+The physical range you see other heroes is reduced by 1.
+
+Matchless:
+Whenever you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards in order to cancel the ATTACK.
+Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
+
+Asura:
+At the beginning of your turn, you may discard a card sharing the same suit as a delay tactics card in your judgement zone to discard the delay tactics card.
+
+Divine Might:
+You draw 3 additional cards during you draw phase.
+You hand size limit is increased by 3.
+
+Divine Halberd:
+If you do not have a weapon equipped, you may target 2 additional heroes with your ATTACKs, you may also play an additional ATTACK during your turn.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Bu</cardName>
+      <portraitOverride>Lu Bu04</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>God</heroFaction>
+      <cardDescription>Title: War Spirit without Precedent
+
+Health/Gender: 4M
+
+Ability:
+
+Matchless:
+Whenever you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards in order to cancel the ATTACK.
+Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
+
+Divine Vessel:
+At the beginning of each hero's turn, if the cards in your hand is equal to your max health or less, you may draw 2 cards.
+Whenever you are dealt damage, you may use a Peach.
+
+Martial Prowess:
+During your main phase, you may discard a card from your hand and gain a following ability until the end of turn:
+1. [ASSAULT]
+2. [FIRECE EDGE]
+3. [WHIRLWIND]
+4. [PERFECT MURDER]
+
+[Assault]:
+Once during your main phase, you may lose 1 health or discard an equipment card; If you do, you deal 1 damage to a target hero.
+
+[Fierce Edge]:
+Whenever you deal damage to a target hero, you may clash with that hero. If you win, you may take 1 card from that hero's hand or equipment zone into your hand.
+
+[Whirlwind]:
+Whenever you discard at least 2 cards during your discard phase; or you lose a card in your equipment zone, you may choose up to 2 target heroes and discard up to 2 cards from their hand or equipment zone.
+
+[Perfect Murder]:
+During your turn, if a hero is on the brink of death; only you and that hero may use PEACH cards.
+</cardDescription>
+    </Card>
+  </CardData>
+</CardDataCollection>

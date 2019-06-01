@@ -40,6 +40,7 @@ public class UIManager : Singleton<UIManager> {
     public CardData[] heroes_greenCards;
     public CardData[] heroes_blueCards;
     public CardData[] heroes_ColorlessCards;
+    public CardData[] heroes_GodCards;
 
     private void Start()
     {
@@ -75,6 +76,9 @@ public class UIManager : Singleton<UIManager> {
 
         CardDataCollection hcData = CardDataCollection.LoadFromResources("heroes_colorless");
         heroes_ColorlessCards = hcData.data;
+
+        CardDataCollection hgodData = CardDataCollection.LoadFromResources("heroes_god");
+        heroes_GodCards = hgodData.data;
 
         versionLabel.text = "Version: " + version;
     }
@@ -124,6 +128,10 @@ public class UIManager : Singleton<UIManager> {
             case "Heroes_Colorless":
                 currentData = heroes_ColorlessCards;
                 pathOverride = "Colorless";
+                break;
+            case "Heroes_God":
+                currentData = heroes_GodCards;
+                pathOverride = "God";
                 break;
         }
 
@@ -217,7 +225,7 @@ public class UIManager : Singleton<UIManager> {
             currentRoundHeroes.Remove(currentCard);
             addCardButton.interactable = true;
             removeCardButton.interactable = false;
-            Destroy(content.GetChild(index).gameObject);
+            if(currentSelection == 1) Destroy(content.GetChild(index).gameObject); //remove the card prefab from scroll view only if it's current round selection UI
         }
     }
 
