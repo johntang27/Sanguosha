@@ -21,7 +21,8 @@ Dark Magic:
 Whenever a hero performs a judgement, you may take the judgement card and replace it with a BLACK card from your hand or equipment zone. The judgement is resolved with the new card.
 
 Amber Sky: (Emperor Ability)
-Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS faction hero may give you a DODGE or LIGHTNING BOLT card.</cardDescription>
+Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS faction hero may give you a DODGE or LIGHTNING BOLT card.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Yuan Shao</cardName>
@@ -38,7 +39,8 @@ Random Strike:
 During your main phase, you may discard 2 cards of the same suit from your hand and treat it as you playing HAIL OF ARROWS.
 
 Bloodline:
-Your maximum hand size is increase by X, where X is 2 times the number of other surviving KINGDOMLESS faction heroes.</cardDescription>
+Your maximum hand size is increase by X, where X is 2 times the number of other surviving KINGDOMLESS faction heroes.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Dong Zhuo</cardName>
@@ -61,7 +63,8 @@ Collapse:
 At the end of your turn, if you are not the hero with lowest health, you must either lose 1 life or lose 1 unit of max health.
 
 Tyrant: (Emperor Ability)
-Whenever another KINGDOMLESS faction hero deals damage, you may have that hero perform a judgement; if the result is BLACK, you gain 1 health.</cardDescription>
+Whenever another KINGDOMLESS faction hero deals damage, you may have that hero perform a judgement; if the result is BLACK, you gain 1 health.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Hua Tuo</cardName>
@@ -74,11 +77,13 @@ Health/Gender: 3M
       
 Ability:
 
+Medicine Bag:
+Once during your main phase, you may choose any number of target heroes that do not share the same faction together, then you discard a card from your hand or equipment zone; then each targeted hero must discard a card. If any targeted heroes discarded a SPADES suited card, that hero draws a card.
+(Unless you target yourself with this ability and discard a SPADES suited card ontop of your initial discarded card, you do not draw a card.)
+
 First Aid:
 Outside of your turn, you may play RED cards from your hand and equipment zone as a PEACH.
-
-The Book of Green Vesicle:
-Once during your main phase, you may discard a card from your hand and choose a target hero, that hero gains 1 health.</cardDescription>
+</cardDescription>
     </Card>
     <Card>
       <cardName>Lu Bu</cardName>
@@ -93,7 +98,12 @@ Ability:
 
 Matchless:
 Whenever you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards in order to cancel the ATTACK.
-Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.</cardDescription>
+Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
+
+Mercenary Contract:
+Whenever you deal damage to a target hero with an ATTACK, the targeted hero may give you a card and choose another target hero. This is treated as you playing a DUEL to the other targeted hero.
+(The targeted hero cannot choose themself as the target for the DUEL and must choose another target hero.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Diao Chan</cardName>
@@ -110,7 +120,27 @@ Wedge Driving:
 Once during your main phase, you may discard a card and choose 2 target MALE heroes. If you do, this is treated as one of them playing a DUEL on the other. (You pick which hero initiates the DUEL.)
 
 Eclipse:
-At the end of your turn, you may draw a card.</cardDescription>
+At the end of your turn, you may draw a card.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Diao Chan</cardName>
+	  <portraitOverride>Diao Chan02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Masterpiece of Dance and Beauty
+      
+Health/Gender: 3M
+
+Ability:
+
+Soul Surrender:
+Once during your main phase, you may discard a card and flip your hero over; then take all the cards from the hand of a target MALE hero. At the end of you main phase, you must give X cards to the targeted MALE hero.
+(X is current health of the targeted MALE hero. You may choose to give cards from your hand or equipment zone. If you have fewer cards than the MALE hero's current health, you must gives him all of your cards.)
+
+Eclipse:
+At the end of your turn, you may draw a card.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Hua Xiong</cardName>
@@ -124,7 +154,8 @@ Health/Gender: 6M
 Ability: 
 
 Swagger:
-Whenever a hero plays a RED ATTACK and deals damage to you, that hero may gain 1 health or draw a card.</cardDescription>
+Whenever a hero plays a RED ATTACK and deals damage to you, that hero may gain 1 health or draw a card.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Yuan Shu</cardName>
@@ -138,10 +169,31 @@ Health/Gender: 4M
 Ability:
 
 Arrogant:
-At the beginning of the Emperor's turn, you may draw 1 card. If you do, the Emperor's hand limit is reduced by 1 until the end of turn.
+At the beginning of the EMPEROR's turn, you may draw 1 card. If you do, the EMPEROR's hand limit is reduced by 1 until the end of turn.
 
 All in same boat:
-Whenever another hero plays an ATTACK and you are within that hero's attack range, if the number of cards in your hand is greater than your current health, that hero can only choose you as the target of any ATTACK.</cardDescription>
+Whenever another hero plays an ATTACK and you are within that hero's attack range, if the number of cards in your hand is greater than your current health, that hero can only choose you as the target of any ATTACK.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yuan Shu</cardName>
+	  <portraitOverride>Yuan Shu02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Emperor of Zhong Dynasty
+      
+Health/Gender: 4M
+
+Ability:
+
+Mediocrity:
+During your draw phase, you draw X additional cards.
+At the beginning of your discard phase, you discard X cards.
+(X is the number of surviving factions in play.)
+
+Pseudo-Emperor:
+You gain the Emperor ability of the current EMPEROR.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Yu Ji</cardName>
@@ -162,7 +214,8 @@ If the name of the revealed card is the same as what you have announced, resolve
 
 [HAUNTED]:
 You cannot doubt cards played by [BEWILDER].
-If your health is equal to 1, all your abilities except [HAUNTED] cannot be triggered or activated.</cardDescription>
+If your health is equal to 1, all your abilities except [HAUNTED] cannot be triggered or activated.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Pang De</cardName>
@@ -179,7 +232,45 @@ Horsemanship:
 The physical range you see other heroes is reduced by 1.
 
 Fierce Attack:
-Whenever you play an ATTACK targeting a hero, you may discard a card from that hero's hand or equipment zone. If the discarded card was an equipment, this ATTACK cannot be cancelled by a DODGE. If the discarded card was not an equipment, that hero take this ATTACK card into their hand.</cardDescription>
+Whenever you play an ATTACK targeting a hero, you may discard a card from that hero's hand or equipment zone. If the discarded card was an equipment, this ATTACK cannot be cancelled by a DODGE. If the discarded card was not an equipment, that hero take this ATTACK card into their hand.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhao Yun</cardName>
+	  <portraitOverride>Zhao Yun02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Vanguard on a White Horse
+      
+Health/Gender: 3M
+
+Ability:
+
+Dragon Courage:
+You may play or discard ATTACK cards as DODGE or vice versa.
+
+Pierce the Formation:
+Whenever you activate [DRAGON COURAGE], you may immediately take a card from the hand of the targeted hero.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ma Chao</cardName>
+	  <portraitOverride>Ma Chao02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Eternally A Hero
+      
+Health/Gender: 4M
+
+Ability:
+
+Pursuit:
+The physical range you see heroes with health less than you is 1.
+
+Sworn Revenge:
+Your ATTACKs may target up to +X additional heroes.
+(X is your missing health.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Yan Liang &amp; Wen Chou</cardName>
@@ -194,7 +285,8 @@ Ability:
 
 Dual Heroes:
 At the beginning of your draw phase, you may choose to skip your draw and perform a judgment; reveal the judgment card and take it into your hand. 
-Until the end of your turn, you may play cards in your hand with opposite color to the revealed card as a DUEL.</cardDescription>
+Until the end of your turn, you may play cards in your hand with opposite color to the revealed card as a DUEL.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Jia Xu</cardName>
@@ -215,7 +307,8 @@ During your main phase, each hero other than you must choose to play an ATTACK t
 
 Shroud:
 You cannot be the target of BLACK tactics cards.
-(This includes cards that target all heroes and non-delay tactics cards.)</cardDescription>
+(This includes cards that target all heroes and non-delay tactics cards.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zou Ci</cardName>
@@ -235,7 +328,8 @@ At the beginning of the game, you randomly take 2 unused hero cards as [INCARNAT
 At the beginning and end of your turn, you may replace your active [INCARNATION] with another one and gain 1 ability from the new active [INCARNATION].
 
 Rebirth:
-Whenever you are dealt damage, for each damage, gain 1 random [INCARNATION] from the unused hero cards.</cardDescription>
+Whenever you are dealt damage, for each damage, gain 1 random [INCARNATION] from the unused hero cards.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Cai Wen Ji</cardName>
@@ -258,7 +352,8 @@ CLUBS: The source of damage discards 2 cards.
 SPADES: The source of damage flip their hero card.
 
 Sorrow:
-The hero who killed you loses all abilities for the rest of the game.</cardDescription>
+The hero who killed you loses all abilities for the rest of the game.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Gao Shun</cardName>
@@ -276,7 +371,8 @@ Once during your main phase, you may clash with a target hero; if you win, until
 If you did not win, you cannot play ATTACK cards until the end of your turn.
 
 Prohibition:
-Your WINE cards are considered as ATTACK instead.</cardDescription>
+Your WINE cards are always treated as ATTACKs.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Chen Gong</cardName>
@@ -295,7 +391,8 @@ Once during yout main phase, you may give 1 equipment card or ATTACK card to a t
 2. The targeted hero draws a card.
 
 Late Response:
-Whenever you are dealt damage outside of your turn, you ignore all effects from ATTACK and non-delay tactics card until the end of this turn.</cardDescription>
+Whenever you are dealt damage outside of your turn, you ignore all effects from ATTACK and non-delay tactics card until the end of this turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Biao</cardName>
@@ -314,7 +411,51 @@ During your draw phase, you may draw X additional cards. If you do, cards you pl
 
 House of Royalty:
 Your hand size is increased by X. 
-X is the number of factions in play.)</cardDescription>
+(X is the number of surviving factions in play.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Pang Tong</cardName>
+	  <portraitOverride>Pang Tong02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Lofty Man of Jiang Chu
+      
+Health/Gender: 3M
+
+Ability:
+
+Screw Work:
+Whenever you gain cards in your hand outside of your turn, you must discards those cards.
+During your turn, whenever you discard a card that shares the same rank as a card in the discard pile, you may take the card that shares the same rank into your hand.
+(You should never be able to gain cards outside of your turn. Delay tactics and equipment cards that are moved into your field are not required to be discarded.)
+
+Inebriated: (Limited ability)
+Once per game, at the beginning of your turn, you reveal 3 cards from top of the deck and attach them onto your hero. You cannot play or be affected by the same type of cards attached onto your hero.
+At the beginning of each of your turns, you reveal another 3 cards attach them onto your hero. This process continues until you have 2 cards of the same rank. 
+Whenever you have 2 cards of the same rank attached onto your hero, take all the attached cards into your hand.
+(Cards that you gain from this ability is not affected by [SCREW WORK].)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Gan Ning</cardName>
+	  <portraitOverride>Gan Ning02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Feathered and Belled Warrior
+      
+Health/Gender: 4M
+
+Ability:
+
+Silver Bells:
+During your main phase, you may discard a BLACK card; then take a card from another target hero and attach it onto your hero face up as a [BROCADE]. You may a max of 4 [BROCADES] attached.
+
+Military Prestige:
+At the end of your turn, you may discard 3 [BROCADES] and choose a target hero, the targeted hero chooses one:
+1. The targeted hero gives you a DODGE, then you give the DODGE to another target hero.
+2. The targeted hero loses 1 health; then you may choose one of their equipped equipment cards and attach it face down onto their hero. The attached card is put back into their equipment zone at the end of their next turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Empress Fu</cardName>
@@ -333,7 +474,8 @@ If you win, that hero may only play cards that target themself until the end of 
 If you lose, the physical range between the both of you is considered 1 until end of turn.
 
 Plead for Help:
-Whenever you become the target of an ATTACK, you may choose a target hero other than the attacker. The targeted hero may give you a DODGE card. If the targeted hero does not, they become the additional target of the ATTACK.</cardDescription>
+Whenever you become the target of an ATTACK, you may choose a target hero other than the attacker. The targeted hero may give you a DODGE card. If the targeted hero does not, they become the additional target of the ATTACK.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Li Ru</cardName>
@@ -350,12 +492,13 @@ Annihilate:
 At the end of your turn, you may deal 1 damage to a target hero (other than you) with no cards in hand.
 
 Exterminate: 
-Once during your main phase, you may put one BLACK tactics card on top of the deck and target a hero with cards in their hand, that hero must either discards a tactics card, or discard 2 cards from his hand or equipment zone.
+Once during your main phase, you may put one BLACK tactics card on top of the library and target a hero with cards in their hand, that hero must either discards a tactics card, or discard 2 cards from his hand or equipment zone.
 
 Burn the City: (Limited ability)
 During your main phase, you may target each other hero. Each targeted hero in sequence must choose one of the following:
-1. Discard 1 + X cards from hand or equipment zone. (X is the number of cards the previous player has discarded.)
-2. You deal 2 FIRE damage to the targeted hero.</cardDescription>
+1. Discard 1+X cards from hand or equipment zone. (X is the number of cards the previous player has discarded.)
+2. You deal 2 FIRE damage to the targeted hero.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Ju Shou</cardName>
@@ -373,7 +516,8 @@ Whenever you play a card during your main phase, if the card you play has the sa
 
 Aiming the North:
 Whenever you are dealt damage, if it was the first time you are dealt damage this turn, you gain 1 health; if it was not the first time you are dealt damage this turn, you lose 1 health.
-(This effect activates before you enter the brink of death state.)</cardDescription>
+(This effect activates before you enter the brink of death state.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Lady Cai</cardName>
@@ -396,7 +540,8 @@ Cession: (Limited Ability)
 During your main phase, you may give all cards in your equipment zone to another target hero, that hero chooses one of the following:
 1. You gain X health.
 2. You deal 1 damage to X target heroes within that hero's attack range.
-(X is the number of cards you chose to give to that hero)</cardDescription>
+(X is the number of cards you chose to give to that hero.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Gong Sun Yuan</cardName>
@@ -413,7 +558,8 @@ Disloyalty:
 Once during your main phase, you may reveal all cards in your hand. If all your cards are not the same color, you discard all cards of one color, then choose X target heroes and take a card from each of their hand or equipment zone into your hand.
 (X is the number of cards you discarded.)
 
-If you put 2 or more cards into your hand, you lose 1 health.</cardDescription>
+If you put 2 or more cards into your hand, you lose 1 health.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Guo Tu &amp; Feng Ji</cardName>
@@ -433,7 +579,8 @@ At the beginning of your main phase, you may draw 2 cards. If you do, your hand 
 Cover Up:
 Whenever you need to play a DODGE, you may choose to let the current turn hero draw a card, if that hero is not among heroes with the highest amount of cards in hand, you discard a card from a target hero's hand. The targeted hero must be among the heroes with the highest amount of cards in their hand.
 
-(If there is a draw among heroes with the highest amount of cards in hand, you may choose one of them to discard from.)</cardDescription>
+(If there is a draw among heroes with the highest amount of cards in hand, you may choose one of them to discard from.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Yu</cardName>
@@ -452,7 +599,8 @@ Once per each hero's main phase, if the number of cards in your hand is greater 
 Ancestral Blessing:
 At the beginning of the game, you increase your max health by X. (X is the number of factions in game.)
 
-If all heroes of a faction are removed from the game, you reduce your max health by 1.</cardDescription>
+If all heroes of a faction are removed from the game, you reduce your max health by 1.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Rang</cardName>
@@ -468,7 +616,8 @@ Ability:
 Creating Chaos:
 You may announce a basic card or non-delay tactics card name, then play a card from your hand as the named card. You cannot announce a card name you have already used for [CREATING CHAOS] for the rest of the game. After the card's effect is resolved, you target another hero and that hero chooses one of the following:
 1. The targeted hero gives you a card from their hand or equipment zone which is not the same type as the announced card.
-2. You lose 1 health and cannot use [CREATING CHAOS] for the rest of the turn.</cardDescription>
+2. You lose 1 health and cannot use [CREATING CHAOS] for the rest of the turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Gong Sun Zan</cardName>
@@ -485,8 +634,9 @@ Fierce Mount:
 
 
 Follower of Virtue:
-Whenever you have 3 or more heatlth, the physical range you see other heroes is reduced by 1.
-Whenever you have 2 or less health, the physical range other heroes see you is increased by 1.</cardDescription>
+Whenever you have 3 or more health, the physical range you see other heroes is reduced by 1.
+Whenever you have 2 or less health, the physical range other heroes see you is increased by 1.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zhang Lu</cardName>
@@ -500,13 +650,14 @@ Health/Gender: 3M
 Ability:
 
 Free Accomondation: 
-At the end of your turn, if you don't have any [RICE] cards attached to you, you may draw 2 cards and attach 2 cards from your hand or equipment zone onto your character face-up as [RICE] cards. When the last [RICE] card is removed from you, you gain 1 health.
+At the end of your turn, if you do not have any [RICE] cards attached to you, you may draw 2 cards and attach 2 cards from your hand or equipment zone onto your character face-up as [RICE] cards. When the last [RICE] card is removed from you, you gain 1 health.
 
-Doante: 
+Donate: 
 When you deal or are dealt damage, the hero who was dealt damage may put a [RICE] card into their hand per damage received.
 
 Rice Religion:
-When a player performs a judgment, you may replace the revealed judgement card with a [RICE] card. The new card becomes the judgment result.</cardDescription>
+When a player performs a judgment, you may replace the revealed judgement card with a [RICE] card. The new card becomes the judgment result.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Cai Yong</cardName>
@@ -520,11 +671,12 @@ Health/Gender: 3M
 Ability:
 
 Discourse in Praise:
-Whenever you play or become the target of another hero's SPADES suited card, you may take a card from the top of the deck and attach it to your hero as a [BOOK]. (max. 4)
+Whenever you play or become the target of another hero's SPADES suited card, you may take a card from the top of the library and attach it to your hero as a [BOOK]. (max. 4)
 Each [BOOK] card increases your hand size limit by 1.
 
 Extensive Communication:
-At the end of your draw phase, you may swap any number of [BOOK] cards with the cards you own. If your [BOOKS] cards are one each suit, give all your [BOOK] cards to another target hero.</cardDescription>
+At the end of your draw phase, you may swap any number of [BOOK] cards with the cards you own. If your [BOOKS] cards are one each suit, give all your [BOOK] cards to another target hero.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Jie</cardName>
@@ -544,8 +696,9 @@ Whenever you become the target of an ATTACK, you may announce the name of a card
 Benifiting Civilians:
 At the end of your turn, you may draw X cards.
 (X is the number of players who has less cards in hand than their current health.)
-Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.</cardDescription>
-    </Card>
+Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.
+</cardDescription>
+    </Card>    
     <Card>
       <cardName>Ling Ju</cardName>
       <portraitOverride />
@@ -568,7 +721,7 @@ If their role was LOYALIST, you ignore the health requirement when using [DEPLET
 If their role was REBEL, you ignore the health requirement when using [DEPLETE KARMA] to increase damage.
 If their role was SPY, you ignore the color requirement when using [DEPLETE KARMA] to reduce damage.
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
       <cardName>Liu Xie</cardName>
       <portraitOverride />
@@ -588,7 +741,7 @@ Secret Edict:
 Once per a hero's main phase, you may give all the cards in your hand to a target player; then choose another target hero, the targeted heroes must perform a clash. The winner of the clash is considered to have played an ATTACK on the loser.
 (If the seconds targeted hero is unable to perform a clash, the first targeted hero still receives the cards you give. If the clash ends in a draw, nothing happens.)
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
       <cardName>Zhang Bao</cardName>
       <portraitOverride />
@@ -603,12 +756,12 @@ Ability:
 Curse:
 Once per a hero's main phase, you may attach a card from your hand as a [CURSE] onto another target hero with no [CURSE] card attached.
 When a hero with a [CURSE] card attach performs a judgement, the [CURSE] card is used as the judgement result. At the end of a hero's turn, any hero who used a [CURSE] as their judgement result loses 1 health.
-(No card is flipped from the deck when performing a judgement for the hero with a [CURSE] attached, the [CURSE] card is immediately used as the judgement result. When you die, the attached [CURSE] card effects remain in play.
+(No card is flipped from the library when performing a judgement for the hero with a [CURSE] attached, the [CURSE] card is immediately used as the judgement result. When you die, the attached [CURSE] card effects remain in play.
 
 Shadow Soldier:
 When a hero with a [CURSE] card attached plays a card with the same suit as the [CURSE], you draw a card. If you draw 2 cards due to the effect of the same [CURSE] card, the [CURSE] card is remove from that hero.
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
       <cardName>Fu Wan</cardName>
       <portraitOverride />
@@ -626,9 +779,9 @@ Whenever you play an ATTACK on a target hero, you may choose one:
 2. Discard 1 card from the targeted hero's hand.
 If the targeted hero plays a DODGE, the targeted hero discards a card from you.
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
-      <cardName>He Tai Hou</cardName>
+      <cardName>Ling Ju</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -644,7 +797,7 @@ At the beginning of another hero's main phase, you may discard a card from your 
 Confusing Sorrow:
 At the end of each hero's turn, you may draw 3 cards for each hero you have killed this turn.
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
       <cardName>Yellow Turban Rebels</cardName>
       <portraitOverride />
@@ -662,7 +815,7 @@ Whenever you play an ATTACK, you may treat it as a LIGHTNING ATTACK.
 Sacrifice Offering:
 Whenever a hero is being dealt LIGHTNING damage, you may have that hero perform a judgement. If the result is BLACK, the LIGHTNING damage is increased by +1; if the result is RED, the targeted hero takes the judgement card.
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
       <cardName>Pan Feng</cardName>
       <portraitOverride />
@@ -680,7 +833,7 @@ Whenever an ATTACK deals damage to a target hero, you may choose one:
 2. Discard a card from their equipment zone.
 (You cannot move an equipment into a occupied equipment zone.)
 </cardDescription>
-    </Card>
+    </Card>    
     <Card>
       <cardName>Shi Xie</cardName>
       <portraitOverride />
@@ -721,6 +874,73 @@ At the end of your turn, you lose X health.
 
 Fierce and Valiant:
 Whenever you play HAIL OF ARROWS or BARBARIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Huang Yue Ying</cardName>
+	  <portraitOverride>Huang Yue Ying02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Diamond in the Rough
+      
+Health/Gender: 3F
+
+Ability:
+
+Ingenious:
+At the beginning of your main phase, you may discard any number of equipment cards; then reveal X cards from the deck. Take any revealed tactics cards.
+(X is double the amount of equipment cards you have discarded.)
+
+Exquisite:
+If you do not have any armor equipped, you are considered to have EIGHT TRIGRAMS equipped.
+If you do not have any mounts equipped, your hand size limit is increased by +1.
+If you do not have any treasure equipped, you have [WONDROUS TALENT].
+
+[Wondrous Talent]:
+All tactics card you play may ignore any range requirements. Your equipped armor cannot be removed unless the targeted hero is within physical range of you.
+(Remove meaning that your armor card will no longer be in your equipment zone.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhao Yun</cardName>
+	  <portraitOverride>Zhao Yun03</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Swimming Dragon of Changshan
+      
+Health/Gender: 3M
+
+Ability:
+
+Deep Love to Motherland:
+You may play DIAMOND suited cards as ATTACKs or DODGEs.
+During your main phase, ATTACKs you play may target all heroes within your attack range.
+
+Benevolence: (Limited Ability)
+Once per game, you may loose the [FOLLOWER OF VIRTUE] ability, increase your max health by +1, gain 1 health, and choose a target hero to draw 3 cards.
+
+Follower of Virtue:
+Whenever you have 3 or more health, the physical range you see other heroes is reduced by 1.
+Whenever you have 2 or less health, the physical range other heroes see you is increased by 1.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ma Chao</cardName>
+	  <portraitOverride>Ma Chao03</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Ferocious Lion of the West
+      
+Health/Gender: 3M
+
+Ability:
+
+Pursuit:
+The physical range you see heroes with health less than you is 1.
+
+Acacia:
+At the beginning of your main phase, you may reveal the cards in your hand; if you do not have any ATTACK cards in your hand, you may play ATTACKs without playing the card until the number of cards in your hand changes.
+(To play an ATTACK with this ability, you must choose a target hero and annouce the ATTACK. You do not play a card, but the targeted hero may still respond to your ATTACK. This ATTACK counts towards the ATTACK restriction limited. ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
 </cardDescription>
     </Card>
     <Card>
@@ -785,16 +1005,16 @@ Whenever another hero becomes the target of a RED basic or non-delay tactics car
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Righteous Charge Through Boundary Bridge
+      <cardDescription>Title: A Righteous Charge Through the Boundary Bridge
       
 Health/Gender: 4M
 
 Ability:
 
-Calvary Charge:
+Concealed Horserider:
 Heroes within a range of 1 to you cannot play cards in response to the cards you play.
 
-Conceited:
+Arrogant and Unrestraint:
 If you are the hero with the highest number of cards in your hand, the damage you deal and the damage you receive is increased by +1.
 </cardDescription>
     </Card>
@@ -803,23 +1023,23 @@ If you are the hero with the highest number of cards in your hand, the damage yo
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: A Loyal Soul Who Never Dies
+      <cardDescription>Title: Father of Diao Chan
       
 Health/Gender: 4M
 
 Ability:
 
-Connecting Plans:
-Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the deck, then chooses one:
+Continuios Calculations:
+Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the library, then chooses one:
 1. Use the given card on another hero, then give the weapon to one of the heroes that were targeted by the used card.
 2. Treat this as you using the given card on the targeted hero, then the targeted hero give you the weapon.
 
-Successful Plan: (Awakening Ability)
+Carry Out Scheme: (Awakening Ability)
 Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONNECTING PLANS], you lose the [CONNECTING PLANS] ability and gain the [BOAST] ability.
 
 [Boast]:
 Once during your main phase, you may play 1 equipment or ATTACK as a random tactics card. At the end of the turn, if you did not deal damage, you lose 1 health.
-(Reveal cards from the deck until you have revealed 3 tactics cards, then choose one to be used. Shuffle the deck after reavealing 3 tactics cards.)
+(Reveal cards from the library until you have revealed 3 tactics cards, then choose one to be used. Shuffle the library after reavealing 3 tactics cards.)
 </cardDescription>
     </Card>
     <Card>
@@ -848,5 +1068,68 @@ Whenever you become the only target of a basic or non-delay tactics cards played
 Whenever you play a basic or non-delay tactics card that only targets a hero, you may remove a [PUPPET] from another target hero and have that hero be an additional target.
 </cardDescription>
     </Card>
-  </CardData>
+    <Card>
+      <cardName>Liu Qi</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Arise from the Summer of Zhenjiang
+      
+Health/Gender: 3M
+
+Ability:
+
+:
+At the beginning of your main phase, you may choose a target hero to reveal and give you a card. Until the end of turn, other heroes may not respond to cards you play with the given card.
+
+:
+At the end of your turn, if you did not skip your main phase and did not play any cards during your main phase, you may draw X cards.
+(X is the number of surviving factions in play.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Han Ba</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Demon that Brings Droughts
+      
+Health/Gender: 4F
+
+Ability:
+
+Burning Sky:
+At the end if your turn, if the number of cards in your hand is less than your current health, you may choose a target hero within your attack range and take a card from their hand, then attach it onto your hero as a [BURNT] token. Your attack range is increased by X.
+(X is the number of [BURNT] tokens attached onto your hero.)
+
+Broiling Day: {Awakaneing Ability)
+Whenever you have 3 or more [BURNT] tokens, you gain the [] ability.
+
+Burning Heart:
+Once during your main phase, you may discard 2 [BURNT] tokens and choose a target hero, the targeted hero loses 1 health.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Tao Qian</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Arise from the Summer of Zhenjiang
+      
+Health/Gender: 3M
+
+Ability:
+
+Beckoning Misfortune:
+Whenever a hero enters the brink of death, your max health becomes 1. Whenever you lose 1 max health, you draw a card.
+
+Moral Aid:
+Once per each hero's main phase, whenever you become the target of a card played by a hero, if the that hero's currnet health is greater than your current health, you may randomly take a basic card that you do not have in your hand from the deck.
+
+Welcoming Offer:
+During your main phase, you may give all your non-basic cards from your hand to a target hero with max health greater than your's; the amount of your max health becomes the same amoutn of max health of the targeted hero, then gain X health.
+(X is the types of cards you gave to the target hero.)
+</cardDescription>
+    </Card>
+	</CardData>
 </CardDataCollection>
