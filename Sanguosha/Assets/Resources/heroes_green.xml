@@ -8,7 +8,7 @@
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Young and Worthy Lord
 
-Health/Gender:4M
+Health/Gender: 4M
 
 Ability:
 
@@ -41,12 +41,13 @@ If you have triggered [SOUL AURA], you may refuse these clashes.
 
 [Dashing Hero]:
 During your drawing phase, draw an additional card.
+You hand size limit is your max health instead of you current health.
 
 [Brave Sprit]:
 At the beginning of your turn, if you are damaged, you may have another target hero choose one of the following:
 1. Target hero draws X cards, then discards 1 card from their hand or equipment zone.
 2. Target hero raws 1 card, then discards X cards from their hand or equipment zone.
-(X is your amount of missing health)</cardDescription>
+(X is your missing health.)</cardDescription>
     </Card>
     <Card>
       <cardName>Sun Xiu</cardName>
@@ -104,7 +105,12 @@ Health/Gender: 4M
 Ability:
 
 Surprise Raid:
-During your main phase, you may play any BLACK cards in your hand and equipment zone as a BURN BRIDGES.</cardDescription>
+During your main phase, you may play any BLACK cards in your hand and equipment zone as a BURN BRIDGES.
+
+Prestige: (Limited ability)
+Once per game, whenever a tactics card targets 2 or more heroes, you may have any number of targeted heroes ignore the effects of the card.
+(The card being played still counts as targeting the heroes. When resolving HARVEST, the cards are revealed before you choose to remove any targeted heroes.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Lu Meng</cardName>
@@ -113,12 +119,22 @@ During your main phase, you may play any BLACK cards in your hand and equipment 
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Crossing the River in White Robes
 
-Health/Gender:4M
+Health/Gender: 4M
 
 Ability:
 
 Self-Restraint:
-If you did not play or discard any ATTACK during your main phase, you may skip your discard phase.</cardDescription>
+If you did not play or discard any ATTACK during your main phase, you may skip your discard phase.
+
+Diligence: (Awakening Ability)
+At the beginning of your turn, if the number of cards in your hand is greater than X+3, reduce your max health by 1 unit and gain the [STRIKE AT THE HEART] ability.
+
+[Strike at the Heart]:
+Once during your main phase, you may choose another target hero and look at the cards in their hand, then reveal a HEARTS suited card and choose one:
+1. Discard the HEARTS suited card.
+2. Place the card on top of the deck.
+(When resolving this ability with Xiao Qiao, any SPADES suited cards can be selected as HEARTS suited card due to her [YOUTHFUL BEAUTY] ability.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Huang Gai</cardName>
@@ -127,12 +143,17 @@ If you did not play or discard any ATTACK during your main phase, you may skip y
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Sacrificing for the Country
 
-Health/Gender:4M
+Health/Gender: 4M
 
 Ability:
 
 Sacrificial Injury:
-During your main phase, you may lose 1 life to draw 2 cards.</cardDescription>
+During your main phase, you may discard a card from a target hero's hand, equipment or judgment zone; then you lose 1 life.
+
+False Surrender:
+Whenever you lose 1 health, draw 3 cards.
+Whenever you lose health during your main phase, you may play an additional ATTACK this turn; until the end of your turn, RED ATTACKs you play ignore all range requirements and cannot be canceled by a DODGE.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zhou Yu</cardName>
@@ -141,15 +162,19 @@ During your main phase, you may lose 1 life to draw 2 cards.</cardDescription>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Wu Viceroy
 
-Health/Gender:3M
+Health/Gender: 3M
 
 Ability:
 
 Dashing Hero:
 During your drawing phase, draw an additional card.
+You hand size limit is your max health instead of you current health.
 
 Sow Discord:
-Once during your main phase, you may target another hero. That hero announces a suit, then takes one card from your hand and reveals it. If the revealed card is different from the anounced suit, you deal one damage to that hero.  Then that hero takes the revealed card into their hand.</cardDescription>
+Once during your main phase, you may reveal a card from your hand and give it to another target hero. Then that hero chooses one:
+1. Targeted hero reveals the cards in their hand and discards all cards with the same suit as the card you revealed.
+2. Targeted hero loses 1 health.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Da Qiao</cardName>
@@ -158,15 +183,16 @@ Once during your main phase, you may target another hero. That hero announces a 
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Reserved Beauty
 
-Health/Gender:3F
+Health/Gender: 3F
 
 Ability:
 
 National Beauty:
-During your main phase, you may use your DIAMONDS suited cards as ACEDIA.
+During your main phase, you may play DIAMONDS suited cards as ACEDIA or discard a DIAMONDS suited card to discard a ACEDIA from a hero's judgement zone; then draw a card.
 
 Displacement:
-Whenever you are the target of an ATTACK, you may discard a card from your hand or equipment zone; then choose another target hero other the attacker within your attack range, that hero becomes the new target of the ATTACK.</cardDescription>
+Whenever you are the target of an ATTACK, you may discard a card from your hand or equipment zone; then choose another target hero other the attacker within your attack range, that hero becomes the new target of the ATTACK.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Lu Xun</cardName>
@@ -175,15 +201,18 @@ Whenever you are the target of an ATTACK, you may discard a card from your hand 
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Meek Scholar with Valiant Talents
 
-Health/Gender:3M
+Health/Gender: 3M
 
 Ability:
 
 Humility:
-You cannot be the target of PILFER and ACEDIA cards.
+Whenever your are the only target of a tactics card or when a delay tactics card effect targets you, you may attach all cards in your hand onto your hero face down.
+At the end of the turn, you take the attached cards back itno your hand.
 
-One after another:
-Whenever you have no cards in your hand, you may draw a card.</cardDescription>
+One After Another:
+Whenever you have no more cards in your hand, you may choose X heros to draw a card.
+(X is the number of cards you had before having no cards left in your hand.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Sun Shang Xiang</cardName>
@@ -192,7 +221,7 @@ Whenever you have no cards in your hand, you may draw a card.</cardDescription>
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: Archery Princess
 
-Health/Gender:3F
+Health/Gender: 3F
 
 Ability:
 
@@ -200,7 +229,9 @@ Marriage:
 Once During your main phase, you may discard 2 cards and choose a target male hero; if you do, you and that hero gain 1 health.
 
 Warrior Princess:
-Whenever a card is removed from your equipment zone, draw 2 cards.</cardDescription>
+Whenever a card is removed from your equipment zone, draw 2 cards.
+(Removed meaning that your card will no longer be in your equipment zone. Replacing your own equipment will activate this ability.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Xiao Qiao</cardName>
@@ -209,7 +240,7 @@ Whenever a card is removed from your equipment zone, draw 2 cards.</cardDescript
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Unconventional Beauty
 
-Health/Gender:3F
+Health/Gender: 3F
 
 Ability:
 
@@ -236,7 +267,8 @@ Whenever you are on the brink of death, reveal a card from the top of the librar
 If you have any [WOUND] cards attached to your hero, your hand size limit becomes equal to the number of [WOUND] cards attached to your hero.
 
 Inspire:
-Whenever a hero discards a card or has a card taken by another hero, you may lose 1 life. If you do, the hero that discarded cards draws 2 cards.</cardDescription>
+Whenever a hero discards a card or has a card taken by another hero, you may lose 1 life. If you do, the hero that discarded cards draws 2 cards.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Tai Shi Ci</cardName>
@@ -250,8 +282,9 @@ Health/Gender: 4M
 Ability:
 
 Righteousness:
-Once during your main phase, you may clash with another target hero. If you win, you may use an additional ATTACK; until the end of your turn, your ATTACK cards may target an additional hero and ignore all range requirements.
-If you did not win, you cannot play ATTACK cards until the end of turn.</cardDescription>
+Once during your main phase, you may clash with another target hero. If you win, you may play an additional ATTACK this turn; until the end of your turn, your ATTACKs may target an additional hero and ignore all range requirements.
+If you did not win, you cannot play ATTACK cards until the end of your turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Sun Jiang</cardName>
@@ -317,7 +350,8 @@ Health/Gender: 4M
 Ability:
 
 Whirlwind:
-Whenever you discard at least 2 cards during your discard phase; or you lose a card in your equipment zone, you may choose up to 2 target heroes and discard up to 2 cards from their hand or equipment zone.</cardDescription>
+Whenever you discard at least 2 cards during your discard phase; or you lose a card in your equipment zone, you may choose up to 2 target heroes and discard up to 2 cards from their hand or equipment zone.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Wu Guo Tai</cardName>
@@ -358,7 +392,7 @@ Whenever you play an ATTACK targeting a hero, you may take X cards from his hand
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Uncrowned Queen
 
-Health/Gender:3F
+Health/Gender: 3F
 
 Ability:
 
@@ -412,7 +446,7 @@ During your main phase, you may choose a target hero. All heroes that that have 
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Nightmare of Ace
 
-Health/Gender:4M
+Health/Gender: 4M
 
 Ability:
 
@@ -434,9 +468,9 @@ Health/Gender: 3M
 Ability:
 
 Seek Knowledge:
-Whenever you discard your cards, you may put any number of them on top of the deck.
+Whenever you discard your cards, you may put any number of them on top of the library.
 
-Blunt words:
+Blunt Words:
 At the end of your turn, you may target a hero. That hero draws a card and reveals it. If that card is an equipment card, that hero must play that equipment card and then gain 1 health.
 (The equipment card replaces any previous equipment that shared the same slot.)</cardDescription>
     </Card>
@@ -508,7 +542,7 @@ Ability:
 Prudent:
 During your main phase, you may discard 2 cards from your hand or equipment zone. If you do, draw a card.
 
-In the same spirit:
+In the Same Spirit:
 At the end of your turn, you may reveal your hand. If all the revealed cards are the same color, you may choose X heroes to draw a card. (X is the number of cards in your hand.)</cardDescription>
     </Card>
     <Card>
@@ -522,8 +556,14 @@ Health/Gender: 4M
 
 Ability:
 
-Stabilize the country:
-Once during your main phase, you may choose a target hero and put an equipment from their equipment zone back into their hand. If that hero's attack range was reduced because of this effect, you draw a card.</cardDescription>
+Secure Nation:
+Once during your main phase, you may choose a target hero. If the targeted hero:
+1. Has the lowest amount of cards in their hand, they draw a card.
+2. Has the lowest health, they gain 1 health.
+3. Has the lowest amount of equipped equipments, they randomly equip a equipment card from the library.
+If the targeted hero does not match with any of the requirements, but you match them; you gain the effects from this abilitiy instead.
+(The equipment that the targeted hero equips will replace any equipment that already occupies a equipment zone.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Quan Cong</cardName>
@@ -548,7 +588,7 @@ Once during each hero's turn, whenever you have dealt or was dealt damage, you m
       <heroFaction>Green</heroFaction>
       <cardDescription>Title: The Talented and Virtuous Crowned Prince
 
-Health/Gender:4M
+Health/Gender: 4M
 
 Ability:
 
@@ -586,10 +626,10 @@ Ability:
 
 Ask for Divinatory Diagram:
 Once during each hero's main phase, the active hero may give you a card and you decide to place it on top or bottom of the library. If you do, both you and the active hero draws a card from the opposite side of the library.
-(If the active hero is you, you don't have to reveal the card and you are only allowed to draw 1 card.)
+(If the active hero is you, you do not have to reveal the card and you are only allowed to draw 1 card.)
 
 Execution:
-At the end of a male hero's turn, if the remaining number of cards in the library is less than or equal to X (X is your current health x 10), then you can play all ATTACK cards from the library on that male hero ignoring any range requirements, then shuffle the deck.
+At the end of a male hero's turn, if the remaining number of cards in the library is less than or equal to X (X is your current health x 10), then you can play all ATTACK cards from the library on that male hero ignoring any range requirements, then shuffle the library.
 (The number of ATTACK cards that can be played cannot exceed the number of surviving heroes)</cardDescription>
     </Card>
     <Card>
@@ -640,10 +680,10 @@ Health/Gender: 3F
 
 Ability:
 
-Sprint:
-At the beginning of your turn, you may skip your judgement and draw phase to target another hero, treat this as playing an ATTACK on the targeted hero, ignore any requirements for these ATTACK.
+Afterimage:
+At the beginning of your turn, you may skip your judgement and draw phase to target another hero, treat this as playing an ATTACK on the targeted hero, ignore any range requirements for these ATTACK.
 
-Swim:
+Release:
 Ignore the effects of all sources of FIRE damage.
 (You are immune to all sources of FIRE damage, including incomming FIRE damage from being in the chained state and redirected damage from Xiao Qiao.)
 </cardDescription>
@@ -707,8 +747,8 @@ Health/Gender: 3M
 Ability:
 
 Arrogance:
-Whenever you need to play a basic card outside of your turn, you may look at the top 2 cards of the deck. If the card you need to play is present, you may use it immediately.
-(Any cards you do not use are placed ontop of the deck in the same order once your ability has resolved.)
+Whenever you need to play a basic card outside of your turn, you may look at the top 2 cards of the library. If the card you need to play is present, you may use it immediately.
+(Any cards you do not use are placed ontop of the library in the same order once your ability has resolved.)
 
 Recklessness:
 During your main phase, you may choose to target a hero within your attack range and discard X cards; then you deal 1 damage to that hero. If you bring the targeted hero to the brink of death in this way, you lose 1 health and cannot use this ability for the rest of the turn.
@@ -739,7 +779,7 @@ Once during a hero's main phase, you may discard a card and choose one:
 If the card you discarded to activate [SOLEMN] was an ATTACK or a BLACK tactics card, [CHARM] is upgraded until the beginning of your next turn.
 
 [Cease]:
-After you play a tactics card, your tactics cards are treated as ATTACKs.
+After you play a tactics card, your tactics cards are treated as ATTACKs until the end of turn.
 </cardDescription>
     </Card>
     <Card>
@@ -836,10 +876,10 @@ Ability:
 
 Damask Helmet:
 You gain the following abilities based on the number of different suits in your equipment zone:
-1: Horsemanship
-2: Dashing Hero
-3: Short Soldier
-4: Prestige
+1: [HORSEMANSHIP]
+2: [DASHING HERO]
+3: [SHORT SOLDIER]
+4: [PRESTIGE]
 
 Quick Raid:
 Once during your main phase, you may discard a RED basic card to discard a card from a target hero within your attack range. If the discarded card is a DODGE, you look at the cards in the targeted hero's hand. If the discarded card is not a DODGE, the targeted hero looks at the card in your hand.
@@ -849,13 +889,64 @@ The physical range you see other heroes is reduced by 1.
 
 [Dashing Hero]:
 During your drawing phase, draw an additional card.
+You hand size limit is your max health instead of you current health.
 
 [Short Soldiers]:
 Your ATTACKs may target an additional hero within your physical range of you.
 
-[Prestige]:
+[Prestige]: (Limited ability)
 Once per game, whenever a tactics card targets 2 or more heroes, you may have any number of targeted heroes ignore the effects of the card.
 (The card being played still counts as targeting the heroes. When resolving HARVEST, the cards are revealed before you choose to remove any targeted heroes.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Liu Zan</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: Echoing Ferocious Warcry
+
+Health/Gender: 4M
+
+Ability:
+
+Warcry:
+During your turn, whenever you play a card with a color different from your previous card, you may draw a card.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ling Cao</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: The Rushing Torrent
+
+Health/Gender: 4M
+
+Ability:
+
+Advance Forward:
+You draw 1+X aditional cards during your draw phase.
+(X is half the number of equipment cards in your equipment zone rounded down.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Sun Ru</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: Ascending Green Lotus
+
+Health/Gender: 3F
+
+Ability:
+
+Swim:
+Ignore the effects of all sources of FIRE damage.
+(You are immune to all sources of FIRE damage, including incomming FIRE damage from being in the chained state and redirected damage from Xiao Qiao.)
+
+Sprint:
+At the beginning of your turn, you may skip your judgement and draw phase to target another hero, treat this as playing an ATTACK on the targeted hero, ignore any range requirements for these ATTACK.
 </cardDescription>
     </Card>
   </CardData>
