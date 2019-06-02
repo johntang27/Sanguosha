@@ -940,7 +940,7 @@ The physical range you see heroes with health less than you is 1.
 
 Acacia:
 At the beginning of your main phase, you may reveal the cards in your hand; if you do not have any ATTACK cards in your hand, you may play ATTACKs without playing the card until the number of cards in your hand changes.
-(To play an ATTACK with this ability, you must choose a target hero and annouce the ATTACK. You do not play a card, but the targeted hero may still respond to your ATTACK. This ATTACK counts towards the ATTACK restriction limited. ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
+(To play an ATTACK with this ability, you must choose a target hero and annouce the ATTACK. You do not play a card, but the targeted hero may still respond to your ATTACK. This ATTACK counts towards the ATTACK restriction limit. ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
 </cardDescription>
     </Card>
     <Card>
@@ -1079,10 +1079,10 @@ Health/Gender: 3M
 
 Ability:
 
-:
-At the beginning of your main phase, you may choose a target hero to reveal and give you a card. Until the end of turn, other heroes may not respond to cards you play with the given card.
+Calculated Inquiry:
+At the beginning of your main phase, you may choose a target hero to reveal and give you a card. Until the end of turn, all other heroes may not respond to cards you play with the revealed card.
 
-:
+Station By the River:
 At the end of your turn, if you did not skip your main phase and did not play any cards during your main phase, you may draw X cards.
 (X is the number of surviving factions in play.)
 </cardDescription>
@@ -1129,6 +1129,45 @@ Once per each hero's main phase, whenever you become the target of a card played
 Welcoming Offer:
 During your main phase, you may give all your non-basic cards from your hand to a target hero with max health greater than your's; the amount of your max health becomes the same amoutn of max health of the targeted hero, then gain X health.
 (X is the types of cards you gave to the target hero.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Huang Fu Song</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Ambitions to Clear the Frost
+      
+Health/Gender: 4M
+
+Ability:
+
+Cleaving Axe:
+You may use this ability X times during your main phase. Choose a target hero to clash with, if you win, you choose one:
+1. The targeted hero cannot play cards from their hand.
+2. You may treat this as playing an ATTACK, this ATTACK does not count towards the ATTACK restriction limit.
+
+If you lose the clash, you proceed to end your turn.
+(X is the number of surviving Loyalists in the game.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhang Liang</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The People's General
+      
+Health/Gender: 4M
+
+Ability:
+
+Call to Arms:
+During your main phase, whenever you equip a weapon or play a card that targets yourself, you may perform a judgement.
+Then attach the judgement result to your hero as a [SQAURE].
+
+Unifying Power:
+At the end of your turn, you may discard a card and/or discard any number of [SQUARE] cards. If the sum of all the discarded cards is 36, you choose a target hero to deal 3 LIGHTNING damage to.
 </cardDescription>
     </Card>
 	</CardData>
