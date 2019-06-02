@@ -13,7 +13,7 @@ Health/Gender: 4M
 Ability:
 
 Villainous Hero:
-Whenever you are dealt damage by a card effect, you may take that card into your hand.
+Whenever you are dealt damage by a card effect, you may draw a card from the library or take the card that damaged you into your hand.
 
 Escort: (Emperor Ability)
 Whenever you need to play or discard a DODGE, you may ask each other WEI faction hero to play or discard a DODGE for you, then it is treated as you playing the DODGE.
@@ -1162,8 +1162,8 @@ Ability:
 
 Warlike:
 Once during your main phase, you may discard a card and lose 1 unit of health.
-If your discarded card was a basic card, until the end of turn, you may use basic cards as any basic card .
-If your discarded card was a tactics card, you draw 2 cards and ignore any range requirements until the end of turn.
+If your discarded card was a basic card, until the end of turn, you may use basic cards as any basic card.
+If your discarded card was a tactics card, you draw 2 cards and ignore any range requirements for cards you play until the end of turn.
 If your discarded card was a equipment card, until the end of turn, whenever you target a hero with an ATTACK, the targeted hero must discard 2 cards.
 </cardDescription>
     </Card>
@@ -1178,7 +1178,9 @@ Health/Gender: 4M
 
 Ability:
 
-Armor to Extreme:
+Heavily Armored:
+At the beginning of your main phase, you may draw X cards and discard X cards; if any of the discarded cards were from your equipment zone, treat each discarded equipment as you playing an ATTACK to a targetted hero. These ATTACKs ignore any range requirements.
+(X is the number of equipment cards you have equipped during this game. Max of 7.)
 </cardDescription>
     </Card>
     <Card>
@@ -1192,9 +1194,11 @@ Health/Gender: 3M
 
 Ability:
 
-:
+Clear Devotion:
+During your main phase, you may draw 2 cards, if you do, at the end of your turn, you switch hands with teh hero with the lowest amout of cards in their hand.
 
-:
+Defend the Border:
+Once during each hero's turn, whenever you need to play a ATTACK or a DODGE in response to an effect, you may announce that you play an ATTACK or DODGE and treat it as so.
 </cardDescription>
     </Card>
     <Card>
@@ -1209,8 +1213,23 @@ Health/Gender: 4F
 Ability:
 
 Acend Above Others:
+Once during your main phase, after targeting a hero with an ATTACK or tactics card that deals damage, you may choose a targeted hero and make 3 guesses whether the hero has any combination of the 3 card types.
+(Your guesses have to be binary, for example: If the targeted hero has a basic card or not. If the targeted hero has a tactics card or not, If the targeted hero has an equipment card or not.)
+
+If 1 of your guesses was correct, the damage you have dealt is increased by +1.
+If 2 of your guesses were correct, you draw 2 cards.
+If 3 of your guesses were correct, you gain the [VILLAINOUS HERO] and [UNNATURAL DEATH] abilities.
 
 Conceal Inbetween:
+At the end of your turn, you may randomly choose a target hero and look at X cards from their hand.
+(X is the lowest number of cards a surviving hero has in their hand.)
+
+[Villainous Hero]:
+Whenever you are dealt damage by a card effect, you may draw a card from the library or take the card that damaged you into your hand.
+
+[Unnatural Death]:
+When a hero dies, you may take all cards owned by that hero into your hand.
+(This happens before revealing the role)
 </cardDescription>
     </Card>
   </CardData>
