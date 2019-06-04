@@ -1031,8 +1031,9 @@ Ability:
 
 Continuios Calculations:
 Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the library and then chooses one:
-1. The targeted hero uses the given card on another hero, then you give your equipped weapon to one of the heroes that were targeted by the used card.
+1. The targeted hero uses the given card on another hero, then the targeted hero gives their equipped weapon to one of the heroes that were targeted by the used card.
 2. Treat this as you using the given card on the targeted hero, then the targeted hero gives you the weapon.
+(Both you and the targeted hero must be able to completely fullfill either options, cards that cannot completely fullfill the options are illegal to use with this ability. Cards that are illegal to use are BARBARIAN ASSAULT, IMPECCABLE PLAN, and LIGHTNING BOLT. Cards that are potentially illegal due to some restrictions are ATTACK, DURESS, and RATIONS DEPLETED.)
 
 Carry Out Scheme: (Awakening Ability)
 Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONTINUIOUS CALCULATIONS], you lose the [CONTINUIOUS CALCULATIONS] ability and gain the [BOAST] ability.
