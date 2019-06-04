@@ -781,7 +781,7 @@ If the targeted hero plays a DODGE, the targeted hero discards a card from you.
 </cardDescription>
     </Card>    
     <Card>
-      <cardName>Ling Ju</cardName>
+      <cardName>He Tai Hou</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -1030,16 +1030,29 @@ Health/Gender: 4M
 Ability:
 
 Continuios Calculations:
-Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the library, then chooses one:
-1. Use the given card on another hero, then give the weapon to one of the heroes that were targeted by the used card.
-2. Treat this as you using the given card on the targeted hero, then the targeted hero give you the weapon.
+Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the library and then chooses one:
+1. The targeted hero uses the given card on another hero, then you give your equipped weapon to one of the heroes that were targeted by the used card.
+2. Treat this as you using the given card on the targeted hero, then the targeted hero gives you the weapon.
 
 Carry Out Scheme: (Awakening Ability)
-Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONNECTING PLANS], you lose the [CONNECTING PLANS] ability and gain the [BOAST] ability.
+Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONTINUIOUS CALCULATIONS], you lose the [CONTINUIOUS CALCULATIONS] ability and gain the [BOAST] ability.
 
 [Boast]:
 Once during your main phase, you may play 1 equipment or ATTACK as a random tactics card. At the end of the turn, if you did not deal damage, you lose 1 health.
-(Reveal cards from the library until you have revealed 3 tactics cards, then choose one to be used. Shuffle the library after reavealing 3 tactics cards.)
+Roll a 20-sided dice to see which tactics card is randomly chosen:
+1. BARBARIAN ASSAULT		10. Pilfer
+2. HAIL OF ARROWS			11. Blaze
+3. OATH OF PEACH GARDEN		12. Iron Chains
+4. HARVEST					13. ACEDIA
+5. SLEIGHT OF HAND			14. LIGHTNING BOLT
+6. IMPECCABLE PLAN			15. RATIONS DEPLETED
+7. BURN BRIDGES				16. HIDDEN INTENTIONS
+8. DURESS					17. SEDUCTIVE RUSE
+9. DUEL						18+. Re-roll
+
+(The color, rank and suit of the tactics card being played is the same as the equipment or ATTACK card used to activate this ability.)
+
+Note: Wang Yun has 2 new tactics cards that can only be used under his possession, HIDDEN INTENTIONS and SEDUCTIVE RUSE. You may only be able to use these tactics cards through activating his [BOAST] ability.
 </cardDescription>
     </Card>
     <Card>

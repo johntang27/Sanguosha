@@ -128,6 +128,7 @@ If you did not play or discard any ATTACK during your main phase, you may skip y
 
 Diligence: (Awakening Ability)
 At the beginning of your turn, if the number of cards in your hand is greater than X+3, reduce your max health by 1 unit and gain the [STRIKE AT THE HEART] ability.
+(X is you current health. If the game started with 7 or more heroes, X is 2.)
 
 [Strike at the Heart]:
 Once during your main phase, you may choose another target hero and look at the cards in their hand, then reveal a HEARTS suited card and choose one:
@@ -148,11 +149,12 @@ Health/Gender: 4M
 Ability:
 
 Sacrificial Injury:
-During your main phase, you may discard a card from a target hero's hand, equipment or judgment zone; then you lose 1 life.
+Once during your main phase, you may discard a card from a target hero's hand, equipment or judgment zone; then you lose 1 life.
 
 False Surrender:
 Whenever you lose 1 health, draw 3 cards.
 Whenever you lose health during your main phase, you may play an additional ATTACK this turn; until the end of your turn, RED ATTACKs you play ignore all range requirements and cannot be canceled by a DODGE.
+(This ability does not activate when you are dealt damage, only when damage recieved is counted as loss of health.)
 </cardDescription>
     </Card>
     <Card>
