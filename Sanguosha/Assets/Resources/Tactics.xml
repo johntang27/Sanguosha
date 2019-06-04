@@ -6,86 +6,129 @@
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>You target all other heroes, in turn sequence, each target hero must play an ATTACK. If a target hero does not play an ATTACK, deal 1 damage to that target hero.</cardDescription>
+      <cardDescription>
+You target all other heroes, in turn sequence, each target hero must play an ATTACK. If a target hero does not play an ATTACK, deal 1 damage to that target hero.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Hail of Arrows</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>You target all other heroes, in turn sequence, each target hero must play a DODGE. If a target hero does not play a DODGE, deal 1 damage to that target hero.</cardDescription>
+      <cardDescription>
+You target all other heroes, in turn sequence, each target hero must play a DODGE. If a target hero does not play a DODGE, deal 1 damage to that target hero.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Oath of Peach Garden</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>You target all heros, each target hero gains 1 health.</cardDescription>
+      <cardDescription>
+You target all heros, each target hero gains 1 health.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Harvest</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Reveal X cards from the top of the library, where X is number of surviving heroes. Starting from you in turn sequence, each hero picks a revealed card and takes it into their hand. Any remaining cards are move into the discard pile.</cardDescription>
+      <cardDescription>
+Reveal X cards from the top of the library, where X is number of surviving heroes. Starting from you in turn sequence, each hero picks a revealed card and takes it into their hand. Any remaining cards are move into the discard pile.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Sleight of Hand</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>You draw two cards from the library.</cardDescription>
+      <cardDescription>
+You draw two cards from the library.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Impeccable Plan</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Cancel target tactics card effect targeting a hero or another target card.</cardDescription>
+      <cardDescription>
+Cancel target tactics card effect targeting a hero or another target card.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Burn Bridges</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose a target hero and discard a card from that hero's hand, equipment zone, or judgement zone.</cardDescription>
+      <cardDescription>
+Choose a target hero and discard a card from that hero's hand, equipment zone, or judgement zone.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Duress</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose a target hero (other than youself) with a weapon in their equipment zone. That hero must play an ATTACK on another target hero of your choice who is within their attack/physical range. If that hero does not, take that hero's weapon card into your hand.</cardDescription>
+      <cardDescription>
+Choose a target hero other than youself with a weapon in their equipment zone. That hero must play an ATTACK on another target hero of your choice who is within their attack/physical range. If that hero does not, take that hero's weapon card into your hand.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Duel</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose a target a hero, that hero must discard an ATTACK card; if that hero discards an ATTACK, you must now discard an ATTACK card; repeat the process until a hero is unable discard an ATTACK. The hero that can no longer discard an ATTACK is declared the loser and is dealt 1 damage by the winner.</cardDescription>
+      <cardDescription>
+Choose a target a hero, that hero must discard an ATTACK card; if that hero discards an ATTACK, you must now discard an ATTACK card; repeat the process until a hero is unable discard an ATTACK. The hero that can no longer discard an ATTACK is declared the loser and is dealt 1 damage by the winner.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Pilfer</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose a target a hero within your physical range; you take one card from his hand, equipment zone or judgment zone it into your hand.</cardDescription>
+      <cardDescription>
+Choose a target a hero within your physical range; you take one card from his hand, equipment zone or judgment zone it into your hand.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Blaze</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose a target hero with at least one card in their hand; that hero reveals a card from their hand. You may discard a card with the same suit as the revealed card; if you do, you deal 1 Fire damage to that hero.</cardDescription>
+      <cardDescription>
+Choose a target hero with at least one card in their hand; that hero reveals a card from their hand. You may discard a card with the same suit as the revealed card; if you do, you deal 1 Fire damage to that hero.
+	  </cardDescription>
     </Card>
     <Card>
       <cardName>Iron Chains</cardName>
       <portraitOverride />
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
-      <cardDescription>Choose up to 2 target heroes, you may chain or unchain their hero cards.
+      <cardDescription>
+Choose up to 2 target heroes, you may chain or unchain their hero cards.
 	  
-Recast: You may discard this card during the main phase of your turn to draw a card from the library.</cardDescription>
+Recast: You may discard this card during the main phase of your turn to draw a card from the library.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Hidden Intentions</cardName>
+      <portraitOverride />
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>
+Choose a target hero other than youself, that hero draws X cards, then you deal 1 damage to the targeted hero.
+(X is the targeted hero's missing health, max of 5.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Seductive Ruse</cardName>
+      <portraitOverride />
+      <cardType>Tactics</cardType>
+      <heroFaction>None</heroFaction>
+      <cardDescription>
+Choose a target MALE hero with cards in their hand, each FEMALE hero in sequence takes a card from the targeted MALE hero's hand and then gives you a card. Then compare the targeted MALE hero's number of cards in hand with the number cards in your hand, the hero with the greater number of cards in their hand deals 1 damage to the hero with the lower number of cards in their hand.
+</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>
