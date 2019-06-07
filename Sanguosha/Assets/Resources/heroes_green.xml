@@ -228,7 +228,7 @@ Health/Gender: 3F
 Ability:
 
 Marriage:
-Once During your main phase, you may discard 2 cards and choose a target male hero; if you do, you and that hero gain 1 health.
+Once During your main phase, you may discard 2 cards and choose a target MALE hero; if you do, you and that hero gain 1 health.
 
 Warrior Princess:
 Whenever a card is removed from your equipment zone, draw 2 cards.
@@ -514,7 +514,7 @@ Once during your main phase, whenever you play an ATTACK or BLACK non-delay tact
 (If the source of the ATTACK changes for you, you are considered to not yet have played an ATTACK this turn.)
 
 Arrogant:
-Whenever you are dealt damage by a male hero, you may discard an equipment card and reduce that damage by 1.</cardDescription>
+Whenever you are dealt damage by a MALE hero, you may discard an equipment card and reduce that damage by 1.</cardDescription>
     </Card>
     <Card>
       <cardName>Zhu Huan</cardName>
@@ -563,6 +563,7 @@ Once during your main phase, you may choose a target hero. If the targeted hero:
 1. Has the lowest amount of cards in their hand, they draw a card.
 2. Has the lowest health, they gain 1 health.
 3. Has the lowest amount of equipped equipments, they randomly equip a equipment card from the library.
+
 If the targeted hero does not match with any of the requirements, but you match them; you gain the effects from this abilitiy instead.
 (The equipment that the targeted hero equips will replace any equipment that already occupies a equipment zone.)
 </cardDescription>
@@ -631,7 +632,7 @@ Once during each hero's main phase, the active hero may give you a card and you 
 (If the active hero is you, you do not have to reveal the card and you are only allowed to draw 1 card.)
 
 Execution:
-At the end of a male hero's turn, if the remaining number of cards in the library is less than or equal to X (X is your current health x 10), then you can play all ATTACK cards from the library on that male hero ignoring any range requirements, then shuffle the library.
+At the end of a MALE hero's turn, if the remaining number of cards in the library is less than or equal to X (X is your current health x 10), then you can play all ATTACK cards from the library on that MALE hero ignoring any range requirements, then shuffle the library.
 (The number of ATTACK cards that can be played cannot exceed the number of surviving heroes)</cardDescription>
     </Card>
     <Card>
@@ -702,8 +703,8 @@ Health/Gender: 3F
 Ability:
 
 Star Dance:
-At the beginning of your discard phase, you may attach a card from your hand face up onto your characeter as a [STEP]. The card you attach must be a different color than the cards you have used this turn. Whenever you have 3 [STEPS] attached, remove them all and choose a target male hero, you deal 2 damage to the target hero and discard all equiped epuipment cards.
-(If you used both RED and BLACK cards this turn, you cannot attach any [STEPS] onto yourself. If you did not play any cards on your turn, you will not be allowed to attach any [STEP] cards. If you reach 3 [STEPS] and there are no male heroes, you must still remove all the [STEPS] while  not being able to deal damage or discarding equipment cards.)
+At the beginning of your discard phase, you may attach a card from your hand face up onto your characeter as a [STEP]. The card you attach must be a different color than the cards you have used this turn. Whenever you have 3 [STEPS] attached, remove them all and choose a target MALE hero, you deal 2 damage to the target hero and discard all equiped epuipment cards.
+(If you used both RED and BLACK cards this turn, you cannot attach any [STEPS] onto yourself. If you did not play any cards on your turn, you will not be allowed to attach any [STEP] cards. If you reach 3 [STEPS] and there are no MALE heroes, you must still remove all the [STEPS] while  not being able to deal damage or discarding equipment cards.)
 
 River Swans:
 Whenever you have [STEP] cards attached, you may use the [DISPLACEMENT] and [HEAVENLY SCENT] abilities.

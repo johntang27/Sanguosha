@@ -121,7 +121,7 @@ Whenever your health bar card is upright, all damage you would recieve is preven
 
 Avenge:
 At the end of each hero's turn, if you health bar card is upright, return it back to normal and choose one:
-1. Discard X cards that from the active hero. (X is the difference between the number of cards in your hand and maximum health.)
+1. Discard X cards from the active hero. (X is the difference between the number of cards in your hand and maximum health.)
 2. Choose a target hero, this is treated as you playing an ATTACK to the targeted hero.
 (The ATTACK has no color or element.)
 </cardDescription>
@@ -174,7 +174,7 @@ Whenever your judgment is resolved, take the judgment card into your hand.
 
 Bestowed Rouse:
 Whenever you are dealt damage, for each point of damage you receive, draw 2 cards and then attach up to 2 cards from you hand on to any target heroes face down. The heroes with the attached cards take them into their hand at the beginning of their next draw phase.
-(You may choose to not to attach card onto other heroes. You may attach 2 cards to a hero instead of 1 card to 2 heroes. If you recieve more than 1 damage per instance, you can activate this ability as many times as the damage recieved, but you must resolve each instance completely before activating it again. You must be saved from the brink of death in order to activate this ability.)
+(You may choose to not to attach cards onto other heroes. You may attach 2 cards to a hero instead of 1 card to 2 heroes. If you recieve more than 1 damage per instance, you can activate this ability as many times as the damage recieved, but you must resolve each instance completely before activating it again. You must be saved from the brink of death in order to activate this ability.)
 </cardDescription>
     </Card>
     <Card>
@@ -1179,7 +1179,7 @@ Health/Gender: 4M
 Ability:
 
 Heavily Armored:
-At the beginning of your main phase, you may draw X cards and discard X cards; if any of the discarded cards were from your equipment zone, treat each discarded equipment as you playing an ATTACK to a targetted hero. These ATTACKs ignore any range requirements.
+At the beginning of your main phase, you may draw X cards and discard X cards; if any of the discarded cards were from your equipment zone, treat each discarded equipment as you playing an ATTACK to a targeted hero. These ATTACKs ignore any range requirements.
 (X is the number of equipment cards you have equipped during this game. Max of 7.)
 </cardDescription>
     </Card>
