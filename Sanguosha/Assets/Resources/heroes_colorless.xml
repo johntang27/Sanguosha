@@ -153,8 +153,23 @@ Health/Gender: 6M
 
 Ability: 
 
+Military Glory:
+Whenever you are dealt damage by a RED ATTACK or a ATTACK with WINE, you lose 1 units of max health.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Hua Xiong</cardName>
+	  <portraitOverride>Hua Xiong02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Dominating Commands
+      
+Health/Gender: 6M
+
+Ability: 
+
 Swagger:
-Whenever a hero plays a RED ATTACK and deals damage to you, that hero may gain 1 health or draw a card.
+Whenever a hero deals damage to you with a RED ATTACK, that hero may gain 1 health or draw a card.
 </cardDescription>
     </Card>
     <Card>
@@ -207,14 +222,11 @@ Health/Gender: 3M
 Ability:
 
 Bewilder:
-Once during each hero's main phase, you may announce a basic or non-delay tactics card name and play a card face down. This card is treated as the announced card.
-Before resolving the effects of your announced card, any hero may choose to doubt you and declare that the name of the announced card does not match the name of the card you have played face down; if any hero doubts you, reveal the face down card immediately.
-If the name of the revealed card is different from what you have announced, cancel the card's effects and discard it.
-If the name of the revealed card is the same as what you have announced, resolve the effects of the card and the hero who doubted you gains the [HAUNTED] ability.
+Whenever you want to use a basic or non-delay tactics card, you may play a card face down and announce a basic or non-delay tactics card name you want the face down card to be to played as. Then each hero in sequence states whether the face down card is the same as the announced card named or not. If no hero doubts the face down card, the effects of the announced card proceeds to being resolved. If any heroes doubt the face down card, it is immediately revealed after having asked all heroes in sequence.
 
-[HAUNTED]:
-You cannot doubt cards played by [BEWILDER].
-If your health is equal to 1, all your abilities except [HAUNTED] cannot be triggered or activated.
+If the name of the revealed card is the same as what you have announced, all heroes who have doubted loses 1 health; if the revealed card has a HEARTS suit, resolve the card as the announced name.
+If the name of the revealed card is not the same as what you have announced, all heroes who have doubted draws a card; the announced card's effect is canceled and the card is discarded.
+(Heroes on the brink of death state cannot doubt you. If the card's effect was canceled through being revealed as false, it is counted as you never having played the announced card at all. For example, if the announced ATTACK was false, you are still allowed to play another ATTACK.)
 </cardDescription>
     </Card>
     <Card>
@@ -401,13 +413,13 @@ Whenever you are dealt damage outside of your turn, you ignore all effects from 
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: Ruler of Jiang Nan
       
-Health/Gender: 3M
+Health/Gender: 4M
 
 Ability:
 
 Self-Preservation:
 During your draw phase, you may draw X additional cards. If you do, cards you play this turn cannot target other heroes.
-(X is the number of factions in play.)
+(X is the number of factions in play. You cannot use cards that target all other heroes, but if you use cards that target all heroes, you will be the only hero targeted instead.)
 
 House of Royalty:
 Your hand size is increased by X. 
@@ -449,12 +461,13 @@ Health/Gender: 4M
 Ability:
 
 Silver Bells:
-During your main phase, you may discard a BLACK card; then take a card from another target hero and attach it onto your hero face up as a [BROCADE]. You may a max of 4 [BROCADES] attached.
+During your main phase, you may discard a BLACK card; then take a card from another target hero and attach it onto your hero face up as a [BROCADE]. You may have a max of 4 [BROCADES] attached.
 
 Military Prestige:
 At the end of your turn, you may discard 3 [BROCADES] and choose a target hero, the targeted hero chooses one:
 1. The targeted hero gives you a DODGE, then you give the DODGE to another target hero.
-2. The targeted hero loses 1 health; then you may choose one of their equipped equipment cards and attach it face down onto their hero. The attached card is put back into their equipment zone at the end of their next turn.
+2. The targeted hero loses 1 health; then you may choose one of their equipment in their equipment zone and attach it face down onto their hero. The attached card is put back into their equipment zone at the end of their next turn.
+(The faced down card cannot be affected by other card affects while attached to the target hero.)
 </cardDescription>
     </Card>
     <Card>
@@ -589,7 +602,7 @@ Whenever you need to play a DODGE, you may choose to let the current turn hero d
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Benevolent Ruler
       
-Health/Gender: 4M
+Health/Gender: 2M
 
 Ability:
 
@@ -597,9 +610,9 @@ Peacekeeping:
 Once per each hero's main phase, if the number of cards in your hand is greater than your current health, you may target a hero with you in their attack range; unless that hero plays an ATTACK targeting you, that hero gives you an equipment card from their equipment zone to your hand.
 
 Ancestral Blessing:
-At the beginning of the game, you increase your max health by X. (X is the number of factions in game.)
-
+At the beginning of the game, you increase your max health by X.
 If all heroes of a faction are removed from the game, you reduce your max health by 1.
+(X is the number of surviving factions in the game.)
 </cardDescription>
     </Card>
     <Card>
@@ -631,7 +644,7 @@ Health/Gender: 4M
 Ability:
 
 Fierce Mount:
-
+Whenever you deal damage to a target hero with a BLACK ATTACK, you may discard a card from their equipment zone; if the discarded card is a mount, you take it into your hand.
 
 Follower of Virtue:
 Whenever you have 3 or more health, the physical range you see other heroes is reduced by 1.
@@ -743,7 +756,7 @@ Once per a hero's main phase, you may give all the cards in your hand to a targe
 </cardDescription>
     </Card>    
     <Card>
-      <cardName>Zhang Bao</cardName>
+      <cardName>Zhang o</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -799,7 +812,7 @@ At the end of each hero's turn, you may draw 3 cards for each hero you have kill
 </cardDescription>
     </Card>    
     <Card>
-      <cardName>Yellow Turban Rebels</cardName>
+      <cardName>Yellow Turn Rebels</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -829,9 +842,9 @@ Ability:
 
 Mad Axe:
 Whenever your ATTACK deals damage to a target hero, you may choose one:
-1. Move an equipment card from their equipment zone to you equipment zone.
-2. Discard a card from their equipment zone.
-(You cannot move an equipment into a occupied equipment zone.)
+1. Move an equipment card from their equipment zone to your equipment zone.
+2. Discard a card from the targeted hero's equipment zone.
+(You cannot move an equipment into an occupied equipment zone.)
 </cardDescription>
     </Card>    
     <Card>
@@ -873,7 +886,7 @@ At the end of your turn, you lose X health.
 (X is the number of [BURNS] you have.)
 
 Fierce and Valiant:
-Whenever you play HAIL OF ARROWS or BARBARIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
+Whenever you play HAIL OF ARROWS or RRIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
 </cardDescription>
     </Card>
     <Card>
@@ -944,7 +957,7 @@ At the beginning of your main phase, you may reveal the cards in your hand; if y
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Dong Bai</cardName>
+      <cardName>Dong i</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -969,7 +982,7 @@ Your black cards do not count towards you max hand size limit. BLACK cards you g
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Northern Barbarian King
+      <cardDescription>Title: Northern rrian King
       
 Health/Gender: 4M
 
@@ -982,7 +995,7 @@ Whenever your ATTACK or BLACK non-delay tactics card targets any heroes, if the 
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Yan Bai Hu</cardName>
+      <cardName>Yan i Hu</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -1033,7 +1046,7 @@ Continuios Calculations:
 Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the library and then chooses one:
 1. The targeted hero uses the given card on another hero, then the targeted hero gives their equipped weapon to one of the heroes that were targeted by the used card.
 2. Treat this as you using the given card on the targeted hero, then the targeted hero gives you the weapon.
-(Both you and the targeted hero must be able to completely fullfill either options, cards that cannot completely fullfill the options are illegal to use with this ability. Cards that are illegal to use are BARBARIAN ASSAULT, IMPECCABLE PLAN, and LIGHTNING BOLT. Cards that are potentially illegal due to some restrictions are ATTACK, DURESS, and RATIONS DEPLETED.)
+(Both you and the targeted hero must be able to completely fullfill either options, cards that cannot completely fullfill the options are illegal to use with this ability. Cards that are illegal to use are RRIAN ASSAULT, IMPECCABLE PLAN, and LIGHTNING BOLT. Cards that are potentially illegal due to some restrictions are ATTACK, DURESS, and RATIONS DEPLETED.)
 
 Carry Out Scheme: (Awakening Ability)
 Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONTINUIOUS CALCULATIONS], you lose the [CONTINUIOUS CALCULATIONS] ability and gain the [BOAST] ability.
@@ -1041,15 +1054,24 @@ Whenever another hero has accumulatively dealt 3 or more damage by using cards r
 [Boast]:
 Once during your main phase, you may play 1 equipment or ATTACK as a random tactics card. At the end of the turn, if you did not deal damage, you lose 1 health.
 Roll a 20-sided dice to see which tactics card is randomly chosen:
-1. BARBARIAN ASSAULT		10. Pilfer
-2. HAIL OF ARROWS			11. Blaze
-3. OATH OF PEACH GARDEN		12. Iron Chains
-4. HARVEST					13. ACEDIA
-5. SLEIGHT OF HAND			14. LIGHTNING BOLT
-6. IMPECCABLE PLAN			15. RATIONS DEPLETED
-7. BURN BRIDGES				16. HIDDEN INTENTIONS
-8. DURESS					17. SEDUCTIVE RUSE
-9. DUEL						18+. Re-roll
+1. RRIAN ASSAULT
+2. HAIL OF ARROWS
+3. OATH OF PEACH GARDEN
+4. HARVEST
+5. SLEIGHT OF HAND
+6. IMPECCABLE PLAN
+7. BURN BRIDGES
+8. DURESS
+9. DUEL
+10. PILFER
+11. BLAZE
+12. IRON CHAINS
+13. ACEDIA
+14. LIGHTNING BOLT
+15. RATIONS DEPLETED
+16. HIDDEN INTENTIONS
+17. SEDUCTIVE RUSE
+18+. Re-roll
 
 (The color, rank and suit of the tactics card being played is the same as the equipment or ATTACK card used to activate this ability.)
 
@@ -1116,8 +1138,8 @@ Burning Sky:
 At the end if your turn, if the number of cards in your hand is less than your current health, you may choose a target hero within your attack range and take a card from their hand, then attach it onto your hero as a [BURNT] token. Your attack range is increased by X.
 (X is the number of [BURNT] tokens attached onto your hero.)
 
-Broiling Day: {Awakaneing Ability)
-Whenever you have 3 or more [BURNT] tokens, you gain the [] ability.
+Broiling Day: (Awakaneing Ability)
+Whenever you have 3 or more [BURNT] tokens, you gain the [BURNING HEART] ability.
 
 Burning Heart:
 Once during your main phase, you may discard 2 [BURNT] tokens and choose a target hero, the targeted hero loses 1 health.
@@ -1128,7 +1150,7 @@ Once during your main phase, you may discard 2 [BURNT] tokens and choose a targe
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Arise from the Summer of Zhenjiang
+      <cardDescription>Title: Held with a Tender Belevolence
       
 Health/Gender: 3M
 
@@ -1138,10 +1160,10 @@ Beckoning Misfortune:
 Whenever a hero enters the brink of death, your max health becomes 1. Whenever you lose 1 max health, you draw a card.
 
 Moral Aid:
-Once per each hero's main phase, whenever you become the target of a card played by a hero, if the that hero's currnet health is greater than your current health, you may randomly take a basic card that you do not have in your hand from the deck.
+Once per each hero's main phase, whenever you become the target of a card played by a hero, if the that hero's current health is greater than your current health, you may randomly take a basic card that you do not have in your hand from the deck.
 
 Welcoming Offer:
-During your main phase, you may give all your non-basic cards from your hand to a target hero with max health greater than your's; the amount of your max health becomes the same amoutn of max health of the targeted hero, then gain X health.
+During your main phase, you may give all your non-basic cards from your hand to a target hero with max health greater than you max health; the amount of your max health becomes the same amount of max health of the targeted hero, then gain X health.
 (X is the types of cards you gave to the target hero.)
 </cardDescription>
     </Card>
@@ -1158,7 +1180,7 @@ Ability:
 
 Cleaving Axe:
 You may use this ability X times during your main phase. Choose a target hero to clash with, if you win, you choose one:
-1. The targeted hero cannot play cards from their hand.
+1. The targeted hero cannot play cards from their hand until the end of turn.
 2. You may treat this as playing an ATTACK, this ATTACK does not count towards the ATTACK restriction limit.
 
 If you lose the clash, you proceed to end your turn.
@@ -1179,6 +1201,7 @@ Ability:
 Call to Arms:
 During your main phase, whenever you equip a weapon or play a card that targets yourself, you may perform a judgement.
 Then attach the judgement result to your hero as a [SQAURE].
+(Non-delay tactics cards that are considered to target yourself would be SLEIGHT OF HAND, HARVEST, and OATH OF PEACH GARDEN. IRON CHAINS and DURESS could also be self targeting if the conditions are met.)
 
 Unifying Power:
 At the end of your turn, you may discard a card and/or discard any number of [SQUARE] cards. If the sum of all the discarded cards is 36, you choose a target hero to deal 3 LIGHTNING damage to.
