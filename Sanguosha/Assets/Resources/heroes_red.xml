@@ -702,6 +702,7 @@ You may choose up to 3 of the following options:
 3. Skip your discard phase and flip your hero card.
 
 For each option you have chosen, treat that as playing an ATTACK on any target hero, ignore any requirements for these ATTACK.
+(These ATTACKs are colorless and do not have an element attached to them.)
 </cardDescription>
     </Card>
 	<Card>
