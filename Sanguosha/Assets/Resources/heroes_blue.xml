@@ -31,12 +31,12 @@ Health/Gender: 3M
 Ability:
 
 Unnatural Death:
-When a hero dies, you may take all cards owned by that hero into your hand.
-(This happens before revealing the role)
+When a hero dies, you may take all the cards owned by that hero into your hand.
+(This happens before revealing their role card.)
 
 Banish to Exile:
-Whenever you are dealt damage, you may have target hero flip their hero card. If you do, that hero draw X cards.
-(X is your missing health)
+Whenever you are dealt damage, you may have a target hero flip their hero card. If you do, that hero draws X cards.
+(X is your missing health.)
 
 Exaltation: (Emperor Ability)
 Whenever another WEI faction hero's judgement is resolved, if that judgement card is BLACK, that hero may let you draw a card.
@@ -207,13 +207,14 @@ Health/Gender: 4M
 
 Ability:
 
-Extreme Speed:
+Godly Speed:
 You may choose up to 3 of the following options:
 1. Skip your judgment and draw phase.
 2. Skip your main phase and discard an equipment card from your hand or equipment zone.
 3. Skip your discard phase and flip your hero card.
 
 For each option you have chosen, treat that as playing an ATTACK on any target hero, ignore any requirements for these ATTACK.
+(These ATTACKs are colorless and do not have an element attached to them.)
 </cardDescription>
     </Card>
     <Card>
