@@ -718,12 +718,15 @@ At the beginning of your discard phase, you may attach a card from your hand fac
 River Swans:
 Whenever you have [STEP] cards attached, you may use the [DISPLACEMENT] and [HEAVENLY SCENT] abilities.
 
-Displacement:
+[Displacement]:
 Whenever you are the target of an ATTACK, you may discard a card from your hand or equipment zone; then choose another target hero other the attacker within your attack range, that hero becomes the new target of the ATTACK.
 
-Heavenly Scent:
-Whenever you are being dealt damage, you may discard a HEARTS suited card from your hand; then choose another target hero, the damage is dealt to the target hero instead, then the target hero draws cards equal to the amount of their missing health.
-(You are not suppose to suffer any damage when performing this ability. You do not become the new source fo this damage, the original source of damage does not change. The hero must be saved from the brink of death in order to be able to draw cards. When you you transfer incomming damage from a chained source, you do not become unchained after doing so.)
+[Heavenly Scent]:
+Whenever you are being dealt damage, you may discard a HEARTS suited card from your hand to prevent the damage; then choose another target hero and choose one of the following:
+1. Have the source of damage deal 1 damage to the targeted hero, then that hero draws X cards. (X is the targeted hero's missing health. Max of 5 cards.)
+2. Have the targeted hero lose 1 health, then the targeted hero takes the card you discarded to activate [HEAVENLY SCENT].
+
+(You are not suppose to suffer any damage when performing this ability. You do not become the new source of damage, the original source of damage does not change when activatign this ability. The hero must be saved from the brink of death in order to be able to draw or take cards. When you you transfer incomming damage from a chained source, you do not become unchained after doing so since you do not take any elemental damage.)
 </cardDescription>
     </Card>
     <Card>
