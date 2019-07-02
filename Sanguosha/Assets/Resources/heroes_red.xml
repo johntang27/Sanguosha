@@ -669,7 +669,7 @@ Emperor's Crony:
 At the end of your turn, you may target any number of heroes who has the EMPEROR within their attack range; you discard a card from each targeted hero's hand or equipment zone and then the targeted hero draws a card. Then draw a card for each targeted hero who more cards in their hand than the EMPEROR.
 
 Bribery:
-Whenever you are dealt damage by another hero, you may reveal X cards in your hand and have that hero chooses one of the following:
+Whenever you are being dealt damage by another hero, you may reveal X cards in your hand and have that hero chooses one of the following:
 1. Target hero takes a revealed card or a equipment from your equipment zone, and then prevent the damage being dealt to you.
 2. Target hero discards X cards from their hand or equipment zone.</cardDescription>
     </Card>
