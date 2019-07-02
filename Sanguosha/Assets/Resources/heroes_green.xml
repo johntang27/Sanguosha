@@ -33,7 +33,7 @@ Ardor:
 Whenever you target a hero with a DUEL or RED ATTACK (vice versa), you may draw a card.
 
 Soul Aura: (Awakening Ability)
-At the beginning of your turtn, if you have exactly 1 health, reduce your maximum health by 1 unit, then gain the [DASHING HERO] and [BRAVE SPIRIT] abilities. Your hand size limit is now equal to the amount of your maxium health.
+At the beginning of your turtn, if you have exactly 1 health, reduce your maximum health by 1 unit, then gain the [DASHING HERO] and [BRAVE SPIRIT] abilities. Your hand size limit is now equal to the amount of your maximum health.
 
 Hegemony: (Emperor Ability)
 Once during each other WU faction hero's main phase, that hero may choose to clash with you. If that hero did not win, you can take the 2 cards reveal for the clash into your hand.
@@ -63,10 +63,16 @@ Ability:
 Hostile Banquet:
 Once during your main phase, you may choose another target hero to choose one of the following:
 1. The targeted hero discards a card.
-2. The targeted hero gives you all their equipment cards from their equipment zone, and then you lose [HOSTILE BANQUET] ability for the rest of the game.
+2. The targeted hero gives you all the equipment cards from their equipment zone, then you lose the [HOSTILE BANQUET] ability for the rest of the game, and then upgrade [VITALIZING EDUCATION].
+(The equipment cards given to you are put into your hand.)
 
 Vitalizing Education:
-At the end of your turn, you may target X heroes. Each target hero in sequence draws a card and then puts a card on top of the library from their hand or equipment zone. (X is your current health. If you have lost [HOSTILE BANQUET], X is your max health.)
+At the end of your turn, you may target X heroes. Each target hero in sequence draws a card and then puts a card on top of the library from their hand or equipment zone.
+(X is your current health.)
+
+(Upgrade):
+At the end of your turn, you may target X heroes. Each target hero in sequence draws a card and then puts a card on top of the library from their hand or equipment zone.
+(X is your max health.)
 
 Bound by orders: (Emperor Ability)
 Heroes within your physical range are treated as within the attack range of other WU faction heroes.</cardDescription>
@@ -149,7 +155,7 @@ Health/Gender: 4M
 Ability:
 
 Sacrificial Injury:
-Once during your main phase, you may discard a card from a target hero's hand, equipment or judgment zone; then you lose 1 life.
+Once during your main phase, you may discard a card; then you lose 1 life.
 
 False Surrender:
 Whenever you lose 1 health, draw 3 cards.
@@ -300,10 +306,10 @@ Health/Gender: 4M
 Ability:
 
 Brave Sprit:
-At the beginning of your turn, if you are damaged, you may have another target hero choose one of the following:
+At the beginning of your turn, if you are damaged, you may targeted another hero and choose one of the following:
 1. The targeted hero draws X cards, then discards 1 card from their hand or equipment zone.
 2. The targeted hero draws 1 card, then discards X cards from their hand or equipment zone.
-(X is your missing health)</cardDescription>
+(X is your missing health.)</cardDescription>
     </Card>
     <Card>
       <cardName>Lu Su</cardName>
@@ -508,10 +514,10 @@ Health/Gender: 3F
 Ability:
 
 Slander:
-Once during your main phase, whenever you play an ATTACK or BLACK non-delay tactics card targeting a single hero, you may choose a second hero who can also be targeted by your card. The second targeted hero chooses one of the following:
-1. Second target hero gives you a card and becomes the source for the card you have played.
-2. Second target also becomes the additional target to the card you have played.
-(If the source of the ATTACK changes for you, you are considered to not yet have played an ATTACK this turn.)
+Once during your main phase, whenever you play an ATTACK or BLACK non-delay tactics card targeting a single hero, you may choose a second hero who may also be targeted by your card. The second targeted hero chooses one of the following:
+1. The second targeted hero gives you a card and becomes the source for the card you have played.
+2. The second targeted also becomes the additional target to the card you have played.
+(If the source of the ATTACK changes from you, you are still considered to have played an ATTACK this turn and cannot play another ATTACK due to the ATTACK restriction limit.)
 
 Arrogant:
 Whenever you are dealt damage by a MALE hero, you may discard an equipment card and reduce that damage by 1.</cardDescription>
@@ -649,7 +655,7 @@ Ability:
 Recovery:
 When another target hero plays a card in response to a card you have played, you may give the card you played to that hero and take the card that hero played into your hand. (That hero cannot play the given card this turn.)
 
-(Upgrade)
+(Upgrade):
 When another target hero plays a card in response to a card you have played, you may take the card that hero played into your hand.
 
 Training:
@@ -772,14 +778,14 @@ Ability:
 Charm:
 At the beginning of another hero's main phase, you may have target hero gain the [CEASE] ability until the end of your turn. If you do, you are considered to be within the targeted hero's attack range.
 
-(Upgrade)
+(Upgrade):
 At the beginning of another hero's main phase, you may have target hero gain the [CEASE] ability until the end of your turn.
 
 Solemn:
 Once during a hero's main phase, you may discard a card and choose one:
 1. Discard a equipment from a targeted hero's equipment zone; then draw a card.
 2. Take an armor from a targeted hero's equipment zone.
-If the card you discarded to activate [SOLEMN] was an ATTACK or a BLACK tactics card, [CHARM] is upgraded until the beginning of your next turn.
+If the card you discarded to activate [SOLEMN] was an ATTACK or a BLACK tactics card, upgrade [CHARM] until the beginning of your next turn.
 
 [Cease]:
 After you play a tactics card, your tactics cards are treated as ATTACKs until the end of turn.

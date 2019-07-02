@@ -627,7 +627,7 @@ Health/Gender: 3M
 Ability:
 
 Creating Chaos:
-You may announce a basic card or non-delay tactics card name, then play a card from your hand as the named card. You cannot announce a card name you have already used for [CREATING CHAOS] for the rest of the game. After the card's effect is resolved, you target another hero and that hero chooses one of the following:
+You may announce a basic card or non-delay tactics card name, then play a card from your hand as the announced card. You cannot announce a card name you have already used with [CREATING CHAOS] during this game. After the announced card's effect is resolved, you target another hero and that hero chooses one of the following:
 1. The targeted hero gives you a card from their hand or equipment zone which is not the same type as the announced card.
 2. You lose 1 health and cannot use [CREATING CHAOS] for the rest of the turn.
 </cardDescription>
@@ -756,7 +756,7 @@ Once per a hero's main phase, you may give all the cards in your hand to a targe
 </cardDescription>
     </Card>    
     <Card>
-      <cardName>Zhang o</cardName>
+      <cardName>Zhang Bao</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -769,7 +769,7 @@ Ability:
 Curse:
 Once per a hero's main phase, you may attach a card from your hand as a [CURSE] onto another target hero with no [CURSE] card attached.
 When a hero with a [CURSE] card attach performs a judgement, the [CURSE] card is used as the judgement result. At the end of a hero's turn, any hero who used a [CURSE] as their judgement result loses 1 health.
-(No card is flipped from the library when performing a judgement for the hero with a [CURSE] attached, the [CURSE] card is immediately used as the judgement result. When you die, the attached [CURSE] card effects remain in play.
+(No card is flipped from the library when performing a judgement for the hero with a [CURSE] attached, the [CURSE] card is immediately used as the judgement result. When you are dead, the attached [CURSE] card effects remain in play.
 
 Shadow Soldier:
 When a hero with a [CURSE] card attached plays a card with the same suit as the [CURSE], you draw a card. If you draw 2 cards due to the effect of the same [CURSE] card, the [CURSE] card is remove from that hero.

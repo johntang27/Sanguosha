@@ -344,12 +344,12 @@ Ability:
 
 Reciprocation:
 Whenever you gain 2 cards from another hero, you may have that hero draw a card.
-Whenever you are dealt damage, for each damage, the source of damage chooses one of the following:
-1. Source of damage gives you a card from their hand.
-2. Source of damage loses 1 health.
+Whenever you are dealt damage, for each damage, you may have the source of damage choose one of the following:
+1. The source of damage gives you a card from their hand.
+2. The source of damage loses 1 health.
 
 Dazzle:
-During your drawing phase, you may skip your draw and target another hero to draw 2 cards; then that hero must play an ATTACK on another hero of your choice within their attack range. If that hero does not, you take 2 cards from their hand inot your hand.</cardDescription>
+During your drawing phase, you may skip your draw and target another hero to draw 2 cards; then that hero must play an ATTACK on another hero of your choice within their attack range. If that hero does not, you take 2 cards from their hand into your hand.</cardDescription>
     </Card>
     <Card>
       <cardName>Xu Shu</cardName>
@@ -607,7 +607,7 @@ Ability:
 Good Help:
 During the main phase, whenever a hero gains health, you may choose one:
 1. You draw a card.
-2. You choose another target hero to draw 2 cards.
+2. The hero that gained health draws 2 cards.
 
 Return Home: (Awakening Ability)
 At the beginning of your turn, if there is a hero with missing health that you have previously targeted with [GOOD HELP]; increase your max health by +1, gain 1 health, lose the [GOOD HELP] ability and gain the [WARRIOR PRINCESS] ability.
@@ -642,7 +642,7 @@ If your current health is 1, your DODGE are treated as ATTACK.
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: Shu Rations Officer
 
-Health/Gender:3M
+Health/Gender: 3M
 
 Ability:
 
@@ -661,16 +661,16 @@ During your discard phase, cards that were put into your hand this turn  count t
       <heroFaction>Red</heroFaction>
       <cardDescription>Title: The Trickery Eunuch
 
-Health/Gender:3M
+Health/Gender: 3M
 
 Ability:
 
 Emperor's Crony:
-At the end of your turn, you may target a hero who has the EMPEROR within their attack range; you discard a card from that hero's hand or equipment zone and then that hero draws a card. If he has more cards in their hand than the EMPEROR, you draw a card.
+At the end of your turn, you may target any number of heroes who has the EMPEROR within their attack range; you discard a card from each targeted hero's hand or equipment zone and then the targeted hero draws a card. Then draw a card for each targeted hero who more cards in their hand than the EMPEROR.
 
 Bribery:
-Once during each hero's turn, whenever you are dealt damage by another hero, you may reveal X cards in your hand and have that hero chooses one of the following:
-1. Target hero takes a revealed card and prevent the damage.
+Whenever you are dealt damage by another hero, you may reveal X cards in your hand and have that hero chooses one of the following:
+1. Target hero takes a revealed card or a equipment from your equipment zone, and then prevent the damage being dealt to you.
 2. Target hero discards X cards from their hand or equipment zone.</cardDescription>
     </Card>
 	<Card>

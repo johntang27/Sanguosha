@@ -636,7 +636,7 @@ Ability:
 Stranded:
 At the end of your turn, lose 1 health and draw 2 cards.
 
-(Upgrade)
+(Upgrade):
 At the end of your turn, you may lose 1 health and draw 2 cards.
 
 Meet the Light: (Awakening Ability)
@@ -746,8 +746,12 @@ Ability:
 
 Forging Edict:
 Once per main phase, you may reveal a card from your hand, and then target a hero with the closest physical range to you. That hero announces a basic card name. Until the end of your turn you may treat your revealed card as the announced card. (You cannot and will not be the target of the announced card.)
-Upgrade 1: Once per main phase, you may reveal a card from your hand, and then target a hero with the closest physical range to you. That hero announces a basic or non-delay tactics card name. Until the end of your turn you may treat your revealed card as the announced card. (You cannot be the target of the announced card.)
-Upgrade 2: Once per main phase, you may treat a card in your hand as any basic or non-delay tactics card. (You cannot be the target of the announced card)
+
+(Upgrade 1):
+Once per main phase, you may reveal a card from your hand, and then target a hero with the closest physical range to you. That hero announces a basic or non-delay tactics card name. Until the end of your turn you may treat your revealed card as the announced card. (You cannot be the target of the announced card.)
+
+(Upgrade 2):
+Once per main phase, you may treat a card in your hand as any basic or non-delay tactics card. (You cannot be the target of the announced card)
 
 Brain racking:
 Whenever you are dealt damage, you may draw a card or upgrade [FORGING EDICT]. (Max 2 times)</cardDescription>
@@ -960,7 +964,7 @@ Health/Gender: 4M
 Ability:
 
 Meritorious Service:
-After another hero dies, gain 1 unit of maximum health and gain 1 health.
+When another hero dies, gain 1 unit of maximum health and gain 1 health.
 
 Revolt: (Awakening Ability)
 At the beginning of your turn, if you are missing health and your maximum health amount is greater than the number of surviving heroes, draw cards until the amount of cards in your hand is equal your maximum health and you gain the [HEAVY] and [COLLAPSE] abilities.
