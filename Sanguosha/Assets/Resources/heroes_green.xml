@@ -274,11 +274,13 @@ Health/Gender: 4M
 Ability:
 
 Undying:
-Whenever you are on the brink of death, reveal a card from the top of the library; then if there are no [WOUND] cards with same rank attached to you, you gain 1 health and attach the revealed card as a [WOUND] card onto your hero. If there is a [WOUND] card with the same rank as your revealed card, discard the revealed card into the graveyard and return to resolving your brink of death phase.
+Whenever you are on the brink of death, reveal a card from the top of the library; then if there are no [WOUND] cards with same rank attached to you, you return 1 health and attach the revealed card as a [WOUND] card onto your hero. If there is a [WOUND] card with the same rank as your revealed card, discard the revealed card into the graveyard and return to resolving your brink of death phase.
 If you have any [WOUND] cards attached to your hero, your hand size limit becomes equal to the number of [WOUND] cards attached to your hero.
+(You must activate this ability before being able to ask other players to play a PEACH for you.)
 
 Inspire:
-Whenever a hero discards a card or has a card taken by another hero, you may lose 1 life. If you do, the hero that discarded cards draws 2 cards.
+Whenever a hero has a card from their hand discarded or taken by another hero, you may lose 1 life. If you do, the hero that lost cards draws 2 cards.
+(You cannot activate this ability in response to a hero discarding cards from their own ability, but you can when a targeted hero is forced to discard due to another hero's ability. You may activate this ability per instance, even though a hero may be discarding more than 1 card at a time. You are allowed to target yourself with this ability as well.)
 </cardDescription>
     </Card>
     <Card>
