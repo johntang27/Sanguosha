@@ -698,7 +698,8 @@ If the result is BLACK, that hero draws X cards and you cannot use [RANK DETERMN
 If the result is RED, you filp your hero card.
 
 Justice and Mercy:
-Whenever a hero is flipped or chained, you may let that hero draw a card.</cardDescription>
+Whenever a hero is flipped or chained, you may let that hero draw a card.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Xiu</cardName>
@@ -717,7 +718,8 @@ The physical range you see other heroes is reduced by X. (X is your missing heal
 Flanking:
 Whenever your ATTACK deals damage to a target hero, if you have a weapon equipped, you may ask that hero to choose one:
 1. Discard X cards from their hand (X is the attack range of the weapon), then you discard the weapon card.
-2. Increase the damage of this ATTACK by +1.</cardDescription>
+2. Increase the damage of this ATTACK by +1.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zhong Yao</cardName>
@@ -731,10 +733,12 @@ Health/Gender: 3M
 Ability:
 
 Calligraphy Master:
-Whenever you want to play a basic card, you may put a BLACK non-basic card on top of the library; you may name a basic card and this is treated as you playing the named card. (You cannot use this ability to play a card you've already played previously this turn)
+Whenever you want to play a basic card, you may put a BLACK non-basic card on top of the library; you may name a basic card and this is treated as you playing the named card.
+(You cannot use this ability to play a card you have already played this turn.)
 
 Formulate:
-Whenever a hero plays a BLACK card targeting at least one hero during their main phase, you may let one of the targets draw a card.</cardDescription>
+Whenever another hero plays a BLACK card targeting at least one hero during their main phase, if no hero is dealt damage by that card, you may choose one of the targeted heroes to draw a card.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Empress Guo</cardName>
@@ -757,7 +761,8 @@ Once per main phase, you may reveal a card from your hand, and then target a her
 Once per main phase, you may treat a card in your hand as any basic or non-delay tactics card. (You cannot be the target of the announced card)
 
 Brain racking:
-Whenever you are dealt damage, you may draw a card or upgrade [FORGING EDICT]. (Max 2 times)</cardDescription>
+Whenever you are dealt damage, you may draw a card or upgrade [FORGING EDICT]. (Max 2 times)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Sun Zi &amp; Liu Fang</cardName>
@@ -774,7 +779,8 @@ Bluffing:
 During your discard phase, if you have discarded at least 2 cards with different suits, you may gain 1 health or draw a card.
 
 Flattery:
-Once during each hero's main phase, if you have a card that you can play in your hand, you may target a hero and that hero discards a card from their hand, then you cannot play a card with the same suit as the discarded card for the rest of this turn. If the discarded card is a SPADES suit, you flip your hero card and lose 1 health.</cardDescription>
+Once during each hero's main phase, if you have a card that you can play in your hand, you may target a hero and that hero discards a card from their hand, then you cannot play a card with the same suit as the discarded card for the rest of this turn. If the discarded card is a SPADES suit, you flip your hero card and lose 1 health.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Li Dian</cardName>
