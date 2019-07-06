@@ -812,7 +812,7 @@ At the end of each hero's turn, you may draw 3 cards for each hero you have kill
 </cardDescription>
     </Card>    
     <Card>
-      <cardName>Yellow Turn Rebels</cardName>
+      <cardName>Yellow Turban Rebels</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -957,7 +957,7 @@ At the beginning of your main phase, you may reveal the cards in your hand; if y
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Dong i</cardName>
+      <cardName>Dong Bai</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -995,7 +995,7 @@ Whenever your ATTACK or BLACK non-delay tactics card targets any heroes, if the 
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Yan i Hu</cardName>
+      <cardName>Yan Bai Hu</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
