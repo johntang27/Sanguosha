@@ -13,7 +13,7 @@ Health/Gender:3M
 Ability:
 
 Look Through:
-At the beginning of your draw phase, you may skip your draw phase to reveal 5 cards from teh top of the deck, then take 1 card of each suit.
+At the beginning of your draw phase, you may skip your draw phase to reveal 5 cards from the top of the deck, then take 1 card of each suit.
 
 Strike at the Heart:
 Once during your main phase, you may choose another target hero and look at the cards in their hand, then reveal a HEARTS suited card and choose one:
@@ -134,7 +134,7 @@ Strong Gale:
 At the end of your turn, you may discard a [STAR] and choose a target hero. Until the beginning of your next turn, all FIRE damage dealt to that hero is increased by +1.
 
 Heavy Shroud:
-At the end of your turn, you may discard any number of [STARS] and choose X target heroes. Until the beginning of your next turn, all damage except LIHGNTING damage is prevented for the targeted heroes .
+At the end of your turn, you may discard any number of [STARS] and choose X target heroes. Until the beginning of your next turn, all damage except LIHGNTING damage is prevented for the targeted heroes.
 (X is the number of discarded [STARS].)
 </cardDescription>
     </Card>
@@ -171,7 +171,7 @@ Ability:
 
 Homage:
 Whenever you are dealt damage, for each damage recieved, you may randomly take a card from each hero. Then flip your hero.
-(You are allowed to take cards from the hand, judgement zone, or equipment zone of a hero. You name the area you want to take a card from and a card is randomly selected from that area.)
+(You are allowed to take cards from their hand, judgement zone, or equipment zone of a hero. You name the area you want to take a card from and a card is randomly selected from that area.)
 
 Flying Shadow:
 The physical range other heroes see you is increased by +1.
