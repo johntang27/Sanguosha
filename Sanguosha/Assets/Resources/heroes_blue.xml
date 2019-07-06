@@ -63,6 +63,7 @@ Once per a hero's main phase, you may give all cards in your hand to another her
 
 Boom and Bust: (Emperor Ability, Limited Ability)
 When you are on brink of death, you may ask every other WEI faction hero in sequence to allow you to gain 1 health until every hero has respond. If they chose to have you gain health, they receive 1 damage after resolving this effect.
+(You must choose to activate this ability before proceeding to resolve the Brink of Death state.)
 </cardDescription>
     </Card>
     <Card>
@@ -456,13 +457,13 @@ Ability:
 
 Ambition:
 Whenever you are dealt damage, for each point of damage you receive, you draw a card, then choose a card from you hand and attach it face up to your hero as a [POWER].
-You hand size is increased by X. (X is the number of [POWER] attached to you)
+You hand size is increased by X. (X is the number of [POWER] cards attached to you.)
 
 Insurrection: (Awakening Ability)
-At the beginning of your turn, if you have 3 or more [POWER], you gain 1 health or draw 2 cards, then reduce your max health by 1 and gain [ERADICATE].
+At the beginning of your turn, if you have 3 or more [POWER] cards attached, you gain 1 health or draw 2 cards, then reduce your max health by 1 and gain [ERADICATE].
 
 [Eradicate]:
-Once during your main phase, you may discard a [POWER] and target a hero, that hero draws 2 cards. If the number of cards in the hero's hand is greater than yours, you deal 1 damage to him.
+Once during your main phase, you may discard a [POWER] card and target a hero, that hero draws 2 cards. If the number of cards in the hero's hand is greater than yours, you deal 1 damage to him.
 </cardDescription>
     </Card>
     <Card>

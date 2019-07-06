@@ -881,12 +881,12 @@ Health/Gender: 15M
 Ability:
 
 Burning in War:
-Whenever you are dealt FIRE damage, you gain a [BURN].
+Whenever you are dealt FIRE damage, you gain a [BURN] token.
 At the end of your turn, you lose X health.
-(X is the number of [BURNS] you have.)
+(X is the number of [BURN] tokens you have.)
 
 Fierce and Valiant:
-Whenever you play HAIL OF ARROWS or RRIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
+Whenever you play HAIL OF ARROWS or BARBARIAN ASSAULT, if you current health is less than the number of the current round; you may increase the damage by +1.
 </cardDescription>
     </Card>
     <Card>
@@ -982,7 +982,7 @@ Your black cards do not count towards you max hand size limit. BLACK cards you g
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Northern rrian King
+      <cardDescription>Title: Northern Barbarian King
       
 Health/Gender: 4M
 
@@ -1036,7 +1036,7 @@ If you are the hero with the highest number of cards in your hand, the damage yo
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Father of Diao Chan
+      <cardDescription>Title: Minister of the Interior
       
 Health/Gender: 4M
 
@@ -1046,7 +1046,7 @@ Continuios Calculations:
 Once during each hero's main phase, you may give an ATTACK or a BLACK tactics card to another target hero; the target hero equips a random weapon from the library and then chooses one:
 1. The targeted hero uses the given card on another hero, then the targeted hero gives their equipped weapon to one of the heroes that were targeted by the used card.
 2. Treat this as you using the given card on the targeted hero, then the targeted hero gives you the weapon.
-(Both you and the targeted hero must be able to completely fullfill either options, cards that cannot completely fullfill the options are illegal to use with this ability. Cards that are illegal to use are RRIAN ASSAULT, IMPECCABLE PLAN, and LIGHTNING BOLT. Cards that are potentially illegal due to some restrictions are ATTACK, DURESS, and RATIONS DEPLETED.)
+(Both you and the targeted hero must be able to completely fullfill either options, cards that cannot completely fullfill the options are illegal to use with this ability. Cards that are illegal to use are BARBARIAN ASSAULT, IMPECCABLE PLAN, and LIGHTNING BOLT. Cards that are potentially illegal due to some restrictions are ATTACK, DURESS, and RATIONS DEPLETED.)
 
 Carry Out Scheme: (Awakening Ability)
 Whenever another hero has accumulatively dealt 3 or more damage by using cards received from [CONTINUIOUS CALCULATIONS], you lose the [CONTINUIOUS CALCULATIONS] ability and gain the [BOAST] ability.
@@ -1054,7 +1054,7 @@ Whenever another hero has accumulatively dealt 3 or more damage by using cards r
 [Boast]:
 Once during your main phase, you may play 1 equipment or ATTACK as a random tactics card. At the end of the turn, if you did not deal damage, you lose 1 health.
 Roll a 20-sided dice to see which tactics card is randomly chosen:
-1. RRIAN ASSAULT
+1. BARARIAN ASSAULT
 2. HAIL OF ARROWS
 3. OATH OF PEACH GARDEN
 4. HARVEST

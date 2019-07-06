@@ -27,7 +27,7 @@ Once during your main phase, you may choose another target hero and look at the 
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>God</heroFaction>
-      <cardDescription>Title: The Return of the Divine Spirit
+      <cardDescription>Title: The Divinity of War
 
 Health/Gender: 5M
 
@@ -189,19 +189,19 @@ Health/Gender: 5M
 Ability:
 
 Violent Rage:
-At the beginning of the game, you gain 2 [RAGE].
-Whenever you deal or is dealt damage, you gain 1 [RAGE]. 
+At the beginning of the game, you gain 2 [RAGE] tokens.
+Whenever you deal or is dealt damage, you gain 1 [RAGE] token.
 
 Simpleton:
 Whenever you play a non-delay tactics card, choose one:
-1. Remove 1 [RAGE].
-2. Lose 1 health.
+1. You discard 1 [RAGE] token.
+2. You lose 1 health.
 
 Unprecedented:
-During your main phase, you may removed 2 [RAGE] and choose a target hero, you ignore the effects of any armor equipped by the targeted hero and gain [MATCHLESS] until the end of turn.
+During your main phase, you may removed 2 [RAGE] tokens and choose a target hero, you ignore the effects of any armor equipped by the targeted hero and gain [MATCHLESS] until the end of turn.
 
 Asura's Fury:
-Once during your main phase, you may removed 6 [RAGE], then all other heroes are dealt 1 damage, discard all equipments, and discard 4 cards from their hand.
+Once during your main phase, you may removed 6 [RAGE] tokens, then all other heroes are dealt 1 damage, discard all equipments, and discard 4 cards from their hand.
 Then flip your hero card.
 
 [Matchless]:

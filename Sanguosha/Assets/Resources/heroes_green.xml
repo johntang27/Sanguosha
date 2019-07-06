@@ -431,7 +431,7 @@ Whenever you play an ATTACK, you may treat it as a FIRE ATTACK. If this FIRE ATT
 This FIRE ATTACK may target an additional hero.
 
 Superior Vintage:
-At the end of your turn, if you have no [VINTAGE] cards attached to your hero card, you may attach any number of ATTACK cards onto your hero as [VINTAGE]. Whenever a hero is on the brink of death, you may discard a [VINTAGE]; this is treated as that hero playing a WINE.</cardDescription>
+At the end of your turn, if you have no [VINTAGE] cards attached to your hero card, you may attach any number of ATTACK cards onto your hero as [VINTAGE]. Whenever a hero is on the brink of death, you may discard a [VINTAGE] card; this is treated as that hero playing a WINE.</cardDescription>
     </Card>
     <Card>
       <cardName>Han Dang</cardName>
@@ -607,7 +607,7 @@ Health/Gender: 4M
 Ability:
 
 Rectify:
-Once during your main phase, you may target another hero. That hero may attach up to 3 cards (At least 1.) from his hand or equipment zone onto your hero face down as [RECTIFICATION]. If he does, at the beginning of your next turn, you take all [RECTIFICATION] cards attached to you into your hand and the target hero draws the amount of [RECTIFICATON] cards you have recieved.</cardDescription>
+Once during your main phase, you may target another hero. That hero may attach up to 3 cards (At least 1.) from his hand or equipment zone onto your hero face down as [RECTIFICATION] cards. If he does, at the beginning of your next turn, you take all [RECTIFICATION] cards attached to you into your hand and the target hero draws the amount of [RECTIFICATON] cards you have recieved.</cardDescription>
     </Card>
     <Card>
       <cardName>Cen Hun</cardName>
