@@ -123,6 +123,7 @@ MonoBehaviour:
   cardImage: {fileID: 114558711109808830}
   cardData:
     cardName: 
+    portraitOverride: 
     cardType: 0
     heroFaction: 0
     cardDescription: 
