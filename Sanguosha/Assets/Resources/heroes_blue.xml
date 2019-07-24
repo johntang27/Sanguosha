@@ -78,10 +78,10 @@ Health/Gender: 3M
 Ability:
 
 Retaliation:
-Whenever you are dealt damage, for each point of damage recieved, you may take 1 card from hand or equipment zone of the source of damage.
+Whenever you are dealt damage, for each point of damage recieved, you may take 1 card from the hand or equipment zone of the source of damage.
 
 Demonic Talent:
-Whenever a hero performs a judgement, you may replace the judgement card with a card from your hand. The judgement is resolved with the new card.
+Whenever a hero performs a judgement, you may replace the judgement card with a card from your hand or equipment zone. The judgement is resolved with the new card.
 (You do not take the initial judgement card into you hand.)
 </cardDescription>
     </Card>
@@ -854,7 +854,8 @@ Have Your Cake:
 Whenever you become the target of a tactics card and you are not the only target, you may immediately draw a card; then ignore the effects of the tactics card.
 
 The Wishing Bone:
-Whenever you are dealt damage, you may announce a card type. The source of damage cannot play or discard cards that share the same typing as the announced card for the rest of the turn. </cardDescription>
+Whenever you are dealt damage, you may announce a card type. The source of damage cannot play or discard cards that share the same typing as the announced card for the rest of the turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Chen Lin</cardName>
@@ -873,7 +874,8 @@ At the end of your turn you may attach a card from your hand face down on anothe
 2. Removed the [PEN] card attached to their hero, then lose 1 health.
 
 Eulogize:
-During your main phase, you may target a hero. If the amount of cards in the targeted hero's hand is greater than their current health, they discard 2 cards. If their current health is greather than the amount of cards in their hand, they draw 2 cards. You may only target each hero once per game. </cardDescription>
+During your main phase, you may target a hero. If the amount of cards in the targeted hero's hand is greater than their current health, they discard 2 cards. If their current health is greather than the amount of cards in their hand, they draw 2 cards. You may only target each hero once per game.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Cao Ang</cardName>
@@ -887,7 +889,8 @@ Health/Gender: 4M
 Ability:
 
 Generous Anger:
-Whenever a hero becomes the target of an ATTACK, if the physical distance between you and the targeted hero is 1, you may draw a card, then reveal a card from your hand and give it to that hero. If the revealed card is an equipement, the targeted hero may equip it immediately. </cardDescription>
+Whenever a hero becomes the target of an ATTACK, if the physical distance between you and the targeted hero is 1, you may draw a card, then reveal a card from your hand and give it to that hero. If the revealed card is an equipement, the targeted hero may equip it immediately.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Yue Jin</cardName>
@@ -901,9 +904,10 @@ Health/Gender: 4M
 Ability:
 
 Brave and Resolute:
-At the end of another hero's turn, you may discard a basic card and have that hero choose one:
+Once during the end of each other hero's turn, you may discard a basic card and have that hero choose one:
 1. The targeted hero discards a card and have you draw a card.
-2. You deal 1 damage to the targeted hero. </cardDescription>
+2. You deal 1 damage to the targeted hero.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Cheng Yu</cardName>
@@ -924,7 +928,8 @@ During another hero's turn, when a hero plays a card, you may remove an [AMBUSH]
 Fertility:
 Whenever you are dealt damage, you may choose one:
 1. Draw cards until you have X cards in hand. (X is the amount of cards the source of damage has in their hand. Max of 5.)
-2. Discard at least X+1 cards, then deal 1 damage to the source of damage. (X is the amount of cards the source of damage has in their hand.) </cardDescription>
+2. Discard at least X+1 cards, then deal 1 damage to the source of damage. (X is the amount of cards the source of damage has in their hand.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Si Ma Lang</cardName>
@@ -942,7 +947,8 @@ At the end of a hero's turn, if the amount of cards in their hand is less than 2
 
 Rid the Sickness:
 Once per a hero's main phase, you may discard X cards and target up to X heros to gain 1 health. If any of the discarded cards were BLACK, you lose 1 health.
-(X is the amount of your missing health.) </cardDescription>
+(X is the amount of your missing health.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Wen Ping</cardName>
@@ -959,7 +965,8 @@ Town Guardian:
 Whenever another hero becomes the only target of an ATTACK or a BLACK tactics card, if their health is less than your health; you may discard a card and choose one:
 1. Draw a card, then become the target instead.
 2. Cancel the effects of the card. Then return the card back to the hand of the hero who has used it at the end of turn.
-(If for some reason you cannot correctly be the target, you must choose option 2. For example, you do not have a weapon equipped and want to be the attacker for a Duress.)</cardDescription>
+(If for some reason you cannot correctly be the target, you must choose option 2. For example, you do not have a weapon equipped and want to be the attacker for a Duress.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zhuge Dan</cardName>
@@ -982,7 +989,8 @@ At the beginning of your turn, if you are missing health and your maximum health
 Whenever your maximum health amount changes, draw a card.
 
 [Collapse]:
-At the end of your turn, if you are not the hero with lowest current health, you must either lose 1 health or lose 1 unit of maximum health. </cardDescription>
+At the end of your turn, if you are not the hero with lowest current health, you must either lose 1 health or lose 1 unit of maximum health.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Wang Ji</cardName>
@@ -1001,7 +1009,8 @@ During your main phase, whenever you target a hero with a basic or tactics card,
 
 Hasten Advance:
 At the end of your turn, you may draw 2 cards; then discard cards from your hand until you have X.
-(X is the number of times you've activated ASTONISHING CONTROL this turn.) </cardDescription>
+(X is the number of times you've activated ASTONISHING CONTROL this turn.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Wang Lang</cardName>
@@ -1087,7 +1096,8 @@ Once during your main phase, you may reveal 1 card from your hand, then choose a
 Ability and Insight:
 At the beginning of your draw phase, you may choose one:
 1. Your hand size limit is increased by +1 for the rest of the game; and you cannot play cards targeting other heroes until the end of turn.
-2. Gain 1 health and you cannot play cards on yourself until the end of turn.</cardDescription>
+2. Gain 1 health and you cannot play cards on yourself until the end of turn.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Ji Kang</cardName>
@@ -1113,7 +1123,8 @@ If the equipment card played or discarded was CLUBS suited, you draw a card.
 
 Silence:
 When you are dead, you may choose a target hero to randomly gain a ability from [HARMONIZING CHORD MANUSCRIPT]. Until the beginning of that hero's next turn, that hero cannot be the target of CLUBS suited cards.
-(Assign a suit to each ability on [HARMONIZING CHORD MANUSCRIPT], then reveal a card from the library to determine the ability being gained.) </cardDescription>
+(Assign a suit to each ability on [HARMONIZING CHORD MANUSCRIPT], then reveal a card from the library to determine the ability being gained.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Harmonizing Chords Manuscript</cardName>
@@ -1136,7 +1147,8 @@ Whenever you are dealt damage, you may have the source of damage gain 1 health a
 Harmonious Chord:
 Whenever you gain health, you may choose another target hero to gain 1 health and discard an equipment.
 
-(Draw until an equipment is reveal, then return the rest of the cards back and shuffle the library)</cardDescription>
+(Draw until an equipment is reveal, then return the rest of the cards back and shuffle the library.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Xi Zhi Cai</cardName>
@@ -1209,7 +1221,7 @@ Health/Gender: 3M
 Ability:
 
 Clear Devotion:
-During your main phase, you may draw 2 cards, if you do, at the end of your turn, you switch hands with teh hero with the lowest amout of cards in their hand.
+During your main phase, you may draw 2 cards, if you do, at the end of your turn, you switch hands with the hero with the lowest amout of cards in their hand.
 
 Defend the Border:
 Once during each hero's turn, whenever you need to play a ATTACK or a DODGE in response to an effect, you may announce that you play an ATTACK or DODGE and treat it as so.
@@ -1226,7 +1238,7 @@ Health/Gender: 4F
 
 Ability:
 
-Acend Above Others:
+Ascend Above Others:
 Once during your main phase, after targeting a hero with an ATTACK or tactics card that deals damage, you may choose a targeted hero and make 3 guesses whether the hero has any combination of the 3 card types.
 (Your guesses have to be binary, for example: If the targeted hero has a basic card or not. If the targeted hero has a tactics card or not, If the targeted hero has an equipment card or not.)
 

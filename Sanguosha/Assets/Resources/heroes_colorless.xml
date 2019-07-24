@@ -262,7 +262,7 @@ Dragon Courage:
 You may play or discard ATTACK cards as DODGE or vice versa.
 
 Pierce the Formation:
-Whenever you activate [DRAGON COURAGE], you may immediately take a card from the hand of the targeted hero.
+Whenever you activate [DRAGON COURAGE], you may immediately take a card from the hand of the targeted hero who made you activate [DRAGON COURAGE].
 </cardDescription>
     </Card>
     <Card>
@@ -874,7 +874,7 @@ Then decrease your physical range with other heroes by -1.
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Love's Dying Dream
+      <cardDescription>Title: The Fire Does Not Invade
       
 Health/Gender: 15M
 

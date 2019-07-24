@@ -1047,12 +1047,21 @@ Once per game, whenever you play a basic card, if you have already used [PRAISE]
 	  <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
-      <cardDescription>Title: Commanding the Flowing Winds
+      <cardDescription>Title: Flower Passing
 
 Health/Gender: 3F
 
 Ability:
 
+Martial Mistress:
+Whenever you use an ATTACK, you may take a card from the hand or equipment zone of a target hero; then the targeted hero draws a card. If Guan Sou is present in the game, he also draws a card.
+
+Promise of Love:
+Whenever you are brought back from the brink of death by another target male hero, if Guan Sou is not present in the game, the targeted male hero may choose to replace their current hero with Guan Sou and have you gain 1 health; then you gain the [GUARDING THE SOUTH] ability.
+
+[Guarding the South]:
+Whenever you are targeted by BARBARIAN ASSAULT, you may deal X damage to a target hero.
+(If your current health is 3, X is 1. If current health is 2, X is 2. If current health is 1, X is 3. The damage being dealt by this ability does not have an elemental type.)
 </cardDescription>
     </Card>
   </CardData>
