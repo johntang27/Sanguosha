@@ -13,12 +13,14 @@ Health/Gender: 4M
 Ability:
 
 Kindness:
-During your main phase, you may give any number of cards from your hand to a target hero that you have not targeted with this ability.
-When you have given out a second card to a target hero, treat this as playing a basic card.
-(You name the basic card you want to play.)
+During your main phase, you may give any number of cards from your hand to a target hero that you have not targeted with this ability this turn.
+Once during your turn, if you have given out more than 1 card this turn, treat this as playing a basic card of your choice.
+(You name the basic card you want to play and it is immediately resolve.)
 
 Rouse: (Emperor Ability)
-Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.</cardDescription>
+Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.
+(You cannot use this ability to activate the effect on HEAVEN HALBERD when you have no cards in your hand.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Liu Shan</cardName>
