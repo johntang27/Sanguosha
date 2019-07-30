@@ -816,7 +816,7 @@ At the end of each hero's turn, you may draw 3 cards for each hero you have kill
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Thunder Festival's Pretty Women
+      <cardDescription>Title: Thunder Festival Beauties
       
 Health/Gender: 3F
 
@@ -852,7 +852,7 @@ Whenever your ATTACK deals damage to a target hero, you may choose one:
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Love's Dying Dream
+      <cardDescription>Title: A Formidable Southern Leader
       
 Health/Gender: 3M
 
@@ -860,13 +860,14 @@ Ability:
 
 Seek Refudge from War:
 At the beginning of your draw phase, if you are at 1 physical range with another hero, you may skip your draw phase. If you do, your physical range with other heroes is increased by +X.
-(X is the number of factions in play.)
+(X is the number of factions in play. The change in physical range is permanent for the rest of the game.)
 
 Under Ritual:
 At the end of another hero's turn, if you are not within the attack range of that hero, you may choose one:
 1. You draw a card.
 2. The target hero draws a card.
-Then decrease your physical range with other heroes by -1. 
+Then decrease your physical range with other heroes by -1.
+(The change in physical range is permanent for the rest of the game.) 
 </cardDescription>
     </Card>
     <Card>
