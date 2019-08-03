@@ -32,7 +32,7 @@ Health/Gender: 3M
 Ability:
 
 Unnatural Death:
-When a hero dies, you may take all the cards owned by that hero into your hand.
+Whenever a hero dies, you may take all the cards owned by that hero into your hand.
 (This happens before revealing their role card.)
 
 Banish to Exile:
@@ -980,7 +980,7 @@ Health/Gender: 4M
 Ability:
 
 Meritorious Service:
-When another hero dies, gain 1 unit of maximum health and gain 1 health.
+Whenever another hero dies, gain 1 unit of maximum health and gain 1 health.
 
 Revolt: (Awakening Ability)
 At the beginning of your turn, if you are missing health and your maximum health amount is greater than the number of surviving heroes, draw cards until the amount of cards in your hand is equal your maximum health and you gain the [HEAVY] and [COLLAPSE] abilities.
