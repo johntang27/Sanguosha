@@ -1008,7 +1008,7 @@ Ability:
 
 Robbery:
 During your action phase, the first time you deal damage to another hero, you take a card from each equipment zone and judgement zone of that target hero. You cannot target any other heroes until the end of the turn.
-(You are only able to target yourself after activating this ability. This ability does not activate if you kill the hero you are targetin or when targeting a hero with no equipment or judgement cards in play for you to take.)
+(You are only able to target yourself after activating this ability. This ability does not activate if you kill the hero you are targeting or when targeting a hero with no equipment or judgement cards in play for you to take.)
 
 Lodge:
 Whenever another hero becomes the target of a RED basic or non-delay tactics card, if you are within 1 physical range of that hero and you are not the source of the card being played; you also become the target of the card.
@@ -1206,6 +1206,68 @@ Then attach the judgement result to your hero as a [SQAURE].
 
 Unifying Power:
 At the end of your turn, you may discard a card and/or discard any number of [SQUARE] cards. If the sum of all the discarded cards is 36, you choose a target hero to deal 3 LIGHTNING damage to.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>He Jin</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Outwardly Strength Inwardly Weak
+      
+Health/Gender: 4M
+
+Ability:
+
+Punishment Scheme:
+Once during your main phase, you may target another hero with cards in their hand to give you a card from their hand. If the number of cards in the targeted hero's hand is less than the number of cards in your hand, the targeted hero chooses one of the following:
+1. The targeted hero is considered to play an ATTACK targeting you.
+2. The targeted hero is considered to play a DUEL targeting you.
+(The DUEL that the targeted hero is considered to play can still be cancelled with an IMPECCABLE PLAN.)
+
+Buying Time:
+When you are dead, you may choose a target hero and discard X cards from the targeted hero. X is the number of cards you had in your hand and equipment zone.
+(You choose which cards to discard from the targeted hero. Cards that are attached to your hero or to your equipment do not count towards X.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ma Teng</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Outwardly Strength Inwardly Weak
+      
+Health/Gender: 4M
+
+Ability:
+
+Punishment Scheme:
+Once during your main phase, you may target another hero with cards in their hand to give you a card from their hand. If the number of cards in the targeted hero's hand is less than the number of cards in your hand, the targeted hero chooses one of the following:
+1. The targeted hero is considered to play an ATTACK targeting you.
+2. The targeted hero is considered to play a DUEL targeting you.
+(The DUEL that the targeted hero is considered to play can still be cancelled with an IMPECCABLE PLAN.)
+
+Buying Time:
+When you are dead, you may choose a target hero and discard X cards from the targeted hero. X is the number of cards you had in your hand and equipment zone.
+(You choose which cards to discard from the targeted hero. Cards that are attached to your hero or to your equipment do not count towards X.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Han Sui</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Forcefully Occupying the West
+      
+Health/Gender: 4M
+
+Ability:
+
+Countering Chaos:
+At the end of another hero's turn, if the target hero has more current health than you, or has played an ATTACK targeting you this turn, you may discard a BLACK card and treat it as an ATTACK towards that hero.
+
+Horsemanship:
+The physical range you see other heroes is reduced by 1.
 </cardDescription>
     </Card>
 	</CardData>

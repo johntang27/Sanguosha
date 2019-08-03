@@ -1258,5 +1258,24 @@ When a hero dies, you may take all cards owned by that hero into your hand.
 (This happens before revealing the role)
 </cardDescription>
     </Card>
+    <Card>
+      <cardName>Niu Jin</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: One of a Kind Soldier
+
+Health/Gender: 4M
+
+Ability:
+
+Sharp Setback: (Limited Ability)
+Once per game, at the beginning of your turn, you may draw 3 cards and then skip your judgement phase.
+
+Unbroken:
+Whenever you kill another hero, you may draw 3 cards.
+(This ability activates after the role is revealed.)
+</cardDescription>
+    </Card>
   </CardData>
 </CardDataCollection>
