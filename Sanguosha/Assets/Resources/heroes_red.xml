@@ -197,7 +197,8 @@ Whenever you play an ATTACK, you may target a hero whose range between you and t
 
 Whenever you target a hero with an ATTACK:
 1. If the number of cards in that hero's hand is less than or equal to your's, this ATTACK cannot be cancelled by DODGE.
-2. If the target hero's current health is greater than or equal to your health, this ATTACK deals 1 additional damage.</cardDescription>
+2. If the target hero's current health is greater than or equal to your health, this ATTACK deals 1 additional damage.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Wei Yan</cardName>
@@ -537,7 +538,7 @@ Ability:
 
 Loyalty and Bravery:
 After your ATTACK is resolved, you may give the ATTACK you played or the DODGE played by the defender to another target hero. (Other than yourself and the defender.)
-If the card you give to the targeted hero is RED, the targeted hero who received the RED card may play an ATTACK targeting a hero within your attack range.
+If the card you give to the targeted hero is RED, the targeted hero who received the RED card may play an ATTACK targeting a hero within your attack range immediately.
 </cardDescription>
     </Card>
     <Card>

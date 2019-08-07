@@ -15,8 +15,9 @@ Ability:
 Balance of Power:
 Once during your main phase, you may discard any number of cards from your hand and equipment zone; then draw that same amount of cards.
 
-Rescue: (Emperor Ability)
-Whenever you are on the brink of death and a WU faction hero uses a PEACH on you, you gain 2 health instead of 1.</cardDescription>
+Rescued: (Emperor Ability)
+Whenever you are on the brink of death and a WU faction hero uses a PEACH on you, you gain 2 health instead of 1.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Sun Ce</cardName>
@@ -538,8 +539,15 @@ Health/Gender: 4M
 
 Ability:
 
-Feint:
-At the end of your turn, you may have target hero discard a card from your hand or equipment zone, if the discarded card is not an ATTACK card, you may take a card from his hand, equipment or judgment zone into your hand.</cardDescription>
+Hard Work:
+If you are the hero with the highest number of cards in your hand, you may skip your draw phase.
+If you are the hero with the highest amount of current health, you may skip your main phase.
+If you are the hero with the highest number of equipments in your equipment zone, you may skip your discard phase.
+
+Suppressing Bandits:
+At the end of your turn, you may deal 1 damage to up to X target heroes.
+(X is the number of phases you have skipped this turn. You cannot do multiple damage to the same hero.)
+</cardDescription>
     </Card>
     <Card>
       <cardName>Gu Yong</cardName>
@@ -830,7 +838,7 @@ Ability:
 
 Leading the Troops:
 At the end of your turn, you may attach any number of non-basic cards face up onto your hero as a [VANGUARD]. Whenever you are dealt damage by an ATTACK or DUEL, remove a [VANGUARD].
-(You may choose which [VANGUARD] card to be removed from you.)
+(You may choose which [VANGUARD] card to be removed from yourself.)
 
 Danger Zone:
 At the beginning of your turn, you choose one:
