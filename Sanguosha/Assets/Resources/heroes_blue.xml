@@ -17,7 +17,7 @@ Whenever you are dealt damage by a card effect, you may draw a card from the lib
 (You may only activate this abilty per each instance of damage.)
 
 Escort: (Emperor Ability)
-Whenever you need to play or discard a DODGE, you may ask each other WEI faction hero to play or discard a DODGE for you, then it is treated as you playing the DODGE.
+Whenever you need to play or discard a DODGE, you may ask each WEI faction hero to play or discard a DODGE for you, then it is treated as you playing the DODGE.
 </cardDescription>
     </Card>
     <Card>
@@ -305,8 +305,10 @@ Health/Gender: 4M
 Ability:
 
 Blockade:
-During your main phase, you may play BLACK basic or equipment cards as RATIONS DEPLETED.
-You may play RATIONS DEPLETED on heroes within a physical range of 2 from you.
+During your main phase, you may play BLACK cards from your hand or equipment zoner as a RATIONS DEPLETED. If a hero has greater or equal cards in their hand than you, you may ignore the range restriction on RATIONS DEPLETED for that hero.
+
+Rations Hijack:
+Whenever another target hero skips their draw phase, you may draw a card.
 </cardDescription>
     </Card>
     <Card>
@@ -385,9 +387,26 @@ Health/Gender: 4M
 Ability:
 
 Commander:
-At the beginning of your turn, you may target a hero with an amount of cards in their hand greater than their current health and discard X cards from their hand or equipment zone (X is the difference between the cards in their hand and their current health), then you choose one of the following:
-1. For each non-equipment card discarded, you must discard a card from your hand or equipment zone.
+At the beginning of your turn, you may target a hero with an amount of cards in their hand greater than their current health and discard X cards from their hand or equipment zone, then you choose one of the following:
+1. For each non-equipment card discarded, you discard a card from the targeted hero's hand or equipment zone.
 2. The targeted hero draws X cards.
+(X is the difference between the cards in their hand and their current health)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yu Jin</cardName>
+	  <portraitOverride>Yu Jin02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Seiging the Stronghold
+
+Health/Gender: 4M
+
+Ability:
+
+Ceremonial Axe:
+At the end of your turn, you may discard a card from your hand and choose a target hero. The targeted hero discards a card or attaches a card onto your hero as an [AXE]. If there is an [AXE] card attached to you, you may use RED cards as DODGES and BLACK cards as IMPECCABLE PLAN.
+At the beginning of your turn, you take the [AXE] card into your hand.
 </cardDescription>
     </Card>
     <Card>
@@ -661,7 +680,7 @@ Health/Gender: 4M
 Ability:
 
 Defense Minister:
-At the beginning of each other hero's main phase, you may discard a card from your hand with same color as one of your equipments. If you do, that hero cannot play or use any cards with the same color. At the end of their main phase, if the targeted hero has not played an ATTACK, this is treated as you playing an ATTACK on him.
+At the beginning of each other target hero's main phase, you may discard a card from your hand with same color as one of your equipments. If you do, that hero cannot play or use any cards with the same color. At the end of their main phase, if the targeted hero has not played an ATTACK, this is treated as you playing an ATTACK on the targeted hero.
 </cardDescription>
     </Card>
     <Card>
@@ -693,12 +712,16 @@ Health/Gender: 3M
 Ability:
 
 Rank Determination:
-During your main phase, you may discard a card from your hand and target a damaged hero; that hero performs a judgement. (You cannot discard cards which have the same type to other cards you have played or discarded this turn)
-If the result is BLACK, that hero draws X cards and you cannot use [RANK DETERMNINATION] on that hero again. (X is that hero's missing heath)
-If the result is RED, you filp your hero card.
+During your main phase, you may discard a card from your hand and choose a target hero; that hero chooses one:
+(You cannot discard the same type of card you have previously used for this ability or target the same hero again.)
+1. Draw X cards.
+2. Discard X cards from hand or equipment zone.
+
+X is the number of times you have used this ability this turn.
+If the targeted hero is damaged, you are put into the chaiend state.
 
 Justice and Mercy:
-Whenever a hero is flipped or chained, you may let that hero draw a card.
+Whenever a hero is flipped face up or chained, you may let that hero draw a card.
 </cardDescription>
     </Card>
     <Card>

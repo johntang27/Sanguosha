@@ -29,7 +29,7 @@ Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Noble Warlord
+      <cardDescription>Title: From Noble Heritage 
 
 Health/Gender: 4M
 
@@ -47,7 +47,7 @@ Your maximum hand size is increase by X, where X is 2 times the number of other 
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Archenemy
+      <cardDescription>Title: The Devil King
 
 Health/Gender: 8M
 
@@ -67,6 +67,27 @@ Whenever another KINGDOMLESS faction hero deals damage, you may have that hero p
 </cardDescription>
     </Card>
     <Card>
+      <cardName>Yuan Shu</cardName>
+	  <portraitOverride>Yuan Shu03</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Emperor of Zhong
+
+Health/Gender: 4M
+
+Ability:
+
+Extravagant:
+During your draw phase, you draw X cards instead.
+(X is the number of surviving factions in play.)
+
+During your discard phase, if you have not dealt damage this turn, draw cards until the number of cards in your hand is the same as your current health; if you have more than 1 damage, your hand size this turn is equal to the amount of your missing health.
+
+False Emperor: (Emperor Ability)
+Whenever you discard cards during your discard phase, you may give 1 of the discarded cards to each surviving KINGDOMLESS faction hero in turn sequence.
+</cardDescription>
+    </Card>
+    <Card>
       <cardName>Hua Tuo</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
@@ -77,12 +98,11 @@ Health/Gender: 3M
       
 Ability:
 
-Medicine Bag:
-Once during your main phase, you may choose any number of target heroes that do not share the same faction together, then you discard a card from your hand or equipment zone; then each targeted hero must discard a card. If any targeted heroes discarded a SPADES suited card, that hero draws a card.
-(Unless you target yourself with this ability and discard a SPADES suited card ontop of your initial discarded card, you do not draw a card.)
-
 First Aid:
 Outside of your turn, you may play RED cards from your hand and equipment zone as a PEACH.
+
+Book of Green Vesicles:
+Once during your main phase, you may discard a card in hand and target a hero, that hero gains 1 health. If the card you discard is RED, you may activate this ability again, but cannot target the same hero.
 </cardDescription>
     </Card>
     <Card>
@@ -101,7 +121,7 @@ Whenever you are the source of an ATTACK, the defending hero needs to play 2 DOD
 Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
 
 Mercenary Contract:
-Whenever you deal damage to a target hero with an ATTACK, the targeted hero may give you a card and choose another target hero. This is treated as you playing a DUEL to the other targeted hero.
+Whenever you deal damage to a target hero with an ATTACK, you may take a card from his hand or equipment zone. If the card you take is not an equipment card, the targeted hero draws a card. If the card you take is an equipment card, the targeted hero chooses another target hero and this is treated as you playing a DUEL to the other targeted hero.
 (The targeted hero cannot choose themself as the target for the DUEL and must choose another target hero.)
 </cardDescription>
     </Card>
@@ -120,7 +140,7 @@ Wedge Driving:
 Once during your main phase, you may discard a card and choose 2 target MALE heroes. If you do, this is treated as one of them playing a DUEL on the other. (You pick which hero initiates the DUEL.)
 
 Eclipse:
-At the end of your turn, you may draw a card.
+At the end of your turn, you may draw a card. If you have no cards in your hand, you may draw 2 cards instead.
 </cardDescription>
     </Card>
     <Card>
@@ -139,7 +159,7 @@ Once during your main phase, you may discard a card and flip your hero over; the
 (X is current health of the targeted MALE hero. You may choose to give cards from your hand or equipment zone. If you have fewer cards than the MALE hero's current health, you must gives him all of your cards.)
 
 Eclipse:
-At the end of your turn, you may draw a card.
+At the end of your turn, you may draw a card. If you have no cards in your hand, you may draw 2 cards instead.
 </cardDescription>
     </Card>
     <Card>
@@ -169,7 +189,7 @@ Health/Gender: 6M
 Ability: 
 
 Swagger:
-Whenever a hero deals damage to you with a RED ATTACK, that hero may gain 1 health or draw a card.
+Whenever a hero deals damage to you with a RED ATTACK, that hero may gain 1 health or draw a card. If the ATTACK was not RED, you draw a card.
 </cardDescription>
     </Card>
     <Card>
@@ -195,7 +215,7 @@ Whenever another hero plays an ATTACK and you are within that hero's attack rang
 	  <portraitOverride>Yuan Shu02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: The Emperor of Zhong Dynasty
+      <cardDescription>Title: Self Declared Emperor
       
 Health/Gender: 4M
 
@@ -227,6 +247,28 @@ Whenever you want to use a basic or non-delay tactics card, you may play a card 
 If the name of the revealed card is the same as what you have announced, all heroes who have doubted loses 1 health; if the revealed card has a HEARTS suit, resolve the card as the announced name.
 If the name of the revealed card is not the same as what you have announced, all heroes who have doubted draws a card; the announced card's effect is canceled and the card is discarded.
 (Heroes on the brink of death state cannot doubt you. If the card's effect was canceled through being revealed as false, it is counted as you never having played the announced card at all. For example, if the announced ATTACK was false, you are still allowed to play another ATTACK.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yu Ji</cardName>
+	  <portraitOverride>Yu Ji02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Casting Illusion to the Crowds
+      
+Health/Gender: 3M
+
+Ability:
+
+Bewilder:
+Once during each hero's main phase, you may announce a basic or non-delay tactics card name and play a card face down. This card is treated as the announced card.
+Before resolving the effects of your announced card, any hero may choose to doubt you and declare that the name of the announced card does not match the name of the card you have played face down; if any hero doubts you, reveal the face down card immediately.
+If the name of the revealed card is different from what you have announced, cancel the card's effects and discard it.
+If the name of the revealed card is the same as what you have announced, resolve the effects of the card and the hero who doubted you gains the [HAUNTED] ability.
+
+[HAUNTED]:
+You cannot doubt cards played by [BEWILDER].
+If your health is equal to 1, all your abilities except [HAUNTED] cannot be triggered or activated.
 </cardDescription>
     </Card>
     <Card>
@@ -355,9 +397,8 @@ Health/Gender: 3F
 Ability:
 
 Song of Lament:
-Whenever a hero is dealt damage by an ATTACK, you may discard a card from your hand or equipment zone and perform a judgment.
+Whenever a hero is dealt damage by an ATTACK, you may discard a card from your hand or equipment zone and perform a judgment and activate the effect relating to the suit below:
 
-If the result is:
 HEARTS: The defender gains 1 life.
 DIAMONDS: The defender draws 2 cards.
 CLUBS: The source of damage discards 2 cards.
@@ -586,12 +627,11 @@ Health/Gender: 3M
 Ability:
 
 Reckless Assault:
-At the beginning of your main phase, you may draw 2 cards. If you do, your hand size becomes X this turn.
+At the beginning of your main phase, you may draw 2 cards. If you do, your hand size limit becomes X this turn.
 (X is the amount of damage you deal this turn.)
 
 Cover Up:
-Whenever you need to play a DODGE, you may choose to let the current turn hero draw a card, if that hero is not among heroes with the highest amount of cards in hand, you discard a card from a target hero's hand. The targeted hero must be among the heroes with the highest amount of cards in their hand.
-
+Whenever you need to play a DODGE, you may choose to let the current turn hero draw a card; if that hero is not among heroes with the highest number of cards in hand, you discard a card from the hero who has the highest number of cards in their hand and treat this as you using a DODGE.
 (If there is a draw among heroes with the highest amount of cards in hand, you may choose one of them to discard from.)
 </cardDescription>
     </Card>
@@ -711,7 +751,7 @@ At the end of your turn, you may draw X cards.
 (X is the number of players who has less cards in hand than their current health.)
 Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Ling Ju</cardName>
       <portraitOverride />
@@ -734,7 +774,7 @@ If their role was LOYALIST, you ignore the health requirement when using [DEPLET
 If their role was REBEL, you ignore the health requirement when using [DEPLETE KARMA] to increase damage.
 If their role was SPY, you ignore the color requirement when using [DEPLETE KARMA] to reduce damage.
 </cardDescription>
-    </Card>    
+    </Card>
     <Card>
       <cardName>Liu Xie</cardName>
       <portraitOverride />
@@ -754,7 +794,46 @@ Secret Edict:
 Once per a hero's main phase, you may give all the cards in your hand to a target player; then choose another target hero, the targeted heroes must perform a clash. The winner of the clash is considered to have played an ATTACK on the loser.
 (If the seconds targeted hero is unable to perform a clash, the first targeted hero still receives the cards you give. If the clash ends in a draw, nothing happens.)
 </cardDescription>
-    </Card>    
+    </Card>
+    <Card>
+      <cardName>Liu Xie</cardName>
+	  <portraitOverride>Liu Xie02</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Emperor Xian of Han
+      
+Health/Gender: 4M
+
+Ability:
+
+Royal Grace:
+Whenever a tactics card that targets multiple heroes is played, you may choose a target hero and cancel the effect of the tactics card for the targeted hero, then the targeted hero draws a card.
+
+Revive the Han:
+At the end of your discard phase, you may attach the discarded cards onto your hero as [IMPERIAL EDICTS].
+At the beginning of your turn, you may discard a [IMPERIAL EDICT] and choose to gain one of the following Emperor Abilities until the beginning of your next turn:
+1. [ESCORT]
+2. [ROUSE]
+3. [RESCUED]
+4. [BLOODLINE]
+
+You ignore any faction requirements for any of the Emperor Abilities.
+(You may only gain one Emperor Ability a turn.)
+
+[Escort]:
+Whenever you need to play or discard a DODGE, you may ask each WEI faction hero to play or discard a DODGE for you, then it is treated as you playing the DODGE.
+
+[Rouse]:
+Whenever you need to play or discard an ATTACK, you may ask each other SHU faction hero to play or discard an ATTACK for you, then its treated as you playing the ATTACK.
+(You cannot use this ability to activate the effect on HEAVEN HALBERD when you have no cards in your hand.)
+
+[Rescued]:
+Whenever you are on the brink of death and a WU faction hero uses a PEACH on you, you gain 2 health instead of 1.
+
+[Bloodline]:
+Your maximum hand size is increase by X, where X is 2 times the number of other surviving KINGDOMLESS faction heroes.
+</cardDescription>
+    </Card>
     <Card>
       <cardName>Zhang Bao</cardName>
       <portraitOverride />
@@ -1231,28 +1310,6 @@ When you are dead, you may choose a target hero and discard X cards from the tar
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Ma Teng</cardName>
-      <portraitOverride />
-      <cardType>Heroes</cardType>
-      <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Outwardly Strength Inwardly Weak
-      
-Health/Gender: 4M
-
-Ability:
-
-Punishment Scheme:
-Once during your main phase, you may target another hero with cards in their hand to give you a card from their hand. If the number of cards in the targeted hero's hand is less than the number of cards in your hand, the targeted hero chooses one of the following:
-1. The targeted hero is considered to play an ATTACK targeting you.
-2. The targeted hero is considered to play a DUEL targeting you.
-(The DUEL that the targeted hero is considered to play can still be cancelled with an IMPECCABLE PLAN.)
-
-Buying Time:
-When you are dead, you may choose a target hero and discard X cards from the targeted hero. X is the number of cards you had in your hand and equipment zone.
-(You choose which cards to discard from the targeted hero. Cards that are attached to your hero or to your equipment do not count towards X.)
-</cardDescription>
-    </Card>
-    <Card>
       <cardName>Han Sui</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
@@ -1268,6 +1325,120 @@ At the end of another hero's turn, if the target hero has more current health th
 
 Horsemanship:
 The physical range you see other heroes is reduced by 1.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Zhi</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Pillar of Han
+      
+Health/Gender: 3M
+
+Ability:
+
+Excellent Mentor:
+At the beginning of the game, you draw a card and then attach a card face up from your hand onto you hero as a [MISSION]. At the end of your turn, you may swap a card from your hand with the [MISSION] card.
+
+Faithful and Honest: (Transform Ability)
+(Mode 1):
+Once during your main phase, you may target another hero within your attack range, then discard X cards with the same color as the [MISSION] card to deal 1 damage to the targeted hero.
+(X is the difference between your current health and the targeted hero's current health.)
+
+(Mode 2):
+Outside of your turn, whenever a card you use is put into the discard pile, if the card shares the same type as the [MISSION] card, you may choose a target her to draw a card.
+
+Note: Transform abilities alternate between each mode when activated. You may only first activate the effect of Mode 1 and then activate Mode 2 the next time you choose to use the same ability. You cannot activate the effect from the same mode before choosing to activate the other one first.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Pang De Gong</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Universally Virtuous
+      
+Health/Gender: 3M
+
+Ability:
+
+Evaluate Talents:
+Once during your main phase, you may perform a judgement and activate the effect of the relating suit below:
+
+[Hidden Dragon]: SPADES
+Choose a target hero and deal 1 FIRE damage to the targeted hero. If Zhuge Liang is present in the game, you deal 1 damage to 2 target heroes instead.
+
+[Phoenix Chick]: CLUBS
+Choose 3 target heroes, the targeted heroes become chained. If Pang Tong is present in the game, you choose 4 target heroes to be chained instead.
+
+[Water Mirror]: HEARTS
+Choose a target hero and move an armor card from their equipment zone to another hero's unoccupied equipment zone. If Si Ma Hui is present in game, you move any equipment card from the targeted hero to another hero's unoccupied equipment zone instead.
+
+[Mystic Sword]: DIAMONDS
+Choose a target hero to draw a card and gain 1 health. If Xu Shu is present in the game, you draw a card.
+
+Concealed Life:
+You ignore all affects from delay tactics cards that affect your draw phase, main phase, or discard phase.
+(The delay tactics card may still be played on you, but you do not perform the judgement or it's effects once activated.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Mi Heng</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Hawk that Pecks the Phoenix
+      
+Health/Gender: 3M
+
+Ability:
+
+Madness:
+At the beginning of your main phase, you may perform a judgement. Cards that share the same suit as the judgement result ignore any range restrictions and any limit restrictions; if you play a card that shares the same suit as the judgement result, you may draw a card.
+(You may draw up to a max of 5 cards per turn with this ability. Ignoring limit restrictions means you may also ignore the ATTACK restriction limit rule and any rulings that only allow you to play any cards once per turn or main phase.)
+
+Sharp Tongue:
+At the end of your discard phase, if the cards you've discarded all have different suits, you may discard a card from another target hero.
+(You must discard more than 1 card during your discard phase to activate this ability.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Si Ma Hui</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Mister Water Mirror
+      
+Health/Gender: 3M
+
+Ability:
+
+Recommend Hero:
+At the beginning of the game, you choose 2 target heroes and attach a [DRAGON SEAL] and [PHOENIX SEAL] token to each of the targeted heroes.
+Whenever a hero with a [DRAGON SEAL] or [PHOENIX SEAL] token dies, choose another hero to attach the token onto.
+
+Weighed Well:
+Whenever a target hero is dealt elemental damage, if the targeted hero is in the chained state and is the starting point for the chain damage, you may view X cards from the top of the library and give them to any number of heroes.
+(X is the number of heroes who were chained.)
+
+Hermit:
+Whenever you are dealt elemental damage from an ATTACK or tactics card, if you do not have armor equipped or have the [DRAGON SEAL] or [PHOENIX SEAL] attached, the damage is prevented.
+
+[Dragon Seal]:
+Whenever a target hero has the [DRAGON SEAL] attached, the targeted hero may use a RED colored card from their hand as FIRE ATTACK.
+(You may only use this ability 3 times a round.)
+
+[Phoenix Seal]:
+Whenever a target hero has the [PHOENIX SEAL] attached, during their main phase, the targeted hero may use a CLUBS suited card from their hand as IRON CHAINS; or recast that card.
+(You may only use this ability 3 times a round.)
+
+[Dragon Phoenix Seal Completion]:
+If you have both the [DRAGON SEAL] and [PHOENIX SEAL] attached onto you, you may discard them both and gain the [SEARING HEAT] ability.
+
+[Searing Heat]: (Limited Ability)
+Once per game, during your main Phase, you may choose up to 3 target heroes and deal 3 FIRE damage among them. If you deal more than 1 damage to a targeted hero, you discard 1 card of each suit and lose 3 health.
+(You must discard as many different suits as you are able to.)
 </cardDescription>
     </Card>
 	</CardData>
