@@ -155,7 +155,7 @@ Health/Gender: 3M
 Ability:
 
 Soul Surrender:
-Once during your main phase, you may discard a card and flip your hero over; then take all the cards from the hand of a target MALE hero. At the end of you main phase, you must give X cards to the targeted MALE hero.
+Once during your main phase, you may discard a card and flip your hero card; then take all the cards from the hand of a target MALE hero. At the end of you main phase, you must give X cards to the targeted MALE hero.
 (X is current health of the targeted MALE hero. You may choose to give cards from your hand or equipment zone. If you have fewer cards than the MALE hero's current health, you must gives him all of your cards.)
 
 Eclipse:
@@ -204,7 +204,7 @@ Health/Gender: 4M
 Ability:
 
 Arrogant:
-At the beginning of the EMPEROR's turn, you may draw 1 card. If you do, the EMPEROR's hand limit is reduced by 1 until the end of turn.
+At the beginning of the EMPEROR's turn, you may draw 1 card. If you do, the EMPEROR's hand limit is reduced by -1 until the end of turn.
 
 All in same boat:
 Whenever another hero plays an ATTACK and you are within that hero's attack range, if the number of cards in your hand is greater than your current health, that hero can only choose you as the target of any ATTACK.
@@ -283,7 +283,7 @@ Health/Gender: 4M
 Ability:
 
 Horsemanship:
-The physical range you see other heroes is reduced by 1.
+The physical range you see other heroes is reduced by -1.
 
 Fierce Attack:
 Whenever you play an ATTACK targeting a hero, you may discard a card from that hero's hand or equipment zone. If the discarded card was an equipment, this ATTACK cannot be cancelled by a DODGE. If the discarded card was not an equipment, that hero take this ATTACK card into their hand.
@@ -651,7 +651,7 @@ Once per each hero's main phase, if the number of cards in your hand is greater 
 
 Ancestral Blessing:
 At the beginning of the game, you increase your max health by X.
-If all heroes of a faction are removed from the game, you reduce your max health by 1.
+If all heroes of a faction are removed from the game, you reduce your max health by -1.
 (X is the number of surviving factions in the game.)
 </cardDescription>
     </Card>
@@ -687,8 +687,8 @@ Fierce Mount:
 Whenever you deal damage to a target hero with a BLACK ATTACK, you may discard a card from their equipment zone; if the discarded card is a mount, you take it into your hand.
 
 Follower of Virtue:
-Whenever you have 3 or more health, the physical range you see other heroes is reduced by 1.
-Whenever you have 2 or less health, the physical range other heroes see you is increased by 1.
+Whenever you have 3 or more health, the physical range you see other heroes is reduced by -1.
+Whenever you have 2 or less health, the physical range other heroes see you is increased by +1.
 </cardDescription>
     </Card>
     <Card>
@@ -725,7 +725,7 @@ Ability:
 
 Discourse in Praise:
 Whenever you play or become the target of another hero's SPADES suited card, you may take a card from the top of the library and attach it to your hero as a [BOOK]. (max. 4)
-Each [BOOK] card increases your hand size limit by 1.
+Each [BOOK] card increases your hand size limit by +1.
 
 Extensive Communication:
 At the end of your draw phase, you may swap any number of [BOOK] cards with the cards you own. If your [BOOKS] cards are one each suit, give all your [BOOK] cards to another target hero.
@@ -945,7 +945,7 @@ Under Ritual:
 At the end of another hero's turn, if you are not within the attack range of that hero, you may choose one:
 1. You draw a card.
 2. The target hero draws a card.
-Then decrease your physical range with other heroes by -1.
+Then decrease your physical range with other heroes by 1.
 (The change in physical range is permanent for the rest of the game.) 
 </cardDescription>
     </Card>
@@ -1013,8 +1013,8 @@ Benevolence: (Limited Ability)
 Once per game, you may loose the [FOLLOWER OF VIRTUE] ability, increase your max health by +1, gain 1 health, and choose a target hero to draw 3 cards.
 
 Follower of Virtue:
-Whenever you have 3 or more health, the physical range you see other heroes is reduced by 1.
-Whenever you have 2 or less health, the physical range other heroes see you is increased by 1.
+Whenever you have 3 or more health, the physical range you see other heroes is reduced by -1.
+Whenever you have 2 or less health, the physical range other heroes see you is increased by +1.
 </cardDescription>
     </Card>
     <Card>
@@ -1177,7 +1177,7 @@ Bone Cut:
 Whenever a hero with a [PUPPET] is dealt damage, you draw a card.
 
 False Worship: (Awakening Ability)
-At the beginning of your turn, if you have gained 7 or more cards from your [BONE CUT] ability, increase your max health by 1 and gain 1 health. The attach a [PUPPET] onto each hero who does not already have a [PUPPET] attached. You lose the [BONE CUT] ability and gain the [PUPPET MASTER] ability.
+At the beginning of your turn, if you have gained 7 or more cards from your [BONE CUT] ability, increase your max health by +1 and gain 1 health. The attach a [PUPPET] onto each hero who does not already have a [PUPPET] attached. You lose the [BONE CUT] ability and gain the [PUPPET MASTER] ability.
 
 [Puppet Master]:
 Whenever you become the only target of a basic or non-delay tactics cards played by a hero with a [PUPPET] attached, you may remove the [PUPPET] from that hero and cancel the card effect.
@@ -1324,7 +1324,7 @@ Countering Chaos:
 At the end of another hero's turn, if the target hero has more current health than you, or has played an ATTACK targeting you this turn, you may discard a BLACK card and treat it as an ATTACK towards that hero.
 
 Horsemanship:
-The physical range you see other heroes is reduced by 1.
+The physical range you see other heroes is reduced by +1.
 </cardDescription>
     </Card>
     <Card>
@@ -1439,6 +1439,100 @@ If you have both the [DRAGON SEAL] and [PHOENIX SEAL] attached onto you, you may
 [Searing Heat]: (Limited Ability)
 Once per game, during your main Phase, you may choose up to 3 target heroes and deal 3 FIRE damage among them. If you deal more than 1 damage to a targeted hero, you discard 1 card of each suit and lose 3 health.
 (You must discard as many different suits as you are able to.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zou Shi</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Enchanting Demon
+      
+Health/Gender: 3F
+
+Ability:
+
+Source of Calamity:
+At the beginning of your turn, you may discard a card and choose to gain an ability from any surviving hero until the beginning of your next turn.
+(You cannot gain Emperor abilities, Awakening abilities, or Limited abilities.) 
+
+Allure:
+At the end of your turn, you may flip your hero card face down and choose a target hero, then targeted hero flips their hero card.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Kong Rong</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Awe Inspiring Righteousness
+      
+Health/Gender: 3M
+
+Ability:
+
+Famed Scholar:
+Whenever you are dealt damage, the source of damage must show their hand; if the source of damage does not, the damage is reduced by -1.
+
+Courtesy:
+Whenever you discard cards, you may choose another target hero and give all the discarded cards to the targeted hero.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Tian Feng</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Marvelous Hero of Hebei
+      
+Health/Gender: 3M
+
+Ability:
+
+Admonishing at Death's Door:
+Whenever you enter the brink of death, you may choose a target hero and choose one of the following:
+1. The targeted hero discards X cards, where X is their current health.
+2. The targeted hero draws X cards, where X is their missing health.
+(You may only activate this ability before using a Peach or asking other heroes to use a Peach for you.)
+
+Following the Trend:
+Whenever another hero loses health, if their current health is greater than or equal to the number of cards in your hand, you draw a card.
+Whenever a hero dies, you lose 1 health.  
+(This ability does not trigger when a hero gains health, then has their current health becomes greater than or equal to the number of cards in your hand.) 
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ji Ling</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Commander in Chief
+      
+Health/Gender: 4M
+
+Ability:
+
+Double Edged:
+At the beginning of your main phase, you may clash with a target hero. If you win the clash, you may choose a target hero and treat this as you playing an ATTACK to the targeted hero.
+If he lose the clash, you proceed to end your main phase.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Ma Teng</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Cavalryman from the West
+      
+Health/Gender: 4M
+
+Ability:
+
+Horsemanship:
+The physical range you see other heroes is reduced by -1.
+
+Rally: (Limited ability)
+Once per game, you may choose any number of target heroes. Each targeted hero draws 3 cards. If you were the only hero targeted, you gain 1 health.
 </cardDescription>
     </Card>
 	</CardData>
