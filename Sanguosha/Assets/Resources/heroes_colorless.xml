@@ -1195,11 +1195,11 @@ Health/Gender: 3M
 
 Ability:
 
-Calculated Inquiry:
+Ruse:
 At the beginning of your main phase, you may choose a target hero to reveal and give you a card. Until the end of turn, all other heroes may not respond to cards you play with the revealed card.
 
-Station By the River:
-At the end of your turn, if you did not skip your main phase and did not play any cards during your main phase, you may draw X cards.
+Stationed By the River:
+At the end of your turn, if you did not skip your main phase and did not play any cards targeting other heroes during your main phase, you may draw X cards.
 (X is the number of surviving factions in play.)
 </cardDescription>
     </Card>
@@ -1414,11 +1414,12 @@ Health/Gender: 3M
 
 Ability:
 
-Recommend Hero:
+Heroic Sacrifice:
 At the beginning of the game, you choose 2 target heroes and attach a [DRAGON SEAL] and [PHOENIX SEAL] token to each of the targeted heroes.
-Whenever a hero with a [DRAGON SEAL] or [PHOENIX SEAL] token dies, choose another hero to attach the token onto.
+Once during your main phase or whenever a hero with a [DRAGON SEAL] or [PHOENIX SEAL] token dies; choose another hero to attach the token onto.
+(You may choose not to attach the token to a new hero and have it be discarded upon a hero's death.)
 
-Weighed Well:
+Good Balance:
 Whenever a target hero is dealt elemental damage, if the targeted hero is in the chained state and is the starting point for the chain damage, you may view X cards from the top of the library and give them to any number of heroes.
 (X is the number of heroes who were chained.)
 
@@ -1426,7 +1427,7 @@ Hermit:
 Whenever you are dealt elemental damage from an ATTACK or tactics card, if you do not have armor equipped or have the [DRAGON SEAL] or [PHOENIX SEAL] attached, the damage is prevented.
 
 [Dragon Seal]:
-Whenever a target hero has the [DRAGON SEAL] attached, the targeted hero may use a RED colored card from their hand as FIRE ATTACK.
+Whenever a target hero has the [DRAGON SEAL] attached, the targeted hero may use a RED colored card from their hand as a BLAZE.
 (You may only use this ability 3 times a round.)
 
 [Phoenix Seal]:
@@ -1434,7 +1435,7 @@ Whenever a target hero has the [PHOENIX SEAL] attached, during their main phase,
 (You may only use this ability 3 times a round.)
 
 [Dragon Phoenix Seal Completion]:
-If you have both the [DRAGON SEAL] and [PHOENIX SEAL] attached onto you, you may discard them both and gain the [SEARING HEAT] ability.
+Whenever both the [DRAGON SEAL] and [PHOENIX SEAL] are discarded, you gain the [SEARING HEAT] ability.
 
 [Searing Heat]: (Limited Ability)
 Once per game, during your main Phase, you may choose up to 3 target heroes and deal 3 FIRE damage among them. If you deal more than 1 damage to a targeted hero, you discard 1 card of each suit and lose 3 health.

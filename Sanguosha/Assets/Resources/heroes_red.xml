@@ -396,7 +396,7 @@ Painstakingly Intelligent: (Awakening Ability)
 Whenever you deal damage outside of your turn and you have missing health, reduce your max health by 1 unit and gain the [INTRODUCTION] ability.
 
 [Introduction]:
-Once during your main phase, you may name a color, suit, or the type of a card; then reveal cards from the top of the library until a card with the same properties as you've named is revealed. Then choose a male hero and give the revealed card to him. Then discard the rest of the revealed cards.
+Once during your main phase, you may name a color, suit, or the type of a card; then reveal cards from the top of the library until a card with the same properties as you've named is revealed. Then choose a MALE hero and give the revealed card to him. Then discard the rest of the revealed cards.
 (You may choose to give the revealed card to yourself as well.)
 </cardDescription>
     </Card>
@@ -574,7 +574,7 @@ Gather Firewood:
 At the end of each other hero's turn, if you and that hero have the same number of cards in hand, you may choose to let both of you draw a card.
 
 Words of Swallow:
-During your main phase, you may recast ATTACK cards. At the end of your main phase, if you have recasted 2 or more ATTACK cards, you may have target male hero draw 2 cards.
+During your main phase, you may recast ATTACK cards. At the end of your main phase, if you have recasted 2 or more ATTACK cards, you may have target MALE hero draw 2 cards.
 </cardDescription>
     </Card>
     <Card>
@@ -1056,15 +1056,15 @@ Health/Gender: 3F
 
 Ability:
 
-Martial Mistress:
+Martial Artist:
 Whenever you use an ATTACK, you may take a card from the hand or equipment zone of a target hero; then the targeted hero draws a card. If Guan Sou is present in the game, he also draws a card.
 
 Promise of Love:
-Whenever you are brought back from the brink of death by another target male hero, if Guan Sou is not present in the game, the targeted male hero may choose to replace their current hero with Guan Sou and have you gain 1 health; then you gain the [GUARDING THE SOUTH] ability.
+Whenever another MALE hero causes you to enter the brink of death, if Guan Sou is not present in the game, you may choose to replace your current hero with Guan Sou; then you return to 1 health and gain the [GUARDING THE SOUTH] ability.
 
-[Guarding the South]:
+[Subdue the South]:
 Whenever you are targeted by BARBARIAN ASSAULT, you may deal X damage to a target hero.
-(If your current health is 3, X is 1. If current health is 2, X is 2. If current health is 1, X is 3. The damage being dealt by this ability does not have an elemental type.)
+(X is your missing health.)
 </cardDescription>
     </Card>
   </CardData>

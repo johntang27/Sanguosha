@@ -1233,7 +1233,7 @@ At the beginning of your main phase, you may draw X cards and discard X cards; i
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Lu Zhi</cardName>
+      <cardName>Lu Chi</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
@@ -1244,7 +1244,7 @@ Health/Gender: 3M
 Ability:
 
 Clear Devotion:
-During your main phase, you may draw 2 cards, if you do, at the end of your turn, you switch hands with the hero with the lowest amout of cards in their hand.
+During your main phase, you may draw 2 cards, if you do, at the end of your turn, you must exchange the cards in your hand with the hero with the lowest amount of cards in their hand.
 
 Defend the Border:
 Once during each hero's turn, whenever you need to play a ATTACK or a DODGE in response to an effect, you may announce that you play an ATTACK or DODGE and treat it as so.
