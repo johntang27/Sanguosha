@@ -1300,5 +1300,27 @@ Whenever you kill another hero, you may draw 3 cards.
 (This ability activates after the role is revealed.)
 </cardDescription>
     </Card>
+    <Card>
+      <cardName>Kuai Yue &amp; Kai Kiang</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Fearless General
+
+Health/Gender: 3M
+
+Ability:
+
+Strategic Surrender:
+Whenever you become the target of a card played by another hero, you may have the hero with the least number of cards in their hand draw a card.
+
+Temporize: (Transform Ability)
+(Mode 1):
+Once during your main phase, you may give a card to a target hero with the most number of cards in their hand, then deal 1 damage that hero. If the targeted hero dies because of this, you may choose another target hero to draw cards until that hero has 4 cards in their hand.
+
+(Mode 2):
+Whenever another hero deals damage to you, you may look at the cards in their hand and give a card to that hero. At the end of the turn, if the targeted hero did not play or discard the card you have given, you draw cards until you have 4 cards in your hand.
+</cardDescription>
+    </Card>
   </CardData>
 </CardDataCollection>

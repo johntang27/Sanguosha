@@ -88,6 +88,32 @@ Whenever you discard cards during your discard phase, you may give 1 of the disc
 </cardDescription>
     </Card>
     <Card>
+      <cardName>Lu Bu</cardName>
+	  <portraitOverride>Lu Bu05</portraitOverride>
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: The Cornered Tiger
+
+Health/Gender: 4M
+
+Ability:
+
+Destitution:
+Whenever you current health is 3 or more, you gain the [MATCHLESS] ability.
+Whenever you current health is 3 or less, you gain the [DROWN IN WINE] ability.
+
+Ruthless: (Emperor Ability)
+Once during the main phase of a KINGDOMLESS faction hero's turn, the KINGDOMLESS faction hero may give you an ATTACK or a SPADE suited card.
+
+[Matchless]:
+Whenever you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards in order to cancel the ATTACK.
+Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK cards in order to respond to your discarded ATTACK.
+
+[Drown in Wine]:
+You may use a SPADES suited card from your hand as WINE.
+</cardDescription>
+    </Card>
+    <Card>
       <cardName>Hua Tuo</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
@@ -1534,6 +1560,31 @@ The physical range you see other heroes is reduced by -1.
 
 Rally: (Limited ability)
 Once per game, you may choose any number of target heroes. Each targeted hero draws 3 cards. If you were the only hero targeted, you gain 1 health.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Xu You</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Cavalryman from the West
+      
+Health/Gender: 3M
+
+Ability:
+
+Plans Ready: (Transform Ability)
+(Mode 1):
+Once during your main phase, you may draw a card and then discard 2 cards from your hand.
+
+(Mode 2):
+Once during your main phase, you may draw 2 cards and then discard a card. If you do, you may ignore any range requirements and limit restrictions that share the same suit as the discarded card until the end of your turn.
+
+Conceited:
+Whenever you play a card, after the effects of the card is resolved; if the card type is different from the types of card you have played this turn, you may put the card on top of the library and then draw a card.
+
+Lacking Foresight:
+Whenever you draw a card, you may draw from the bottom of the library instead.
 </cardDescription>
     </Card>
 	</CardData>

@@ -101,6 +101,31 @@ During your turn, other WU faction heroes are considered to have missing health,
 </cardDescription>
     </Card>
     <Card>
+      <cardName>Sun Liang</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: The Prince of Kuaji
+
+Health/Gender: 3M
+
+Ability:
+
+Execute:
+At the end of your discard phase, you may chosoe one:
+1. Choose X target heroes to draw a card in turn sequence.
+2. Deal 1 damage to any number of heroes with current health equal to X.
+(X is the number of cards you have discarded during your discard phase.)
+
+Hinder:
+During your main phase, you cannot target heroes that do not have you within their attack range.
+At the end of your main phase, if the number of cards you played is less than the number of target heroes that do not have you within their attack range, you discard a card from each of those hero's hand or equipment zones.
+
+Army Establishment: (Emperor Ability)
+Whenever another WU faction hero plays an ATTACK during thie main phase, after the ATTACK is resolved; that hero may give the ATTACK to you, then you may have that hero draw a card.
+</cardDescription>
+    </Card>
+    <Card>
       <cardName>Gan Ning</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
@@ -972,6 +997,32 @@ Ignore the effects of all sources of FIRE damage.
 
 Sprint:
 At the beginning of your turn, you may skip your judgement and draw phase to target another hero, treat this as playing an ATTACK on the targeted hero, ignore any range requirements for these ATTACK.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Ji</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: The Scholar with Promising Talent
+
+Health/Gender: 3M
+
+Ability:
+
+Keeping Oranges:
+At the beginning of the game you gain 3 [ORANGE] tokens attached to your hero.
+
+Discourtesy:
+At the beginning of your main phase, you may lose 1 health or remove an [ORANGE] token to have a target hero gain a [ORANGE] token.
+
+Organizing Theories:
+At the beinning of your frawing phase, if you have no [ORANGE] tokens, you may skip your draw phase and gain a [ORANGE] token.
+
+[Orange]:
+During the drawing phase, if a hero has an an [ORANGE] token attached, that hero draws an extra card.
+Whenever a hero with an attached [ORANGE] is dealt damage, prevent that damage and remove an [ORANGE] token.
+(You only draw 1 extra card, you do not draw a card per each [ORANGE] token attached to your hero. Whenever you are dealt damage with an [ORANGE] token attached, you must discard it when resolving to take the damage.)
 </cardDescription>
     </Card>
   </CardData>

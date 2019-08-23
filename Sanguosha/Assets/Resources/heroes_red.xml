@@ -118,10 +118,13 @@ Health/Gender: 3M
 Ability:
 
 Stargazing:
-At the beginning of your turn, you may look at the top X cards of the library, where X is equal to the number of surviving heroes (Max 5); you may choose to put any number of these cards on top and bottom of the library in any order.
+At the beginning of your turn, you may look at the top 5 cards of the library, you may only look at 3 cards when the number of surviving heroes is less than 4; you may choose to put any number of these cards on top and bottom of the library in any order.
+
+If you choose to put all the cards to the bottom of the library, you may use [STARGAZING] again at the end of your turn.
 
 Empty Fort:
-Whenever you have no cards in your hand, you cannot be the target of any ATTACK or DUEL.</cardDescription>
+Whenever you have no cards in your hand, you cannot be the target of any ATTACK or DUEL.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Zhao Yun</cardName>
@@ -688,9 +691,9 @@ Health/Gender: 4M
 Ability:
 
 Metamorphosing Panther:
-If your current health is below 4, you gain the [PROVOKE] skill.
-If your current health is below 3, you gain the [ROAR] skill.
-If your current health is below 2, you gain the [GODLY SPEED] skill.
+Whenever your current health is below 4, you gain the [PROVOKE] skill.
+Whenever your current health is below 3, you gain the [ROAR] skill.
+Whenever your current health is below 2, you gain the [GODLY SPEED] skill.
 
 [Provoke]:
 Once during your main phase, you may target a hero who has you within their attack range, that hero must play an ATTACK on you. If he does not, you choose and discard 1 card from that hero's hand, equipment zone, or judgment zone.
@@ -747,7 +750,7 @@ During your turn, if a card you play is resovled and is put into the discard pil
 </cardDescription>
     </Card>
 	<Card>
-      <cardName>Zhang Xin Cai</cardName>
+      <cardName>Zhang Xing Cai</cardName>
 	  <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
@@ -758,7 +761,7 @@ Health/Gender: 3F
 Ability:
 
 Virtuous and Able:
-Once during each hero's turn, whenever another hero discards a basic card, you may draw a card.
+Once during another hero's turn, whenever a hero discards a basic card, you may draw a card.
 
 Dance with the Spear:
 Once per main phase, you may perform a judgement, then until the end of the turn:
@@ -1065,6 +1068,83 @@ Whenever another MALE hero causes you to enter the brink of death, if Guan Sou i
 [Subdue the South]:
 Whenever you are targeted by BARBARIAN ASSAULT, you may deal X damage to a target hero.
 (X is your missing health.)
+</cardDescription>
+    </Card>
+	<Card>
+      <cardName>Yan Yan</cardName>
+	  <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Title: The Beheaded General
+
+Health/Gender: 4M
+
+Ability:
+
+Refuse to Battle: (Transform Ability)
+(Mode 1):
+Whenever you are the target of an ATTACK played by another target hero, you may let both you and the target hero draw a card. If you do, the targeted hero cannot play any more cards targeting you until the end of the turn.
+
+(Mode 2):
+Whenever you play an ATTACK targeting at least 1 hero, you may take a card from their hand or equipment zone. If you do, you cannot play any more cards targeting those heroes until the end of your turn.
+</cardDescription>
+    </Card>
+	<Card>
+      <cardName>Wang Ping</cardName>
+	  <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Title: The Northern Guardian
+
+Health/Gender: 4M
+
+Ability:
+
+Flying Army:
+Once during your main phase, you may discard a card from yout hand or equipment zone and choose one:
+1. Choose a target hero with the number of cards in their hand greater than you to give you a card from their hand or equipment zone.
+2. Choose a target hero with more equipment cards than you to discard an equipment.
+
+Military Tactics:
+Whenever you use [FLYING ARMY], if the targeted hero has not been the target of [FLYING ARMY] before, you draw 2 cards.
+</cardDescription>
+    </Card>
+	<Card>
+      <cardName>Chen Dao</cardName>
+	  <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Title: General of the West
+
+Health/Gender: 4M
+
+Ability:
+
+Past Achievements:
+During your main phase, ignore any range requirements for the first card you play.
+
+During your main phase, whenever you play a card you may have that card become unable to be responded to. If you do, cannot play any more cards until the end of the turn.
+(To become unable to be responded to means that other heroes cannot play or use cards in response to resolving the card’s effect.)
+</cardDescription>
+    </Card>
+	<Card>
+      <cardName>Zhuge Zhan</cardName>
+	  <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Title: Sacrifice for Moral Principles
+
+Health/Gender: 3M
+
+Ability:
+
+Sin Discource:
+Once during your main phase, you may choose one:
+1. Take a card from the hand of another target hero into your hand, then that hero draws a card.
+2. Take a card from the equipment zone of another target hero into your hand, then that hero draws a card.
+
+Hinge on Father's Deed:
+If you do not have an armor card in your equipment zone, other heroes with the number of cards in their hand greater or equal to the number of cards in your hand cannot target you with an ATTACK, DUEL, or BLAZE.
 </cardDescription>
     </Card>
   </CardData>
