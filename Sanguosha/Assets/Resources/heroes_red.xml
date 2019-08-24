@@ -750,7 +750,7 @@ During your turn, if a card you play is resovled and is put into the discard pil
 </cardDescription>
     </Card>
 	<Card>
-      <cardName>Zhang Xing Cai</cardName>
+      <cardName>Zhang Xin Cai</cardName>
 	  <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
@@ -1124,7 +1124,7 @@ Past Achievements:
 During your main phase, ignore any range requirements for the first card you play.
 
 During your main phase, whenever you play a card you may have that card become unable to be responded to. If you do, cannot play any more cards until the end of the turn.
-(To become unable to be responded to means that other heroes cannot play or use cards in response to resolving the card’s effect.)
+(To become unable to be responded to means that other heroes cannot play or use cards in response to resolving the card's effect.)
 </cardDescription>
     </Card>
 	<Card>
