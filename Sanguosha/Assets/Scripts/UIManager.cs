@@ -9,7 +9,7 @@ public class UIManager : Singleton<UIManager> {
     public GameObject debugConsole;
     public Text versionLabel;
     public string version;
-    bool isConsoleOn = true;
+    bool isConsoleOn = false;
 
     [Header("Card Selection")]
     public int currentSelection = 0; //0-normal selection; 1-round selection
