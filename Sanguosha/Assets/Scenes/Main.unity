@@ -3395,7 +3395,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   debugConsole: {fileID: 142510519}
   versionLabel: {fileID: 1926668214}
-  version: 1.9.5
+  version: 1.9.6
   currentSelection: 0
   cardSelection: {fileID: 1211427809}
   cardBtnPrefab: {fileID: 114943483626110194, guid: 84f4883902e640c46a3569b2e5b24937,
