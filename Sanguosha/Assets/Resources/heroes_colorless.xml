@@ -963,7 +963,7 @@ Health/Gender: 3M
 
 Ability:
 
-Seek Refudge from War:
+Seek Refuge from War:
 At the beginning of your draw phase, if you are at 1 physical range with another hero, you may skip your draw phase. If you do, your physical range with other heroes is increased by +X.
 (X is the number of factions in play. The change in physical range is permanent for the rest of the game.)
 
@@ -1036,7 +1036,7 @@ You may play DIAMOND suited cards as ATTACKs or DODGEs.
 During your main phase, ATTACKs you play may target all heroes within your attack range.
 
 Benevolence: (Limited Ability)
-Once per game, you may loose the [FOLLOWER OF VIRTUE] ability, increase your max health by +1, gain 1 health, and choose a target hero to draw 3 cards.
+Once per game, at the beginning of your turn, you may lose the [FOLLOWER OF VIRTUE] ability, increase your max health by +1, gain 1 health, and choose a target hero to draw 3 cards.
 
 Follower of Virtue:
 Whenever you have 3 or more health, the physical range you see other heroes is reduced by -1.
@@ -1354,31 +1354,6 @@ The physical range you see other heroes is reduced by +1.
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Lu Zhi</cardName>
-      <portraitOverride />
-      <cardType>Heroes</cardType>
-      <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Pillar of Han
-      
-Health/Gender: 3M
-
-Ability:
-
-Excellent Mentor:
-At the beginning of the game, you draw a card and then attach a card face up from your hand onto you hero as a [MISSION]. At the end of your turn, you may swap a card from your hand with the [MISSION] card.
-
-Faithful and Honest: (Transform Ability)
-(Mode 1):
-Once during your main phase, you may target another hero within your attack range, then discard X cards with the same color as the [MISSION] card to deal 1 damage to the targeted hero.
-(X is the difference between your current health and the targeted hero's current health.)
-
-(Mode 2):
-Outside of your turn, whenever a card you use is put into the discard pile, if the card shares the same type as the [MISSION] card, you may choose a target her to draw a card.
-
-Note: Transform abilities alternate between each mode when activated. You may only first activate the effect of Mode 1 and then activate Mode 2 the next time you choose to use the same ability. You cannot activate the effect from the same mode before choosing to activate the other one first.
-</cardDescription>
-    </Card>
-    <Card>
       <cardName>Pang De Gong</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
@@ -1563,11 +1538,36 @@ Once per game, you may choose any number of target heroes. Each targeted hero dr
 </cardDescription>
     </Card>
     <Card>
+      <cardName>Lu Zhi</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Pillar of Han
+      
+Health/Gender: 3M
+
+Ability:
+
+Excellent Mentor:
+At the beginning of the game, you draw a card and then attach a card face up from your hand onto you hero as a [MISSION]. At the end of your turn, you may swap a card from your hand with the [MISSION] card.
+
+Faithful and Honest: (Transform Ability)
+(Mode 1):
+Once during your main phase, you may target another hero within your attack range, then discard X cards with the same color as the [MISSION] card to deal 1 damage to the targeted hero.
+(X is the difference between your current health and the targeted hero's current health.)
+
+(Mode 2):
+Outside of your turn, whenever a card you use is put into the discard pile, if the card shares the same type as the [MISSION] card, you may choose a target hero to draw a card.
+
+Note: Transform abilities alternate between each mode when activated. You may only first activate the effect of Mode 1 and then activate Mode 2 the next time you choose to use the same ability. You cannot activate the effect from the same mode before choosing to activate the other one first.
+</cardDescription>
+    </Card>
+    <Card>
       <cardName>Xu You</cardName>
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
-      <cardDescription>Title: Cavalryman from the West
+      <cardDescription>Title: Serve Qin in the Morning Chu in the Evening
       
 Health/Gender: 3M
 
@@ -1585,6 +1585,8 @@ Whenever you play a card, after the effects of the card is resolved; if the card
 
 Lacking Foresight:
 Whenever you draw a card, you may draw from the bottom of the library instead.
+
+Note: Transform abilities alternate between each mode when activated. You may only first activate the effect of Mode 1 and then activate Mode 2 the next time you choose to use the same ability. You cannot activate the effect from the same mode before choosing to activate the other one first.
 </cardDescription>
     </Card>
 	</CardData>
