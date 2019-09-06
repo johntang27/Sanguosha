@@ -305,7 +305,7 @@ Health/Gender: 4M
 Ability:
 
 Blockade:
-During your main phase, you may play BLACK cards from your hand or equipment zoner as a RATIONS DEPLETED. If a hero has greater or equal cards in their hand than you, you may ignore the range restriction on RATIONS DEPLETED for that hero.
+During your main phase, you may play BLACK cards from your hand or equipment zone as a RATIONS DEPLETED. If a hero has greater or equal cards in their hand than you, you may ignore the range restriction on RATIONS DEPLETED for that hero.
 
 Rations Hijack:
 Whenever another target hero skips their draw phase, you may draw a card.
@@ -1040,7 +1040,7 @@ At the end of your turn, you may draw 2 cards; then discard cards from your hand
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
-      <cardDescription>Title: Babbling Pheoniz
+      <cardDescription>Title: Babbling Pheonix
 
 Health/Gender: 3M
 
@@ -1262,7 +1262,7 @@ Health/Gender: 4F
 Ability:
 
 Ascend Above Others:
-Once during your main phase, after targeting a hero with an ATTACK or tactics card that deals damage, you may choose a targeted hero and make 3 guesses whether the hero has any combination of the 3 card types.
+Once during your main phase, after targeting a hero with an ATTACK or tactics card that deals damage, you may choose to make 3 guesses whether the targeted hero has any combination of the 3 card types.
 (Your guesses have to be binary, for example: If the targeted hero has a basic card or not. If the targeted hero has a tactics card or not, If the targeted hero has an equipment card or not.)
 
 If 1 of your guesses was correct, the damage you have dealt is increased by +1.

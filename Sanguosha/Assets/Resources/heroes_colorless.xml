@@ -892,10 +892,10 @@ Health/Gender: 4M
 Ability:
 
 Plan for Defeat:
-Whenever you play an ATTACK on a target hero, you may choose one:
+Whenever you target a hero with an ATTACK, you may choose one:
 1. Draw a card.
 2. Discard 1 card from the targeted hero's hand.
-If the targeted hero plays a DODGE, the targeted hero discards a card from you.
+If the targeted hero plays a DODGE, the targeted hero discards a card from your hand or equipment zone.
 </cardDescription>
     </Card>    
     <Card>
@@ -971,7 +971,7 @@ Under Ritual:
 At the end of another hero's turn, if you are not within the attack range of that hero, you may choose one:
 1. You draw a card.
 2. The target hero draws a card.
-Then decrease your physical range with other heroes by 1.
+Then decrease your physical range with other heroes by -1.
 (The change in physical range is permanent for the rest of the game.) 
 </cardDescription>
     </Card>
@@ -1350,7 +1350,7 @@ Countering Chaos:
 At the end of another hero's turn, if the target hero has more current health than you, or has played an ATTACK targeting you this turn, you may discard a BLACK card and treat it as an ATTACK towards that hero.
 
 Horsemanship:
-The physical range you see other heroes is reduced by +1.
+The physical range you see other heroes is reduced by -1.
 </cardDescription>
     </Card>
     <Card>
@@ -1459,7 +1459,7 @@ At the beginning of your turn, you may discard a card and choose to gain an abil
 (You cannot gain Emperor abilities, Awakening abilities, or Limited abilities.) 
 
 Allure:
-At the end of your turn, you may flip your hero card face down and choose a target hero, then targeted hero flips their hero card.
+At the end of your turn, you may flip your hero card face down and choose a target hero, then the targeted hero flips their hero card.
 </cardDescription>
     </Card>
     <Card>
@@ -1516,7 +1516,7 @@ Ability:
 
 Double Edged:
 At the beginning of your main phase, you may clash with a target hero. If you win the clash, you may choose a target hero and treat this as you playing an ATTACK to the targeted hero.
-If he lose the clash, you proceed to end your main phase.
+If you lose the clash, you proceed to end your main phase.
 </cardDescription>
     </Card>
     <Card>
