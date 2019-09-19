@@ -112,7 +112,7 @@ Health/Gender: 3M
 Ability:
 
 Execute:
-At the end of your discard phase, you may chosoe one:
+At the end of your discard phase, you may choose one:
 1. Choose X target heroes to draw a card in turn sequence.
 2. Deal 1 damage to any number of heroes with current health equal to X.
 (X is the number of cards you have discarded during your discard phase.)
@@ -122,7 +122,7 @@ During your main phase, you cannot target heroes that do not have you within the
 At the end of your main phase, if the number of cards you played is less than the number of target heroes that do not have you within their attack range, you discard a card from each of those hero's hand or equipment zones.
 
 Army Establishment: (Emperor Ability)
-Whenever another WU faction hero plays an ATTACK during thie main phase, after the ATTACK is resolved; that hero may give the ATTACK to you, then you may have that hero draw a card.
+Whenever another WU faction hero plays an ATTACK during thier main phase, after the ATTACK is resolved; that hero may give the ATTACK to you, then you may have that hero draw a card.
 </cardDescription>
     </Card>
     <Card>
@@ -658,7 +658,8 @@ During your main phase, if your hand limit is greater than 0, you may draw a car
 (X is your current health)
 
 Chain of Disasters:
-Whenever you are dealt FIRE damage, if your hero card is chained and you are the first hero among the chained heroes to receive the damage, this damage is increased by 1</cardDescription>
+Whenever you are dealt FIRE damage, if your hero card is chained and you are the first hero among the chained heroes to receive the damage, this damage is increased by +1.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Xu Shi</cardName>

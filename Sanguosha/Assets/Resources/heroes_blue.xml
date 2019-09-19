@@ -1071,7 +1071,7 @@ Health/Gender: 4M
 Ability:
 
 Push the Front:
-Whenever you are dealt damage, for each point of damage you receive, you may attach a card onto your hero as an [EDGE].
+Whenever you are dealt damage, for each point of damage you receive, you may attach a card from your hand or equipment zone onto your hero as an [EDGE].
 
 At the beginning of your turn, remove all [EDGE] cards attached on your hero and draw X cards twice.
 You may play +X additional ATTACKs until the end of turn.
@@ -1265,7 +1265,7 @@ Ascend Above Others:
 Once during your main phase, after targeting a hero with an ATTACK or tactics card that deals damage, you may choose to make 3 guesses whether the targeted hero has any combination of the 3 card types.
 (Your guesses have to be binary, for example: If the targeted hero has a basic card or not. If the targeted hero has a tactics card or not, If the targeted hero has an equipment card or not.)
 
-If 1 of your guesses was correct, the damage you have dealt is increased by +1.
+If 1 of your guesses was correct, the damage you deal is increased by +1.
 If 2 of your guesses were correct, you draw 2 cards.
 If 3 of your guesses were correct, you gain the [VILLAINOUS HERO] and [UNNATURAL DEATH] abilities.
 

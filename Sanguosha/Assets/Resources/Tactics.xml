@@ -7,6 +7,8 @@
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Multi Target
+
 You target all other heroes, in turn sequence, each target hero must play an ATTACK. If a target hero does not play an ATTACK, deal 1 damage to that target hero.
 	  </cardDescription>
     </Card>
@@ -16,6 +18,8 @@ You target all other heroes, in turn sequence, each target hero must play an ATT
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Multi Target
+
 You target all other heroes, in turn sequence, each target hero must play a DODGE. If a target hero does not play a DODGE, deal 1 damage to that target hero.
 	  </cardDescription>
     </Card>
@@ -25,6 +29,8 @@ You target all other heroes, in turn sequence, each target hero must play a DODG
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Multi Target
+
 You target all heros, each target hero gains 1 health.
 	  </cardDescription>
     </Card>
@@ -34,6 +40,8 @@ You target all heros, each target hero gains 1 health.
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Multi Target
+
 Reveal X cards from the top of the library, where X is number of surviving heroes. Starting from you in turn sequence, each hero picks a revealed card and takes it into their hand. Any remaining cards are move into the discard pile.
 	  </cardDescription>
     </Card>
@@ -43,6 +51,8 @@ Reveal X cards from the top of the library, where X is number of surviving heroe
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target (Self)
+
 You draw two cards from the library.
 	  </cardDescription>
     </Card>
@@ -52,6 +62,8 @@ You draw two cards from the library.
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target
+
 Cancel target tactics card effect targeting a hero or another target card.
 	  </cardDescription>
     </Card>
@@ -61,6 +73,8 @@ Cancel target tactics card effect targeting a hero or another target card.
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target
+
 Choose a target hero and discard a card from that hero's hand, equipment zone, or judgement zone.
 	  </cardDescription>
     </Card>
@@ -70,6 +84,8 @@ Choose a target hero and discard a card from that hero's hand, equipment zone, o
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Multi Target
+
 Choose a target hero other than youself with a weapon in their equipment zone. That hero must play an ATTACK on another target hero of your choice who is within their attack/physical range. If that hero does not, take that hero's weapon card into your hand.
 	  </cardDescription>
     </Card>
@@ -79,6 +95,8 @@ Choose a target hero other than youself with a weapon in their equipment zone. T
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target
+
 Choose a target a hero, that hero must discard an ATTACK card; if that hero discards an ATTACK, you must now discard an ATTACK card; repeat the process until a hero is unable discard an ATTACK. The hero that can no longer discard an ATTACK is declared the loser and is dealt 1 damage by the winner.
 	  </cardDescription>
     </Card>
@@ -88,6 +106,8 @@ Choose a target a hero, that hero must discard an ATTACK card; if that hero disc
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target
+
 Choose a target a hero within your physical range; you take one card from his hand, equipment zone or judgment zone it into your hand.
 	  </cardDescription>
     </Card>
@@ -97,6 +117,8 @@ Choose a target a hero within your physical range; you take one card from his ha
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target
+
 Choose a target hero with at least one card in their hand; that hero reveals a card from their hand. You may discard a card with the same suit as the revealed card; if you do, you deal 1 Fire damage to that hero.
 	  </cardDescription>
     </Card>
@@ -106,9 +128,12 @@ Choose a target hero with at least one card in their hand; that hero reveals a c
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
-Choose up to 2 target heroes, you may chain or unchain their hero cards.
+Target: Multi Target
+
+Choose up to 2 target heroes, you may chain or unchain their hero cards. Whenever a hero in the chained state is dealt elemental damage, all other heroes in the chained state are dealt the excat same amount of damage after calculations are made. Then all chained heroes are placed back into the unchained staet.
 	  
 Recast: You may discard this card during the main phase of your turn to draw a card from the library.
+(This does not trigger discard abilities.)
 </cardDescription>
     </Card>
     <Card>
@@ -117,6 +142,8 @@ Recast: You may discard this card during the main phase of your turn to draw a c
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Single Target
+
 Choose a target hero other than youself, that hero draws X cards, then you deal 1 damage to the targeted hero.
 (X is the targeted hero's missing health, max of 5.)
 </cardDescription>
@@ -127,6 +154,8 @@ Choose a target hero other than youself, that hero draws X cards, then you deal 
       <cardType>Tactics</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>
+Target: Multi Target
+
 Choose a target MALE hero with cards in their hand, each FEMALE hero in sequence takes a card from the targeted MALE hero's hand and then gives you a card. Then compare the targeted MALE hero's number of cards in hand with the number cards in your hand, the hero with the greater number of cards in their hand deals 1 damage to the hero with the lower number of cards in their hand.
 </cardDescription>
     </Card>

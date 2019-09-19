@@ -7,7 +7,8 @@
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
-	  Whenever you need to play or discard a DODGE, you may perform a judgment. If the result is RED, you are considered to have played or discarded a DODGE.</cardDescription>
+Whenever you need to play or discard a DODGE, you may perform a judgment. If the result is RED, you are considered to have played or discarded a DODGE.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Shield of Ren Wang</cardName>
@@ -15,7 +16,8 @@
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
-	  Ignore the effects of all BLACK ATTACKs targeting you.</cardDescription>
+Ignore the effects of all BLACK ATTACKs that target you.
+</cardDescription>
     </Card>
     <Card>
       <cardName>Rattan Armor</cardName>
@@ -23,15 +25,18 @@
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
-	  Ignore the effects of all BARBARIAN ASSAULT, HAIL OF ARROWS, and normal ATTACKs targeting you. Whenever a source deals FIRE damage to you, that damage is increased by 1.</cardDescription>
+Ignore the effects of all BARBARIAN ASSAULT, HAIL OF ARROWS, and normal ATTACKs that target you.
+Whenever a source of damage deals FIRE damage to you, that damage is increased by +1 after calculation.
+</cardDescription>
     </Card>
     <Card>
-      <cardName>Platinum Lion</cardName>
+      <cardName>Platinum Lion Shield</cardName>
       <portraitOverride />
       <cardType>Armors</cardType>
       <heroFaction>None</heroFaction>
       <cardDescription>Effect:
-	  The max damage that can be dealt to you by a source is reduced to 1 damage. When this card is removed from your equipment zone, you gain 1 health.</cardDescription>
+The max damage that can be dealt to you by a source is reduced to 1 damage. When this card is removed from your equipment zone, you gain 1 health.
+</cardDescription>
     </Card>
   </CardData>
 </CardDataCollection>

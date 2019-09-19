@@ -268,10 +268,10 @@ Health/Gender: 3M
 Ability:
 
 Bewilder:
-Whenever you want to use a basic or non-delay tactics card, you may play a card face down and announce a basic or non-delay tactics card name you want the face down card to be to played as. Then each hero in sequence states whether the face down card is the same as the announced card named or not. If no hero doubts the face down card, the effects of the announced card proceeds to being resolved. If any heroes doubt the face down card, it is immediately revealed after having asked all heroes in sequence.
-
-If the name of the revealed card is the same as what you have announced, all heroes who have doubted loses 1 health; if the revealed card has a HEARTS suit, resolve the card as the announced name.
-If the name of the revealed card is not the same as what you have announced, all heroes who have doubted draws a card; the announced card's effect is canceled and the card is discarded.
+Whenever you want to play a basic or non-delay tactics card, you may play a card face down and announce a basic or non-delay tactics card name you want the face down card to be to played as. Then each hero in sequence states whether the face down card is the same as the announced card named or not. If no hero doubts the face down card, the effects of the announced card proceeds to being resolved. If any heroes doubt the face down card, it is revealed after having asked all heroes in sequence.
+If the name of the revealed card shares the same name as what you have announced, all heroes who have doubted loses 1 health.
+If the revealed card does not share the same name as what you have announced, all heroes who have doubted it draws a card.
+If the revealed card has a HEARTS suit, resolve the card effects as the announced name, otherwise the effects of the revealed card is cancelled and discarded.
 (Heroes on the brink of death state cannot doubt you. If the card's effect was canceled through being revealed as false, it is counted as you never having played the announced card at all. For example, if the announced ATTACK was false, you are still allowed to play another ATTACK.)
 </cardDescription>
     </Card>
@@ -289,7 +289,7 @@ Ability:
 Bewilder:
 Once during each hero's main phase, you may announce a basic or non-delay tactics card name and play a card face down. This card is treated as the announced card.
 Before resolving the effects of your announced card, any hero may choose to doubt you and declare that the name of the announced card does not match the name of the card you have played face down; if any hero doubts you, reveal the face down card immediately.
-If the name of the revealed card is different from what you have announced, cancel the card's effects and discard it.
+If the name of the revealed card is different from what you have announced, cancel the card effects and discard it.
 If the name of the revealed card is the same as what you have announced, resolve the effects of the card and the hero who doubted you gains the [HAUNTED] ability.
 
 [HAUNTED]:
@@ -596,7 +596,7 @@ Whenever you play a card during your main phase, if the card you play has the sa
 
 Aiming the North:
 Whenever you are dealt damage, if it was the first time you are dealt damage this turn, you gain 1 health; if it was not the first time you are dealt damage this turn, you lose 1 health.
-(This effect activates before you enter the brink of death state.)
+(You must be saved from the brink of death in order to activate this ability. Damage from loss of health does not activate this ability.)
 </cardDescription>
     </Card>
     <Card>
@@ -769,13 +769,13 @@ Health/Gender: 3F
 Ability:
 
 Protect the Seal:
-Whenever you become the target of an ATTACK, you may announce the name of a card. Unless the attacker discards the card you announced and takes 1 card from your hand or equipment zone, the ATTACK is cancelled.
+Whenever you become the target of an ATTACK, you may announce the name of a basic or non-delay tactics card. The ATTACK is cancelled unless the attacker discards the card you announced If the attacker discards the card you have announced, the attacker takes 1 card from your hand or equipment zone.
 (You may only announce each card name once per game.)
 
 Benifiting Civilians:
 At the end of your turn, you may draw X cards.
-(X is the number of players who has less cards in hand than their current health.)
-Then you reveal X cards from your hand and select a target hero. Starting from that hero, each other hero in sequence takes 1 of the revealed cards.
+(X is the number of players who have less cards in hand than their current health.)
+Then you reveal X cards from your hand and select a target hero. Starting from the targeted hero, each other hero in turn sequence takes 1 of the revealed cards.
 </cardDescription>
     </Card>
     <Card>
@@ -791,7 +791,7 @@ Ability:
 
 Deplete Karma:
 Whenever you deal damage to another hero, if their health is greater than your health, you may discard a BLACK card to increase the damage by +1.
-Whenever you are dealt damage by another hero, if their health is greater than your health, you may discard a RED card to reduce the damage by -1.
+Whenever you are being dealt damage by another hero, if their health is greater than your health, you may discard a RED card to reduce the damage by -1.
 (This effect takes priority before calculating armor effects.)
 
 Burning Heart:
@@ -813,11 +813,11 @@ Health/Gender: 3M
 Ability:
 
 Mandate of Heaven:
-Whenever you become the target of an ATTACK, you may discard 2 cards; then draw 2 cards. A hero, other than you, with the highest amount of health may also perform this skill.
-(If you have less than 2 cards, you may discard your hand to activate this skill.)
+Whenever you become the target of an ATTACK, you may discard 2 cards from your hand; then draw 2 cards. A hero, other than you, with the highest amount of health may also perform this skill.
+(If you have less than 2 cards, you may discard your hand to activate this skill. If you have no cards in your hand, you may ignore the discard condition.)
 
 Secret Edict:
-Once per a hero's main phase, you may give all the cards in your hand to a target player; then choose another target hero, the targeted heroes must perform a clash. The winner of the clash is considered to have played an ATTACK on the loser.
+Once during your main phase, you may give all the cards in your hand to a target player; then choose another target hero, the targeted heroes must perform a clash. The winner of the clash is considered to have played an ATTACK on the loser.
 (If the seconds targeted hero is unable to perform a clash, the first targeted hero still receives the cards you give. If the clash ends in a draw, nothing happens.)
 </cardDescription>
     </Card>
@@ -1475,9 +1475,11 @@ Ability:
 
 Famed Scholar:
 Whenever you are dealt damage, the source of damage must show their hand; if the source of damage does not, the damage is reduced by -1.
+(If the source of damage has no card in their hand, the damage is automatically reduced.)
 
 Courtesy:
 Whenever you discard cards, you may choose another target hero and give all the discarded cards to the targeted hero.
+(You may choose a target for each time you are prompt to discard cards.)
 </cardDescription>
     </Card>
     <Card>
