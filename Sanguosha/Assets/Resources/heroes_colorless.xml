@@ -38,7 +38,7 @@ Ability:
 Random Strike:
 During your main phase, you may discard 2 cards of the same suit from your hand and treat it as you playing HAIL OF ARROWS.
 
-Bloodline:
+Bloodline: (Emperor Ability)
 Your maximum hand size is increase by X, where X is 2 times the number of other surviving KINGDOMLESS faction heroes.
 </cardDescription>
     </Card>
@@ -94,7 +94,7 @@ Whenever you discard cards during your discard phase, you may give 1 of the disc
       <heroFaction>Colorless</heroFaction>
       <cardDescription>Title: The Cornered Tiger
 
-Health/Gender: 4M
+Health/Gender: 5M
 
 Ability:
 
@@ -387,7 +387,7 @@ During your main phase, each hero other than you must choose to play an ATTACK t
 
 Shroud:
 You cannot be the target of BLACK tactics cards.
-(This includes cards that target all heroes and non-delay tactics cards.)
+(This includes cards that target all heroes and non-delay tactics cards. If LIGHTNING BOLT is in play, it does not enter your judgement zone and skips you in turn sequence.)
 </cardDescription>
     </Card>
     <Card>
@@ -673,7 +673,7 @@ Health/Gender: 2M
 Ability:
 
 Peacekeeping:
-Once per each hero's main phase, if the number of cards in your hand is greater than your current health, you may target a hero with you in their attack range; unless that hero plays an ATTACK targeting you, that hero gives you an equipment card from their equipment zone to your hand.
+At the beginning of each hero's main phase, if the number of cards in your hand is greater than your current health, you may target a hero with you in their attack range; unless that hero plays an ATTACK targeting you, that hero gives you an equipment card from their equipment zone into your hand.
 
 Ancestral Blessing:
 At the beginning of the game, you increase your max health by X.
@@ -1059,7 +1059,7 @@ The physical range you see heroes with health less than you is 1.
 
 Acacia:
 At the beginning of your main phase, you may reveal the cards in your hand; if you do not have any ATTACK cards in your hand, you may play ATTACKs without playing the card until the number of cards in your hand changes.
-(To play an ATTACK with this ability, you must choose a target hero and annouce the ATTACK. You do not play a card, but the targeted hero may still respond to your ATTACK. This ATTACK counts towards the ATTACK restriction limit. ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
+(To play an ATTACK with this ability, you must choose a target hero and annouce the ATTACK. You do not play a card, but the targeted hero may still respond to your ATTACK. This ATTACK counts towards the ATTACK restriction limit. ATTACK restriction limit: A hero is limited to playing 1 ATTACK per main phase unless another effect says otherwise.)
 </cardDescription>
     </Card>
     <Card>
@@ -1589,6 +1589,25 @@ Lacking Foresight:
 Whenever you draw a card, you may draw from the bottom of the library instead.
 
 Note: Transform abilities alternate between each mode when activated. You may only first activate the effect of Mode 1 and then activate Mode 2 the next time you choose to use the same ability. You cannot activate the effect from the same mode before choosing to activate the other one first.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhang Xiu</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Colorless</heroFaction>
+      <cardDescription>Title: Lance Master of the North
+      
+Health/Gender: 4M
+
+Ability:
+
+Treachery: (Limited Ability)
+Once per game, during your main phase, you may abandon all of your equipment and judgement zones to choose another target hero. Until the end of turn, you ignore any range requirements and restriction limits for cards targeting that hero, and the targeted hero cannot play or use any cards from their hand.
+(The targeted hero cannot play, discard, or use any cards from their hand to activate any ability or effect that require them to do so.)
+
+Listen to Advice:
+Whenever you become the target of a tactics card, if there is more than 1 target, you may give a card from your hand or equipment zone to 1 of the targets other than you, then you draw a card. If you give out an equipment card, you draw 2 cards instead.
 </cardDescription>
     </Card>
 	</CardData>

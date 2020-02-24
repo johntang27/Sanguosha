@@ -64,7 +64,7 @@ You draw two cards from the library.
       <cardDescription>
 Target: Single Target
 
-Cancel target tactics card effect targeting a hero or another target card.
+Cancel a target tactics card effect targeting a hero or another target card.
 	  </cardDescription>
     </Card>
     <Card>
@@ -86,7 +86,7 @@ Choose a target hero and discard a card from that hero's hand, equipment zone, o
       <cardDescription>
 Target: Multi Target
 
-Choose a target hero other than youself with a weapon in their equipment zone. That hero must play an ATTACK on another target hero of your choice who is within their attack/physical range. If that hero does not, take that hero's weapon card into your hand.
+Choose a target hero other than youself with a weapon in their equipment zone. That hero must play an ATTACK on another target hero of your choice who is within their attack/physical range. If that hero does not, take that hero's equipped weapon card into your hand.
 	  </cardDescription>
     </Card>
     <Card>
@@ -130,10 +130,11 @@ Choose a target hero with at least one card in their hand; that hero reveals a c
       <cardDescription>
 Target: Multi Target
 
-Choose up to 2 target heroes, you may chain or unchain their hero cards. Whenever a hero in the chained state is dealt elemental damage, all other heroes in the chained state are dealt the excat same amount of damage after calculations are made. Then all chained heroes are placed back into the unchained staet.
+Choose up to 2 target heroes, you may choose to chain or unchain their hero cards. Whenever a hero in the chained state is dealt elemental damage, all other heroes in the chained state are dealt the exact same amount of damage after calculations are made. Then all chained heroes are placed back into the unchained state.
+(After calculating the damage the intial target within the chained state, the exact same damage is applied to each hero who is in the chained state as well. Armor or hero effects cannot be applied to this damage since it has already been calculated and resolved from the initial damage.)
 	  
 Recast: You may discard this card during the main phase of your turn to draw a card from the library.
-(This does not trigger discard abilities.)
+(This does not trigger discard abilities or is able to be cancelled by IMPECCABLE PLAN.)
 </cardDescription>
     </Card>
     <Card>
