@@ -926,7 +926,7 @@ Health/Gender: 4M
 Ability:
 
 Damask Helmet:
-You gain the following abilities based on the number of different suits in your equipment zone:
+You gain each of the following abilities while having the number of different suits in your equipment zone:
 1: [HORSEMANSHIP]
 2: [DASHING HERO]
 3: [SHORT SOLDIER]
@@ -1024,6 +1024,94 @@ At the beginning of your drawing phase, if you have no [ORANGE] tokens attached,
 During the drawing phase, if a hero has an an [ORANGE] token attached, that hero draws an extra card.
 Whenever a hero with an attached [ORANGE] is dealt damage, prevent that damage and remove an [ORANGE] token.
 (You only draw 1 extra card, you do not draw a card per each [ORANGE] token attached to your hero. Whenever you are dealt damage with an [ORANGE] token attached, you must discard it when resolving to take the damage.)
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Yan Jun</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: Minister of the Guards
+
+Health/Gender: 3M
+
+Ability:
+
+Tide Observing:
+At the beginning of your main phase, you may choose one:
+1. Until the end of your turn, whenever you play a card with a rank higher than the previous card you've played, you may draw a card.
+2. Until the end of your turn, whenever you play a card with a rank lower than the previous card you've played, you may draw a card.
+
+Concession:
+Once per each hero’s turn, when a card you play enters the discard pile, you may give that card to another hero with more cards in their hand than you.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Zhou Fei</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: The Crowned Princess of Wu
+
+Health/Gender: 3F
+
+Ability:
+
+Blessed Marriage:
+Whenever a card is removed from game, you may choose a target hero with more cards in their hand than you to draw a card.
+Whenever a card is returned to the game, you may choose a target hero with less cards in their hand than you to discard a card from hand or equipment zone.
+
+Sound of Kong:
+At the beginning of your upkeep, you may remove any number of cards from your hand or equipment zone from the game and attach them onto your hero. At the end of your turn, all the attached cards are considered returned back into the game, play all equipment cards from the removed cards and return the rest of the removed cards into your hand.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Lu Kang</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: The Pillar of the Country
+
+Health/Gender: 4M
+
+Ability:
+
+Humble:
+You cannot be put into the chained state. You cannot be the target of delay tactics cards. Other heroes cannot choose you as a target for a clash.
+(You can still be selected as a target for IRON CHAINS, but you return to a unchained state after resolving the effect. If LIGHTNING BOLT is in play, it does not enter your judgement zone and skips you in turn sequence. You can still choose to initiate clash with other heroes when able to.)
+
+Dam Destruction:
+Once during your main phase, you may choose one of the following options and abandon the correspondig equipment zone to trigger the effects:
+Abandon weapon sone: You may play 3 extra ATTACKs this turn.
+Abandon armor zone: Draw 3 cards, your max hand size this turn is increase by 3.
+Abandon both mount zones: Ignore any range requirements for the cards you play until the end of turn.
+Abandon treasure zone: You gain the [GATHERING WISDOM] ability until the end of turn.
+
+Turning Tides: (Awakening Ability)
+At the beginning of your turn, if all of your equipment zones have been abandoned or you have exactly 1 health; you reduce your maximum health by -1, then draw cards until the number of cards in your hand is equal to your max health, then you lose the [DAM DESTRUCTION] ability and gain the [CONCILIATORY] ability.
+
+[Conciliatory]:
+During your main phase, you may recast equipment cards.
+
+[Gathering Wisdom]:
+Whenever you play a tactics card, you may reveal the top card of the library. If it is not a basic card, you take the revealed card. If it is a basic, you may discard a card from your hand and then take the revealed card.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Su Fei</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Green</heroFaction>
+      <cardDescription>Title: Mighty and Talented
+
+Health/Gender: 4M
+
+Ability:
+
+Continuous Waves:
+During your main phase, whenever you play a card targeting another hero or heroes, if the targeted hero or heroes were the targets of a previous card you've played, you may draw a card.
+If you chose to draw, you may give the drawn card to one of the targeted heroes.
+You may only activate this ability 3 times per round.
 </cardDescription>
     </Card>
   </CardData>

@@ -457,7 +457,8 @@ Health/Gender: 3M
 Ability:
 
 Contrivance:
-Once during your main phase, you may use any card from your hand as any non-delay tactics card.
+Once during your main phase, you may use all the cards from your hand as any non-delay tactics card.
+(You must use your entire hand to activate this ability. The color of the non-delay tactics card is dependent on the color of the cards you use, the same rule from the SERPENT SPEAR applies.)
 
 Playing Dumb:
 Whenever you are dealt damage, you may draw a card and reveal your hand; if all cards in your hand are of the same color, the source of damage discards a card from their hand.
@@ -635,7 +636,7 @@ Ability:
 Thorough Scheme:
 Your non-delay tactics cards cannot be cancelled by IMPECCABLE PLAN.
 You cannot be the target of delay tactics cards.
-(If LIGHTNING BOLT is in play, it does not enter your judgement zone and skips you in turn priority.)
+(If LIGHTNING BOLT is in play, it does not enter your judgement zone and skips you in turn sequence.)
 
 Between Books: (Limited Ability)
 Once per game, during you main phase, you can give a BLACK card from your hand to a target hero; then choose another hero within the targeted hero's attack range, both targeted heroes perform a clash. The winner of the clash discards 2 cards and the loser loses 1 health.
@@ -718,7 +719,7 @@ During your main phase, you may discard a card from your hand and choose a targe
 2. Discard X cards from hand or equipment zone.
 
 X is the number of times you have used this ability this turn.
-If the targeted hero is damaged, you are put into the chaiend state.
+If the targeted hero is damaged, you are put into the chained state.
 
 Justice and Mercy:
 Whenever a hero is flipped face up or chained, you may let that hero draw a card.
@@ -1247,7 +1248,7 @@ Clear Devotion:
 During your main phase, you may draw 2 cards, if you do, at the end of your turn, you must exchange the cards in your hand with the hero with the lowest amount of cards in their hand.
 
 Defend the Border:
-Once during each hero's turn, whenever you need to play a ATTACK or a DODGE in response to an effect, you may announce that you play an ATTACK or DODGE and treat it as so.
+Once during each hero's turn, whenever you need to play an ATTACK or DODGE in response to an effect, you may announce that you play an ATTACK or DODGE and treat it as so.
 </cardDescription>
     </Card>
     <Card>
@@ -1255,7 +1256,7 @@ Once during each hero's turn, whenever you need to play a ATTACK or a DODGE in r
       <portraitOverride />
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
-      <cardDescription>Title: The Phoenix Cries over Longcheng 
+      <cardDescription>Title: The Phoenix of Longcheng 
 
 Health/Gender: 4F
 
@@ -1265,9 +1266,9 @@ Ascend Above Others:
 Once during your main phase, after targeting a hero with an ATTACK or tactics card that deals damage, you may choose to make 3 guesses whether the targeted hero has any combination of the 3 card types.
 (Your guesses have to be binary, for example: If the targeted hero has a basic card or not. If the targeted hero has a tactics card or not, If the targeted hero has an equipment card or not.)
 
-If 1 of your guesses was correct, the damage you deal is increased by +1.
+If 1 of your guesses was correct, the damage you will deal is increased by +1.
 If 2 of your guesses were correct, you draw 2 cards.
-If 3 of your guesses were correct, you gain the [VILLAINOUS HERO] and [UNNATURAL DEATH] abilities.
+If 3 of your guesses were correct, you gain the [VILLAINOUS HERO] and [UNNATURAL DEATH] abilities until the beginning of your next turn.
 
 Conceal Inbetween:
 At the end of your turn, you may randomly choose a target hero and look at X cards from their hand.
@@ -1320,6 +1321,63 @@ Once during your main phase, you may give a card to a target hero with the most 
 
 (Mode 2):
 Whenever another hero deals damage to you, you may look at the cards in their hand and give a card to that hero. At the end of the turn, if the targeted hero did not play or discard the card you have given, you draw cards until you have 4 cards in your hand.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Hao Zhao</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Brutal General
+
+Health/Gender: 4M
+
+Ability:
+
+Defend to the Death:
+At end of your turn, you may choose another target hero. At the end of your turn and at the end of that hero's next turn, the targeted hero draws or discard cards until they have the same number of cards in their hand as you.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Guanqiu Jian</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: The Engraving Conqueror
+
+Health/Gender: 4M
+
+Ability:
+
+Conquer
+Whenever you deal damage to a target hero, if the target hero has more cards in their hand then you, you may remove 1 card from their hand from the game and attach it onto your hero as [GLORY].
+
+Endeavor: (Awakening Ability)
+At the beginning of your turn, if you have 3 or more [GLORY] cards attached and there is at least 1 dead hero, you may swap any cards in your hand with the [GLORY] cards, then lose 1 maximum health and gain the [COUP D'ETAT] ability.
+
+[Coup d'Etat]:
+During your main phase, you may discard 1 [GLORY] card attached to your hero to discard a card from another hero's hand, equipment zone, or judgement zone.
+</cardDescription>
+    </Card>
+    <Card>
+      <cardName>Tang Zi</cardName>
+      <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Blue</heroFaction>
+      <cardDescription>Title: Genius of Engineering
+
+Health/Gender: 4M
+
+Ability:
+
+Shipbuilding:
+You gain each of the following effects whenever the number damaged surviving heroes are:
+1: You gain the abulity [SINCERITY].
+2: Whenever you play an equipment card, you may draw a card.
+3+: You may choose to skip your discard phase.
+
+[Sincerity]:
+At the beginning of your turn, you may look at the top 4 cards of the library; then choose 2 to be placed back on top of the library and 2 to be placed on the bottom of the library.
 </cardDescription>
     </Card>
   </CardData>

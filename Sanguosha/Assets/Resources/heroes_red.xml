@@ -476,7 +476,7 @@ Ability:
 
 Dragon Roar:
 Whenever a hero plays an ATTACK during their main phase, you may discard a card from your hand or equipment zone. If you do, that ATTACK does not count towards the ATTACK resctriction limit. If that ATTACK is red, you draw a card.
-(ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
+(ATTACK restriction limit: A hero is limited to playing 1 ATTACK per main phase unless another effect says otherwise.)
 </cardDescription>
     </Card>
     <Card>
@@ -510,7 +510,7 @@ Ability:
 
 Framed:
 At the beginning of your turn, you may choose up to 2 target heroes. Take one card from each hero's hand or equipment zone and attach them onto your hero card as [BETRAYAL] cards. Whenever a player wants to play an ATTACK on you, they may instead discard 2 [BETRAYAL] cards attached to your hero and treat it as playing an ATTACK on you.
-(This ATTACK counts towards the ATTACK restriction limited. ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
+(This ATTACK counts towards the ATTACK restriction limited. ATTACK restriction limit: A hero is limited to playing 1 ATTACK per main phase unless another effect says otherwise.)
 </cardDescription>
     </Card>
     <Card>
@@ -540,7 +540,7 @@ Health/Gender: 4M
 Ability:
 
 Loyalty and Bravery:
-After your ATTACK is resolved, you may give the ATTACK you played or the DODGE played by the defender to another target hero. (Other than yourself and the defender.)
+Whenever you play an ATTACK targeting a hero, after your ATTACK is resolved, you may give the ATTACK you played or the DODGE played by the defender to another target hero. (Other than yourself and the defender.)
 If the card you give to the targeted hero is RED, the targeted hero who received the RED card may play an ATTACK targeting a hero within your attack range immediately.
 </cardDescription>
     </Card>
@@ -767,7 +767,7 @@ Dance with the Spear:
 Once per main phase, you may perform a judgement, then until the end of the turn:
 1. Your ATTACK cards with ranks lower than the rank of the judgement card have unlimited range.
 2. Your ATTACK cards with ranks higher than the rank of the judgement card  count towards the ATTACK restriction limit.
-(ATTACK restriction limit: A hero is limted to playing 1 ATTACK per main phase unless another effect says otherwise.)
+(ATTACK restriction limit: A hero is limited to playing 1 ATTACK per main phase unless another effect says otherwise.)
 </cardDescription>
     </Card>
 	<Card>
@@ -1063,12 +1063,12 @@ Martial Artist:
 Whenever you play an ATTACK, you may take a card from the hand or equipment zone of a target hero; then the targeted hero draws a card. If Guan Sou is present in the game, he also draws a card.
 
 Promise of Love:
-Whenever another MALE hero causes you to enter the brink of death, if Guan Sou is not present in the game, you may choose to replace your current hero with Guan Sou; then you return to 1 health and gain the [GUARDING THE SOUTH] ability.
+Whenever a MALE hero saves you from the brink of death, if Guan Sou is not present in the game, you may choose to replace your current hero with Guan Sou; then you return to 1 health and gain the [GUARDING THE SOUTH] ability.
 (If you replace your hero, you will play as Guan Sou with the additional [GUARDING THE SOUTH] ability.)
 
 [Guarding the South]:
-Whenever you are targeted by BARBARIAN ASSAULT, you may deal X damage to a target hero.
-(X is your missing health.)
+Whenever you are targeted by BARBARIAN ASSAULT, you may randomly deal 1-3 damage to a target hero.
+(The damage is randomly determined by rolling dice or flipping coins.)
 </cardDescription>
     </Card>
 	<Card>
@@ -1146,6 +1146,24 @@ Once during your main phase, you may choose one:
 
 Hinge on Father's Deed:
 If you do not have an armor card in your equipment zone, other heroes with the number of cards in their hand greater or equal to the number of cards in your hand cannot target you with an ATTACK, DUEL, or BLAZE.
+</cardDescription>
+    </Card>
+	<Card>
+      <cardName>Huang Quan</cardName>
+	  <portraitOverride />
+      <cardType>Heroes</cardType>
+      <heroFaction>Red</heroFaction>
+      <cardDescription>Title: Seal Off All Roads
+
+Health/Gender: 3M
+
+Ability:
+
+Prepare to Advance:
+At the beginning of the game, choose another target hero; whenever you deal damage to that hero, you draw a card.
+
+Plan Advisement:
+Once during your main phase, you may choose another target hero to draw a card, that hero may choose to play the drawn card immediately.
 </cardDescription>
     </Card>
   </CardData>
