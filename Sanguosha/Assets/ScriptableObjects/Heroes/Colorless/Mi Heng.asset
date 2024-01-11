@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Mi Heng
+  m_EditorClassIdentifier: 
+  cardName: Mi Heng
+  cardType: 5
+  cardDescription: "Title: The Hawk that Pecks the Phoenix\n      \nHealth/Gender:
+    3M\n\nAbility:\n\nMadness:\nAt the beginning of your main phase, you may perform
+    a judgement. Cards that share the same suit as the judgement result ignore any
+    range restrictions and any limit restrictions; if you play a card that shares
+    the same suit as the judgement result, you may draw a card.\n(You may draw up
+    to a max of 5 cards per turn with this ability. Ignoring limit restrictions means
+    you may also ignore the ATTACK restriction limit rule and any rulings that only
+    allow you to play any cards once per turn or main phase.)\n\nSharp Tongue:\nAt
+    the end of your discard phase, if the cards you've discarded all have different
+    suits, you may discard a card from another target hero.\n(You must discard more
+    than 1 card during your discard phase to activate this ability.)\n"
+  cardSprite: {fileID: 21300000, guid: 40c21c8387e97a0419fc753ce0f6f3e7, type: 3}
+  heroFaction: 4

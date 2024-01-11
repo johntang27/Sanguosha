@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Empress Guo
+  m_EditorClassIdentifier: 
+  cardName: Cao Chong
+  cardType: 5
+  cardDescription: 'Title: The Benevolent Child Prodigy
+
+
+    Health/Gender: 3M
+
+
+    Ability:
+
+
+    Weight
+    the Elephant:
+
+    Whenever you are dealt damage, reveal the top 4 cards of the
+    library. You place any number of revealed cards with rank totaling less than
+    or equal to 13 into your hand.
+
+    (Ace is is the lowest with a value of 1,
+    King is highest a value of 13.)
+
+
+    Benevolence:
+
+    Whenever another hero
+    wtih 1 health is being dealt damage, you may flip your hero card and discard
+    an equipment card to prevent all damage from the source.
+
+'
+  cardSprite: {fileID: 0}
+  heroFaction: 3

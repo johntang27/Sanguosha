@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_shu_heroes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f2afa46939712e44da504d4248494f23, type: 3}
+    totalSpriteSurfaceArea: 10911192
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9695216070fd1fc4e9ddf0aebc525de0, type: 3}
+  - {fileID: 21300000, guid: 7fc566e0895734972b7a56221bb63002, type: 3}
+  - {fileID: 21300000, guid: acd63511b8a7be74c85d1ed6e232ed3d, type: 3}
+  - {fileID: 21300000, guid: 3935f3c161f7a7c4a99e54ac35bc5e7e, type: 3}
+  - {fileID: 21300000, guid: bcb23202804390446a0b2aedc204b436, type: 3}
+  - {fileID: 21300000, guid: 809f48020974b7a4c82458a2359a1dcc, type: 3}
+  - {fileID: 21300000, guid: d31b1f9227637414794b5951b743ee52, type: 3}
+  - {fileID: 21300000, guid: ca36bce29c8f71441a595d933f72294b, type: 3}
+  - {fileID: 21300000, guid: 0de859235ecfa2d4f81335da3c008b54, type: 3}
+  - {fileID: 21300000, guid: 46e2af330ba80ee41ada5fd5b7fd927a, type: 3}
+  - {fileID: 21300000, guid: 041159d3ab0506f4e8f578cf586107a2, type: 3}
+  - {fileID: 21300000, guid: f7816b04b58d19946b53e7d849f30b03, type: 3}
+  - {fileID: 21300000, guid: 444db5445253d82449dcd2db69e972d4, type: 3}
+  - {fileID: 21300000, guid: 83ccdc4477f36844298f7f79c5f7786a, type: 3}
+  - {fileID: 21300000, guid: 3598245458e3b4e4b933f3ad037fd9ee, type: 3}
+  - {fileID: 21300000, guid: 2d36b894632c914409ea65baea4835cc, type: 3}
+  - {fileID: 21300000, guid: 6581c4d457e636b489d47f40ba03773a, type: 3}
+  - {fileID: 21300000, guid: 40c03ae410bae564298693b45eefeb0d, type: 3}
+  - {fileID: 21300000, guid: c293ce554d3385042a13a4519757bd46, type: 3}
+  - {fileID: 21300000, guid: 48e0d86518a77604da3dda3db52171ac, type: 3}
+  - {fileID: 21300000, guid: 120733e5f6e07184a97d3b3b85721e73, type: 3}
+  - {fileID: 21300000, guid: d518ba863432c6e47a6b22581874043a, type: 3}
+  - {fileID: 21300000, guid: 7a7f16f6725dca240af1f0c6889f4f7a, type: 3}
+  - {fileID: 21300000, guid: 72213117858be6d4dab4850499a2d95d, type: 3}
+  - {fileID: 21300000, guid: d9a1fa2756a490b4a97b01c116f02ffe, type: 3}
+  - {fileID: 21300000, guid: 87a83b576378d6e4a973356129c1f10d, type: 3}
+  - {fileID: 21300000, guid: 6aff9cd79a37b0f4d974a5ed2d2869a9, type: 3}
+  - {fileID: 21300000, guid: 64eaf6e7b19689d4e81a519ebc6acbb4, type: 3}
+  - {fileID: 21300000, guid: 125f20f7eb669ec4fabf9594b640d654, type: 3}
+  - {fileID: 21300000, guid: 5d80ef687a5c75c40836170aa001cd77, type: 3}
+  - {fileID: 21300000, guid: a5a855c8e7445814992a0318f6bf7014, type: 3}
+  - {fileID: 21300000, guid: daf406692a7df1244bbe44bc39937e5e, type: 3}
+  - {fileID: 21300000, guid: 10e813c9e3a0c994d89afba64e73be9b, type: 3}
+  - {fileID: 21300000, guid: 3486300ab61ea5c429b402a104b56b49, type: 3}
+  - {fileID: 21300000, guid: 99cb363a28cea264792c273d2cefd04b, type: 3}
+  - {fileID: 21300000, guid: 0e89735a1606b2044b3c7c43c50c48ba, type: 3}
+  - {fileID: 21300000, guid: 2a6e6fbaf684f48408e9bdfeff9823c2, type: 3}
+  - {fileID: 21300000, guid: f11a03fa0707fa448a716027892d84d1, type: 3}
+  - {fileID: 21300000, guid: 9590ea7bbca76174abb88f576551451a, type: 3}
+  - {fileID: 21300000, guid: 9ec930bb63c6a384c89507b21c29d435, type: 3}
+  - {fileID: 21300000, guid: f9e1e5db87174ca4a852cc483db99d49, type: 3}
+  - {fileID: 21300000, guid: 900a91fba65cbc64283e6357bff434ac, type: 3}
+  - {fileID: 21300000, guid: 3745820c114f08a49ab0d8d7b5ebe886, type: 3}
+  - {fileID: 21300000, guid: 9e90669c86c54134ca32a297f9ec3790, type: 3}
+  - {fileID: 21300000, guid: 0e43f9ccad81a694aa091a23ee0de5c4, type: 3}
+  - {fileID: 21300000, guid: dde5210dfc40b4ff09e2a1b45c36dd54, type: 3}
+  - {fileID: 21300000, guid: e9ad205d48d81774aa933deda6458a34, type: 3}
+  - {fileID: 21300000, guid: 4f5f215dfcf3ca04696d673f71793d40, type: 3}
+  - {fileID: 21300000, guid: 479673dd8ea01d44ea8d86a3a516bd5f, type: 3}
+  - {fileID: 21300000, guid: fddc38dd4d09b0a419f20da5fc57a89c, type: 3}
+  - {fileID: 21300000, guid: 52fcb11e91f285f46bfc7c251c782143, type: 3}
+  - {fileID: 21300000, guid: 41c0905e9bed4a843a38df56871b8384, type: 3}
+  - {fileID: 21300000, guid: d42ccb0feed81f3468db9454179b64b7, type: 3}
+  - {fileID: 21300000, guid: 73041d1fcbfeda547bd56268fdba3f72, type: 3}
+  - {fileID: 21300000, guid: aec7623f108e29d46b8dcf48960bdbce, type: 3}
+  - {fileID: 21300000, guid: 73bdd53fd22f92c4684f251f7e27940e, type: 3}
+  - {fileID: 21300000, guid: fa527d4f69953cd42be855831c791ec2, type: 3}
+  - {fileID: 21300000, guid: addbd69f3795d2f4fbf0275403fa76fa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Zhang_Xin_Cai
+  - Bao_San_Niang
+  - Huang_Zhong
+  - Ma_Lun_Yu
+  - Zhuge_Liang
+  - Ma_Si
+  - Jian_Yong
+  - Wei_Yan
+  - Fa_Zheng
+  - Wu_Xian
+  - Sun_Gan
+  - Mi_Zhu
+  - Zhao_Tong_&_Zhao_Guang
+  - Zhang_Ni
+  - Zhuge_Guo
+  - Chen_Dao
+  - Zhou_Cang
+  - Wang_Ping
+  - Meng_Huo
+  - Wu_Yi
+  - Gan_Fu_Ren
+  - Huang_Yue_Ying
+  - Xu_Shu02
+  - Xu_Shu
+  - Liu_Shan
+  - Young_Zhuge_Liang
+  - Huang_Hao
+  - Ma_Liang
+  - Zhuge_Zhan
+  - Dong_Yun
+  - Guan_Yu
+  - Ma_Chao
+  - Zhao_Yun
+  - Ma_Dai
+  - Xiahou_Shi02
+  - Sun_Shang_Xiang02
+  - Zhang_Song
+  - Xiahou_Ba
+  - Guan_Ping
+  - Ma_Su
+  - Guan_Xing_&_Zhang_Bao
+  - Qin_Zai
+  - Huang_Quan
+  - Liu_Zhang
+  - Zhu_Rong
+  - Li_Feng
+  - Liao_Hua
+  - Pang_Tong
+  - Guan_Yin_Ping
+  - Liu_Bei
+  - Xiahou_Shi
+  - Zhang_Fei
+  - Yan_Yan
+  - Li_Yan
+  - Guan_Suo
+  - Liu_Feng
+  - Zhao_Xiang
+  - Jiang_Wei
+  m_RenderDataMap: {}
+  m_Tag: atlas_shu_heroes
+  m_IsVariant: 0

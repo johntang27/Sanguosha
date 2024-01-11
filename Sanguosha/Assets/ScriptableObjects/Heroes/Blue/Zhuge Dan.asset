@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Zhuge Dan
+  m_EditorClassIdentifier: 
+  cardName: Zhuge Dan
+  cardType: 5
+  cardDescription: 'Title: Expose and Weed the Rebellion
+
+
+    Health/Gender: 4M
+
+
+    Ability:
+
+
+    Meritorious
+    Service:
+
+    Whenever another hero dies, gain 1 unit of maximum health and gain
+    1 health.
+
+
+    Revolt: (Awakening Ability)
+
+    At the beginning of your turn,
+    if you are missing health and your maximum health amount is greater than the
+    number of surviving heroes, draw cards until the amount of cards in your hand
+    is equal your maximum health and you gain the [HEAVY] and [COLLAPSE] abilities.
+
+
+    [Heavy]:
+
+    Whenever
+    your maximum health amount changes, draw a card.
+
+
+    [Collapse]:
+
+    At the
+    end of your turn, if you are not the hero with lowest current health, you must
+    either lose 1 health or lose 1 unit of maximum health.
+
+'
+  cardSprite: {fileID: 21300000, guid: d2958aefae5ed2348883f4cc109249b3, type: 3}
+  heroFaction: 3

@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_wei_heroes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6596745617d13a34e860f73437ca1304, type: 3}
+    totalSpriteSurfaceArea: 13971111
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: df00884062070b4438a1299d88d524e9, type: 3}
+  - {fileID: 21300000, guid: 036b1c60cfb18194b83931d20070be04, type: 3}
+  - {fileID: 21300000, guid: 49f830802d44a471592c845b2f670284, type: 3}
+  - {fileID: 21300000, guid: 9e0732b016059d844af270b3b77ceb20, type: 3}
+  - {fileID: 21300000, guid: f6a48a21f87a2f4499b833b8730548ac, type: 3}
+  - {fileID: 21300000, guid: 23736f21dea39714a99757ab14613750, type: 3}
+  - {fileID: 21300000, guid: ee0f4141b6bd8f440a0d9c20cda84dfb, type: 3}
+  - {fileID: 21300000, guid: 449308b188f81d64f961966fb4507ba4, type: 3}
+  - {fileID: 21300000, guid: 9d180eb1ae9f29a49861dea9c7ed285b, type: 3}
+  - {fileID: 21300000, guid: 1a17ab42d1baf084a9981241935ba8ea, type: 3}
+  - {fileID: 21300000, guid: a150dac250498eb4aa9ff8f96b627114, type: 3}
+  - {fileID: 21300000, guid: f5091be2e9f52cc449a6d4b00f1bb794, type: 3}
+  - {fileID: 21300000, guid: 66cfd0f23b1376f4f9facf0dd865a8a0, type: 3}
+  - {fileID: 21300000, guid: 0eb98e233da4f6e43ad00f44b33d4305, type: 3}
+  - {fileID: 21300000, guid: 19cf7e53e6cd917419edd65d566bb6de, type: 3}
+  - {fileID: 21300000, guid: 1bf029349e00dfa458b306f851acb97d, type: 3}
+  - {fileID: 21300000, guid: cc9918547d42ede4e83ecbaa54d9a236, type: 3}
+  - {fileID: 21300000, guid: 2ca660a4f375ccc4291efc9ef00fefc6, type: 3}
+  - {fileID: 21300000, guid: 4b3d9da43e2ddf74cbbc5ef8b2c7b034, type: 3}
+  - {fileID: 21300000, guid: c014d5b439b538c448268a5b3eeed1b7, type: 3}
+  - {fileID: 21300000, guid: 070305d4336e1334d848a93996d806d5, type: 3}
+  - {fileID: 21300000, guid: 27cc3cf44b2151241a0e1bdac28acfd7, type: 3}
+  - {fileID: 21300000, guid: 9632ad150984eed419114c7d5d2e3321, type: 3}
+  - {fileID: 21300000, guid: b76cce25b1037d94d8020ac5f75de4d0, type: 3}
+  - {fileID: 21300000, guid: 6ee8ed35a6d157d4ea9e0b1f8eb78d62, type: 3}
+  - {fileID: 21300000, guid: aea4ce4559fc2184f9da63298059bc40, type: 3}
+  - {fileID: 21300000, guid: cd5dcb75134c86346a3aa9db627c32d4, type: 3}
+  - {fileID: 21300000, guid: 9c435c95fe9ba604fa7c57a9a9c17f2a, type: 3}
+  - {fileID: 21300000, guid: bb882cc52d4a53641bf0b043c30cbeac, type: 3}
+  - {fileID: 21300000, guid: fd4d04f5176d7a7409303efcf94da70d, type: 3}
+  - {fileID: 21300000, guid: a12a4716dd9985644a4bcdaee7df3970, type: 3}
+  - {fileID: 21300000, guid: 7350cc56e8df2284095089a9f052ec68, type: 3}
+  - {fileID: 21300000, guid: 3b18f7666988f8d4ab424d44b9094a0d, type: 3}
+  - {fileID: 21300000, guid: 487ce896e8ab3c941941eecf352cd130, type: 3}
+  - {fileID: 21300000, guid: bb8f0fc6db8db6745a372b2ccce20172, type: 3}
+  - {fileID: 21300000, guid: b377ef37e54d5884cbc2af20f92888f7, type: 3}
+  - {fileID: 21300000, guid: 51613547129034f2a8e6f7b0284644c3, type: 3}
+  - {fileID: 21300000, guid: bf44147750c8b274bb90d8eee05e0497, type: 3}
+  - {fileID: 21300000, guid: f3d07c285fd23c24680b2fca76ec88a0, type: 3}
+  - {fileID: 21300000, guid: fe028ae8465471a458a6f672c929e6bd, type: 3}
+  - {fileID: 21300000, guid: c751206950b2f014d8060be127a45b03, type: 3}
+  - {fileID: 21300000, guid: e511ef69406f72949b15f4974cf95bd3, type: 3}
+  - {fileID: 21300000, guid: 9b4d0799af28d4ed48727e8d85d1f913, type: 3}
+  - {fileID: 21300000, guid: c59f9fe9dfa6d4140ba5b709d9055854, type: 3}
+  - {fileID: 21300000, guid: ef14c30aa4f29dd4db1828bab07ebfd6, type: 3}
+  - {fileID: 21300000, guid: b8fd593a6d863414da04182153a1d6b6, type: 3}
+  - {fileID: 21300000, guid: 0e46f6fa50735f24e9b934e230109e7d, type: 3}
+  - {fileID: 21300000, guid: 76c30b1b83197144583296105b78579e, type: 3}
+  - {fileID: 21300000, guid: 4fee6b3bea4ff7d47a34015ca1a63eb8, type: 3}
+  - {fileID: 21300000, guid: 17ea465bcbcac6046a6f00e62aaac64c, type: 3}
+  - {fileID: 21300000, guid: 6a489b5bc1cd2114c84b3153a8440d01, type: 3}
+  - {fileID: 21300000, guid: b5630b8b570c3924c8000c93e94b29b8, type: 3}
+  - {fileID: 21300000, guid: e660f4db614bc964f8ac5c36ef0c0711, type: 3}
+  - {fileID: 21300000, guid: 6b193fdb0d523e0488d9b22643362275, type: 3}
+  - {fileID: 21300000, guid: bfc1776c829fccb4aaf0f9befa01ce9b, type: 3}
+  - {fileID: 21300000, guid: b98fca8c62c5bbb4088ead2bf7f95dcb, type: 3}
+  - {fileID: 21300000, guid: 52c31eec98815ad4fa07bdc6fc181400, type: 3}
+  - {fileID: 21300000, guid: 1754aafccdf79704e8fadeac490b42b7, type: 3}
+  - {fileID: 21300000, guid: 23785a0d3523700418bb061631150da2, type: 3}
+  - {fileID: 21300000, guid: fd29925de38ff384ea61f0fc33262eb8, type: 3}
+  - {fileID: 21300000, guid: e816275d3204f7a4ba09fdbe0c5428e5, type: 3}
+  - {fileID: 21300000, guid: 75cd08ada61b21e48bd59b8a8f399586, type: 3}
+  - {fileID: 21300000, guid: 48f03bdd5cb146b4caa2509856eec30a, type: 3}
+  - {fileID: 21300000, guid: e4591c0e0d6d5bf4ea26c75f21efeaa7, type: 3}
+  - {fileID: 21300000, guid: 6d08e48ef93f582498d3fb25c99d164b, type: 3}
+  - {fileID: 21300000, guid: c3fc939e866ca14479214d78de56cac2, type: 3}
+  - {fileID: 21300000, guid: bf22b5ae016134d4694f924c50835ade, type: 3}
+  - {fileID: 21300000, guid: 89ea483fd35c42e42aaac402f9f191d8, type: 3}
+  - {fileID: 21300000, guid: 91bae46f6499d274ba98ad08c2056116, type: 3}
+  - {fileID: 21300000, guid: 541a6c8f178ae8a4a8e2efc09da850ad, type: 3}
+  - {fileID: 21300000, guid: d2958aefae5ed2348883f4cc109249b3, type: 3}
+  - {fileID: 21300000, guid: 5003d7ff37ed29e449e6e93b0032797a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cao_Hong
+  - Si_Ma_Zhao
+  - Zhu_Ling
+  - Cao_Ang
+  - Cao_Ren
+  - Cheng_Yu
+  - Zhen_Ji
+  - Yu_Jin
+  - Cao_Xiu
+  - Cao_Rui
+  - Wang_Ji
+  - Yue_Jin
+  - Zhong_Hui
+  - Hao_Zhao
+  - XiaHou_Yuan
+  - Cao_Zhen
+  - Chen_Lin
+  - Yu_Jin02
+  - Guo_Jia
+  - Wang_Lang
+  - Zhang_Liao
+  - Chen_Qun
+  - Xu_Zhu
+  - Wen_Ping
+  - Man_Chong
+  - Cao_Zhang
+  - Zhang_He
+  - Wang_Yuan_Ji
+  - Han_Hao_&_Shi_Huan
+  - Pang_De02
+  - Si_Ma_Lang
+  - Zhang_Chun_Hua
+  - Deng_Ai
+  - Jia_Xu02
+  - Yang_Xiu
+  - Xiahou_Dun02
+  - Cao_Chun
+  - Cai_Wen_Ji02
+  - Cao_Ren02
+  - Kuai_Yue_&_Kai_Kiang
+  - Zhong_Yao
+  - Si_Ma_Yi
+  - Cao_Ying
+  - Guo_Huanghou
+  - Cao_Cao
+  - Li_Tong
+  - Xu_Huang
+  - Cao_Zhi
+  - Xiahou_Dun
+  - Empress_Guo
+  - Guan_Yu02
+  - Sun_Zi_&_Liu_Fang
+  - Li_Dian
+  - Guo_Huai
+  - Xin_Xian_Ying
+  - Ji_Kang
+  - Xun_You
+  - Xia_Hou_Yuan
+  - Dian_Wei
+  - Xia_Hou_Dun
+  - Harmonizing_Chords_Manuscript
+  - Xi_Zhi_Cai
+  - Cao_Chong
+  - Cao_Pi
+  - Wang_Yi
+  - Tang_Zi
+  - Lu_Zhi
+  - Guanqiu_Jian
+  - Xun_Yu
+  - Niu_Jin
+  - Zhuge_Dan
+  - Jiang_Wei02
+  m_RenderDataMap: {}
+  m_Tag: atlas_wei_heroes
+  m_IsVariant: 0

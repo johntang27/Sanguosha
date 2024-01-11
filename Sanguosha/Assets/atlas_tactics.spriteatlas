@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_tactics
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c4cca163d2deb1046815fb57e7bbc8e5, type: 3}
+    totalSpriteSurfaceArea: 2554368
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0bbbfdd0569febf4397b928ba8a93292, type: 3}
+  - {fileID: 21300000, guid: 32adf911739c9ba488e7212353e0d33b, type: 3}
+  - {fileID: 21300000, guid: a49ac6f3e06174342bd64aa2f2c23379, type: 3}
+  - {fileID: 21300000, guid: 52cf6a547555f854380ab0dc932cae14, type: 3}
+  - {fileID: 21300000, guid: dfeef7e5cbdf2f24b9926a82f53d103f, type: 3}
+  - {fileID: 21300000, guid: 35df9a7694b60a1448a6c5402f14fbeb, type: 3}
+  - {fileID: 21300000, guid: ce118098d33dbb14c98518cbde49e441, type: 3}
+  - {fileID: 21300000, guid: 498d44a8c8dce37488cdb493ac7b7098, type: 3}
+  - {fileID: 21300000, guid: 544d2c29836c0f4478ffd5b49185ef6a, type: 3}
+  - {fileID: 21300000, guid: 6dcb28f9afa93fd488c4bd2ccad16f3f, type: 3}
+  - {fileID: 21300000, guid: 8106cf1ae07094043877ef7542a793c3, type: 3}
+  - {fileID: 21300000, guid: 487d184ebbba64a4ba2d3a28557d1250, type: 3}
+  - {fileID: 21300000, guid: b969d45e641af964086fd587dd1615e0, type: 3}
+  - {fileID: 21300000, guid: dfb076fee56494b4687d3e9f4129a5ec, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - impeccable_plan
+  - duel
+  - blaze
+  - sleight_of_hand
+  - barbarian_assault
+  - pilfer
+  - hidden_intentions
+  - seductive_ruse
+  - harvest
+  - iron_chains
+  - hail_of_arrows
+  - oath_of_peach_garden
+  - burn_bridges
+  - duress
+  m_RenderDataMap: {}
+  m_Tag: atlas_tactics
+  m_IsVariant: 0

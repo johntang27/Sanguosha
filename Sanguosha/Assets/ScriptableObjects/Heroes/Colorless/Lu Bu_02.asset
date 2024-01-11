@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Lu Bu_02
+  m_EditorClassIdentifier: 
+  cardName: Lu Bu_02
+  cardType: 5
+  cardDescription: 'Title: The Cornered Tiger
+
+
+    Health/Gender: 5M
+
+
+    Ability:
+
+
+    Destitution:
+
+    Whenever
+    you current health is 3 or more, you gain the [MATCHLESS] ability.
+
+    Whenever
+    you current health is 3 or less, you gain the [DROWN IN WINE] ability.
+
+
+    Ruthless:
+    (Emperor Ability)
+
+    Once during the main phase of a KINGDOMLESS faction hero''s
+    turn, the KINGDOMLESS faction hero may give you an ATTACK or a SPADE suited card.
+
+
+    [Matchless]:
+
+    Whenever
+    you are the source of an ATTACK, the defending hero needs to play 2 DODGE cards
+    in order to cancel the ATTACK.
+
+    Whenever you are involved in a duel, the
+    other hero needs to discard 2 ATTACK cards in order to respond to your discarded
+    ATTACK.
+
+
+    [Drown in Wine]:
+
+    You may use a SPADES suited card from your
+    hand as WINE.
+
+'
+  cardSprite: {fileID: 21300000, guid: 62dfc6a997a19ef4c93e92532c55ab27, type: 3}
+  heroFaction: 4

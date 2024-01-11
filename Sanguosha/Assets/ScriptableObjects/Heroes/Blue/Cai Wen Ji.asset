@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Cai Wen Ji
+  m_EditorClassIdentifier: 
+  cardName: Cai Wen Ji
+  cardType: 5
+  cardDescription: 'Title: Talented Woman Desiring to Return
+
+
+    Health/Gender:
+    3F
+
+
+    Ability:
+
+
+    Showing Affection:
+
+    Once per round, whenever a hero
+    enters the brink of death, you may choose another target hero to draw 4 cards;
+    then the targeted hero must discards 4 cards. If each discarded card has a different
+    suit, this is treated as the targeted hero playing a PEACH for the hero on the
+    brink of death.
+
+
+    Silent Knowledge:
+
+    At the end of your turn, you may
+    play a card from your hand as the first basic or tactics card you have played
+    this turn.
+
+    Then you may play another card from your hand as the second basic
+    or tactics card you have played this turn.
+
+    (You must play the first card
+    before being able to play the second card for their effects.)
+
+'
+  cardSprite: {fileID: 0}
+  heroFaction: 3

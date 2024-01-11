@@ -106,7 +106,7 @@ Whenever you gain cards outside of your draw phase, you may attach any number of
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Xiahou Dun</cardName>
+      <cardName>Xiahou Dun_02</cardName>
 	  <portraitOverride>Xiahou Dun02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>
@@ -239,7 +239,7 @@ When your hero card is flipped to the face up position, you may discard a card. 
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Cao Ren</cardName>
+      <cardName>Cao Ren_02</cardName>
 	  <portraitOverride>Cao Ren02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Blue</heroFaction>

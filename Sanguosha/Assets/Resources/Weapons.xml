@@ -104,7 +104,7 @@ Effect:
 Whenever your ATTACK deals damage to a target hero, if that hero has no cards in their hand, this ATTACK deals 1 additional damage.</cardDescription>
     </Card>
     <Card>
-      <cardName>Vermilion Fan</cardName>
+      <cardName>Vermillion Fan</cardName>
       <portraitOverride />
       <cardType>Weapons</cardType>
       <heroFaction>None</heroFaction>

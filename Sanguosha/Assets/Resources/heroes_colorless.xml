@@ -67,7 +67,7 @@ Whenever another KINGDOMLESS faction hero deals damage, you may have that hero p
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Yuan Shu</cardName>
+      <cardName>Yuan Shu_03</cardName>
 	  <portraitOverride>Yuan Shu03</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -88,7 +88,7 @@ Whenever you discard cards during your discard phase, you may give 1 of the disc
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Lu Bu</cardName>
+      <cardName>Lu Bu_02</cardName>
 	  <portraitOverride>Lu Bu05</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -170,7 +170,7 @@ At the end of your turn, you may draw a card. If you have no cards in your hand,
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Diao Chan</cardName>
+      <cardName>Diao Chan_02</cardName>
 	  <portraitOverride>Diao Chan02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -204,7 +204,7 @@ Whenever you are dealt damage by a RED ATTACK or a ATTACK with WINE, you lose 1 
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Hua Xiong</cardName>
+      <cardName>Hua Xiong_02</cardName>
 	  <portraitOverride>Hua Xiong02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -237,7 +237,7 @@ Whenever another hero plays an ATTACK and you are within that hero's attack rang
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Yuan Shu</cardName>
+      <cardName>Yuan Shu_02</cardName>
 	  <portraitOverride>Yuan Shu02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -276,7 +276,7 @@ If the revealed card has a HEARTS suit, resolve the card effects as the announce
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Yu Ji</cardName>
+      <cardName>Yu Ji_02</cardName>
 	  <portraitOverride>Yu Ji02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -822,7 +822,7 @@ Once during your main phase, you may give all the cards in your hand to a target
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Liu Xie</cardName>
+      <cardName>Liu Xie_02</cardName>
 	  <portraitOverride>Liu Xie02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -1021,7 +1021,7 @@ All tactics card you play may ignore any range requirements. Your equipped armor
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Zhao Yun</cardName>
+      <cardName>Zhao Yun_02</cardName>
 	  <portraitOverride>Zhao Yun03</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>
@@ -1044,7 +1044,7 @@ Whenever you have 2 or less health, the physical range other heroes see you is i
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Ma Chao</cardName>
+      <cardName>Ma Chao_02</cardName>
 	  <portraitOverride>Ma Chao03</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Colorless</heroFaction>

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_delayedTactics_mounts
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 15952c15c3d3098448a0b72ebc2883d8, type: 3}
+    - {fileID: 102900000, guid: e1bf2141ce795bd4f94af7bbc32e1d80, type: 3}
+    totalSpriteSurfaceArea: 1815040
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cde9f701d6cf9df488ce477c79e20cc0, type: 3}
+  - {fileID: 21300000, guid: c4e43de3f92ed6e4ab94fec7f738aad5, type: 3}
+  - {fileID: 21300000, guid: 42073ff3e93f25a4b8693056adf684b6, type: 3}
+  - {fileID: 21300000, guid: de68f13840241fe4c9cfb84358e42e0e, type: 3}
+  - {fileID: 21300000, guid: 5ac62678a04e6e146b5e16fcd57ff3af, type: 3}
+  - {fileID: 21300000, guid: db959d5952f81554981379375df00adc, type: 3}
+  - {fileID: 21300000, guid: feb54baab87bf044d9c728dd815f10a6, type: 3}
+  - {fileID: 21300000, guid: af63b76b8c0f0bb499aca9d1a71a045d, type: 3}
+  - {fileID: 21300000, guid: 4fecd78bbee34214496936cf5440ca0b, type: 3}
+  - {fileID: 21300000, guid: 2c3e73ac4907c0d439d54300de04d2eb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - acedia
+  - red_hare
+  - the_shadow
+  - zhua_huang_fei_dian
+  - zi_xing
+  - da_yuan
+  - hua_liu
+  - rations_depleted
+  - di_lu
+  - lightning_bolt
+  m_RenderDataMap: {}
+  m_Tag: atlas_delayedTactics_mounts
+  m_IsVariant: 0

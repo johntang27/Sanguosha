@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_god_heroes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 31c3992c7150dfa4a8dfdf1645b960f7, type: 3}
+    totalSpriteSurfaceArea: 2069364
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dc2c76709f97f2340b29b4b19501df77, type: 3}
+  - {fileID: 21300000, guid: 4a4b4a7124b803f4396ff0d7d50f3dc7, type: 3}
+  - {fileID: 21300000, guid: 90463732280d8434da02b23e0bd4268a, type: 3}
+  - {fileID: 21300000, guid: 04e28213a6d1baf4eaf4357637e6cc0a, type: 3}
+  - {fileID: 21300000, guid: f0ecb75444f2cdb4887d5d8a33458419, type: 3}
+  - {fileID: 21300000, guid: d3f9e1b4db457ed469ddab9b6801c206, type: 3}
+  - {fileID: 21300000, guid: 91331ef54501d27488ff8726bf90966c, type: 3}
+  - {fileID: 21300000, guid: 39ad797604c6af5488ef51f099f873a9, type: 3}
+  - {fileID: 21300000, guid: 82d21ab6a59cb1e4d859475eab4e0d3d, type: 3}
+  - {fileID: 21300000, guid: 41e2d32cd10a51149a9e7e6f1ad699d5, type: 3}
+  - {fileID: 21300000, guid: fd9a4d9ce53f610439f693b9ddac9181, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Lu_Bu02
+  - Zhou_Yu
+  - Lu_Bu03
+  - Zhao_Yun
+  - Guan_Yu
+  - Zhuge_Liang
+  - Lu_Bu04
+  - Lu_Meng
+  - Lu_Bu01
+  - Cao_Cao
+  - Si_Ma_Yi
+  m_RenderDataMap: {}
+  m_Tag: atlas_god_heroes
+  m_IsVariant: 0

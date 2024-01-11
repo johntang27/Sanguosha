@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3ba4ce57f26364ea22f30e2128f6f6, type: 3}
+  m_Name: Rattan Armor
+  m_EditorClassIdentifier: 
+  cardName: Rattan Armor
+  cardType: 6
+  cardDescription: 'Effect:
+
+    Ignore the effects of all BARBARIAN ASSAULT, HAIL
+    OF ARROWS, and normal ATTACKs that target you.
+
+    Whenever a source of damage
+    deals FIRE damage to you, that damage is increased by +1 after calculation.
+
+'
+  cardSprite: {fileID: 0}

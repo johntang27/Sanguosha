@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3ba4ce57f26364ea22f30e2128f6f6, type: 3}
+  m_Name: Rations Depleted
+  m_EditorClassIdentifier: 
+  cardName: Rations Depleted
+  cardType: 2
+  cardDescription: 'Place this card into the judgment zone of a target hero who is
+    within 1 physical range of you when you play it. At the beginning of that hero''s
+    turn, if this card is in that hero''s judgment zone, that hero performs a judgment.
+    If the result of the judgment card is not a CLUBS suit, that hero skips their
+    draw phase.
+
+'
+  cardSprite: {fileID: 21300000, guid: af63b76b8c0f0bb499aca9d1a71a045d, type: 3}

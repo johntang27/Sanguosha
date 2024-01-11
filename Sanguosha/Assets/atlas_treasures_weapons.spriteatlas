@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_treasures_weapons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1b1446257e37fda4bb1c30071c055346, type: 3}
+    - {fileID: 102900000, guid: bb4c2806978ff31438ff09b67dee2ff3, type: 3}
+    totalSpriteSurfaceArea: 2226896
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c2b2f63077286374f870f0320720ce6b, type: 3}
+  - {fileID: 21300000, guid: 04fce412ea43f434dbd468bf209d2677, type: 3}
+  - {fileID: 21300000, guid: 1e71ed2676cbdfc4d8f958916ad3024c, type: 3}
+  - {fileID: 21300000, guid: c0c5d4b60f96c124a8d59aae6983095f, type: 3}
+  - {fileID: 21300000, guid: f42f10f783d2c534ba355a5b0f7b57f3, type: 3}
+  - {fileID: 21300000, guid: a7f7a168c168bf449ac1d8bfaaa1a2da, type: 3}
+  - {fileID: 21300000, guid: ab8f391954ebea84c91ac4b8e49a554a, type: 3}
+  - {fileID: 21300000, guid: 05ed303ac0d0254449dee990b046ead1, type: 3}
+  - {fileID: 21300000, guid: eaacf5cadaf577043b3b5293b9ce9ac8, type: 3}
+  - {fileID: 21300000, guid: f58af26b64c383145880151196880caf, type: 3}
+  - {fileID: 21300000, guid: f4df982d506902b42913b3dba6682aa8, type: 3}
+  - {fileID: 21300000, guid: f29f076df18db6a4f81cbe007c7a11d1, type: 3}
+  - {fileID: 21300000, guid: e5061efe6ce5eb346bae9aebc3148503, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - rock_cleaving_axe
+  - twin_swords
+  - serpent_spear
+  - vermilion_fan
+  - kirin_bow
+  - Wooden_Ox_Transport
+  - ancient_scimitar
+  - silver_moon_spear
+  - frost_blade
+  - heaven_halberd
+  - sword_of_blue_steel
+  - zhuge_crossbow
+  - azure_dragon_crescent_blade
+  m_RenderDataMap: {}
+  m_Tag: atlas_treasures_weapons
+  m_IsVariant: 0

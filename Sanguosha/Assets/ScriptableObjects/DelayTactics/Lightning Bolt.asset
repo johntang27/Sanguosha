@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3ba4ce57f26364ea22f30e2128f6f6, type: 3}
+  m_Name: Lightning Bolt
+  m_EditorClassIdentifier: 
+  cardName: Lightning Bolt
+  cardType: 2
+  cardDescription: "Place this card into your judgment zone when you play it. At
+    the beginning of each hero's turn, if this card is in that hero's judgment zone,
+    that hero performs a judgment. If the result of the judgment card is a 2 SPADES
+    to 9 SPADES, LIGHTNING BOLT deals 3 LIGHTNING damage to that hero; otherwise
+    move this card to the judgment zone of the next hero in turn sequence. Whenever
+    this card's effect is cancelled or ignored, move it to the judgment zone of the
+    next hero. \n"
+  cardSprite: {fileID: 21300000, guid: 2c3e73ac4907c0d439d54300de04d2eb, type: 3}

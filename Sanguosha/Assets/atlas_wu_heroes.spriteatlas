@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas_wu_heroes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1a320421c34dddb4884a0f6e95530a0c, type: 3}
+    totalSpriteSurfaceArea: 10346820
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: db579e60b5682bf41bc1c7dc8a5cc526, type: 3}
+  - {fileID: 21300000, guid: 3fc536a0d746cc2409c8d7f3ac038480, type: 3}
+  - {fileID: 21300000, guid: 54eaaba0eda538c4493db4770cf496ed, type: 3}
+  - {fileID: 21300000, guid: a8780ea0c0ba9214a91913474a6518b1, type: 3}
+  - {fileID: 21300000, guid: 3ea2701142e53fa49b595669d0dc340f, type: 3}
+  - {fileID: 21300000, guid: b97eba41af0491c418a6439a61609963, type: 3}
+  - {fileID: 21300000, guid: 4d01fe617d9f6c24ea14aee41c8fa31e, type: 3}
+  - {fileID: 21300000, guid: bb092aa276a7e8445974063f64c4a2b9, type: 3}
+  - {fileID: 21300000, guid: 1ebe6ab275acd634e96f7e7c25f44878, type: 3}
+  - {fileID: 21300000, guid: d2bbd2d2273a48846895746373ea1a61, type: 3}
+  - {fileID: 21300000, guid: d673efd20adb6db42beede63dce309e8, type: 3}
+  - {fileID: 21300000, guid: f8ecc243739c38846a752ca0a402b854, type: 3}
+  - {fileID: 21300000, guid: 314cf2834ec10cd4789f28bd8573cc04, type: 3}
+  - {fileID: 21300000, guid: 91d1f8d3c3736ae48a6443ec540583fa, type: 3}
+  - {fileID: 21300000, guid: 90a2c0f32bb034c489320f0cb24287fd, type: 3}
+  - {fileID: 21300000, guid: 22a1da1466ed27446bb0b9565d2357b3, type: 3}
+  - {fileID: 21300000, guid: 1b8f1364f5fd3df499d3c000d8c6a9f9, type: 3}
+  - {fileID: 21300000, guid: c4894c7529b885349ba38cae2220843c, type: 3}
+  - {fileID: 21300000, guid: a73a36d582784184f801f301e194acd2, type: 3}
+  - {fileID: 21300000, guid: 68b71ce542c19e04c86a3c3ed98c7cf6, type: 3}
+  - {fileID: 21300000, guid: 8dd80f66fb296ae49884fc35d188782c, type: 3}
+  - {fileID: 21300000, guid: ee25cab63b3b1bc4185b2034bf0057fc, type: 3}
+  - {fileID: 21300000, guid: 6edd6ce65b5db1947be9a53edd05e481, type: 3}
+  - {fileID: 21300000, guid: 7fe637671a31c6e488bf2f46bdbb1c77, type: 3}
+  - {fileID: 21300000, guid: 5463f17731831c443b0096afaf52368d, type: 3}
+  - {fileID: 21300000, guid: 84c0a4875a5f06d46aaa85bf32b4d14f, type: 3}
+  - {fileID: 21300000, guid: 55ad4cd7808b5b444877a85dfd63aba0, type: 3}
+  - {fileID: 21300000, guid: c8b177e7851e0404c9bcf73c7191eff5, type: 3}
+  - {fileID: 21300000, guid: fa6497e74ce4f914d9d77dafbc8bead8, type: 3}
+  - {fileID: 21300000, guid: 4ee7b768071b80445bae0603811bc199, type: 3}
+  - {fileID: 21300000, guid: 3e47e3e8842ee8e429ab5407c8baa187, type: 3}
+  - {fileID: 21300000, guid: 287b44597b4cc1140aa084d1991d0fdd, type: 3}
+  - {fileID: 21300000, guid: 232e50e991c0f004688c1be7d064e967, type: 3}
+  - {fileID: 21300000, guid: b43b5bf91b510e64bb65ac180d2a77a4, type: 3}
+  - {fileID: 21300000, guid: 66823faadb512e24baa629c19f1299cd, type: 3}
+  - {fileID: 21300000, guid: 1319c5cafbf9f6643ad25c8478638b27, type: 3}
+  - {fileID: 21300000, guid: 41cfd7cafe3d4844ba04e8dc07bce20d, type: 3}
+  - {fileID: 21300000, guid: 53e7556b66f07f841a55221ca8488d3d, type: 3}
+  - {fileID: 21300000, guid: 8cd4038b928f2744bacb5c87e170cd08, type: 3}
+  - {fileID: 21300000, guid: ca45d41cb90a6da458b90c1349b870e5, type: 3}
+  - {fileID: 21300000, guid: 512d003c6d3972843ace8829fca20d2d, type: 3}
+  - {fileID: 21300000, guid: 535e4d5cdade3bc4d857a3732c84f976, type: 3}
+  - {fileID: 21300000, guid: 861dc17c5b0eea24f86136d2a43e2e74, type: 3}
+  - {fileID: 21300000, guid: 04bdcf9c0f4eff048bb946c07aec6807, type: 3}
+  - {fileID: 21300000, guid: 3fadc2ac36d74c64da7777c3f4edd55d, type: 3}
+  - {fileID: 21300000, guid: 375b492dc89319b4daf46927150a47dc, type: 3}
+  - {fileID: 21300000, guid: 129e336db07b6004e82ae7da2f14230d, type: 3}
+  - {fileID: 21300000, guid: 0002195ef8caed94ebfa0bfe06957587, type: 3}
+  - {fileID: 21300000, guid: 3df28e5e4a6710b4abd5b7981c2ebabb, type: 3}
+  - {fileID: 21300000, guid: 26b6b36e75615ad4a9a392fe59a832a4, type: 3}
+  - {fileID: 21300000, guid: 5020e04f4c5135f4cbfcfc36f3c6ce89, type: 3}
+  - {fileID: 21300000, guid: 0756985f53c200d4ea214220dc78a7ff, type: 3}
+  - {fileID: 21300000, guid: b192fd6f9833d50449d99462a7f42f50, type: 3}
+  - {fileID: 21300000, guid: 90aca8af48713124faebd667158fad79, type: 3}
+  - {fileID: 21300000, guid: 2ea043cf4308bc649b2c263ea39da0e9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Huang_Gai
+  - Cen_Hun
+  - Zhu_Huan
+  - Da_Qiao_&_Xiao_Qiao
+  - Xiao_Qiao
+  - Sun_Jiang
+  - Zhu_Zhi
+  - Yu_fan
+  - Han_Dang
+  - Lu_Xun
+  - Zhu_Ran
+  - Zhou_Fei
+  - Lu_Meng
+  - Tai_Shi_Ci
+  - Sun_Lu_Ban
+  - Sun_Hao
+  - Yan_Jun
+  - Wu_Guo_Tai
+  - Sun_Ru
+  - Sun_Liang
+  - Bu_Zhi
+  - Xu_Shen
+  - Gan_Ning
+  - Zhou_Yu
+  - Ling_Cao
+  - Gu_Yong
+  - Zhou_Tai
+  - Bu_Lianshi
+  - Su_Fei
+  - Ling_Tong
+  - Cheng_Pu
+  - Sun_Ce
+  - Han_Ze
+  - Ding_Feng
+  - Sun_Deng
+  - Sun_Shang_Xiang
+  - Lu_Su
+  - Ye_Shi_Wen
+  - He_Qi
+  - Zhang_Zhao_&_Zhang_Hong
+  - Da_Qiao
+  - Quan_Cong
+  - Lu_Kang
+  - Lu_Ji
+  - Zong_Xue
+  - Zu_Mao
+  - Sun_Yang
+  - Sun_Lu_Yu
+  - Pan_Zhang_&_Ma_Zhong
+  - Xu_Shi
+  - Zhuge_Ke
+  - Sun_Quan
+  - Sun_Xiu
+  - Liu_Zan
+  - Zhuge_Jin
+  m_RenderDataMap: {}
+  m_Tag: atlas_wu_heroes
+  m_IsVariant: 0

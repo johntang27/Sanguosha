@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Cao Cao
+  m_EditorClassIdentifier: 
+  cardName: Cao Cao
+  cardType: 5
+  cardDescription: 'Title: Martial Emperor of Wei
+
+
+    Health/Gender: 4M
+
+
+    Ability:
+
+
+    Villainous
+    Hero:
+
+    Whenever you are dealt damage by a card effect, you may draw a card
+    from the library or take the card that damaged you into your hand.
+
+    (You
+    may only activate this abilty per each instance of damage.)
+
+
+    Escort: (Emperor
+    Ability)
+
+    Whenever you need to play or discard a DODGE, you may ask each
+    WEI faction hero to play or discard a DODGE for you, then it is treated as you
+    playing the DODGE.
+
+'
+  cardSprite: {fileID: 0}
+  heroFaction: 3
