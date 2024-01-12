@@ -210,7 +210,7 @@ Whenever you are involved in a duel, the other hero needs to discard 2 ATTACK ca
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Lu Bu</cardName>
+      <cardName>Lu Bu_02</cardName>
       <portraitOverride>Lu Bu02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>God</heroFaction>
@@ -246,7 +246,7 @@ Then remove all cards from judgement and equipment zone; and begin your turn imm
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Lu Bu</cardName>
+      <cardName>Lu Bu_03</cardName>
       <portraitOverride>Lu Bu03</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>God</heroFaction>
@@ -275,7 +275,7 @@ If you do not have a weapon equipped, you may target 2 additional heroes with yo
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Lu Bu</cardName>
+      <cardName>Lu Bu_04</cardName>
       <portraitOverride>Lu Bu04</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>God</heroFaction>
