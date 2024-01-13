@@ -381,7 +381,7 @@ Note: Xu Shu is a Shu faction hero, his card shares the Wei color because in his
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Xu Shu</cardName>
+      <cardName>Xu Shu_02</cardName>
 	  <portraitOverride>Xu Shu02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>
@@ -581,7 +581,7 @@ During your main phase, you may recast ATTACK cards. At the end of your main pha
 </cardDescription>
     </Card>
     <Card>
-      <cardName>Xiahou Shi</cardName>
+      <cardName>Xiahou Shi_02</cardName>
 	  <portraitOverride>Xiahou Shi02</portraitOverride>
       <cardType>Heroes</cardType>
       <heroFaction>Red</heroFaction>

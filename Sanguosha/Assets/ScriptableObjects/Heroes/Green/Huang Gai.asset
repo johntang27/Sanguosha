@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
+  m_Name: Huang Gai
+  m_EditorClassIdentifier: 
+  cardName: Huang Gai
+  cardType: 5
+  cardDescription: 'Title: Sacrificing for the Country
+
+
+    Health/Gender: 4M
+
+
+    Ability:
+
+
+    Sacrificial
+    Injury:
+
+    Once during your main phase, you may discard a card; then you lose
+    1 life.
+
+
+    False Surrender:
+
+    Whenever you lose 1 health, draw 3 cards.
+
+    Whenever
+    you lose health during your main phase, you may play an additional ATTACK this
+    turn; until the end of your turn, RED ATTACKs you play ignore all range requirements
+    and cannot be canceled by a DODGE.
+
+    (This ability does not activate when
+    you are dealt damage, only when damage recieved is counted as loss of health.)
+
+'
+  cardSprite: {fileID: 21300000, guid: db579e60b5682bf41bc1c7dc8a5cc526, type: 3}
+  heroFaction: 2

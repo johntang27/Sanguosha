@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f97ea2b166a64d340b83e6316eb2548d, type: 3}
-  m_Name: Huang_Gai
+  m_Name: Wu Xian
   m_EditorClassIdentifier: 
   cardName: 
   cardType: 5
   cardDescription: 
   cardSprite: {fileID: 0}
-  heroFaction: 2
+  heroFaction: 1
